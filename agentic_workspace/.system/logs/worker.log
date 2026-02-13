@@ -1,0 +1,1112 @@
+2026-02-01 15:54:00,156 - main_worker - INFO - Multiprocessing start method set to 'spawn' for CUDA safety.
+2026-02-01 15:54:00,156 - main_worker - INFO - --- Starting Main Worker ---
+2026-02-01 15:54:00,156 - main_worker - INFO - Watching for jobs in: /data/asca/FND_mini/agentic_workspace/.system/job_queue
+2026-02-01 15:56:10,306 - main_worker - INFO - --- Starting Factly Scraper & Indexer Pipeline ---
+2026-02-01 15:56:10,306 - main_worker - INFO - Fetching article links from: https://factly.in/category/english/fake-news/
+2026-02-01 15:56:10,648 - main_worker - ERROR - Error fetching the main Factly page: 403 Client Error: Forbidden for url: https://factly.in/category/english/fake-news/
+2026-02-01 15:56:18,380 - main_worker - INFO - --- Starting BoomLive Scraper & Indexer Pipeline ---
+2026-02-01 15:56:18,380 - main_worker - INFO - Fetching article links from: https://www.boomlive.in/fact-check
+2026-02-01 15:56:19,102 - main_worker - INFO - Found 10 article links.
+2026-02-01 15:56:19,665 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/fake-news-viral-video-ajit-pawar-plane-crash-baramati-venezuela-video-plane-crash-factcheck-30583
+2026-02-01 15:56:21,677 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/01/30/1053544-venenzula-video.jpg
+2026-02-01 15:56:21,681 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_d2a999e684
+2026-02-01 15:56:44,916 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/viral-video-protest-burning-effigies-pm-modi-home-minister-amit-shah-ugc-new-rules-claim-fact-check-30584
+2026-02-01 15:56:45,552 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/01/30/1053550-modi-and-amit-shah-statue-burnt.jpg
+2026-02-01 15:56:45,556 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_3217262d86
+2026-02-01 15:56:46,935 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/fact-check2025-raipur-congress-protest-video-modi-shah-poster-ink-ugc-claim-false-30588
+2026-02-01 15:56:49,144 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/01/30/1053579-1053434-ugc-01.jpg
+2026-02-01 15:56:49,148 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_0ca2ab40b2
+2026-02-01 15:56:50,514 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/torch-rally-bjp-government-ugc-new-rules-protest-viral-video-old-fact-check-30591
+2026-02-01 15:56:51,211 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/01/30/1053573-25-hindu-unity-is-a-myth.jpg
+2026-02-01 15:56:51,214 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_2678b33442
+2026-02-01 15:56:52,577 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/fake-news-ai-video-nehru-warning-india-about-communal-politics-ai-video-factcheck-30544
+2026-02-01 15:56:53,285 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/01/27/1053396-nehru-ji.jpg
+2026-02-01 15:56:53,289 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_2738931f2f
+2026-02-01 15:56:54,660 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/august-2024-kolkata-student-rally-falsely-linked-to-recent-ugc-protests-30594
+2026-02-01 15:56:55,677 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/01/31/1053630-22-ucg-1.jpg
+2026-02-01 15:56:55,681 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_2359db9e80
+2026-02-01 15:56:57,071 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/manikarnika-ghat-ahilyabai-holkar-shrine-demolition-fact-check-30577
+2026-02-01 15:57:00,203 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/01/29/1053527-temple-01.jpg
+2026-02-01 15:57:00,207 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_c7f96e8046
+2026-02-01 15:57:01,559 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/fake-news-viral-video-coas-army-chief-general-upendra-dwivedi-criticising-pakistan-gaza-peace-board-deepfake-30563
+2026-02-01 15:57:02,471 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/01/28/1053476-indian-army-chief-gen-upendra-dwivedi.jpg
+2026-02-01 15:57:02,475 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_54fa1eeab9
+2026-02-01 15:57:03,825 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/republic-day-indian-army-motorcycle-stunt-ai-generated-video-false-claim-fake-fact-check-30558
+2026-02-01 15:57:06,136 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/01/28/1053443-indian-armys-parade.jpg
+2026-02-01 15:57:06,140 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_8b2ed8e710
+2026-02-01 15:57:07,504 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/viral-video-child-ballon-seller-man-popping-ballons-india-claim-fact-check-30542
+2026-02-01 15:57:08,621 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/01/27/1053393-look-the-republics-public-on-the-republicday.jpg
+2026-02-01 15:57:08,624 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_88885afc48
+2026-02-01 15:57:09,964 - main_worker - INFO - --- Starting BoomLive Scraper & Indexer Pipeline ---
+2026-02-01 15:57:09,964 - main_worker - INFO - Fetching article links from: https://www.boomlive.in/fact-check
+2026-02-01 15:57:10,288 - main_worker - INFO - Found 10 article links.
+2026-02-01 15:57:10,299 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-viral-video-ajit-pawar-plane-crash-baramati-venezuela-video-plane-crash-factcheck-30583
+2026-02-01 15:57:10,299 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-video-protest-burning-effigies-pm-modi-home-minister-amit-shah-ugc-new-rules-claim-fact-check-30584
+2026-02-01 15:57:10,299 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fact-check2025-raipur-congress-protest-video-modi-shah-poster-ink-ugc-claim-false-30588
+2026-02-01 15:57:10,300 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/torch-rally-bjp-government-ugc-new-rules-protest-viral-video-old-fact-check-30591
+2026-02-01 15:57:10,300 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-ai-video-nehru-warning-india-about-communal-politics-ai-video-factcheck-30544
+2026-02-01 15:57:10,300 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/august-2024-kolkata-student-rally-falsely-linked-to-recent-ugc-protests-30594
+2026-02-01 15:57:10,300 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/manikarnika-ghat-ahilyabai-holkar-shrine-demolition-fact-check-30577
+2026-02-01 15:57:10,300 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-viral-video-coas-army-chief-general-upendra-dwivedi-criticising-pakistan-gaza-peace-board-deepfake-30563
+2026-02-01 15:57:10,300 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/republic-day-indian-army-motorcycle-stunt-ai-generated-video-false-claim-fake-fact-check-30558
+2026-02-01 15:57:10,300 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-video-child-ballon-seller-man-popping-ballons-india-claim-fact-check-30542
+2026-02-01 15:57:56,453 - main_worker - INFO - --- Starting FactCrescendo Scraper & Indexer Pipeline ---
+2026-02-01 15:57:56,453 - main_worker - INFO - Fetching article links from: https://english.factcrescendo.com/
+2026-02-01 15:58:00,377 - main_worker - INFO - Found 7 article links.
+2026-02-01 15:58:00,391 - main_worker - INFO -   -> Retrieving existing article: https://english.factcrescendo.com/2025/05/30/old-video-of-stone-pelting-in-pok-viral-as-recent-incident-from-india/
+2026-02-01 15:58:00,391 - main_worker - INFO -   -> Retrieving existing article: https://english.factcrescendo.com/2025/05/28/old-unrelated-video-of-a-soldier-being-welcomed-going-viral-after-operation-sindoor/
+2026-02-01 15:58:00,391 - main_worker - INFO -   -> Retrieving existing article: https://english.factcrescendo.com/2025/05/27/old-video-from-beirut-post-explosion-shared-as-indian-attack-on-rafiqui-airbase/
+2026-02-01 15:58:00,391 - main_worker - INFO -   -> Retrieving existing article: https://english.factcrescendo.com/2025/05/24/old-video-from-nuseirat-gaza-shared-as-indian-airstrike-on-pak/
+2026-02-01 15:58:00,391 - main_worker - INFO -   -> Retrieving existing article: https://english.factcrescendo.com/2025/05/22/old-video-from-beirut-shared-as-indian-airstrike-on-pak/
+2026-02-01 15:58:00,392 - main_worker - INFO -   -> Scraping new article: https://english.factcrescendo.com/2025/05/22/old-video-from-gaza-shared-as-pakistani-people-fleeing-after-operation-sindoor/
+2026-02-01 15:58:04,214 - main_worker - INFO - Indexing new FactCrescendo evidence: factcrescendo_0b93ab8716
+2026-02-01 15:58:05,534 - main_worker - INFO -   -> Scraping new article: https://english.factcrescendo.com/2025/12/06/ai-generated-video-of-a-donkey-entering-parliament-going-viral/
+2026-02-01 15:58:09,352 - main_worker - INFO - Indexing new FactCrescendo evidence: factcrescendo_b60c3a9562
+2026-02-01 15:58:23,970 - main_worker - INFO - --- Starting Factly Scraper & Indexer Pipeline ---
+2026-02-01 15:58:23,970 - main_worker - INFO - Fetching article links from: https://factly.in/category/english/fake-news/
+2026-02-01 15:58:24,237 - main_worker - ERROR - Error fetching the main Factly page: 403 Client Error: Forbidden for url: https://factly.in/category/english/fake-news/
+2026-02-01 15:59:37,295 - main_worker - INFO - --- Starting Vishvas News Scraper & Indexer Pipeline ---
+2026-02-01 15:59:37,295 - main_worker - INFO - Fetching article links from: https://www.vishvasnews.com/english/viral/
+2026-02-01 15:59:39,090 - main_worker - INFO - Found 10 article links.
+2026-02-01 15:59:39,109 - main_worker - INFO -   -> Retrieving existing article: https://www.vishvasnews.com/english/fact-check-media-literacy-drive-english/
+2026-02-01 15:59:39,109 - main_worker - INFO -   -> Scraping new article: https://www.vishvasnews.com/english/viral/fact-check-video-of-chhattisgarh-mine-clash-falsely-linked-to-aravalli-protests/
+2026-02-01 15:59:40,179 - main_worker - INFO - Downloaded image from: https://www.vishvasnews.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-26-at-4.28.27-PM.jpeg
+2026-02-01 15:59:40,183 - main_worker - INFO - Indexing new Vishvas News evidence: vishvasnews_e46301c1ad
+2026-02-01 15:59:41,499 - main_worker - INFO -   -> Scraping new article: https://www.vishvasnews.com/english/viral/fact-check-viral-video-of-shelf-cloud-in-haridwar-is-not-recent/
+2026-02-01 15:59:42,618 - main_worker - INFO - Downloaded image from: https://www.vishvasnews.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-22-at-2.16.15-PM.jpeg
+2026-02-01 15:59:42,621 - main_worker - INFO - Indexing new Vishvas News evidence: vishvasnews_8fd7e8eab3
+2026-02-01 15:59:43,999 - main_worker - INFO -   -> Scraping new article: https://www.vishvasnews.com/english/viral/fact-check-viral-video-is-from-a-coldplay-concert-not-a-lionel-messi-event/
+2026-02-01 15:59:45,097 - main_worker - INFO - Downloaded image from: https://www.vishvasnews.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-18-at-4.28.55-PM.jpeg
+2026-02-01 15:59:45,100 - main_worker - INFO - Indexing new Vishvas News evidence: vishvasnews_e3ff004a3a
+2026-02-01 15:59:46,414 - main_worker - INFO -   -> Retrieving existing article: https://www.vishvasnews.com/english/viral/fact-check-amid-the-indigo-crisis-the-viral-video-of-passengers-sitting-on-the-floor-and-eating-at-the-airport-is-old/
+2026-02-01 15:59:46,414 - main_worker - INFO -   -> Retrieving existing article: https://www.vishvasnews.com/english/viral/fact-check-video-of-aishwarya-rai-bachchan-questioning-pm-narendra-modi-on-operation-sindoor-is-a-deepfake/
+2026-02-01 15:59:46,414 - main_worker - INFO -   -> Retrieving existing article: https://www.vishvasnews.com/english/viral/fact-check-viral-video-showing-a-mother-shooting-her-daughters-killer-in-a-german-court-is-actually-a-film-clip/
+2026-02-01 15:59:46,414 - main_worker - INFO -   -> Retrieving existing article: https://www.vishvasnews.com/english/viral/fact-check-this-realistic-image-of-the-saudi-arabia-bus-accident-is-ai-created/
+2026-02-01 15:59:46,414 - main_worker - INFO -   -> Retrieving existing article: https://www.vishvasnews.com/english/viral/fact-check-senior-police-officer-did-not-call-the-delhi-blast-a-cng-explosion/
+2026-02-01 15:59:46,415 - main_worker - INFO -   -> Retrieving existing article: https://www.vishvasnews.com/english/viral/fact-check-video-of-lebanon-shooting-falsely-shared-as-jaipur-incident/
+2026-02-01 16:03:14,783 - main_worker - INFO - --- Starting BoomLive Scraper & Indexer Pipeline ---
+2026-02-01 16:03:14,783 - main_worker - INFO - Fetching article links from: https://www.boomlive.in/fact-check
+2026-02-01 16:03:15,422 - main_worker - INFO - Found 19 article links.
+2026-02-01 16:03:15,431 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-viral-video-ajit-pawar-plane-crash-baramati-venezuela-video-plane-crash-factcheck-30583
+2026-02-01 16:03:15,431 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-video-protest-burning-effigies-pm-modi-home-minister-amit-shah-ugc-new-rules-claim-fact-check-30584
+2026-02-01 16:03:15,431 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fact-check2025-raipur-congress-protest-video-modi-shah-poster-ink-ugc-claim-false-30588
+2026-02-01 16:03:15,431 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/torch-rally-bjp-government-ugc-new-rules-protest-viral-video-old-fact-check-30591
+2026-02-01 16:03:15,431 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-ai-video-nehru-warning-india-about-communal-politics-ai-video-factcheck-30544
+2026-02-01 16:03:15,431 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/august-2024-kolkata-student-rally-falsely-linked-to-recent-ugc-protests-30594
+2026-02-01 16:03:15,432 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/manikarnika-ghat-ahilyabai-holkar-shrine-demolition-fact-check-30577
+2026-02-01 16:03:15,432 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-viral-video-coas-army-chief-general-upendra-dwivedi-criticising-pakistan-gaza-peace-board-deepfake-30563
+2026-02-01 16:03:15,432 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/republic-day-indian-army-motorcycle-stunt-ai-generated-video-false-claim-fake-fact-check-30558
+2026-02-01 16:03:15,432 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-video-child-ballon-seller-man-popping-ballons-india-claim-fact-check-30542
+2026-02-01 16:03:15,432 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/video-bridge-jammu-srinagar-nh-44-india-development-claim-fact-check-30527
+2026-02-01 16:03:17,425 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/01/23/1053363-srinagar-to-delhi-1.jpg
+2026-02-01 16:03:17,428 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_1fd744c931
+2026-02-01 16:03:18,713 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/fake-news-viral-photos-mohammed-siraj-offering-namaz-rajkot-stadium-india-vs-new-zealand-ai-photos-30525
+2026-02-01 16:03:49,871 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/01/23/1053337-cricketers-ai-generated.jpg
+2026-02-01 16:03:49,875 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_402a56f1ab
+2026-02-01 16:03:51,322 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/mahatma-gandhi-statue-decapitated-false-bangladesh-claim-viral-west-bengal-chakulia-fact-check-30509
+2026-02-01 16:03:52,090 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/01/20/1053201-most-grateful-fan-club-holds.jpg
+2026-02-01 16:03:52,094 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_d671674100
+2026-02-01 16:03:53,423 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/fake-news-viral-video-hindu-monks-standing-in-queue-voting-video-maharashtra-election-2026-old-video-factcheck-30505
+2026-02-01 16:03:54,199 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/01/20/1053200--.jpg
+2026-02-01 16:03:54,203 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_6f633b7a80
+2026-02-01 16:03:55,571 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/fake-news-video-journalist-questioning-coas-operation-sindoor-ai-audio-30490
+2026-02-01 16:03:56,398 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/01/16/1053099-zee-news.jpg
+2026-02-01 16:03:56,402 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_65967bac57
+2026-02-01 16:03:57,718 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/fake-news-viral-videos-women-protesting-khamenei-photo-hijab-iran-factcheck-30489
+2026-02-01 16:03:58,367 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/01/14/1053016-iran3.jpg
+2026-02-01 16:03:58,371 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_738e5dcc9b
+2026-02-01 16:04:03,075 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/viral-video-bjp-aimim-alliance-maharashtra-bjp-president-touching-feet-aimim-leader-claim-fact-check-30447
+2026-02-01 16:04:04,163 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/01/13/1052979-aimim-04.jpg
+2026-02-01 16:04:04,166 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_0d045cc1b0
+2026-02-01 16:04:09,148 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/fake-news-viral-video-private-plane-crash-rourkela-false-claim-iaf-plane-crash-30439
+2026-02-01 16:04:10,227 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/01/13/1052964-iaf-crash-01.jpg
+2026-02-01 16:04:10,231 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_590254810f
+2026-02-01 16:04:15,438 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/2
+2026-02-01 16:04:16,394 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2022/11/15/990790-new-boom-feature-image-template-1.jpg
+2026-02-01 16:04:16,398 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_1940dd0562
+2026-02-01 16:07:17,035 - main_worker - INFO - Multiprocessing start method set to 'spawn' for CUDA safety.
+2026-02-01 16:07:17,035 - main_worker - INFO - --- Starting Main Worker ---
+2026-02-01 16:07:17,035 - main_worker - INFO - Watching for jobs in: /data/asca/FND_mini/agentic_workspace/.system/job_queue
+2026-02-01 16:16:13,658 - main_worker - INFO - Starting online evidence extraction for caption: 'Uttar Pradesh Chief Minister Yogi Adityanath and G...'
+2026-02-01 16:16:18,774 - main_worker - INFO - Indexing new evidence: evidence_a9cc60a1778a
+2026-02-01 16:16:26,549 - main_worker - INFO - Indexing new evidence: evidence_9a7342fab7eb
+2026-02-01 16:16:27,581 - main_worker - INFO - Indexing new evidence: evidence_5ce034e40060
+2026-02-01 16:16:29,259 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/CE4aGzdJGygJtbi15_yZEipRyzXmXvs523qua6dPj34/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/LmFicGxpdmUuY29t/L29uZWNtcy9pbWFn/ZXMvYXV0aG9yL2Y0/ZjM5MTU1NWJmYmJj/NGQxODM2NzMxNjA0/NTk3ODNhLmpwZw. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/CE4aGzdJGygJtbi15_yZEipRyzXmXvs523qua6dPj34/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/LmFicGxpdmUuY29t/L29uZWNtcy9pbWFn/ZXMvYXV0aG9yL2Y0/ZjM5MTU1NWJmYmJj/NGQxODM2NzMxNjA0/NTk3ODNhLmpwZw
+2026-02-01 16:16:29,738 - main_worker - INFO - Indexing new evidence: evidence_f090c552b62f
+2026-02-01 16:16:30,015 - main_worker - INFO - Extraction complete. Saved and indexed 4 new items.
+2026-02-01 16:16:42,071 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_dff6bde5 (User: CAIR) ---
+2026-02-01 16:16:42,100 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_dff6bde5'...
+2026-02-01 16:16:42,102 - main_worker - INFO - Initiating isolated search for query: query_dff6bde5
+2026-02-01 16:17:05,819 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-01 16:17:05,822 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_dff6bde5/evidence_metadata.json
+2026-02-01 16:17:05,892 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_dff6bde5'...
+2026-02-01 16:21:49,737 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_dff6bde5'
+2026-02-01 16:21:49,817 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_dff6bde5'...
+2026-02-01 16:21:50,342 - main_worker - INFO - SUCCESS: Job for 'query_dff6bde5' completed successfully.
+2026-02-01 16:21:50,343 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_dff6bde5.job
+2026-02-01 18:27:05,803 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_6b3098cf (User: CAIR) ---
+2026-02-01 18:27:05,843 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_6b3098cf'...
+2026-02-01 18:27:05,844 - main_worker - INFO - Initiating isolated search for query: query_6b3098cf
+2026-02-01 18:27:31,765 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-01 18:27:31,768 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_6b3098cf/evidence_metadata.json
+2026-02-01 18:27:31,877 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_6b3098cf'...
+2026-02-01 18:28:29,260 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_6b3098cf'
+2026-02-01 18:28:29,314 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_6b3098cf'...
+2026-02-01 18:28:29,619 - main_worker - INFO - SUCCESS: Job for 'query_6b3098cf' completed successfully.
+2026-02-01 18:28:29,620 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_6b3098cf.job
+2026-02-01 18:28:38,715 - main_worker - INFO - Starting online evidence extraction for caption: 'Uttar Pradesh Chief Minister Yogi Adityanath and G...'
+2026-02-01 18:28:40,238 - main_worker - INFO - Indexing new evidence: evidence_37e64b270c71
+2026-02-01 18:28:40,715 - main_worker - INFO - Indexing new evidence: evidence_ce7f1466ebcc
+2026-02-01 18:28:41,352 - main_worker - INFO - Indexing new evidence: evidence_09ec954ae5e5
+2026-02-01 18:28:43,215 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/CE4aGzdJGygJtbi15_yZEipRyzXmXvs523qua6dPj34/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/LmFicGxpdmUuY29t/L29uZWNtcy9pbWFn/ZXMvYXV0aG9yL2Y0/ZjM5MTU1NWJmYmJj/NGQxODM2NzMxNjA0/NTk3ODNhLmpwZw. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/CE4aGzdJGygJtbi15_yZEipRyzXmXvs523qua6dPj34/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/LmFicGxpdmUuY29t/L29uZWNtcy9pbWFn/ZXMvYXV0aG9yL2Y0/ZjM5MTU1NWJmYmJj/NGQxODM2NzMxNjA0/NTk3ODNhLmpwZw
+2026-02-01 18:28:43,467 - main_worker - INFO - Indexing new evidence: evidence_5b9c8f48d35b
+2026-02-01 18:28:44,360 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/STD0xNSAGbr-QLadiQVYs2HeDXWqpb33EA7n5uNjJo4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmV1dGVyc2Nvbm5l/Y3QuY29tL2l0ZW0v/aW5kaWEteW91dGgt/b3JnYW5pemF0aW9u/cy1wcm90ZXN0LW91/dHNpZGUtdWdjLWhl/YWRxdWFydGVycy1h/Z2FpbnN0LW5ldy11/Z2MtZXF1aXR5LXJl/Z3VsYXRpb25zLTIw/MjYvZEdGbk9uSmxk/WFJsY25NdVkyOXRM/REl3TWpZNmJtVjNj/MjFzWDAxVU1WTkpV/RUV3TURCYVUwTlZW/akU. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/STD0xNSAGbr-QLadiQVYs2HeDXWqpb33EA7n5uNjJo4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmV1dGVyc2Nvbm5l/Y3QuY29tL2l0ZW0v/aW5kaWEteW91dGgt/b3JnYW5pemF0aW9u/cy1wcm90ZXN0LW91/dHNpZGUtdWdjLWhl/YWRxdWFydGVycy1h/Z2FpbnN0LW5ldy11/Z2MtZXF1aXR5LXJl/Z3VsYXRpb25zLTIw/MjYvZEdGbk9uSmxk/WFJsY25NdVkyOXRM/REl3TWpZNmJtVjNj/MjFzWDAxVU1WTkpV/RUV3TURCYVUwTlZW/akU
+2026-02-01 18:28:44,363 - main_worker - INFO - Extraction complete. Saved and indexed 4 new items.
+2026-02-01 18:28:54,622 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_16b7708a (User: CAIR) ---
+2026-02-01 18:28:54,695 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_16b7708a'...
+2026-02-01 18:28:54,695 - main_worker - INFO - Initiating isolated search for query: query_16b7708a
+2026-02-01 18:29:24,411 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-01 18:29:24,414 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_16b7708a/evidence_metadata.json
+2026-02-01 18:29:24,514 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_16b7708a'...
+2026-02-01 18:30:15,150 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_16b7708a'
+2026-02-01 18:30:15,217 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_16b7708a'...
+2026-02-01 18:30:15,523 - main_worker - INFO - SUCCESS: Job for 'query_16b7708a' completed successfully.
+2026-02-01 18:30:15,524 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_16b7708a.job
+2026-02-01 18:35:09,094 - main_worker - INFO - --- Starting BoomLive Scraper & Indexer Pipeline ---
+2026-02-01 18:35:09,094 - main_worker - INFO - Fetching article links from: https://www.boomlive.in/fact-check
+2026-02-01 18:35:10,074 - main_worker - INFO - Found 10 article links.
+2026-02-01 18:35:10,118 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-viral-video-ajit-pawar-plane-crash-baramati-venezuela-video-plane-crash-factcheck-30583
+2026-02-01 18:35:10,118 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-video-protest-burning-effigies-pm-modi-home-minister-amit-shah-ugc-new-rules-claim-fact-check-30584
+2026-02-01 18:35:10,118 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fact-check2025-raipur-congress-protest-video-modi-shah-poster-ink-ugc-claim-false-30588
+2026-02-01 18:35:10,118 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/torch-rally-bjp-government-ugc-new-rules-protest-viral-video-old-fact-check-30591
+2026-02-01 18:35:10,118 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-ai-video-nehru-warning-india-about-communal-politics-ai-video-factcheck-30544
+2026-02-01 18:35:10,118 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/august-2024-kolkata-student-rally-falsely-linked-to-recent-ugc-protests-30594
+2026-02-01 18:35:10,119 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/manikarnika-ghat-ahilyabai-holkar-shrine-demolition-fact-check-30577
+2026-02-01 18:35:10,119 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-viral-video-coas-army-chief-general-upendra-dwivedi-criticising-pakistan-gaza-peace-board-deepfake-30563
+2026-02-01 18:35:10,119 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/republic-day-indian-army-motorcycle-stunt-ai-generated-video-false-claim-fake-fact-check-30558
+2026-02-01 18:35:10,119 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-video-child-ballon-seller-man-popping-ballons-india-claim-fact-check-30542
+2026-02-01 21:14:43,853 - main_worker - INFO - Multiprocessing start method set to 'spawn' for CUDA safety.
+2026-02-01 21:14:43,853 - main_worker - INFO - --- Starting Main Worker ---
+2026-02-01 21:14:43,853 - main_worker - INFO - Watching for jobs in: /data/asca/FND_mini/agentic_workspace/.system/job_queue
+2026-02-02 02:51:13,844 - main_worker - INFO - Multiprocessing start method set to 'spawn' for CUDA safety.
+2026-02-02 02:51:13,844 - main_worker - INFO - --- Starting Main Worker ---
+2026-02-02 02:51:13,844 - main_worker - INFO - Watching for jobs in: /data/asca/FND_mini/agentic_workspace/.system/job_queue
+2026-02-02 03:13:53,932 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_d609e2c4 (User: CAIR) ---
+2026-02-02 03:13:53,962 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_d609e2c4'...
+2026-02-02 03:13:53,963 - main_worker - INFO - Initiating isolated search for query: query_d609e2c4
+2026-02-02 03:14:13,729 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-02 03:14:13,732 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_d609e2c4/evidence_metadata.json
+2026-02-02 03:14:13,799 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_d609e2c4'...
+2026-02-02 03:16:59,173 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_d609e2c4'
+2026-02-02 03:16:59,229 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_d609e2c4'...
+2026-02-02 03:16:59,623 - main_worker - INFO - SUCCESS: Job for 'query_d609e2c4' completed successfully.
+2026-02-02 03:16:59,623 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_d609e2c4.job
+2026-02-02 03:17:49,502 - main_worker - INFO - Starting online evidence extraction for caption: 'Uttar Pradesh Chief Minister Yogi Adityanath and G...'
+2026-02-02 03:17:51,119 - main_worker - INFO - Indexing new evidence: evidence_ed0c7d970959
+2026-02-02 03:17:55,721 - main_worker - INFO - Indexing new evidence: evidence_bcc3e8f9957a
+2026-02-02 03:17:56,246 - main_worker - INFO - Indexing new evidence: evidence_a70fd04d39b0
+2026-02-02 03:17:57,824 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/CE4aGzdJGygJtbi15_yZEipRyzXmXvs523qua6dPj34/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/LmFicGxpdmUuY29t/L29uZWNtcy9pbWFn/ZXMvYXV0aG9yL2Y0/ZjM5MTU1NWJmYmJj/NGQxODM2NzMxNjA0/NTk3ODNhLmpwZw. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/CE4aGzdJGygJtbi15_yZEipRyzXmXvs523qua6dPj34/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/LmFicGxpdmUuY29t/L29uZWNtcy9pbWFn/ZXMvYXV0aG9yL2Y0/ZjM5MTU1NWJmYmJj/NGQxODM2NzMxNjA0/NTk3ODNhLmpwZw
+2026-02-02 03:17:58,012 - main_worker - INFO - Indexing new evidence: evidence_b37c94ba37d4
+2026-02-02 03:17:58,294 - main_worker - INFO - Extraction complete. Saved and indexed 4 new items.
+2026-02-02 03:18:09,628 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_730fb462 (User: CAIR) ---
+2026-02-02 03:18:09,658 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_730fb462'...
+2026-02-02 03:18:09,659 - main_worker - INFO - Initiating isolated search for query: query_730fb462
+2026-02-02 03:18:30,376 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-02 03:18:30,379 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_730fb462/evidence_metadata.json
+2026-02-02 03:18:30,506 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_730fb462'...
+2026-02-02 03:19:28,677 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_730fb462'
+2026-02-02 03:19:28,730 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_730fb462'...
+2026-02-02 03:19:29,029 - main_worker - INFO - SUCCESS: Job for 'query_730fb462' completed successfully.
+2026-02-02 03:19:29,030 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_730fb462.job
+2026-02-02 03:36:14,604 - main_worker - INFO - --- Starting BoomLive Scraper & Indexer Pipeline ---
+2026-02-02 03:36:14,605 - main_worker - INFO - Fetching article links from: https://www.boomlive.in/fact-check
+2026-02-02 03:36:15,455 - main_worker - INFO - Found 10 article links.
+2026-02-02 03:36:15,501 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-ai-video-nehru-warning-india-about-communal-politics-ai-video-factcheck-30544
+2026-02-02 03:36:15,501 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-viral-video-ajit-pawar-plane-crash-baramati-venezuela-video-plane-crash-factcheck-30583
+2026-02-02 03:36:15,501 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/manikarnika-ghat-ahilyabai-holkar-shrine-demolition-fact-check-30577
+2026-02-02 03:36:15,501 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/august-2024-kolkata-student-rally-falsely-linked-to-recent-ugc-protests-30594
+2026-02-02 03:36:15,501 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/torch-rally-bjp-government-ugc-new-rules-protest-viral-video-old-fact-check-30591
+2026-02-02 03:36:15,501 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fact-check2025-raipur-congress-protest-video-modi-shah-poster-ink-ugc-claim-false-30588
+2026-02-02 03:36:15,501 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-video-protest-burning-effigies-pm-modi-home-minister-amit-shah-ugc-new-rules-claim-fact-check-30584
+2026-02-02 03:36:15,502 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-viral-video-coas-army-chief-general-upendra-dwivedi-criticising-pakistan-gaza-peace-board-deepfake-30563
+2026-02-02 03:36:15,502 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/republic-day-indian-army-motorcycle-stunt-ai-generated-video-false-claim-fake-fact-check-30558
+2026-02-02 03:36:15,502 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-video-child-ballon-seller-man-popping-ballons-india-claim-fact-check-30542
+2026-02-11 13:46:11,582 - main_worker - INFO - --- Starting BoomLive Scraper & Indexer Pipeline ---
+2026-02-11 13:46:11,582 - main_worker - INFO - Fetching article links from: https://www.boomlive.in/fact-check
+2026-02-11 13:46:12,049 - main_worker - INFO - Found 10 article links.
+2026-02-11 13:46:12,226 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/viral-video-torture-pregnant-minors-epstein-files-claim-fact-check-30656
+2026-02-11 13:46:13,058 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/02/09/1053880-pregnant-women-treated-like-animal-1.jpg
+2026-02-11 13:46:13,061 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_fd7f163e51
+2026-02-11 13:50:12,108 - main_worker - INFO - --- Starting BoomLive Scraper & Indexer Pipeline ---
+2026-02-11 13:50:12,109 - main_worker - INFO - Fetching article links from: https://www.boomlive.in/fact-check
+2026-02-11 13:50:13,075 - main_worker - INFO - Found 10 article links.
+2026-02-11 13:50:13,168 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/viral-video-torture-pregnant-minors-epstein-files-claim-fact-check-30656
+2026-02-11 13:50:13,720 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/02/09/1053880-pregnant-women-treated-like-animal-1.jpg
+2026-02-11 13:50:13,723 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_48ded0d5d4
+2026-02-11 13:50:17,959 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/fake-news-mira-road-flyover-bus-stuck-ai-generated-factcheck-30657
+2026-02-11 13:50:18,472 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/02/09/1053879-gurat-model-develop-in-mumbai.jpg
+2026-02-11 13:50:18,475 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_d3d742b1ad
+2026-02-11 13:50:19,854 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/viral-photo-uae-president-mohamed-bin-zayed-al-nahyan-mbz-photo-epstein-files-laim-fact-check-30644
+2026-02-11 13:50:20,586 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/02/06/1053840-29-newly-leaked-documents-from-the-epstein-files.jpg
+2026-02-11 13:50:20,589 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_7efb91646c
+2026-02-11 13:50:21,984 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/fake-news-viral-screenshot-modi-jashodaben-statement-modi-destroyed-evidence-marriage-factcheck-30661
+2026-02-11 13:50:23,025 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/02/10/1053910-indian-express-fake-news.jpg
+2026-02-11 13:50:23,029 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_a2be61e586
+2026-02-11 13:50:24,368 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/800-missing-persons-delhi-january-2026-misleading-claim-police-data-30652
+2026-02-11 13:50:25,102 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/02/07/1053845-missing-cases-01.jpg
+2026-02-11 13:50:25,105 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_add87dc09e
+2026-02-11 13:50:26,548 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/viral-video-union-finance-minister-nirmala-sitharaman-investment-platform-claim-fact-check-30639
+2026-02-11 13:50:27,235 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/02/05/1053778-nirmala-01.jpg
+2026-02-11 13:50:27,238 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_1517e316d7
+2026-02-11 13:50:28,610 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/fake-news-media-release-icc-pakistan-banned-one-year-icc-t20-world-cup-factcheck-30637
+2026-02-11 13:50:29,313 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/02/05/1053771-icc-011.jpg
+2026-02-11 13:50:29,316 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_b22f29d8ca
+2026-02-11 13:50:30,712 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/zohran-mamdani-mira-nair-epstein-ai-photos-fake-30635
+2026-02-11 13:50:32,386 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/02/05/1053774-zohran-mamdani.jpg
+2026-02-11 13:50:32,389 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_d1ebc5ac90
+2026-02-11 13:50:33,871 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/viral-photo-pakistan-cricket-team-sri-lanka-welcome-crowd-claim-fact-check-30630
+2026-02-11 13:50:34,799 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/02/04/1053767-how-real-heros-are-welcomed-in-sri-lanka.jpg
+2026-02-11 13:50:34,802 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_784269465f
+2026-02-11 13:50:36,172 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/viral-video-christianity-jesus-christ-prime-minister-narendra-modi-claim-fact-check-30625
+2026-02-11 13:50:36,800 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/02/03/1053736-jesus-is-only-god-by-modi-ji.jpg
+2026-02-11 13:50:36,803 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_38dd866de6
+2026-02-11 13:50:38,152 - main_worker - INFO - --- Starting BoomLive Scraper & Indexer Pipeline ---
+2026-02-11 13:50:38,152 - main_worker - INFO - Fetching article links from: https://www.boomlive.in/fact-check
+2026-02-11 13:50:38,450 - main_worker - INFO - Found 10 article links.
+2026-02-11 13:50:38,464 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-video-torture-pregnant-minors-epstein-files-claim-fact-check-30656
+2026-02-11 13:50:38,464 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-mira-road-flyover-bus-stuck-ai-generated-factcheck-30657
+2026-02-11 13:50:38,465 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-photo-uae-president-mohamed-bin-zayed-al-nahyan-mbz-photo-epstein-files-laim-fact-check-30644
+2026-02-11 13:50:38,465 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-viral-screenshot-modi-jashodaben-statement-modi-destroyed-evidence-marriage-factcheck-30661
+2026-02-11 13:50:38,465 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/800-missing-persons-delhi-january-2026-misleading-claim-police-data-30652
+2026-02-11 13:50:38,465 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-video-union-finance-minister-nirmala-sitharaman-investment-platform-claim-fact-check-30639
+2026-02-11 13:50:38,465 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-media-release-icc-pakistan-banned-one-year-icc-t20-world-cup-factcheck-30637
+2026-02-11 13:50:38,465 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/zohran-mamdani-mira-nair-epstein-ai-photos-fake-30635
+2026-02-11 13:50:38,465 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-photo-pakistan-cricket-team-sri-lanka-welcome-crowd-claim-fact-check-30630
+2026-02-11 13:50:38,465 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-video-christianity-jesus-christ-prime-minister-narendra-modi-claim-fact-check-30625
+2026-02-11 13:59:00,375 - main_worker - INFO - Starting online evidence extraction for caption: 'Mira Nair, mother of NY mayor Zohran Mamdani, pres...'
+2026-02-11 13:59:02,576 - main_worker - INFO - Indexing new evidence: evidence_a6232f2cdf7a
+2026-02-11 13:59:05,970 - main_worker - INFO - Indexing new evidence: evidence_6cce505df6b4
+2026-02-11 13:59:08,933 - main_worker - INFO - Indexing new evidence: evidence_814222b7fd3a
+2026-02-11 13:59:09,863 - main_worker - INFO - Indexing new evidence: evidence_7b08cad65e66
+2026-02-11 13:59:10,935 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/Hr_sASvLmmJH_xDCbrGWStNyUW1bupex2YpMY0i7gOA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mYWN0/Y2hlY2suYWZwLmNv/bS9zaXRlcy9kZWZh/dWx0L2ZpbGVzL21l/ZGlhcy9mYWN0Y2hl/Y2tpbmcvZzIvMjAy/Ni0wMi9kZWIwODEy/ZjU1MDA3N2I1YzFm/YTM3NDIyOTUwYThk/MS1lbi5qcGVn. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/Hr_sASvLmmJH_xDCbrGWStNyUW1bupex2YpMY0i7gOA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mYWN0/Y2hlY2suYWZwLmNv/bS9zaXRlcy9kZWZh/dWx0L2ZpbGVzL21l/ZGlhcy9mYWN0Y2hl/Y2tpbmcvZzIvMjAy/Ni0wMi9kZWIwODEy/ZjU1MDA3N2I1YzFm/YTM3NDIyOTUwYThk/MS1lbi5qcGVn
+2026-02-11 13:59:11,622 - main_worker - INFO - Indexing new evidence: evidence_213a123ce38c
+2026-02-11 13:59:12,430 - main_worker - INFO - Indexing new evidence: evidence_87f31b5357a4
+2026-02-11 13:59:13,467 - main_worker - INFO - Indexing new evidence: evidence_a1aefdc38dc0
+2026-02-11 13:59:14,316 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/6wpoc-3PTR-ubnvZgeBrE9Xn0Y0lG7Lcau1QHl3knBM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjYtMDIvcW03ZDdp/c3NfbWlyYS1uYWly/LWVwc3RlaW4tZmFr/ZS1waG90b182MjV4/MzAwXzA2X0ZlYnJ1/YXJ5XzI2LmpwZWc. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/6wpoc-3PTR-ubnvZgeBrE9Xn0Y0lG7Lcau1QHl3knBM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjYtMDIvcW03ZDdp/c3NfbWlyYS1uYWly/LWVwc3RlaW4tZmFr/ZS1waG90b182MjV4/MzAwXzA2X0ZlYnJ1/YXJ5XzI2LmpwZWc
+2026-02-11 13:59:14,815 - main_worker - INFO - Indexing new evidence: evidence_c349a330d6e9
+2026-02-11 13:59:16,597 - main_worker - INFO - Indexing new evidence: evidence_2a51ad9790d1
+2026-02-11 13:59:17,386 - main_worker - INFO - Indexing new evidence: evidence_7fdc5ffbdee9
+2026-02-11 13:59:17,799 - main_worker - INFO - Extraction complete. Saved and indexed 10 new items.
+2026-02-11 14:14:27,469 - main_worker - INFO - Multiprocessing start method set to 'spawn' for CUDA safety.
+2026-02-11 14:14:27,469 - main_worker - INFO - --- Starting Main Worker ---
+2026-02-11 14:14:27,470 - main_worker - INFO - Watching for jobs in: /data/asca/FND_mini/agentic_workspace/.system/job_queue
+2026-02-11 14:14:27,470 - main_worker - INFO - 
+--- [WORKER] Processing job for query:  (User: None) ---
+2026-02-11 14:14:27,471 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for ''...
+2026-02-11 14:14:27,473 - main_worker - INFO - ERROR: Job for '' failed at stage 'initialization'. Reason: No valid image file (.jpg, .png, etc.) found in '/data/asca/FND_mini/agentic_workspace/1_queries'
+2026-02-11 14:14:27,474 - main_worker - INFO - Traceback (most recent call last):
+  File "/data/asca/FND_mini/src/workers/main_worker.py", line 67, in process_job
+    q_img_path, q_cap_path = find_query_files(query_path)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/asca/FND_mini/src/workers/main_worker.py", line 32, in find_query_files
+    raise FileNotFoundError(f"No valid image file (.jpg, .png, etc.) found in '{query_path}'")
+FileNotFoundError: No valid image file (.jpg, .png, etc.) found in '/data/asca/FND_mini/agentic_workspace/1_queries'
+
+2026-02-11 14:14:27,475 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_failed/query_9f7d4f4a.job
+2026-02-11 14:14:27,475 - main_worker - INFO - 
+--- [WORKER] Processing job for query:  (User: None) ---
+2026-02-11 14:14:27,476 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for ''...
+2026-02-11 14:14:27,477 - main_worker - INFO - ERROR: Job for '' failed at stage 'initialization'. Reason: No valid image file (.jpg, .png, etc.) found in '/data/asca/FND_mini/agentic_workspace/1_queries'
+2026-02-11 14:14:27,477 - main_worker - INFO - Traceback (most recent call last):
+  File "/data/asca/FND_mini/src/workers/main_worker.py", line 67, in process_job
+    q_img_path, q_cap_path = find_query_files(query_path)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/asca/FND_mini/src/workers/main_worker.py", line 32, in find_query_files
+    raise FileNotFoundError(f"No valid image file (.jpg, .png, etc.) found in '{query_path}'")
+FileNotFoundError: No valid image file (.jpg, .png, etc.) found in '/data/asca/FND_mini/agentic_workspace/1_queries'
+
+2026-02-11 14:14:27,478 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_failed/query_6b3098cf.job
+2026-02-11 14:14:27,478 - main_worker - INFO - 
+--- [WORKER] Processing job for query:  (User: None) ---
+2026-02-11 14:14:27,479 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for ''...
+2026-02-11 14:14:27,480 - main_worker - INFO - ERROR: Job for '' failed at stage 'initialization'. Reason: No valid image file (.jpg, .png, etc.) found in '/data/asca/FND_mini/agentic_workspace/1_queries'
+2026-02-11 14:14:27,480 - main_worker - INFO - Traceback (most recent call last):
+  File "/data/asca/FND_mini/src/workers/main_worker.py", line 67, in process_job
+    q_img_path, q_cap_path = find_query_files(query_path)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/asca/FND_mini/src/workers/main_worker.py", line 32, in find_query_files
+    raise FileNotFoundError(f"No valid image file (.jpg, .png, etc.) found in '{query_path}'")
+FileNotFoundError: No valid image file (.jpg, .png, etc.) found in '/data/asca/FND_mini/agentic_workspace/1_queries'
+
+2026-02-11 14:14:27,481 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_failed/query_6c9dbebb.job
+2026-02-11 14:14:27,481 - main_worker - INFO - 
+--- [WORKER] Processing job for query:  (User: None) ---
+2026-02-11 14:14:27,482 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for ''...
+2026-02-11 14:14:27,483 - main_worker - INFO - ERROR: Job for '' failed at stage 'initialization'. Reason: No valid image file (.jpg, .png, etc.) found in '/data/asca/FND_mini/agentic_workspace/1_queries'
+2026-02-11 14:14:27,483 - main_worker - INFO - Traceback (most recent call last):
+  File "/data/asca/FND_mini/src/workers/main_worker.py", line 67, in process_job
+    q_img_path, q_cap_path = find_query_files(query_path)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/asca/FND_mini/src/workers/main_worker.py", line 32, in find_query_files
+    raise FileNotFoundError(f"No valid image file (.jpg, .png, etc.) found in '{query_path}'")
+FileNotFoundError: No valid image file (.jpg, .png, etc.) found in '/data/asca/FND_mini/agentic_workspace/1_queries'
+
+2026-02-11 14:14:27,484 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_failed/query_a1f6f66a.job
+2026-02-11 14:14:27,484 - main_worker - INFO - 
+--- [WORKER] Processing job for query:  (User: None) ---
+2026-02-11 14:14:27,485 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for ''...
+2026-02-11 14:14:27,486 - main_worker - INFO - ERROR: Job for '' failed at stage 'initialization'. Reason: No valid image file (.jpg, .png, etc.) found in '/data/asca/FND_mini/agentic_workspace/1_queries'
+2026-02-11 14:14:27,486 - main_worker - INFO - Traceback (most recent call last):
+  File "/data/asca/FND_mini/src/workers/main_worker.py", line 67, in process_job
+    q_img_path, q_cap_path = find_query_files(query_path)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/asca/FND_mini/src/workers/main_worker.py", line 32, in find_query_files
+    raise FileNotFoundError(f"No valid image file (.jpg, .png, etc.) found in '{query_path}'")
+FileNotFoundError: No valid image file (.jpg, .png, etc.) found in '/data/asca/FND_mini/agentic_workspace/1_queries'
+
+2026-02-11 14:14:27,487 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_failed/query_8f33b51d.job
+2026-02-11 14:14:27,487 - main_worker - INFO - 
+--- [WORKER] Processing job for query:  (User: None) ---
+2026-02-11 14:14:27,488 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for ''...
+2026-02-11 14:14:27,489 - main_worker - INFO - ERROR: Job for '' failed at stage 'initialization'. Reason: No valid image file (.jpg, .png, etc.) found in '/data/asca/FND_mini/agentic_workspace/1_queries'
+2026-02-11 14:14:27,489 - main_worker - INFO - Traceback (most recent call last):
+  File "/data/asca/FND_mini/src/workers/main_worker.py", line 67, in process_job
+    q_img_path, q_cap_path = find_query_files(query_path)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/asca/FND_mini/src/workers/main_worker.py", line 32, in find_query_files
+    raise FileNotFoundError(f"No valid image file (.jpg, .png, etc.) found in '{query_path}'")
+FileNotFoundError: No valid image file (.jpg, .png, etc.) found in '/data/asca/FND_mini/agentic_workspace/1_queries'
+
+2026-02-11 14:14:27,490 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_failed/query_16b7708a.job
+2026-02-11 14:14:27,490 - main_worker - INFO - 
+--- [WORKER] Processing job for query:  (User: None) ---
+2026-02-11 14:14:27,491 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for ''...
+2026-02-11 14:14:27,492 - main_worker - INFO - ERROR: Job for '' failed at stage 'initialization'. Reason: No valid image file (.jpg, .png, etc.) found in '/data/asca/FND_mini/agentic_workspace/1_queries'
+2026-02-11 14:14:27,492 - main_worker - INFO - Traceback (most recent call last):
+  File "/data/asca/FND_mini/src/workers/main_worker.py", line 67, in process_job
+    q_img_path, q_cap_path = find_query_files(query_path)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/asca/FND_mini/src/workers/main_worker.py", line 32, in find_query_files
+    raise FileNotFoundError(f"No valid image file (.jpg, .png, etc.) found in '{query_path}'")
+FileNotFoundError: No valid image file (.jpg, .png, etc.) found in '/data/asca/FND_mini/agentic_workspace/1_queries'
+
+2026-02-11 14:14:27,493 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_failed/query_dff6bde5.job
+2026-02-11 14:14:27,493 - main_worker - INFO - 
+--- [WORKER] Processing job for query:  (User: None) ---
+2026-02-11 14:14:27,494 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for ''...
+2026-02-11 14:14:27,495 - main_worker - INFO - ERROR: Job for '' failed at stage 'initialization'. Reason: No valid image file (.jpg, .png, etc.) found in '/data/asca/FND_mini/agentic_workspace/1_queries'
+2026-02-11 14:14:27,495 - main_worker - INFO - Traceback (most recent call last):
+  File "/data/asca/FND_mini/src/workers/main_worker.py", line 67, in process_job
+    q_img_path, q_cap_path = find_query_files(query_path)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/asca/FND_mini/src/workers/main_worker.py", line 32, in find_query_files
+    raise FileNotFoundError(f"No valid image file (.jpg, .png, etc.) found in '{query_path}'")
+FileNotFoundError: No valid image file (.jpg, .png, etc.) found in '/data/asca/FND_mini/agentic_workspace/1_queries'
+
+2026-02-11 14:14:27,496 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_failed/query_d7f8d026.job
+2026-02-11 14:14:27,496 - main_worker - INFO - 
+--- [WORKER] Processing job for query:  (User: None) ---
+2026-02-11 14:14:27,496 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for ''...
+2026-02-11 14:14:27,498 - main_worker - INFO - ERROR: Job for '' failed at stage 'initialization'. Reason: No valid image file (.jpg, .png, etc.) found in '/data/asca/FND_mini/agentic_workspace/1_queries'
+2026-02-11 14:14:27,498 - main_worker - INFO - Traceback (most recent call last):
+  File "/data/asca/FND_mini/src/workers/main_worker.py", line 67, in process_job
+    q_img_path, q_cap_path = find_query_files(query_path)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/asca/FND_mini/src/workers/main_worker.py", line 32, in find_query_files
+    raise FileNotFoundError(f"No valid image file (.jpg, .png, etc.) found in '{query_path}'")
+FileNotFoundError: No valid image file (.jpg, .png, etc.) found in '/data/asca/FND_mini/agentic_workspace/1_queries'
+
+2026-02-11 14:14:27,498 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_failed/query_a94bce59.job
+2026-02-11 14:14:27,499 - main_worker - INFO - 
+--- [WORKER] Processing job for query:  (User: None) ---
+2026-02-11 14:14:27,499 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for ''...
+2026-02-11 14:14:27,500 - main_worker - INFO - ERROR: Job for '' failed at stage 'initialization'. Reason: No valid image file (.jpg, .png, etc.) found in '/data/asca/FND_mini/agentic_workspace/1_queries'
+2026-02-11 14:14:27,501 - main_worker - INFO - Traceback (most recent call last):
+  File "/data/asca/FND_mini/src/workers/main_worker.py", line 67, in process_job
+    q_img_path, q_cap_path = find_query_files(query_path)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/asca/FND_mini/src/workers/main_worker.py", line 32, in find_query_files
+    raise FileNotFoundError(f"No valid image file (.jpg, .png, etc.) found in '{query_path}'")
+FileNotFoundError: No valid image file (.jpg, .png, etc.) found in '/data/asca/FND_mini/agentic_workspace/1_queries'
+
+2026-02-11 14:14:27,501 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_failed/query_14f65fb3.job
+2026-02-11 14:14:27,502 - main_worker - INFO - 
+--- [WORKER] Processing job for query:  (User: None) ---
+2026-02-11 14:14:27,502 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for ''...
+2026-02-11 14:14:27,503 - main_worker - INFO - ERROR: Job for '' failed at stage 'initialization'. Reason: No valid image file (.jpg, .png, etc.) found in '/data/asca/FND_mini/agentic_workspace/1_queries'
+2026-02-11 14:14:27,503 - main_worker - INFO - Traceback (most recent call last):
+  File "/data/asca/FND_mini/src/workers/main_worker.py", line 67, in process_job
+    q_img_path, q_cap_path = find_query_files(query_path)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/asca/FND_mini/src/workers/main_worker.py", line 32, in find_query_files
+    raise FileNotFoundError(f"No valid image file (.jpg, .png, etc.) found in '{query_path}'")
+FileNotFoundError: No valid image file (.jpg, .png, etc.) found in '/data/asca/FND_mini/agentic_workspace/1_queries'
+
+2026-02-11 14:14:27,504 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_failed/query_afa22e8f.job
+2026-02-11 14:14:27,504 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_87009755 (User: CAIR) ---
+2026-02-11 14:14:27,505 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_87009755'...
+2026-02-11 14:14:27,505 - main_worker - INFO - Initiating isolated search for query: query_87009755
+2026-02-11 14:14:45,648 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-11 14:14:45,663 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_87009755/evidence_metadata.json
+2026-02-11 14:14:45,668 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_87009755'...
+2026-02-11 14:19:21,587 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_87009755'
+2026-02-11 14:19:21,588 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_87009755'...
+2026-02-11 14:19:22,231 - main_worker - INFO - SUCCESS: Job for 'query_87009755' completed successfully.
+2026-02-11 14:19:22,232 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_87009755.job
+2026-02-11 14:19:22,232 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_427c912b (User: CAIR) ---
+2026-02-11 14:19:22,232 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_427c912b'...
+2026-02-11 14:19:22,233 - main_worker - INFO - Initiating isolated search for query: query_427c912b
+2026-02-11 14:19:54,785 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-11 14:19:54,790 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_427c912b/evidence_metadata.json
+2026-02-11 14:19:54,794 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_427c912b'...
+2026-02-11 14:20:59,723 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_427c912b'
+2026-02-11 14:20:59,725 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_427c912b'...
+2026-02-11 14:21:00,286 - main_worker - INFO - SUCCESS: Job for 'query_427c912b' completed successfully.
+2026-02-11 14:21:00,286 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_427c912b.job
+2026-02-11 14:23:25,294 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_33b72a36 (User: CAIR) ---
+2026-02-11 14:23:25,339 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_33b72a36'...
+2026-02-11 14:23:25,340 - main_worker - INFO - Initiating isolated search for query: query_33b72a36
+2026-02-11 14:23:44,855 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-11 14:23:44,859 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_33b72a36/evidence_metadata.json
+2026-02-11 14:23:44,956 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_33b72a36'...
+2026-02-11 14:24:51,015 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_33b72a36'
+2026-02-11 14:24:51,086 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_33b72a36'...
+2026-02-11 14:24:51,753 - main_worker - INFO - SUCCESS: Job for 'query_33b72a36' completed successfully.
+2026-02-11 14:24:51,754 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_33b72a36.job
+2026-02-11 14:27:09,212 - main_worker - INFO - Starting online evidence extraction for caption: ' Government of India has released a ₹500 note feat...'
+2026-02-11 14:27:11,150 - main_worker - INFO - Indexing new evidence: evidence_eb0d41198c2d
+2026-02-11 14:27:17,194 - main_worker - INFO - Indexing new evidence: evidence_1a895af4e50b
+2026-02-11 14:27:21,042 - main_worker - INFO - Indexing new evidence: evidence_9909e0ff3412
+2026-02-11 14:27:22,082 - main_worker - INFO - Indexing new evidence: evidence_acc20bec8827
+2026-02-11 14:27:24,406 - main_worker - INFO - Indexing new evidence: evidence_7c36812be166
+2026-02-11 14:27:27,474 - main_worker - INFO - Indexing new evidence: evidence_4c8702bc329c
+2026-02-11 14:27:28,368 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/-hzIssGyFP5t-_yXSjP-J-dIJFkY7RRDQfee-I1qsgA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL3RoZXF1aW50/LzIwMTgtMTAvYmZh/YTliMTQtOTdiYy00/NmI5LWE4YzYtZmZi/NTU0Y2M1MzI0L1Vu/dGl0bGVkX2Rlc2ln/bl9fMjRfLmpwZz8g/ICAgICAgICAgICAg/IGF1dG89Zm9ybWF0/LGNvbXByZXNzJmZt/dD13ZWJwJmZvcm1h/dD13ZWJwJnc9MTIw/MCZoPTkwMCZkcHI9/MS4w. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/-hzIssGyFP5t-_yXSjP-J-dIJFkY7RRDQfee-I1qsgA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL3RoZXF1aW50/LzIwMTgtMTAvYmZh/YTliMTQtOTdiYy00/NmI5LWE4YzYtZmZi/NTU0Y2M1MzI0L1Vu/dGl0bGVkX2Rlc2ln/bl9fMjRfLmpwZz8g/ICAgICAgICAgICAg/IGF1dG89Zm9ybWF0/LGNvbXByZXNzJmZt/dD13ZWJwJmZvcm1h/dD13ZWJwJnc9MTIw/MCZoPTkwMCZkcHI9/MS4w
+2026-02-11 14:27:29,216 - main_worker - INFO - Indexing new evidence: evidence_e174a706ce44
+2026-02-11 14:27:29,556 - main_worker - INFO - Extraction complete. Saved and indexed 7 new items.
+2026-02-11 14:27:41,764 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_0d560d2b (User: CAIR) ---
+2026-02-11 14:27:41,814 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_0d560d2b'...
+2026-02-11 14:27:41,815 - main_worker - INFO - Initiating isolated search for query: query_0d560d2b
+2026-02-11 14:28:19,597 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-11 14:28:19,602 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_0d560d2b/evidence_metadata.json
+2026-02-11 14:28:19,742 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_0d560d2b'...
+2026-02-11 14:29:11,659 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_0d560d2b'
+2026-02-11 14:29:11,740 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_0d560d2b'...
+2026-02-11 14:29:12,380 - main_worker - INFO - SUCCESS: Job for 'query_0d560d2b' completed successfully.
+2026-02-11 14:29:12,381 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_0d560d2b.job
+2026-02-11 14:29:52,765 - main_worker - INFO - Starting online evidence extraction for caption: 'India faces further delay in getting final S-400 R...'
+2026-02-11 14:30:12,385 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_5c87c6f2 (User: CAIR) ---
+2026-02-11 14:30:12,434 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_5c87c6f2'...
+2026-02-11 14:30:12,435 - main_worker - INFO - Initiating isolated search for query: query_5c87c6f2
+2026-02-11 14:30:32,573 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-11 14:30:32,575 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_5c87c6f2/evidence_metadata.json
+2026-02-11 14:30:32,723 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_5c87c6f2'...
+2026-02-11 14:31:26,871 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_5c87c6f2'
+2026-02-11 14:31:26,951 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_5c87c6f2'...
+2026-02-11 14:31:27,293 - main_worker - INFO - SUCCESS: Job for 'query_5c87c6f2' completed successfully.
+2026-02-11 14:31:27,294 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_5c87c6f2.job
+2026-02-11 14:32:01,415 - main_worker - INFO - Starting online evidence extraction for caption: 'Police use drones to bust ganja cultivation over 3...'
+2026-02-11 14:32:06,651 - main_worker - INFO - Indexing new evidence: evidence_7ef250df8b39
+2026-02-11 14:32:08,792 - main_worker - INFO - Indexing new evidence: evidence_ed67f6032347
+2026-02-11 14:32:11,084 - main_worker - INFO - Indexing new evidence: evidence_1797be51ec72
+2026-02-11 14:32:13,781 - main_worker - INFO - Indexing new evidence: evidence_f1787d1c6408
+2026-02-11 14:32:16,069 - main_worker - INFO - Indexing new evidence: evidence_b6143a481e27
+2026-02-11 14:32:18,813 - main_worker - INFO - Indexing new evidence: evidence_2c2bec72247e
+2026-02-11 14:32:21,379 - main_worker - INFO - Indexing new evidence: evidence_1937d799e5c7
+2026-02-11 14:32:23,302 - main_worker - INFO - Indexing new evidence: evidence_392595453eff
+2026-02-11 14:32:23,921 - main_worker - INFO - Indexing new evidence: evidence_df0505db78f9
+2026-02-11 14:32:26,601 - main_worker - INFO - Indexing new evidence: evidence_d8c315b767c2
+2026-02-11 14:32:27,490 - main_worker - INFO - Indexing new evidence: evidence_66d092915959
+2026-02-11 14:32:30,422 - main_worker - INFO - Indexing new evidence: evidence_69b5dc8a87f4
+2026-02-11 14:32:30,735 - main_worker - INFO - Extraction complete. Saved and indexed 12 new items.
+2026-02-11 14:32:42,299 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_df108112 (User: CAIR) ---
+2026-02-11 14:32:42,337 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_df108112'...
+2026-02-11 14:32:42,338 - main_worker - INFO - Initiating isolated search for query: query_df108112
+2026-02-11 14:33:01,555 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-11 14:33:01,557 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_df108112/evidence_metadata.json
+2026-02-11 14:33:01,692 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_df108112'...
+2026-02-11 14:34:08,951 - main_worker - INFO - INFO: Verdict 'Real' saved for query 'query_df108112'
+2026-02-11 14:34:09,038 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_df108112'...
+2026-02-11 14:34:09,363 - main_worker - INFO - SUCCESS: Job for 'query_df108112' completed successfully.
+2026-02-11 14:34:09,364 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_df108112.job
+2026-02-11 15:02:44,978 - main_worker - INFO - Starting online evidence extraction for caption: 'DK Shivakumar thanks BJP, JDS workers for Congress...'
+2026-02-11 15:02:50,347 - main_worker - INFO - Indexing new evidence: evidence_d97e35475163
+2026-02-11 15:02:51,669 - main_worker - INFO - Indexing new evidence: evidence_fc0ce2d109c2
+2026-02-11 15:02:54,543 - main_worker - INFO - Indexing new evidence: evidence_8828d8f20857
+2026-02-11 15:02:55,350 - main_worker - INFO - Indexing new evidence: evidence_90ff4d212590
+2026-02-11 15:02:57,404 - main_worker - INFO - Indexing new evidence: evidence_25b94cdf3d0e
+2026-02-11 15:02:59,933 - main_worker - INFO - Indexing new evidence: evidence_af7f5152228a
+2026-02-11 15:03:01,396 - main_worker - INFO - Indexing new evidence: evidence_7fa85a117394
+2026-02-11 15:03:06,141 - main_worker - INFO - Indexing new evidence: evidence_6d93fcf5d5f7
+2026-02-11 15:03:08,037 - main_worker - INFO - Indexing new evidence: evidence_8034622dccf9
+2026-02-11 15:03:11,408 - main_worker - INFO - Indexing new evidence: evidence_1eb570158f03
+2026-02-11 15:03:13,909 - main_worker - INFO - Indexing new evidence: evidence_c2443eb9c0f1
+2026-02-11 15:03:16,783 - main_worker - INFO - Indexing new evidence: evidence_e3c9612e4925
+2026-02-11 15:03:17,119 - main_worker - INFO - Extraction complete. Saved and indexed 12 new items.
+2026-02-11 15:03:29,460 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_4ac46578 (User: CAIR) ---
+2026-02-11 15:03:29,505 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_4ac46578'...
+2026-02-11 15:03:29,506 - main_worker - INFO - Initiating isolated search for query: query_4ac46578
+2026-02-11 15:03:50,219 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-11 15:03:50,221 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_4ac46578/evidence_metadata.json
+2026-02-11 15:03:50,362 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_4ac46578'...
+2026-02-11 15:04:50,067 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_4ac46578'
+2026-02-11 15:04:50,173 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_4ac46578'...
+2026-02-11 15:04:50,821 - main_worker - INFO - SUCCESS: Job for 'query_4ac46578' completed successfully.
+2026-02-11 15:04:50,821 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_4ac46578.job
+2026-02-11 15:07:25,831 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_03bdd269 (User: CAIR) ---
+2026-02-11 15:07:25,881 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_03bdd269'...
+2026-02-11 15:07:25,882 - main_worker - INFO - Initiating isolated search for query: query_03bdd269
+2026-02-11 15:07:46,161 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-11 15:07:46,164 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_03bdd269/evidence_metadata.json
+2026-02-11 15:07:46,290 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_03bdd269'...
+2026-02-11 15:08:45,909 - main_worker - INFO - INFO: Verdict 'Real' saved for query 'query_03bdd269'
+2026-02-11 15:08:46,019 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_03bdd269'...
+2026-02-11 15:08:46,331 - main_worker - INFO - SUCCESS: Job for 'query_03bdd269' completed successfully.
+2026-02-11 15:08:46,331 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_03bdd269.job
+2026-02-11 15:09:51,783 - main_worker - INFO - Starting online evidence extraction for caption: 'Rajnath Singh in Russia on 3-day visit in December...'
+2026-02-11 15:09:54,786 - main_worker - INFO - Indexing new evidence: evidence_bd0dd0f8e6a8
+2026-02-11 15:09:56,347 - main_worker - INFO - Indexing new evidence: evidence_008e7664c7ed
+2026-02-11 15:09:57,200 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/UCOojHOwpq0z59g8e8ykNHj5KTvikfDG1r3MCO2EcMk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjQtMTIvcXZybXJ0/MDhfcHV0aW4tcmFq/bmF0aC1zaW5naF82/MjV4MzAwXzEwX0Rl/Y2VtYmVyXzI0Lmpw/ZWc. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/UCOojHOwpq0z59g8e8ykNHj5KTvikfDG1r3MCO2EcMk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjQtMTIvcXZybXJ0/MDhfcHV0aW4tcmFq/bmF0aC1zaW5naF82/MjV4MzAwXzEwX0Rl/Y2VtYmVyXzI0Lmpw/ZWc
+2026-02-11 15:10:00,518 - main_worker - INFO - Indexing new evidence: evidence_175a25ea1155
+2026-02-11 15:10:03,553 - main_worker - INFO - Indexing new evidence: evidence_fe9488df5e69
+2026-02-11 15:10:06,601 - main_worker - INFO - Indexing new evidence: evidence_7337af1199b5
+2026-02-11 15:10:11,111 - main_worker - INFO - Indexing new evidence: evidence_f0bc650b1e66
+2026-02-11 15:10:12,855 - main_worker - INFO - Indexing new evidence: evidence_be7c86bc0034
+2026-02-11 15:10:16,376 - main_worker - INFO - Indexing new evidence: evidence_211229dc3050
+2026-02-11 15:10:17,664 - main_worker - INFO - Indexing new evidence: evidence_f040c3144617
+2026-02-11 15:10:18,972 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/ih0YxNZqq5XttEXVIDpeOFDxjgdnNRuT0rst70g0MtA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ncm91/bmQubmV3cy9hcnRp/Y2xlL3Jham5hdGgt/c2luZ2gtaW4tcnVz/c2lhLWluZGlhbi1k/ZWZlbmNlLW1pbmlz/dGVyLW1lZXRzLXJ1/c3NpYW4tcHJlc2lk/ZW50LXB1dGluXzVm/ZmJkZQ. Reason: 422 Client Error: Unknown for url: https://imgs.search.brave.com/ih0YxNZqq5XttEXVIDpeOFDxjgdnNRuT0rst70g0MtA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ncm91/bmQubmV3cy9hcnRp/Y2xlL3Jham5hdGgt/c2luZ2gtaW4tcnVz/c2lhLWluZGlhbi1k/ZWZlbmNlLW1pbmlz/dGVyLW1lZXRzLXJ1/c3NpYW4tcHJlc2lk/ZW50LXB1dGluXzVm/ZmJkZQ
+2026-02-11 15:10:22,573 - main_worker - INFO - Indexing new evidence: evidence_f11281731db4
+2026-02-11 15:10:22,998 - main_worker - INFO - Extraction complete. Saved and indexed 10 new items.
+2026-02-11 15:10:36,339 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_9b60c445 (User: CAIR) ---
+2026-02-11 15:10:36,370 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_9b60c445'...
+2026-02-11 15:10:36,371 - main_worker - INFO - Initiating isolated search for query: query_9b60c445
+2026-02-11 15:10:57,051 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-11 15:10:57,053 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_9b60c445/evidence_metadata.json
+2026-02-11 15:10:57,195 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_9b60c445'...
+2026-02-11 15:12:02,386 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_9b60c445'
+2026-02-11 15:12:02,457 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_9b60c445'...
+2026-02-11 15:12:02,760 - main_worker - INFO - SUCCESS: Job for 'query_9b60c445' completed successfully.
+2026-02-11 15:12:02,760 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_9b60c445.job
+2026-02-11 15:13:37,767 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_9e17e484 (User: CAIR) ---
+2026-02-11 15:13:37,816 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_9e17e484'...
+2026-02-11 15:13:37,817 - main_worker - INFO - Initiating isolated search for query: query_9e17e484
+2026-02-11 15:13:57,180 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-11 15:13:57,182 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_9e17e484/evidence_metadata.json
+2026-02-11 15:13:57,368 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_9e17e484'...
+2026-02-11 15:14:34,004 - main_worker - INFO - Starting online evidence extraction for caption: ''Farmer's son' vs 'labourer's son': Mallikarjun Kh...'
+2026-02-11 15:14:38,677 - main_worker - INFO - Indexing new evidence: evidence_30044a26dbbc
+2026-02-11 15:14:41,469 - main_worker - INFO - Indexing new evidence: evidence_c0cbc029daa9
+2026-02-11 15:14:43,898 - main_worker - INFO - Indexing new evidence: evidence_1245467bed28
+2026-02-11 15:14:46,391 - main_worker - INFO - Indexing new evidence: evidence_c5ea6ca9f77f
+2026-02-11 15:14:47,110 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/xf0ZR_6h2k0ZGhIOaP95hOnBqLtyOJQi14PEZHM0Sis/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjQtMTIvaGtoc3N0/bV9raGFyZ2UtXzYy/NXgzMDBfMTNfRGVj/ZW1iZXJfMjQuanBn/P2ltPUZpdEFuZEZp/bGwsYWxnb3JpdGht/PWRubix3aWR0aD0x/MjAwLGhlaWdodD03/Mzg. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/xf0ZR_6h2k0ZGhIOaP95hOnBqLtyOJQi14PEZHM0Sis/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjQtMTIvaGtoc3N0/bV9raGFyZ2UtXzYy/NXgzMDBfMTNfRGVj/ZW1iZXJfMjQuanBn/P2ltPUZpdEFuZEZp/bGwsYWxnb3JpdGht/PWRubix3aWR0aD0x/MjAwLGhlaWdodD03/Mzg
+2026-02-11 15:14:49,709 - main_worker - INFO - Indexing new evidence: evidence_42ae25259215
+2026-02-11 15:14:52,313 - main_worker - INFO - Indexing new evidence: evidence_ba10b2a9d9bd
+2026-02-11 15:14:53,587 - main_worker - INFO - Indexing new evidence: evidence_8fbf1bc91af3
+2026-02-11 15:14:55,097 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/SseU9zWjTn7AGttn7knytQfoL9igu8jX5bayyTenD6U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/LmFicGxpdmUuY29t/L29uZWNtcy9pbWFn/ZXMvYXV0aG9yLzRm/ZmQ4MWIyY2RiYjBj/MjA3NzBiNDMxMDQz/YjcwNWViLmpwZWc. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/SseU9zWjTn7AGttn7knytQfoL9igu8jX5bayyTenD6U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/LmFicGxpdmUuY29t/L29uZWNtcy9pbWFn/ZXMvYXV0aG9yLzRm/ZmQ4MWIyY2RiYjBj/MjA3NzBiNDMxMDQz/YjcwNWViLmpwZWc
+2026-02-11 15:14:55,553 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/yDeQ8vG75CcLHYC1Hvi5RKOC7V8NuOMPPROssxhoMWY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjQtMTIvaGRra3Bq/azhfamFnZGVlcC1k/aGFua2hhci1fNjI1/eDMwMF8xMF9EZWNl/bWJlcl8yNC5qcGc_/aW09RmVhdHVyZUNy/b3AsYWxnb3JpdGht/PWRubix3aWR0aD0x/MjAwLGhlaWdodD03/Mzg. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/yDeQ8vG75CcLHYC1Hvi5RKOC7V8NuOMPPROssxhoMWY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjQtMTIvaGRra3Bq/azhfamFnZGVlcC1k/aGFua2hhci1fNjI1/eDMwMF8xMF9EZWNl/bWJlcl8yNC5qcGc_/aW09RmVhdHVyZUNy/b3AsYWxnb3JpdGht/PWRubix3aWR0aD0x/MjAwLGhlaWdodD03/Mzg
+2026-02-11 15:14:55,555 - main_worker - INFO - Extraction complete. Saved and indexed 7 new items.
+2026-02-11 15:15:04,124 - main_worker - INFO - INFO: Verdict 'Real' saved for query 'query_9e17e484'
+2026-02-11 15:15:04,318 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_9e17e484'...
+2026-02-11 15:15:04,621 - main_worker - INFO - SUCCESS: Job for 'query_9e17e484' completed successfully.
+2026-02-11 15:15:04,621 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_9e17e484.job
+2026-02-11 15:15:09,622 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_8b9092da (User: CAIR) ---
+2026-02-11 15:15:09,683 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_8b9092da'...
+2026-02-11 15:15:09,684 - main_worker - INFO - Initiating isolated search for query: query_8b9092da
+2026-02-11 15:15:28,888 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-11 15:15:28,892 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_8b9092da/evidence_metadata.json
+2026-02-11 15:15:29,044 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_8b9092da'...
+2026-02-11 15:16:31,745 - main_worker - INFO - INFO: Verdict 'Real' saved for query 'query_8b9092da'
+2026-02-11 15:16:31,805 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_8b9092da'...
+2026-02-11 15:16:32,155 - main_worker - INFO - SUCCESS: Job for 'query_8b9092da' completed successfully.
+2026-02-11 15:16:32,156 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_8b9092da.job
+2026-02-11 15:19:10,581 - main_worker - INFO - Starting online evidence extraction for caption: 'A shocking case has come to light in Pakistan wher...'
+2026-02-11 15:19:12,523 - main_worker - INFO - Indexing new evidence: evidence_e244020349d5
+2026-02-11 15:19:13,273 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/-ui4buPv_K7D9dM_cE52S2pok3eELhrFjwjV6ieYb9k/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL3RoZXF1aW50/LzIwMjUtMDktMTAv/MjAxZ2pyNWwvS0hV/U0hJLVdRLU5FVy0y/LTEuanBnPyAgICAg/ICAgICAgICAgYXV0/bz1mb3JtYXQsY29t/cHJlc3MmZm10PXdl/YnAmZm9ybWF0PXdl/YnAmdz0xMjAwJmg9/OTAwJmRwcj0xLjA. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/-ui4buPv_K7D9dM_cE52S2pok3eELhrFjwjV6ieYb9k/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL3RoZXF1aW50/LzIwMjUtMDktMTAv/MjAxZ2pyNWwvS0hV/U0hJLVdRLU5FVy0y/LTEuanBnPyAgICAg/ICAgICAgICAgYXV0/bz1mb3JtYXQsY29t/cHJlc3MmZm10PXdl/YnAmZm9ybWF0PXdl/YnAmdz0xMjAwJmg9/OTAwJmRwcj0xLjA
+2026-02-11 15:19:13,744 - main_worker - INFO - Indexing new evidence: evidence_9ebb66bbdf7f
+2026-02-11 15:19:16,254 - main_worker - INFO - Indexing new evidence: evidence_a1718013b4a1
+2026-02-11 15:19:17,507 - main_worker - INFO - Indexing new evidence: evidence_a8e07c36b24e
+2026-02-11 15:19:18,335 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/TyVM6ebvWbt_vcNGlNGPG7o5DO1SoK9v70rL70tQHBE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbnN0/YWdyYW0uZnNsYzMt/Mi5mbmEuZmJjZG4u/bmV0L3YvdDUxLjI4/ODUtMTUvNTM5NjU1/NzE3XzY2ODY3ODgy/OTU5MzA2Ml84MDc2/MjUxMjAwNjc4MDcy/Mzc1X24uanBnP3N0/cD1kc3QtanBnX2Ux/NV90dDYmYW1wO2Vm/Zz1leUoyWlc1amIy/UmxYM1JoWnlJNklu/Um9jbVZoWkhNdVJr/VkZSQzVwYldGblpW/OTFjbXhuWlc0dU5q/UXdlREV4TXpndWMy/UnlMbVkzTVRnM09D/NWtaV1poZFd4MFgy/TnZkbVZ5WDJaeVlX/MWxMbU15SW4wJmFt/cDtfbmNfaHQ9aW5z/dGFncmFtLmZzbGMz/LTIuZm5hLmZiY2Ru/Lm5ldCZhbXA7X25j/X2NhdD0xMTAmYW1w/O19uY19vYz1RNmNa/MlFHTloyd1AtX3Fn/d3MxUFRSUS1TUkFC/cWRjZ2p0Vzd4eU5z/S1JNTmRmSEZzYmRj/UDVQMW1LQnZHSWdI/aC1WcmxNVSZhbXA7/X25jX29oYz0tT05R/V1dCMWRyc1E3a052/d0cwUDNyYiZhbXA7/X25jX2dpZD1ac2dr/Qi13bDFnR3hZNjIt/T3VGWndRJmFtcDtl/ZG09QVBzMTdDVUJB/QUFBJmFtcDtjY2I9/Ny01JmFtcDtpZ19j/YWNoZV9rZXk9TXpj/d09UUTBNRGMwTkRN/M09ETTBPVFk1TWcl/M0QlM0QuMy1jY2I3/LTUmYW1wO29oPTAw/X0FmYmdUNVdzd0I4/UlhfSGJTd09acnRU/VF9EdlhQeldDeTNi/ajJ2YVVoRHlNa3cm/YW1wO29lPTY4RDMy/NTdEJmFtcDtfbmNf/c2lkPTEwZDEzYg. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/TyVM6ebvWbt_vcNGlNGPG7o5DO1SoK9v70rL70tQHBE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbnN0/YWdyYW0uZnNsYzMt/Mi5mbmEuZmJjZG4u/bmV0L3YvdDUxLjI4/ODUtMTUvNTM5NjU1/NzE3XzY2ODY3ODgy/OTU5MzA2Ml84MDc2/MjUxMjAwNjc4MDcy/Mzc1X24uanBnP3N0/cD1kc3QtanBnX2Ux/NV90dDYmYW1wO2Vm/Zz1leUoyWlc1amIy/UmxYM1JoWnlJNklu/Um9jbVZoWkhNdVJr/VkZSQzVwYldGblpW/OTFjbXhuWlc0dU5q/UXdlREV4TXpndWMy/UnlMbVkzTVRnM09D/NWtaV1poZFd4MFgy/TnZkbVZ5WDJaeVlX/MWxMbU15SW4wJmFt/cDtfbmNfaHQ9aW5z/dGFncmFtLmZzbGMz/LTIuZm5hLmZiY2Ru/Lm5ldCZhbXA7X25j/X2NhdD0xMTAmYW1w/O19uY19vYz1RNmNa/MlFHTloyd1AtX3Fn/d3MxUFRSUS1TUkFC/cWRjZ2p0Vzd4eU5z/S1JNTmRmSEZzYmRj/UDVQMW1LQnZHSWdI/aC1WcmxNVSZhbXA7/X25jX29oYz0tT05R/V1dCMWRyc1E3a052/d0cwUDNyYiZhbXA7/X25jX2dpZD1ac2dr/Qi13bDFnR3hZNjIt/T3VGWndRJmFtcDtl/ZG09QVBzMTdDVUJB/QUFBJmFtcDtjY2I9/Ny01JmFtcDtpZ19j/YWNoZV9rZXk9TXpj/d09UUTBNRGMwTkRN/M09ETTBPVFk1TWcl/M0QlM0QuMy1jY2I3/LTUmYW1wO29oPTAw/X0FmYmdUNVdzd0I4/UlhfSGJTd09acnRU/VF9EdlhQeldDeTNi/ajJ2YVVoRHlNa3cm/YW1wO29lPTY4RDMy/NTdEJmFtcDtfbmNf/c2lkPTEwZDEzYg
+2026-02-11 15:19:18,907 - main_worker - INFO - Indexing new evidence: evidence_c8bf12b59bbb
+2026-02-11 15:19:19,935 - main_worker - INFO - Indexing new evidence: evidence_4072bebc4751
+2026-02-11 15:19:21,810 - main_worker - INFO - Indexing new evidence: evidence_aa76decbd495
+2026-02-11 15:19:22,108 - main_worker - INFO - Extraction complete. Saved and indexed 7 new items.
+2026-02-11 15:19:32,167 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_107e4560 (User: CAIR) ---
+2026-02-11 15:19:32,205 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_107e4560'...
+2026-02-11 15:19:32,206 - main_worker - INFO - Initiating isolated search for query: query_107e4560
+2026-02-11 15:19:51,311 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-11 15:19:51,316 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_107e4560/evidence_metadata.json
+2026-02-11 15:19:51,473 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_107e4560'...
+2026-02-11 15:20:55,459 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_107e4560'
+2026-02-11 15:20:55,556 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_107e4560'...
+2026-02-11 15:20:56,362 - main_worker - INFO - SUCCESS: Job for 'query_107e4560' completed successfully.
+2026-02-11 15:20:56,363 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_107e4560.job
+2026-02-11 15:21:47,380 - main_worker - INFO - --- Starting Factly Scraper & Indexer Pipeline ---
+2026-02-11 15:21:47,380 - main_worker - INFO - Fetching article links from: https://factly.in/category/english/fake-news/
+2026-02-11 15:21:48,011 - main_worker - ERROR - Error fetching the main Factly page: 403 Client Error: Forbidden for url: https://factly.in/category/english/fake-news/
+2026-02-11 15:22:35,207 - main_worker - INFO - Starting online evidence extraction for caption: ' CAPT. SUMIT KAPOOR, WHO WAS PILOTING AJIT PAWAR'S...'
+2026-02-11 15:22:36,859 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/W5HsYkb5xHDdA09XB3pNs3_3CaXCXtwaFwklvO76YH0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjYtMDEvdmtjNmNk/X3N1bWl0LWthcG9v/cl82MjV4MzAwXzI5/X0phbnVhcnlfMjYu/anBnP2ltPUZpdEFu/ZEZpbGwsYWxnb3Jp/dGhtPWRubix3aWR0/aD0xMjAwLGhlaWdo/dD03Mzg. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/W5HsYkb5xHDdA09XB3pNs3_3CaXCXtwaFwklvO76YH0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjYtMDEvdmtjNmNk/X3N1bWl0LWthcG9v/cl82MjV4MzAwXzI5/X0phbnVhcnlfMjYu/anBnP2ltPUZpdEFu/ZEZpbGwsYWxnb3Jp/dGhtPWRubix3aWR0/aD0xMjAwLGhlaWdo/dD03Mzg
+2026-02-11 15:22:37,368 - main_worker - INFO - Indexing new evidence: evidence_d32c543f43c7
+2026-02-11 15:22:40,403 - main_worker - INFO - Indexing new evidence: evidence_7a254c9261b9
+2026-02-11 15:22:42,057 - main_worker - INFO - Indexing new evidence: evidence_4c86fa36a282
+2026-02-11 15:22:43,893 - main_worker - INFO - Indexing new evidence: evidence_f3c9f4397c7c
+2026-02-11 15:22:45,997 - main_worker - INFO - Indexing new evidence: evidence_b2bc276c6449
+2026-02-11 15:22:48,115 - main_worker - INFO - Indexing new evidence: evidence_0eb31a41cd96
+2026-02-11 15:22:49,170 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/AFpFErUNqMxJE9_Aq6dZUQDtKy9g4XvYVUmiCRyc9J8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjYtMDEvOTFnMnBq/Z2dfcGxhbmUtY3Jh/c2hfNjI1eDMwMF8y/OV9KYW51YXJ5XzI2/LmpwZWc. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/AFpFErUNqMxJE9_Aq6dZUQDtKy9g4XvYVUmiCRyc9J8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjYtMDEvOTFnMnBq/Z2dfcGxhbmUtY3Jh/c2hfNjI1eDMwMF8y/OV9KYW51YXJ5XzI2/LmpwZWc
+2026-02-11 15:22:50,268 - main_worker - INFO - Indexing new evidence: evidence_71138dfb53cb
+2026-02-11 15:22:53,933 - main_worker - INFO - Indexing new evidence: evidence_2bfe950f335c
+2026-02-11 15:22:54,813 - main_worker - INFO - Indexing new evidence: evidence_75a5d4838284
+2026-02-11 15:22:55,206 - main_worker - INFO - Extraction complete. Saved and indexed 9 new items.
+2026-02-11 15:23:06,372 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_e51e6440 (User: CAIR) ---
+2026-02-11 15:23:06,425 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_e51e6440'...
+2026-02-11 15:23:06,425 - main_worker - INFO - Initiating isolated search for query: query_e51e6440
+2026-02-11 15:23:25,938 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-11 15:23:25,955 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_e51e6440/evidence_metadata.json
+2026-02-11 15:23:26,074 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_e51e6440'...
+2026-02-11 15:24:33,221 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_e51e6440'
+2026-02-11 15:24:33,306 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_e51e6440'...
+2026-02-11 15:24:33,876 - main_worker - INFO - SUCCESS: Job for 'query_e51e6440' completed successfully.
+2026-02-11 15:24:33,876 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_e51e6440.job
+2026-02-11 15:29:01,465 - main_worker - INFO - Starting online evidence extraction for caption: 'When BJP flags start fluttering in China too, then...'
+2026-02-11 15:29:04,096 - main_worker - INFO - Indexing new evidence: evidence_e6919cfd2e50
+2026-02-11 15:29:05,424 - main_worker - INFO - Indexing new evidence: evidence_89911e698067
+2026-02-11 15:29:07,106 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/LyT2wAXLBumfu6AnuFiP1w684-08H3Hw5hxaJ6Tjwrs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cGV3cmVzZWFyY2gu/b3JnL2dsb2JhbC8y/MDIzLzA4LzI5L2lu/dGVybmF0aW9uYWwt/dmlld3Mtb2YtaW5k/aWEtYW5kLW1vZGkv. Reason: 422 Client Error: Unknown for url: https://imgs.search.brave.com/LyT2wAXLBumfu6AnuFiP1w684-08H3Hw5hxaJ6Tjwrs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cGV3cmVzZWFyY2gu/b3JnL2dsb2JhbC8y/MDIzLzA4LzI5L2lu/dGVybmF0aW9uYWwt/dmlld3Mtb2YtaW5k/aWEtYW5kLW1vZGkv
+2026-02-11 15:29:07,856 - main_worker - INFO - Indexing new evidence: evidence_2016693f953f
+2026-02-11 15:29:11,579 - main_worker - INFO - Indexing new evidence: evidence_2a73fc285c6b
+2026-02-11 15:29:12,524 - main_worker - INFO - Indexing new evidence: evidence_290061648a40
+2026-02-11 15:29:13,289 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/0tqXQPUr_Z2E9FsCBYLxqDUXDpNd7Uio5rRx1mbxN0E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bG93eWluc3RpdHV0/ZS5vcmdJbmRpYW4g/UHJpbWUgTWluaXN0/ZXIgTmFyZW5kcmEg/TW9kaSAoQykgYW5k/IENoaW5lc2UgUHJl/c2lkZW50IFhpIEpp/bnBpbmcgKFIpIHBv/c2UgZm9yIGEgZ3Jv/dXAgcGhvdG8gcHJp/b3IgdG8gdGhlaXIg/dHJpbGF0ZXJhbCBt/ZWV0aW5nIGF0IHRo/ZSBHMjAgT3Nha2Eg/U3VtbWl0IDIwMTku/JnF1b3Q7IHR5cGVv/Zj0mcXVvdDtmb2Fm/OkltYWdlJnF1b3Q7/IC8mZ3Q. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/0tqXQPUr_Z2E9FsCBYLxqDUXDpNd7Uio5rRx1mbxN0E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bG93eWluc3RpdHV0/ZS5vcmdJbmRpYW4g/UHJpbWUgTWluaXN0/ZXIgTmFyZW5kcmEg/TW9kaSAoQykgYW5k/IENoaW5lc2UgUHJl/c2lkZW50IFhpIEpp/bnBpbmcgKFIpIHBv/c2UgZm9yIGEgZ3Jv/dXAgcGhvdG8gcHJp/b3IgdG8gdGhlaXIg/dHJpbGF0ZXJhbCBt/ZWV0aW5nIGF0IHRo/ZSBHMjAgT3Nha2Eg/U3VtbWl0IDIwMTku/JnF1b3Q7IHR5cGVv/Zj0mcXVvdDtmb2Fm/OkltYWdlJnF1b3Q7/IC8mZ3Q
+2026-02-11 15:29:13,759 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/E5jUUwa1TLw0RfXbxZYJfxUgu52Qph5wkPqwwbQJVA8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL3RoZXF1aW50/LzIwMjUtMDktMjIv/OWh6eDFmYjIvS0hV/U0hJLVdRLU5FVy05/MS5qcGc_ICAgICAg/ICAgICAgICBhdXRv/PWZvcm1hdCxjb21w/cmVzcyZmbXQ9d2Vi/cCZmb3JtYXQ9d2Vi/cCZ3PTEyMDAmaD05/MDAmZHByPTEuMA. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/E5jUUwa1TLw0RfXbxZYJfxUgu52Qph5wkPqwwbQJVA8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL3RoZXF1aW50/LzIwMjUtMDktMjIv/OWh6eDFmYjIvS0hV/U0hJLVdRLU5FVy05/MS5qcGc_ICAgICAg/ICAgICAgICBhdXRv/PWZvcm1hdCxjb21w/cmVzcyZmbXQ9d2Vi/cCZmb3JtYXQ9d2Vi/cCZ3PTEyMDAmaD05/MDAmZHByPTEuMA
+2026-02-11 15:29:15,148 - main_worker - INFO - Indexing new evidence: evidence_5c3e00a4bdd5
+2026-02-11 15:29:18,673 - main_worker - INFO - Indexing new evidence: evidence_e21f13e8e131
+2026-02-11 15:29:19,005 - main_worker - INFO - Extraction complete. Saved and indexed 7 new items.
+2026-02-11 15:29:33,894 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_50dfdbc5 (User: CAIR) ---
+2026-02-11 15:29:33,947 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_50dfdbc5'...
+2026-02-11 15:29:33,948 - main_worker - INFO - Initiating isolated search for query: query_50dfdbc5
+2026-02-11 15:29:53,411 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-11 15:29:53,416 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_50dfdbc5/evidence_metadata.json
+2026-02-11 15:29:53,540 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_50dfdbc5'...
+2026-02-11 15:31:01,193 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_50dfdbc5'
+2026-02-11 15:31:01,263 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_50dfdbc5'...
+2026-02-11 15:31:02,157 - main_worker - INFO - SUCCESS: Job for 'query_50dfdbc5' completed successfully.
+2026-02-11 15:31:02,158 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_50dfdbc5.job
+2026-02-11 15:31:55,507 - main_worker - INFO - Starting online evidence extraction for caption: 'India faces further delay in getting final S-400 R...'
+2026-02-11 15:32:12,163 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_8baf5aa4 (User: CAIR) ---
+2026-02-11 15:32:12,226 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_8baf5aa4'...
+2026-02-11 15:32:12,227 - main_worker - INFO - Initiating isolated search for query: query_8baf5aa4
+2026-02-11 15:32:31,906 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-11 15:32:31,908 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_8baf5aa4/evidence_metadata.json
+2026-02-11 15:32:32,052 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_8baf5aa4'...
+2026-02-11 15:32:54,434 - main_worker - INFO - Starting online evidence extraction for caption: 'India faces further delay in getting final S-400 R...'
+2026-02-11 15:32:58,079 - main_worker - INFO - Indexing new evidence: evidence_cf2f299e3bdd
+2026-02-11 15:32:59,036 - main_worker - INFO - Indexing new evidence: evidence_6dbd81e11a81
+2026-02-11 15:33:02,421 - main_worker - INFO - Indexing new evidence: evidence_06a5c8f6268f
+2026-02-11 15:33:03,293 - main_worker - INFO - Indexing new evidence: evidence_935d4c4b3bd7
+2026-02-11 15:33:05,589 - main_worker - INFO - Indexing new evidence: evidence_51d8a9ae6e17
+2026-02-11 15:33:07,589 - main_worker - INFO - Indexing new evidence: evidence_0d3cc5853838
+2026-02-11 15:33:08,821 - main_worker - INFO - Indexing new evidence: evidence_4356d4e21f28
+2026-02-11 15:33:11,250 - main_worker - INFO - Indexing new evidence: evidence_17ef89f0329d
+2026-02-11 15:33:12,611 - main_worker - INFO - Indexing new evidence: evidence_4c7e22619fdb
+2026-02-11 15:33:13,112 - main_worker - INFO - Indexing new evidence: evidence_046a23391db2
+2026-02-11 15:33:15,229 - main_worker - INFO - Indexing new evidence: evidence_b81b5b4fa581
+2026-02-11 15:33:15,541 - main_worker - INFO - Extraction complete. Saved and indexed 11 new items.
+2026-02-11 15:33:26,168 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_8baf5aa4'
+2026-02-11 15:33:26,271 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_8baf5aa4'...
+2026-02-11 15:33:26,592 - main_worker - INFO - SUCCESS: Job for 'query_8baf5aa4' completed successfully.
+2026-02-11 15:33:26,593 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_8baf5aa4.job
+2026-02-11 15:33:26,593 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_d6ec221b (User: CAIR) ---
+2026-02-11 15:33:26,653 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_d6ec221b'...
+2026-02-11 15:33:26,654 - main_worker - INFO - Initiating isolated search for query: query_d6ec221b
+2026-02-11 15:33:45,862 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-11 15:33:45,865 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_d6ec221b/evidence_metadata.json
+2026-02-11 15:33:46,093 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_d6ec221b'...
+2026-02-11 15:34:48,597 - main_worker - INFO - INFO: Verdict 'Real' saved for query 'query_d6ec221b'
+2026-02-11 15:34:48,778 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_d6ec221b'...
+2026-02-11 15:34:49,121 - main_worker - INFO - SUCCESS: Job for 'query_d6ec221b' completed successfully.
+2026-02-11 15:34:49,122 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_d6ec221b.job
+2026-02-11 15:38:00,341 - main_worker - INFO - Starting online evidence extraction for caption: 'RBI New Rule, now banks will remain closed on ever...'
+2026-02-11 15:38:02,534 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/mEwQAkM94RvV-P1qJElRrjA87AVK68BzdecvEUM0I5Q/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pY2Vj/c3AuaW4vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjUvMTIvMjAy/NTA5MDJfMTI1NDUx/LmpwZw. Reason: 422 Client Error: Unknown for url: https://imgs.search.brave.com/mEwQAkM94RvV-P1qJElRrjA87AVK68BzdecvEUM0I5Q/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pY2Vj/c3AuaW4vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjUvMTIvMjAy/NTA5MDJfMTI1NDUx/LmpwZw
+2026-02-11 15:38:02,966 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/AeVoXNicx5LPQOm1T7A_dHpGCqFvHLFl6sZKMtnfrms/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL3RoZXF1aW50/LzIwMjUtMTAtMjkv/YW1kMWp5OWMvS0hV/U0hJLVdRLU5FVy0y/MDI1LTEwLTI5VDEy/MDg0My45MDEuanBn/PyAgICAgICAgICAg/ICAgYXV0bz1mb3Jt/YXQsY29tcHJlc3Mm/Zm10PXdlYnAmZm9y/bWF0PXdlYnAmdz0x/MjAwJmg9OTAwJmRw/cj0xLjA. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/AeVoXNicx5LPQOm1T7A_dHpGCqFvHLFl6sZKMtnfrms/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL3RoZXF1aW50/LzIwMjUtMTAtMjkv/YW1kMWp5OWMvS0hV/U0hJLVdRLU5FVy0y/MDI1LTEwLTI5VDEy/MDg0My45MDEuanBn/PyAgICAgICAgICAg/ICAgYXV0bz1mb3Jt/YXQsY29tcHJlc3Mm/Zm10PXdlYnAmZm9y/bWF0PXdlYnAmdz0x/MjAwJmg9OTAwJmRw/cj0xLjA
+2026-02-11 15:38:04,497 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/cG63qv98NBwUcZvmNJH4Sk4nQDE25uMhcKrBWxCtWqc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bmV3c21vYmlsZS5p/bi93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NS8wOS9CYW5rLUhv/bGlkYXktRkMuanBn. Reason: 422 Client Error: Unknown for url: https://imgs.search.brave.com/cG63qv98NBwUcZvmNJH4Sk4nQDE25uMhcKrBWxCtWqc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bmV3c21vYmlsZS5p/bi93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NS8wOS9CYW5rLUhv/bGlkYXktRkMuanBn
+2026-02-11 15:38:05,552 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/Ejpdm5BX_0KOGXs71fq3-sdZnRWWFHO3-t_tedfzUI4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kcnBy/aXlhbmthYW5hcmth/dC5jby5pbi93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyNS8xMi9C/YW5rLU5ldy1SdWxl/LmpwZw. Reason: 500 Server Error: Internal Server Error for url: https://imgs.search.brave.com/Ejpdm5BX_0KOGXs71fq3-sdZnRWWFHO3-t_tedfzUI4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kcnBy/aXlhbmthYW5hcmth/dC5jby5pbi93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyNS8xMi9C/YW5rLU5ldy1SdWxl/LmpwZw
+2026-02-11 15:38:06,579 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/32UpxCLwjK-WP4SXSJDK0HCamrl9JVv2nZ-jcCxhH4I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ybnNz/cGdjb2xsZWdlLm9y/Zy5pbi93cC1jb250/ZW50L3VwbG9hZHMv/MjAyNS8xMi9CYW5r/LU5ldy1SdWxlLTMu/anBn. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/32UpxCLwjK-WP4SXSJDK0HCamrl9JVv2nZ-jcCxhH4I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ybnNz/cGdjb2xsZWdlLm9y/Zy5pbi93cC1jb250/ZW50L3VwbG9hZHMv/MjAyNS8xMi9CYW5r/LU5ldy1SdWxlLTMu/anBn
+2026-02-11 15:38:07,577 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/W-PhExkZeeHzsFL43NGBvI75siEUWK351rFUk3pyZJQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9wcndl/YXJlLmluL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI2LzAxL05l/dy1CYW5raW5nLUhv/bGlkYXktUnVsZS5q/cGc. Reason: 500 Server Error: Internal Server Error for url: https://imgs.search.brave.com/W-PhExkZeeHzsFL43NGBvI75siEUWK351rFUk3pyZJQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9wcndl/YXJlLmluL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI2LzAxL05l/dy1CYW5raW5nLUhv/bGlkYXktUnVsZS5q/cGc
+2026-02-11 15:38:08,614 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/NVsorxLGGuTa4kl9_Jn0iSRBl8UN8GtcVZ-40rNx2KQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yYWpk/aGFuaXN1cmdpY2Fs/cy5jby5pbi93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyNS8xMi9C/YW5rLU5ldy1SdWxl/LmpwZw. Reason: 500 Server Error: Internal Server Error for url: https://imgs.search.brave.com/NVsorxLGGuTa4kl9_Jn0iSRBl8UN8GtcVZ-40rNx2KQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yYWpk/aGFuaXN1cmdpY2Fs/cy5jby5pbi93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyNS8xMi9C/YW5rLU5ldy1SdWxl/LmpwZw
+2026-02-11 15:38:09,860 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/2yeqO6N45CYhgD3Wm0UJTCxQtUqtTCiZSXXIaJbHMQ0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kcnJh/dmlzaW5naC5pbi93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8x/Mi8yMDI1MTIzMF8x/MDM5MjUuanBn. Reason: 500 Server Error: Internal Server Error for url: https://imgs.search.brave.com/2yeqO6N45CYhgD3Wm0UJTCxQtUqtTCiZSXXIaJbHMQ0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kcnJh/dmlzaW5naC5pbi93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8x/Mi8yMDI1MTIzMF8x/MDM5MjUuanBn
+2026-02-11 15:38:10,435 - main_worker - INFO - Indexing new evidence: evidence_1f61017888c8
+2026-02-11 15:38:10,835 - main_worker - INFO - Extraction complete. Saved and indexed 1 new items.
+2026-02-11 15:38:24,135 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_d550e4a6 (User: CAIR) ---
+2026-02-11 15:38:24,177 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_d550e4a6'...
+2026-02-11 15:38:24,177 - main_worker - INFO - Initiating isolated search for query: query_d550e4a6
+2026-02-11 15:38:43,552 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-11 15:38:43,555 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_d550e4a6/evidence_metadata.json
+2026-02-11 15:38:43,682 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_d550e4a6'...
+2026-02-11 15:39:29,897 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_d550e4a6'
+2026-02-11 15:39:30,005 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_d550e4a6'...
+2026-02-11 15:39:30,525 - main_worker - INFO - SUCCESS: Job for 'query_d550e4a6' completed successfully.
+2026-02-11 15:39:30,526 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_d550e4a6.job
+2026-02-11 15:58:05,588 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_188756b0 (User: CAIR) ---
+2026-02-11 15:58:05,628 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_188756b0'...
+2026-02-11 15:58:05,629 - main_worker - INFO - Initiating isolated search for query: query_188756b0
+2026-02-11 15:58:24,709 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-11 15:58:24,714 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_188756b0/evidence_metadata.json
+2026-02-11 15:58:24,881 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_188756b0'...
+2026-02-11 15:59:32,095 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_188756b0'
+2026-02-11 15:59:32,176 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_188756b0'...
+2026-02-11 15:59:32,828 - main_worker - INFO - SUCCESS: Job for 'query_188756b0' completed successfully.
+2026-02-11 15:59:32,829 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_188756b0.job
+2026-02-11 16:52:31,576 - main_worker - INFO - Multiprocessing start method set to 'spawn' for CUDA safety.
+2026-02-11 16:52:31,576 - main_worker - INFO - --- Starting Main Worker ---
+2026-02-11 16:52:31,576 - main_worker - INFO - Watching for jobs in: /data/asca/FND_mini/agentic_workspace/.system/job_queue
+2026-02-11 16:57:03,505 - main_worker - INFO - --- Starting BoomLive Scraper & Indexer Pipeline ---
+2026-02-11 16:57:03,505 - main_worker - INFO - Fetching article links from: https://www.boomlive.in/fact-check
+2026-02-11 16:57:04,152 - main_worker - INFO - Found 15 article links.
+2026-02-11 16:57:04,256 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-video-torture-pregnant-minors-epstein-files-claim-fact-check-30656
+2026-02-11 16:57:04,257 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-mira-road-flyover-bus-stuck-ai-generated-factcheck-30657
+2026-02-11 16:57:04,257 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-photo-uae-president-mohamed-bin-zayed-al-nahyan-mbz-photo-epstein-files-laim-fact-check-30644
+2026-02-11 16:57:04,257 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-viral-screenshot-modi-jashodaben-statement-modi-destroyed-evidence-marriage-factcheck-30661
+2026-02-11 16:57:04,257 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/800-missing-persons-delhi-january-2026-misleading-claim-police-data-30652
+2026-02-11 16:57:04,257 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-video-union-finance-minister-nirmala-sitharaman-investment-platform-claim-fact-check-30639
+2026-02-11 16:57:04,257 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-media-release-icc-pakistan-banned-one-year-icc-t20-world-cup-factcheck-30637
+2026-02-11 16:57:04,257 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/zohran-mamdani-mira-nair-epstein-ai-photos-fake-30635
+2026-02-11 16:57:04,257 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-photo-pakistan-cricket-team-sri-lanka-welcome-crowd-claim-fact-check-30630
+2026-02-11 16:57:04,258 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-video-christianity-jesus-christ-prime-minister-narendra-modi-claim-fact-check-30625
+2026-02-11 16:57:04,258 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/fake-news-viral-photo-captain-sumit-kapur-ajit-pawar-plane-crash-baramati-photo-factcheck-30617
+2026-02-11 16:57:04,796 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/02/02/1053637-this-is-not-pilot.jpg
+2026-02-11 16:57:04,799 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_d26d23f847
+2026-02-11 16:57:10,655 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/august-2024-kolkata-student-rally-falsely-linked-to-recent-ugc-protests-30594
+2026-02-11 16:57:10,655 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/torch-rally-bjp-government-ugc-new-rules-protest-viral-video-old-fact-check-30591
+2026-02-11 16:57:10,655 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fact-check2025-raipur-congress-protest-video-modi-shah-poster-ink-ugc-claim-false-30588
+2026-02-11 16:57:10,656 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-video-protest-burning-effigies-pm-modi-home-minister-amit-shah-ugc-new-rules-claim-fact-check-30584
+2026-02-11 16:57:10,658 - main_worker - INFO - --- Starting BoomLive Scraper & Indexer Pipeline ---
+2026-02-11 16:57:10,658 - main_worker - INFO - Fetching article links from: https://www.boomlive.in/fact-check
+2026-02-11 16:57:10,962 - main_worker - INFO - Found 15 article links.
+2026-02-11 16:57:10,977 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-video-torture-pregnant-minors-epstein-files-claim-fact-check-30656
+2026-02-11 16:57:10,977 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-mira-road-flyover-bus-stuck-ai-generated-factcheck-30657
+2026-02-11 16:57:10,977 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-photo-uae-president-mohamed-bin-zayed-al-nahyan-mbz-photo-epstein-files-laim-fact-check-30644
+2026-02-11 16:57:10,977 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-viral-screenshot-modi-jashodaben-statement-modi-destroyed-evidence-marriage-factcheck-30661
+2026-02-11 16:57:10,977 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/800-missing-persons-delhi-january-2026-misleading-claim-police-data-30652
+2026-02-11 16:57:10,977 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-video-union-finance-minister-nirmala-sitharaman-investment-platform-claim-fact-check-30639
+2026-02-11 16:57:10,977 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-media-release-icc-pakistan-banned-one-year-icc-t20-world-cup-factcheck-30637
+2026-02-11 16:57:10,977 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/zohran-mamdani-mira-nair-epstein-ai-photos-fake-30635
+2026-02-11 16:57:10,977 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-photo-pakistan-cricket-team-sri-lanka-welcome-crowd-claim-fact-check-30630
+2026-02-11 16:57:10,977 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-video-christianity-jesus-christ-prime-minister-narendra-modi-claim-fact-check-30625
+2026-02-11 16:57:10,977 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-viral-photo-captain-sumit-kapur-ajit-pawar-plane-crash-baramati-photo-factcheck-30617
+2026-02-11 16:57:10,977 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/august-2024-kolkata-student-rally-falsely-linked-to-recent-ugc-protests-30594
+2026-02-11 16:57:10,977 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/torch-rally-bjp-government-ugc-new-rules-protest-viral-video-old-fact-check-30591
+2026-02-11 16:57:10,977 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fact-check2025-raipur-congress-protest-video-modi-shah-poster-ink-ugc-claim-false-30588
+2026-02-11 16:57:10,977 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-video-protest-burning-effigies-pm-modi-home-minister-amit-shah-ugc-new-rules-claim-fact-check-30584
+2026-02-12 11:39:04,353 - main_worker - INFO - Multiprocessing start method set to 'spawn' for CUDA safety.
+2026-02-12 11:39:04,354 - main_worker - INFO - --- Starting Main Worker ---
+2026-02-12 11:39:04,354 - main_worker - INFO - Watching for jobs in: /data/asca/FND_mini/agentic_workspace/.system/job_queue
+2026-02-12 11:39:44,356 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_36113fa7 (User: CAIR) ---
+2026-02-12 11:39:44,398 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_36113fa7'...
+2026-02-12 11:39:44,399 - main_worker - INFO - Initiating isolated search for query: query_36113fa7
+2026-02-12 11:40:04,279 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-12 11:40:04,284 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_36113fa7/evidence_metadata.json
+2026-02-12 11:40:04,512 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_36113fa7'...
+2026-02-12 11:42:55,621 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_36113fa7'
+2026-02-12 11:42:55,686 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_36113fa7'...
+2026-02-12 11:42:56,404 - main_worker - INFO - SUCCESS: Job for 'query_36113fa7' completed successfully.
+2026-02-12 11:42:56,404 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_36113fa7.job
+2026-02-12 11:45:00,358 - main_worker - INFO - Multiprocessing start method set to 'spawn' for CUDA safety.
+2026-02-12 11:45:00,358 - main_worker - INFO - --- Starting Main Worker ---
+2026-02-12 11:45:00,358 - main_worker - INFO - Watching for jobs in: /data/asca/FND_mini/agentic_workspace/.system/job_queue
+2026-02-12 11:49:15,374 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_4827ae2a (User: CAIR) ---
+2026-02-12 11:49:15,409 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_4827ae2a'...
+2026-02-12 11:49:15,410 - main_worker - INFO - Initiating isolated search for query: query_4827ae2a
+2026-02-12 11:49:34,271 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-12 11:49:34,275 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_4827ae2a/evidence_metadata.json
+2026-02-12 11:49:34,379 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_4827ae2a'...
+2026-02-12 11:52:32,619 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_4827ae2a'
+2026-02-12 11:52:32,679 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_4827ae2a'...
+2026-02-12 11:52:33,412 - main_worker - INFO - SUCCESS: Job for 'query_4827ae2a' completed successfully.
+2026-02-12 11:52:33,413 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_4827ae2a.job
+2026-02-12 14:22:17,539 - main_worker - INFO - Multiprocessing start method set to 'spawn' for CUDA safety.
+2026-02-12 14:22:17,540 - main_worker - INFO - --- Starting Main Worker ---
+2026-02-12 14:22:17,540 - main_worker - INFO - Watching for jobs in: /data/asca/FND_mini/agentic_workspace/.system/job_queue
+2026-02-12 14:24:41,455 - main_worker - INFO - Starting online evidence extraction for caption: 'Narendra Modi riding a horse to BJP political rall...'
+2026-02-12 14:24:43,455 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/MLZjZ85xhJ2gNStgiLatTdSRgapYkroGhRIrPY90Lfc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YmpwLm9yZy9maWxl/cy9pbmxpbmUtaW1h/Z2VzL2JqcGxvZ28u/anBlZw. Reason: 500 Server Error: Internal Server Error for url: https://imgs.search.brave.com/MLZjZ85xhJ2gNStgiLatTdSRgapYkroGhRIrPY90Lfc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YmpwLm9yZy9maWxl/cy9pbmxpbmUtaW1h/Z2VzL2JqcGxvZ28u/anBlZw
+2026-02-12 14:24:45,218 - main_worker - INFO - Indexing new evidence: evidence_1e1f02164249
+2026-02-12 14:25:02,325 - main_worker - INFO - Indexing new evidence: evidence_db502c5cc509
+2026-02-12 14:25:03,923 - main_worker - INFO - Indexing new evidence: evidence_465f227867f3
+2026-02-12 14:25:06,367 - main_worker - INFO - Indexing new evidence: evidence_3143bf4b44cb
+2026-02-12 14:25:07,465 - main_worker - INFO - Indexing new evidence: evidence_ffbd2338f8df
+2026-02-12 14:25:08,871 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/MLZjZ85xhJ2gNStgiLatTdSRgapYkroGhRIrPY90Lfc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YmpwLm9yZy9maWxl/cy9pbmxpbmUtaW1h/Z2VzL2JqcGxvZ28u/anBlZw. Reason: 500 Server Error: Internal Server Error for url: https://imgs.search.brave.com/MLZjZ85xhJ2gNStgiLatTdSRgapYkroGhRIrPY90Lfc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YmpwLm9yZy9maWxl/cy9pbmxpbmUtaW1h/Z2VzL2JqcGxvZ28u/anBlZw
+2026-02-12 14:25:10,025 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/MLZjZ85xhJ2gNStgiLatTdSRgapYkroGhRIrPY90Lfc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YmpwLm9yZy9maWxl/cy9pbmxpbmUtaW1h/Z2VzL2JqcGxvZ28u/anBlZw. Reason: 500 Server Error: Internal Server Error for url: https://imgs.search.brave.com/MLZjZ85xhJ2gNStgiLatTdSRgapYkroGhRIrPY90Lfc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YmpwLm9yZy9maWxl/cy9pbmxpbmUtaW1h/Z2VzL2JqcGxvZ28u/anBlZw
+2026-02-12 14:25:10,028 - main_worker - INFO - Extraction complete. Saved and indexed 5 new items.
+2026-02-12 15:00:03,870 - main_worker - INFO - Multiprocessing start method set to 'spawn' for CUDA safety.
+2026-02-12 15:00:03,870 - main_worker - INFO - --- Starting Main Worker ---
+2026-02-12 15:00:03,870 - main_worker - INFO - Watching for jobs in: /data/asca/FND_mini/agentic_workspace/.system/job_queue
+2026-02-12 15:00:43,873 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_c8aaef9b (User: CAIR) ---
+2026-02-12 15:00:43,920 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_c8aaef9b'...
+2026-02-12 15:00:43,921 - main_worker - INFO - Initiating isolated search for query: query_c8aaef9b
+2026-02-12 15:01:02,630 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-12 15:01:02,637 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_c8aaef9b/evidence_metadata.json
+2026-02-12 15:01:02,864 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_c8aaef9b'...
+2026-02-12 15:03:56,997 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_c8aaef9b'
+2026-02-12 15:03:57,184 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_c8aaef9b'...
+2026-02-12 15:03:58,033 - main_worker - INFO - SUCCESS: Job for 'query_c8aaef9b' completed successfully.
+2026-02-12 15:03:58,033 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_c8aaef9b.job
+2026-02-12 17:00:33,470 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_b98e17fc (User: CAIR) ---
+2026-02-12 17:00:33,516 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_b98e17fc'...
+2026-02-12 17:00:33,517 - main_worker - INFO - Initiating isolated search for query: query_b98e17fc
+2026-02-12 17:00:53,647 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-12 17:00:53,651 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_b98e17fc/evidence_metadata.json
+2026-02-12 17:00:53,810 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_b98e17fc'...
+2026-02-12 17:01:59,077 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_b98e17fc'
+2026-02-12 17:01:59,150 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_b98e17fc'...
+2026-02-12 17:01:59,809 - main_worker - INFO - SUCCESS: Job for 'query_b98e17fc' completed successfully.
+2026-02-12 17:01:59,810 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_b98e17fc.job
+2026-02-13 02:49:59,539 - main_worker - INFO - Multiprocessing start method set to 'spawn' for CUDA safety.
+2026-02-13 02:49:59,539 - main_worker - INFO - --- Starting Main Worker ---
+2026-02-13 02:49:59,539 - main_worker - INFO - Watching for jobs in: /data/asca/FND_mini/agentic_workspace/.system/job_queue
+2026-02-13 02:51:38,044 - main_worker - INFO - Starting online evidence extraction for caption: ' Amidst snowfall in Manali The situation is extrem...'
+2026-02-13 02:51:43,365 - main_worker - INFO - Indexing new evidence: evidence_98b8514b1347
+2026-02-13 02:51:48,442 - main_worker - INFO - Indexing new evidence: evidence_57c50f491e2d
+2026-02-13 02:51:49,355 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/ocLwU2P5vCR2jk4wcoG_LmKrG5hJ1BO33bpbZXh3IpM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjYtMDEvZmFsam42/N3NfbWFuYWxpLXRy/YWZmaWNfNjI1eDMw/MF8yNV9KYW51YXJ5/XzI2LmpwZWc. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/ocLwU2P5vCR2jk4wcoG_LmKrG5hJ1BO33bpbZXh3IpM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjYtMDEvZmFsam42/N3NfbWFuYWxpLXRy/YWZmaWNfNjI1eDMw/MF8yNV9KYW51YXJ5/XzI2LmpwZWc
+2026-02-13 02:51:49,886 - main_worker - INFO - Indexing new evidence: evidence_9b014f6e5225
+2026-02-13 02:51:52,995 - main_worker - INFO - Indexing new evidence: evidence_9ab55b754f9a
+2026-02-13 02:51:54,544 - main_worker - INFO - Indexing new evidence: evidence_4dffd7e3ae59
+2026-02-13 02:51:55,524 - main_worker - INFO - Indexing new evidence: evidence_a64f94192d06
+2026-02-13 02:51:56,887 - main_worker - INFO - Indexing new evidence: evidence_fb3800451325
+2026-02-13 02:51:58,390 - main_worker - INFO - Indexing new evidence: evidence_76dbdc127dd2
+2026-02-13 02:52:00,741 - main_worker - INFO - Indexing new evidence: evidence_62848a5f4c2d
+2026-02-13 02:52:03,314 - main_worker - INFO - Indexing new evidence: evidence_87c009d30e2a
+2026-02-13 02:52:04,063 - main_worker - INFO - Indexing new evidence: evidence_c5377890f43c
+2026-02-13 02:52:04,492 - main_worker - INFO - Extraction complete. Saved and indexed 11 new items.
+2026-02-13 02:52:19,548 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_30732333 (User: CAIR) ---
+2026-02-13 02:52:19,598 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_30732333'...
+2026-02-13 02:52:19,599 - main_worker - INFO - Initiating isolated search for query: query_30732333
+2026-02-13 02:52:38,665 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-13 02:52:38,669 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_30732333/evidence_metadata.json
+2026-02-13 02:52:38,782 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_30732333'...
+2026-02-13 02:53:06,319 - main_worker - INFO - Starting online evidence extraction for caption: ' Hindus in Bangladesh and Pakistan appealing to In...'
+2026-02-13 02:53:08,384 - main_worker - INFO - Indexing new evidence: evidence_316470253fee
+2026-02-13 02:53:10,598 - main_worker - INFO - Indexing new evidence: evidence_43b27300d2ad
+2026-02-13 02:53:12,881 - main_worker - INFO - Indexing new evidence: evidence_d15141fde97d
+2026-02-13 02:53:15,873 - main_worker - INFO - Indexing new evidence: evidence_7af5c260b3b2
+2026-02-13 02:53:16,833 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/k9z2zQtDjiIhi38NlwnK4cRB5G_zKLEwKMbGBf6rZjc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taW5v/cml0eXJpZ2h0cy5v/cmcvYXBwL3VwbG9h/ZHMvMjAyNC8wMy9i/YW5nbGFkZXNoLnBu/Zy5wbmc. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/k9z2zQtDjiIhi38NlwnK4cRB5G_zKLEwKMbGBf6rZjc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taW5v/cml0eXJpZ2h0cy5v/cmcvYXBwL3VwbG9h/ZHMvMjAyNC8wMy9i/YW5nbGFkZXNoLnBu/Zy5wbmc
+2026-02-13 02:53:17,630 - main_worker - INFO - Indexing new evidence: evidence_d2583063ccb7
+2026-02-13 02:53:18,531 - main_worker - INFO - Indexing new evidence: evidence_1d263e111d5d
+2026-02-13 02:53:20,800 - main_worker - INFO - Indexing new evidence: evidence_6d161dea1f9d
+2026-02-13 02:53:22,532 - main_worker - INFO - Indexing new evidence: evidence_f46cb7ce22d5
+2026-02-13 02:53:23,509 - main_worker - INFO - Indexing new evidence: evidence_6fa6809f8e42
+2026-02-13 02:53:23,879 - main_worker - INFO - Extraction complete. Saved and indexed 9 new items.
+2026-02-13 02:55:27,271 - main_worker - INFO - Starting online evidence extraction for caption: 'A shocking case has come to light in Pakistan wher...'
+2026-02-13 02:55:28,831 - main_worker - INFO - Indexing new evidence: evidence_d9cffa630278
+2026-02-13 02:55:29,583 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/-ui4buPv_K7D9dM_cE52S2pok3eELhrFjwjV6ieYb9k/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL3RoZXF1aW50/LzIwMjUtMDktMTAv/MjAxZ2pyNWwvS0hV/U0hJLVdRLU5FVy0y/LTEuanBnPyAgICAg/ICAgICAgICAgYXV0/bz1mb3JtYXQsY29t/cHJlc3MmZm10PXdl/YnAmZm9ybWF0PXdl/YnAmdz0xMjAwJmg9/OTAwJmRwcj0xLjA. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/-ui4buPv_K7D9dM_cE52S2pok3eELhrFjwjV6ieYb9k/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL3RoZXF1aW50/LzIwMjUtMDktMTAv/MjAxZ2pyNWwvS0hV/U0hJLVdRLU5FVy0y/LTEuanBnPyAgICAg/ICAgICAgICAgYXV0/bz1mb3JtYXQsY29t/cHJlc3MmZm10PXdl/YnAmZm9ybWF0PXdl/YnAmdz0xMjAwJmg9/OTAwJmRwcj0xLjA
+2026-02-13 02:55:29,710 - main_worker - INFO - INFO: Verdict 'Real' saved for query 'query_30732333'
+2026-02-13 02:55:29,793 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_30732333'...
+2026-02-13 02:55:29,809 - main_worker - INFO - Indexing new evidence: evidence_d0ee0fa39789
+2026-02-13 02:55:30,405 - main_worker - INFO - Indexing new evidence: evidence_f2dcb735fb9e
+2026-02-13 02:55:30,776 - main_worker - INFO - SUCCESS: Job for 'query_30732333' completed successfully.
+2026-02-13 02:55:30,777 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_30732333.job
+2026-02-13 02:55:30,777 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_c879f5fc (User: CAIR) ---
+2026-02-13 02:55:30,913 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_c879f5fc'...
+2026-02-13 02:55:30,914 - main_worker - INFO - Initiating isolated search for query: query_c879f5fc
+2026-02-13 02:55:31,096 - main_worker - INFO - Indexing new evidence: evidence_d11f31d5e316
+2026-02-13 02:55:32,060 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/TyVM6ebvWbt_vcNGlNGPG7o5DO1SoK9v70rL70tQHBE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbnN0/YWdyYW0uZnNsYzMt/Mi5mbmEuZmJjZG4u/bmV0L3YvdDUxLjI4/ODUtMTUvNTM5NjU1/NzE3XzY2ODY3ODgy/OTU5MzA2Ml84MDc2/MjUxMjAwNjc4MDcy/Mzc1X24uanBnP3N0/cD1kc3QtanBnX2Ux/NV90dDYmYW1wO2Vm/Zz1leUoyWlc1amIy/UmxYM1JoWnlJNklu/Um9jbVZoWkhNdVJr/VkZSQzVwYldGblpW/OTFjbXhuWlc0dU5q/UXdlREV4TXpndWMy/UnlMbVkzTVRnM09D/NWtaV1poZFd4MFgy/TnZkbVZ5WDJaeVlX/MWxMbU15SW4wJmFt/cDtfbmNfaHQ9aW5z/dGFncmFtLmZzbGMz/LTIuZm5hLmZiY2Ru/Lm5ldCZhbXA7X25j/X2NhdD0xMTAmYW1w/O19uY19vYz1RNmNa/MlFHTloyd1AtX3Fn/d3MxUFRSUS1TUkFC/cWRjZ2p0Vzd4eU5z/S1JNTmRmSEZzYmRj/UDVQMW1LQnZHSWdI/aC1WcmxNVSZhbXA7/X25jX29oYz0tT05R/V1dCMWRyc1E3a052/d0cwUDNyYiZhbXA7/X25jX2dpZD1ac2dr/Qi13bDFnR3hZNjIt/T3VGWndRJmFtcDtl/ZG09QVBzMTdDVUJB/QUFBJmFtcDtjY2I9/Ny01JmFtcDtpZ19j/YWNoZV9rZXk9TXpj/d09UUTBNRGMwTkRN/M09ETTBPVFk1TWcl/M0QlM0QuMy1jY2I3/LTUmYW1wO29oPTAw/X0FmYmdUNVdzd0I4/UlhfSGJTd09acnRU/VF9EdlhQeldDeTNi/ajJ2YVVoRHlNa3cm/YW1wO29lPTY4RDMy/NTdEJmFtcDtfbmNf/c2lkPTEwZDEzYg. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/TyVM6ebvWbt_vcNGlNGPG7o5DO1SoK9v70rL70tQHBE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbnN0/YWdyYW0uZnNsYzMt/Mi5mbmEuZmJjZG4u/bmV0L3YvdDUxLjI4/ODUtMTUvNTM5NjU1/NzE3XzY2ODY3ODgy/OTU5MzA2Ml84MDc2/MjUxMjAwNjc4MDcy/Mzc1X24uanBnP3N0/cD1kc3QtanBnX2Ux/NV90dDYmYW1wO2Vm/Zz1leUoyWlc1amIy/UmxYM1JoWnlJNklu/Um9jbVZoWkhNdVJr/VkZSQzVwYldGblpW/OTFjbXhuWlc0dU5q/UXdlREV4TXpndWMy/UnlMbVkzTVRnM09D/NWtaV1poZFd4MFgy/TnZkbVZ5WDJaeVlX/MWxMbU15SW4wJmFt/cDtfbmNfaHQ9aW5z/dGFncmFtLmZzbGMz/LTIuZm5hLmZiY2Ru/Lm5ldCZhbXA7X25j/X2NhdD0xMTAmYW1w/O19uY19vYz1RNmNa/MlFHTloyd1AtX3Fn/d3MxUFRSUS1TUkFC/cWRjZ2p0Vzd4eU5z/S1JNTmRmSEZzYmRj/UDVQMW1LQnZHSWdI/aC1WcmxNVSZhbXA7/X25jX29oYz0tT05R/V1dCMWRyc1E3a052/d0cwUDNyYiZhbXA7/X25jX2dpZD1ac2dr/Qi13bDFnR3hZNjIt/T3VGWndRJmFtcDtl/ZG09QVBzMTdDVUJB/QUFBJmFtcDtjY2I9/Ny01JmFtcDtpZ19j/YWNoZV9rZXk9TXpj/d09UUTBNRGMwTkRN/M09ETTBPVFk1TWcl/M0QlM0QuMy1jY2I3/LTUmYW1wO29oPTAw/X0FmYmdUNVdzd0I4/UlhfSGJTd09acnRU/VF9EdlhQeldDeTNi/ajJ2YVVoRHlNa3cm/YW1wO29lPTY4RDMy/NTdEJmFtcDtfbmNf/c2lkPTEwZDEzYg
+2026-02-13 02:55:32,258 - main_worker - INFO - Indexing new evidence: evidence_05b40dc398dc
+2026-02-13 02:55:32,822 - main_worker - INFO - Indexing new evidence: evidence_e4b00f184fc0
+2026-02-13 02:55:34,980 - main_worker - INFO - Indexing new evidence: evidence_ab5aa3d6adff
+2026-02-13 02:55:35,411 - main_worker - INFO - Extraction complete. Saved and indexed 7 new items.
+2026-02-13 02:55:51,887 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-13 02:55:51,891 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_c879f5fc/evidence_metadata.json
+2026-02-13 02:55:52,039 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_c879f5fc'...
+2026-02-13 02:57:00,646 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_c879f5fc'
+2026-02-13 02:57:00,743 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_c879f5fc'...
+2026-02-13 02:57:01,267 - main_worker - INFO - SUCCESS: Job for 'query_c879f5fc' completed successfully.
+2026-02-13 02:57:01,267 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_c879f5fc.job
+2026-02-13 02:57:01,268 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_b3c89ea6 (User: CAIR) ---
+2026-02-13 02:57:01,349 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_b3c89ea6'...
+2026-02-13 02:57:01,349 - main_worker - INFO - Initiating isolated search for query: query_b3c89ea6
+2026-02-13 02:57:20,942 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-13 02:57:20,947 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_b3c89ea6/evidence_metadata.json
+2026-02-13 02:57:21,101 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_b3c89ea6'...
+2026-02-13 02:57:43,261 - main_worker - INFO - Starting online evidence extraction for caption: ' CAPT. SUMIT KAPOOR, WHO WAS PILOTING AJIT PAWAR'S...'
+2026-02-13 02:57:45,015 - main_worker - WARNING - Failed to download or save evidence from https://imgs.search.brave.com/W5HsYkb5xHDdA09XB3pNs3_3CaXCXtwaFwklvO76YH0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjYtMDEvdmtjNmNk/X3N1bWl0LWthcG9v/cl82MjV4MzAwXzI5/X0phbnVhcnlfMjYu/anBnP2ltPUZpdEFu/ZEZpbGwsYWxnb3Jp/dGhtPWRubix3aWR0/aD0xMjAwLGhlaWdo/dD03Mzg. Reason: 404 Client Error: Not Found for url: https://imgs.search.brave.com/W5HsYkb5xHDdA09XB3pNs3_3CaXCXtwaFwklvO76YH0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjYtMDEvdmtjNmNk/X3N1bWl0LWthcG9v/cl82MjV4MzAwXzI5/X0phbnVhcnlfMjYu/anBnP2ltPUZpdEFu/ZEZpbGwsYWxnb3Jp/dGhtPWRubix3aWR0/aD0xMjAwLGhlaWdo/dD03Mzg
+2026-02-13 02:57:45,235 - main_worker - INFO - Indexing new evidence: evidence_32063cb160b8
+2026-02-13 02:57:45,766 - main_worker - INFO - Indexing new evidence: evidence_dfc0d82f2c3e
+2026-02-13 02:57:46,714 - main_worker - INFO - Indexing new evidence: evidence_a8826b2edf6f
+2026-02-13 02:57:47,231 - main_worker - INFO - Indexing new evidence: evidence_7f7f708e2599
+2026-02-13 02:57:47,761 - main_worker - INFO - Indexing new evidence: evidence_e1a2d6a6f906
+2026-02-13 02:57:48,603 - main_worker - INFO - Indexing new evidence: evidence_39fcd62c64ef
+2026-02-13 02:57:49,435 - main_worker - INFO - Indexing new evidence: evidence_c2b2d6285ec9
+2026-02-13 02:57:49,962 - main_worker - INFO - Indexing new evidence: evidence_b4b3fde89705
+2026-02-13 02:57:53,009 - main_worker - INFO - Indexing new evidence: evidence_95554fde57b1
+2026-02-13 02:57:53,854 - main_worker - INFO - Indexing new evidence: evidence_653d4c662f43
+2026-02-13 02:57:54,186 - main_worker - INFO - Extraction complete. Saved and indexed 10 new items.
+2026-02-13 02:58:23,298 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_b3c89ea6'
+2026-02-13 02:58:23,387 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_b3c89ea6'...
+2026-02-13 02:58:24,227 - main_worker - INFO - SUCCESS: Job for 'query_b3c89ea6' completed successfully.
+2026-02-13 02:58:24,227 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_b3c89ea6.job
+2026-02-13 02:58:24,228 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_2d6ac85f (User: CAIR) ---
+2026-02-13 02:58:24,261 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_2d6ac85f'...
+2026-02-13 02:58:24,262 - main_worker - INFO - Initiating isolated search for query: query_2d6ac85f
+2026-02-13 02:58:44,049 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-13 02:58:44,052 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_2d6ac85f/evidence_metadata.json
+2026-02-13 02:58:44,173 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_2d6ac85f'...
+2026-02-13 02:59:51,297 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_2d6ac85f'
+2026-02-13 02:59:51,371 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_2d6ac85f'...
+2026-02-13 02:59:51,955 - main_worker - INFO - SUCCESS: Job for 'query_2d6ac85f' completed successfully.
+2026-02-13 02:59:51,955 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_2d6ac85f.job
+2026-02-13 03:00:01,567 - main_worker - INFO - Starting online evidence extraction for caption: 'This visual of Lord Ganesha in a police vehicle is...'
+2026-02-13 03:00:04,540 - main_worker - INFO - Indexing new evidence: evidence_781fb3d0838b
+2026-02-13 03:00:07,169 - main_worker - INFO - Indexing new evidence: evidence_84ab8342c0c8
+2026-02-13 03:00:08,053 - main_worker - INFO - Indexing new evidence: evidence_316fb1ffb5e2
+2026-02-13 03:00:09,065 - main_worker - INFO - Indexing new evidence: evidence_6325eaac2876
+2026-02-13 03:00:10,447 - main_worker - INFO - Indexing new evidence: evidence_2bd49254253a
+2026-02-13 03:00:11,983 - main_worker - INFO - Indexing new evidence: evidence_913ca077ea67
+2026-02-13 03:00:13,256 - main_worker - INFO - Indexing new evidence: evidence_96fa4dfc4947
+2026-02-13 03:00:16,218 - main_worker - INFO - Indexing new evidence: evidence_70870d90774c
+2026-02-13 03:00:17,522 - main_worker - INFO - Indexing new evidence: evidence_7a1b5c9a1be4
+2026-02-13 03:00:19,621 - main_worker - INFO - Indexing new evidence: evidence_eb99134db2c8
+2026-02-13 03:00:21,413 - main_worker - INFO - Indexing new evidence: evidence_d75f2dc1b1bb
+2026-02-13 03:00:22,353 - main_worker - INFO - Indexing new evidence: evidence_c993e68f7b37
+2026-02-13 03:00:22,696 - main_worker - INFO - Extraction complete. Saved and indexed 12 new items.
+2026-02-13 03:00:36,958 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_5643aa5c (User: CAIR) ---
+2026-02-13 03:00:37,007 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_5643aa5c'...
+2026-02-13 03:00:37,008 - main_worker - INFO - Initiating isolated search for query: query_5643aa5c
+2026-02-13 03:00:56,346 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-13 03:00:56,349 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_5643aa5c/evidence_metadata.json
+2026-02-13 03:00:56,478 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_5643aa5c'...
+2026-02-13 03:02:21,223 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_5643aa5c'
+2026-02-13 03:02:21,286 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_5643aa5c'...
+2026-02-13 03:02:21,635 - main_worker - INFO - SUCCESS: Job for 'query_5643aa5c' completed successfully.
+2026-02-13 03:02:21,636 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_5643aa5c.job
+2026-02-13 03:04:01,642 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_2370a588 (User: CAIR) ---
+2026-02-13 03:04:01,678 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_2370a588'...
+2026-02-13 03:04:01,679 - main_worker - INFO - Initiating isolated search for query: query_2370a588
+2026-02-13 03:04:21,546 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-13 03:04:21,549 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_2370a588/evidence_metadata.json
+2026-02-13 03:04:21,740 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_2370a588'...
+2026-02-13 03:05:39,120 - main_worker - INFO - INFO: Verdict 'Real' saved for query 'query_2370a588'
+2026-02-13 03:05:39,243 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_2370a588'...
+2026-02-13 03:05:39,582 - main_worker - INFO - SUCCESS: Job for 'query_2370a588' completed successfully.
+2026-02-13 03:05:39,583 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_2370a588.job
+2026-02-13 03:05:39,583 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_fed9ac9d (User: CAIR) ---
+2026-02-13 03:05:39,628 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_fed9ac9d'...
+2026-02-13 03:05:39,628 - main_worker - INFO - Initiating isolated search for query: query_fed9ac9d
+2026-02-13 03:05:59,709 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-13 03:05:59,712 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_fed9ac9d/evidence_metadata.json
+2026-02-13 03:05:59,862 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_fed9ac9d'...
+2026-02-13 03:07:14,504 - main_worker - INFO - INFO: Verdict 'Real' saved for query 'query_fed9ac9d'
+2026-02-13 03:07:14,570 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_fed9ac9d'...
+2026-02-13 03:07:15,254 - main_worker - INFO - SUCCESS: Job for 'query_fed9ac9d' completed successfully.
+2026-02-13 03:07:15,255 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_fed9ac9d.job
+2026-02-13 03:07:15,255 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_56bdecb2 (User: CAIR) ---
+2026-02-13 03:07:15,288 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_56bdecb2'...
+2026-02-13 03:07:15,289 - main_worker - INFO - Initiating isolated search for query: query_56bdecb2
+2026-02-13 03:07:36,367 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-13 03:07:36,369 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_56bdecb2/evidence_metadata.json
+2026-02-13 03:07:36,510 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_56bdecb2'...
+2026-02-13 03:08:45,454 - main_worker - INFO - INFO: Verdict 'Real' saved for query 'query_56bdecb2'
+2026-02-13 03:08:45,533 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_56bdecb2'...
+2026-02-13 03:08:45,845 - main_worker - INFO - SUCCESS: Job for 'query_56bdecb2' completed successfully.
+2026-02-13 03:08:45,846 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_56bdecb2.job
+2026-02-13 03:08:45,846 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_fb1b2ce4 (User: CAIR) ---
+2026-02-13 03:08:45,890 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_fb1b2ce4'...
+2026-02-13 03:08:45,891 - main_worker - INFO - Initiating isolated search for query: query_fb1b2ce4
+2026-02-13 03:09:05,463 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-13 03:09:05,465 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_fb1b2ce4/evidence_metadata.json
+2026-02-13 03:09:05,623 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_fb1b2ce4'...
+2026-02-13 03:10:20,885 - main_worker - INFO - INFO: Verdict 'Real' saved for query 'query_fb1b2ce4'
+2026-02-13 03:10:20,958 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_fb1b2ce4'...
+2026-02-13 03:10:21,296 - main_worker - INFO - SUCCESS: Job for 'query_fb1b2ce4' completed successfully.
+2026-02-13 03:10:21,297 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_fb1b2ce4.job
+2026-02-13 03:10:21,298 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_ed2604ee (User: CAIR) ---
+2026-02-13 03:10:21,340 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_ed2604ee'...
+2026-02-13 03:10:21,340 - main_worker - INFO - Initiating isolated search for query: query_ed2604ee
+2026-02-13 03:10:40,833 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-13 03:10:40,836 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_ed2604ee/evidence_metadata.json
+2026-02-13 03:10:40,965 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_ed2604ee'...
+2026-02-13 03:11:48,661 - main_worker - INFO - INFO: Verdict 'Real' saved for query 'query_ed2604ee'
+2026-02-13 03:11:48,735 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_ed2604ee'...
+2026-02-13 03:11:49,060 - main_worker - INFO - SUCCESS: Job for 'query_ed2604ee' completed successfully.
+2026-02-13 03:11:49,060 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_ed2604ee.job
+2026-02-13 09:53:27,317 - main_worker - INFO - Multiprocessing start method set to 'spawn' for CUDA safety.
+2026-02-13 09:53:27,317 - main_worker - INFO - --- Starting Main Worker ---
+2026-02-13 09:53:27,317 - main_worker - INFO - Watching for jobs in: /data/asca/FND_mini/agentic_workspace/.system/job_queue
+2026-02-13 09:55:22,325 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_8f363529 (User: CAIR) ---
+2026-02-13 09:55:22,359 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_8f363529'...
+2026-02-13 09:55:22,360 - main_worker - INFO - Initiating isolated search for query: query_8f363529
+2026-02-13 09:55:41,137 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-13 09:55:41,139 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_8f363529/evidence_metadata.json
+2026-02-13 09:55:41,235 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_8f363529'...
+2026-02-13 09:58:43,173 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_8f363529'
+2026-02-13 09:58:43,314 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_8f363529'...
+2026-02-13 09:58:44,073 - main_worker - INFO - SUCCESS: Job for 'query_8f363529' completed successfully.
+2026-02-13 09:58:44,074 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_8f363529.job
+2026-02-13 11:59:14,495 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_204902d2 (User: CAIR) ---
+2026-02-13 11:59:14,535 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_204902d2'...
+2026-02-13 11:59:14,536 - main_worker - INFO - Initiating isolated search for query: query_204902d2
+2026-02-13 11:59:33,922 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-13 11:59:33,927 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_204902d2/evidence_metadata.json
+2026-02-13 11:59:34,068 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_204902d2'...
+2026-02-13 12:00:39,339 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_204902d2'
+2026-02-13 12:00:39,414 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_204902d2'...
+2026-02-13 12:00:40,007 - main_worker - INFO - SUCCESS: Job for 'query_204902d2' completed successfully.
+2026-02-13 12:00:40,008 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_204902d2.job
+2026-02-13 13:09:00,244 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_7b3fb246 (User: CAIR) ---
+2026-02-13 13:09:00,283 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_7b3fb246'...
+2026-02-13 13:09:00,284 - main_worker - INFO - Initiating isolated search for query: query_7b3fb246
+2026-02-13 13:09:20,222 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+2026-02-13 13:09:20,224 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_7b3fb246/evidence_metadata.json
+2026-02-13 13:09:20,343 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_7b3fb246'...
+2026-02-13 13:10:18,155 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_7b3fb246'
+2026-02-13 13:10:18,226 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_7b3fb246'...
+2026-02-13 13:10:18,846 - main_worker - INFO - SUCCESS: Job for 'query_7b3fb246' completed successfully.
+2026-02-13 13:10:18,847 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_7b3fb246.job
+2026-02-13 13:12:44,596 - main_worker - INFO - --- Starting BoomLive Scraper & Indexer Pipeline ---
+2026-02-13 13:12:44,596 - main_worker - INFO - Fetching article links from: https://www.boomlive.in/fact-check
+2026-02-13 13:12:45,246 - main_worker - INFO - Found 10 article links.
+2026-02-13 13:12:45,363 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-video-torture-pregnant-minors-epstein-files-claim-fact-check-30656
+2026-02-13 13:12:45,363 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/fake-news-viral-video-bcci-vc-rajeev-shukla-bcci-asked-icc-convince-pakistan-play-india-t20-world-cup-deepfake-factcheck-30675
+2026-02-13 13:12:46,407 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/02/12/1054009-rajiv-shukla-statement.jpg
+2026-02-13 13:12:46,410 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_59d438de10
+2026-02-13 13:12:52,281 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-photo-uae-president-mohamed-bin-zayed-al-nahyan-mbz-photo-epstein-files-laim-fact-check-30644
+2026-02-13 13:12:52,282 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-viral-screenshot-modi-jashodaben-statement-modi-destroyed-evidence-marriage-factcheck-30661
+2026-02-13 13:12:52,282 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-mira-road-flyover-bus-stuck-ai-generated-factcheck-30657
+2026-02-13 13:12:52,282 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/800-missing-persons-delhi-january-2026-misleading-claim-police-data-30652
+2026-02-13 13:12:52,282 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-video-union-finance-minister-nirmala-sitharaman-investment-platform-claim-fact-check-30639
+2026-02-13 13:12:52,283 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-media-release-icc-pakistan-banned-one-year-icc-t20-world-cup-factcheck-30637
+2026-02-13 13:12:52,283 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/zohran-mamdani-mira-nair-epstein-ai-photos-fake-30635
+2026-02-13 13:12:52,283 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-photo-pakistan-cricket-team-sri-lanka-welcome-crowd-claim-fact-check-30630

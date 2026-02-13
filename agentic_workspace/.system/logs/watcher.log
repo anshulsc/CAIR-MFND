@@ -1,0 +1,119 @@
+Base Directory: /data/asca/FND_mini
+2026-02-01 15:52:25,865 - query_watcher - INFO - --- Starting Query Watcher ---
+2026-02-01 15:52:25,865 - query_watcher - INFO - Monitoring directory: /data/asca/FND_mini/agentic_workspace/1_queries
+2026-02-01 15:53:29,947 - query_watcher - INFO - --- Starting Query Watcher ---
+2026-02-01 15:53:29,947 - query_watcher - INFO - Monitoring directory: /data/asca/FND_mini/agentic_workspace/1_queries
+2026-02-01 16:07:03,286 - query_watcher - INFO - --- Starting Query Watcher ---
+2026-02-01 16:07:03,286 - query_watcher - INFO - Monitoring directory: /data/asca/FND_mini/agentic_workspace/1_queries
+2026-02-01 16:16:40,018 - query_watcher - INFO - INFO: Detected new query directory: query_dff6bde5 for user CAIR
+2026-02-01 16:16:40,051 - query_watcher - INFO - INFO: Created job file for 'query_dff6bde5' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_dff6bde5.job
+2026-02-01 18:27:02,647 - query_watcher - INFO - INFO: Detected new query directory: query_6b3098cf for user CAIR
+2026-02-01 18:27:02,685 - query_watcher - INFO - INFO: Created job file for 'query_6b3098cf' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_6b3098cf.job
+2026-02-01 18:28:54,366 - query_watcher - INFO - INFO: Detected new query directory: query_16b7708a for user CAIR
+2026-02-01 18:28:54,407 - query_watcher - INFO - INFO: Created job file for 'query_16b7708a' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_16b7708a.job
+2026-02-01 21:14:30,481 - query_watcher - INFO - --- Starting Query Watcher ---
+2026-02-01 21:14:30,481 - query_watcher - INFO - Monitoring directory: /data/asca/FND_mini/agentic_workspace/1_queries
+2026-02-02 02:50:59,792 - query_watcher - INFO - --- Starting Query Watcher ---
+2026-02-02 02:50:59,792 - query_watcher - INFO - Monitoring directory: /data/asca/FND_mini/agentic_workspace/1_queries
+2026-02-02 03:13:51,944 - query_watcher - INFO - INFO: Detected new query directory: query_d609e2c4 for user CAIR
+2026-02-02 03:13:51,975 - query_watcher - INFO - INFO: Created job file for 'query_d609e2c4' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_d609e2c4.job
+2026-02-02 03:18:08,297 - query_watcher - INFO - INFO: Detected new query directory: query_730fb462 for user CAIR
+2026-02-02 03:18:08,328 - query_watcher - INFO - INFO: Created job file for 'query_730fb462' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_730fb462.job
+2026-02-11 12:30:18,964 - query_watcher - INFO - --- Starting Query Watcher ---
+2026-02-11 12:30:18,964 - query_watcher - INFO - Monitoring directory: /data/asca/FND_mini/agentic_workspace/1_queries
+2026-02-11 13:45:39,912 - query_watcher - INFO - --- Starting Query Watcher ---
+2026-02-11 13:45:39,913 - query_watcher - INFO - Monitoring directory: /data/asca/FND_mini/agentic_workspace/1_queries
+2026-02-11 13:49:08,468 - query_watcher - INFO - --- Starting Query Watcher ---
+2026-02-11 13:49:08,468 - query_watcher - INFO - Monitoring directory: /data/asca/FND_mini/agentic_workspace/1_queries
+2026-02-11 13:59:27,814 - query_watcher - INFO - INFO: Detected new query directory: query_87009755 for user CAIR
+2026-02-11 13:59:27,860 - query_watcher - INFO - INFO: Created job file for 'query_87009755' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_87009755.job
+2026-02-11 14:00:58,060 - query_watcher - INFO - --- Starting Query Watcher ---
+2026-02-11 14:00:58,060 - query_watcher - INFO - Monitoring directory: /data/asca/FND_mini/agentic_workspace/1_queries
+2026-02-11 14:04:30,495 - query_watcher - INFO - INFO: Detected new query directory: query_427c912b for user CAIR
+2026-02-11 14:04:30,549 - query_watcher - INFO - INFO: Created job file for 'query_427c912b' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_427c912b.job
+2026-02-11 14:07:43,275 - query_watcher - INFO - --- Starting Query Watcher ---
+2026-02-11 14:07:43,275 - query_watcher - INFO - Monitoring directory: /data/asca/FND_mini/agentic_workspace/1_queries
+2026-02-11 14:09:16,724 - query_watcher - INFO - --- Starting Query Watcher ---
+2026-02-11 14:09:16,724 - query_watcher - INFO - Monitoring directory: /data/asca/FND_mini/agentic_workspace/1_queries
+2026-02-11 14:14:09,758 - query_watcher - INFO - --- Starting Query Watcher ---
+2026-02-11 14:14:09,758 - query_watcher - INFO - Monitoring directory: /data/asca/FND_mini/agentic_workspace/1_queries
+2026-02-11 14:23:24,102 - query_watcher - INFO - INFO: Detected new query directory: query_33b72a36 for user CAIR
+2026-02-11 14:23:24,158 - query_watcher - INFO - INFO: Created job file for 'query_33b72a36' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_33b72a36.job
+2026-02-11 14:27:39,559 - query_watcher - INFO - INFO: Detected new query directory: query_0d560d2b for user CAIR
+2026-02-11 14:27:39,614 - query_watcher - INFO - INFO: Created job file for 'query_0d560d2b' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_0d560d2b.job
+2026-02-11 14:30:09,079 - query_watcher - INFO - INFO: Detected new query directory: query_5c87c6f2 for user CAIR
+2026-02-11 14:30:09,136 - query_watcher - INFO - INFO: Created job file for 'query_5c87c6f2' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_5c87c6f2.job
+2026-02-11 14:32:40,738 - query_watcher - INFO - INFO: Detected new query directory: query_df108112 for user CAIR
+2026-02-11 14:32:40,773 - query_watcher - INFO - INFO: Created job file for 'query_df108112' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_df108112.job
+2026-02-11 15:03:27,122 - query_watcher - INFO - INFO: Detected new query directory: query_4ac46578 for user CAIR
+2026-02-11 15:03:27,168 - query_watcher - INFO - INFO: Created job file for 'query_4ac46578' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_4ac46578.job
+2026-02-11 15:07:23,470 - query_watcher - INFO - INFO: Detected new query directory: query_03bdd269 for user CAIR
+2026-02-11 15:07:23,503 - query_watcher - INFO - INFO: Created job file for 'query_03bdd269' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_03bdd269.job
+2026-02-11 15:10:33,001 - query_watcher - INFO - INFO: Detected new query directory: query_9b60c445 for user CAIR
+2026-02-11 15:10:33,059 - query_watcher - INFO - INFO: Created job file for 'query_9b60c445' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_9b60c445.job
+2026-02-11 15:13:33,204 - query_watcher - INFO - INFO: Detected new query directory: query_9e17e484 for user CAIR
+2026-02-11 15:13:33,247 - query_watcher - INFO - INFO: Created job file for 'query_9e17e484' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_9e17e484.job
+2026-02-11 15:15:05,559 - query_watcher - INFO - INFO: Detected new query directory: query_8b9092da for user CAIR
+2026-02-11 15:15:05,594 - query_watcher - INFO - INFO: Created job file for 'query_8b9092da' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_8b9092da.job
+2026-02-11 15:19:32,111 - query_watcher - INFO - INFO: Detected new query directory: query_107e4560 for user CAIR
+2026-02-11 15:19:32,164 - query_watcher - INFO - INFO: Created job file for 'query_107e4560' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_107e4560.job
+2026-02-11 15:23:05,209 - query_watcher - INFO - INFO: Detected new query directory: query_e51e6440 for user CAIR
+2026-02-11 15:23:05,264 - query_watcher - INFO - INFO: Created job file for 'query_e51e6440' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_e51e6440.job
+2026-02-11 15:29:29,008 - query_watcher - INFO - INFO: Detected new query directory: query_50dfdbc5 for user CAIR
+2026-02-11 15:29:29,063 - query_watcher - INFO - INFO: Created job file for 'query_50dfdbc5' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_50dfdbc5.job
+2026-02-11 15:32:07,117 - query_watcher - INFO - INFO: Detected new query directory: query_8baf5aa4 for user CAIR
+2026-02-11 15:32:07,167 - query_watcher - INFO - INFO: Created job file for 'query_8baf5aa4' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_8baf5aa4.job
+2026-02-11 15:33:25,542 - query_watcher - INFO - INFO: Detected new query directory: query_d6ec221b for user CAIR
+2026-02-11 15:33:25,588 - query_watcher - INFO - INFO: Created job file for 'query_d6ec221b' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_d6ec221b.job
+2026-02-11 15:38:20,838 - query_watcher - INFO - INFO: Detected new query directory: query_d550e4a6 for user CAIR
+2026-02-11 15:38:20,878 - query_watcher - INFO - INFO: Created job file for 'query_d550e4a6' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_d550e4a6.job
+2026-02-11 15:58:03,965 - query_watcher - INFO - INFO: Detected new query directory: query_188756b0 for user CAIR
+2026-02-11 15:58:04,022 - query_watcher - INFO - INFO: Created job file for 'query_188756b0' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_188756b0.job
+2026-02-11 16:52:17,218 - query_watcher - INFO - --- Starting Query Watcher ---
+2026-02-11 16:52:17,218 - query_watcher - INFO - Monitoring directory: /data/asca/FND_mini/agentic_workspace/1_queries
+2026-02-12 11:38:51,332 - query_watcher - INFO - --- Starting Query Watcher ---
+2026-02-12 11:38:51,332 - query_watcher - INFO - Monitoring directory: /data/asca/FND_mini/agentic_workspace/1_queries
+2026-02-12 11:39:42,784 - query_watcher - INFO - INFO: Detected new query directory: query_36113fa7 for user CAIR
+2026-02-12 11:39:42,822 - query_watcher - INFO - INFO: Created job file for 'query_36113fa7' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_36113fa7.job
+2026-02-12 11:44:46,501 - query_watcher - INFO - --- Starting Query Watcher ---
+2026-02-12 11:44:46,502 - query_watcher - INFO - Monitoring directory: /data/asca/FND_mini/agentic_workspace/1_queries
+2026-02-12 11:49:12,153 - query_watcher - INFO - INFO: Detected new query directory: query_4827ae2a for user CAIR
+2026-02-12 11:49:12,194 - query_watcher - INFO - INFO: Created job file for 'query_4827ae2a' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_4827ae2a.job
+2026-02-12 14:22:03,699 - query_watcher - INFO - --- Starting Query Watcher ---
+2026-02-12 14:22:03,699 - query_watcher - INFO - Monitoring directory: /data/asca/FND_mini/agentic_workspace/1_queries
+2026-02-12 14:59:47,887 - query_watcher - INFO - --- Starting Query Watcher ---
+2026-02-12 14:59:47,887 - query_watcher - INFO - Monitoring directory: /data/asca/FND_mini/agentic_workspace/1_queries
+2026-02-12 15:00:39,136 - query_watcher - INFO - INFO: Detected new query directory: query_c8aaef9b for user CAIR
+2026-02-12 15:00:39,184 - query_watcher - INFO - INFO: Created job file for 'query_c8aaef9b' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_c8aaef9b.job
+2026-02-12 17:00:31,597 - query_watcher - INFO - INFO: Detected new query directory: query_b98e17fc for user CAIR
+2026-02-12 17:00:31,666 - query_watcher - INFO - INFO: Created job file for 'query_b98e17fc' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_b98e17fc.job
+2026-02-13 02:49:43,704 - query_watcher - INFO - --- Starting Query Watcher ---
+2026-02-13 02:49:43,705 - query_watcher - INFO - Monitoring directory: /data/asca/FND_mini/agentic_workspace/1_queries
+2026-02-13 02:52:14,495 - query_watcher - INFO - INFO: Detected new query directory: query_30732333 for user CAIR
+2026-02-13 02:52:14,551 - query_watcher - INFO - INFO: Created job file for 'query_30732333' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_30732333.job
+2026-02-13 02:53:33,881 - query_watcher - INFO - INFO: Detected new query directory: query_c879f5fc for user CAIR
+2026-02-13 02:53:33,927 - query_watcher - INFO - INFO: Created job file for 'query_c879f5fc' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_c879f5fc.job
+2026-02-13 02:55:45,413 - query_watcher - INFO - INFO: Detected new query directory: query_b3c89ea6 for user CAIR
+2026-02-13 02:55:45,453 - query_watcher - INFO - INFO: Created job file for 'query_b3c89ea6' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_b3c89ea6.job
+2026-02-13 02:58:04,188 - query_watcher - INFO - INFO: Detected new query directory: query_2d6ac85f for user CAIR
+2026-02-13 02:58:04,225 - query_watcher - INFO - INFO: Created job file for 'query_2d6ac85f' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_2d6ac85f.job
+2026-02-13 03:00:32,698 - query_watcher - INFO - INFO: Detected new query directory: query_5643aa5c for user CAIR
+2026-02-13 03:00:32,747 - query_watcher - INFO - INFO: Created job file for 'query_5643aa5c' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_5643aa5c.job
+2026-02-13 03:03:57,908 - query_watcher - INFO - INFO: Detected new query directory: query_2370a588 for user CAIR
+2026-02-13 03:03:57,954 - query_watcher - INFO - INFO: Created job file for 'query_2370a588' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_2370a588.job
+2026-02-13 03:05:05,688 - query_watcher - INFO - INFO: Detected new query directory: query_fed9ac9d for user CAIR
+2026-02-13 03:05:05,733 - query_watcher - INFO - INFO: Created job file for 'query_fed9ac9d' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_fed9ac9d.job
+2026-02-13 03:07:03,508 - query_watcher - INFO - INFO: Detected new query directory: query_56bdecb2 for user CAIR
+2026-02-13 03:07:03,547 - query_watcher - INFO - INFO: Created job file for 'query_56bdecb2' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_56bdecb2.job
+2026-02-13 03:08:16,404 - query_watcher - INFO - INFO: Detected new query directory: query_fb1b2ce4 for user CAIR
+2026-02-13 03:08:16,443 - query_watcher - INFO - INFO: Created job file for 'query_fb1b2ce4' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_fb1b2ce4.job
+2026-02-13 03:09:02,837 - query_watcher - INFO - INFO: Detected new query directory: query_ed2604ee for user CAIR
+2026-02-13 03:09:02,883 - query_watcher - INFO - INFO: Created job file for 'query_ed2604ee' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_ed2604ee.job
+2026-02-13 09:53:12,050 - query_watcher - INFO - --- Starting Query Watcher ---
+2026-02-13 09:53:12,051 - query_watcher - INFO - Monitoring directory: /data/asca/FND_mini/agentic_workspace/1_queries
+2026-02-13 09:55:18,763 - query_watcher - INFO - INFO: Detected new query directory: query_8f363529 for user CAIR
+2026-02-13 09:55:18,808 - query_watcher - INFO - INFO: Created job file for 'query_8f363529' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_8f363529.job
+2026-02-13 11:59:10,732 - query_watcher - INFO - INFO: Detected new query directory: query_204902d2 for user CAIR
+2026-02-13 11:59:10,786 - query_watcher - INFO - INFO: Created job file for 'query_204902d2' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_204902d2.job
+2026-02-13 13:08:56,075 - query_watcher - INFO - INFO: Detected new query directory: query_7b3fb246 for user CAIR
+2026-02-13 13:08:56,122 - query_watcher - INFO - INFO: Created job file for 'query_7b3fb246' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_7b3fb246.job
