@@ -1,0 +1,12 @@
+Base Directory: /data/asca/FND_mini
+2026-02-13 09:53:12,050 - query_watcher - INFO - --- Starting Query Watcher ---
+2026-02-13 09:53:12,051 - query_watcher - INFO - Monitoring directory: /data/asca/FND_mini/agentic_workspace/1_queries
+2026-02-13 09:55:18,763 - query_watcher - INFO - INFO: Detected new query directory: query_8f363529 for user CAIR
+INFO: Query 'query_8f363529' added to status tracker for user 'CAIR'.
+2026-02-13 09:55:18,808 - query_watcher - INFO - INFO: Created job file for 'query_8f363529' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_8f363529.job
+2026-02-13 11:59:10,732 - query_watcher - INFO - INFO: Detected new query directory: query_204902d2 for user CAIR
+INFO: Query 'query_204902d2' added to status tracker for user 'CAIR'.
+2026-02-13 11:59:10,786 - query_watcher - INFO - INFO: Created job file for 'query_204902d2' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_204902d2.job
+2026-02-13 13:08:56,075 - query_watcher - INFO - INFO: Detected new query directory: query_7b3fb246 for user CAIR
+INFO: Query 'query_7b3fb246' added to status tracker for user 'CAIR'.
+2026-02-13 13:08:56,122 - query_watcher - INFO - INFO: Created job file for 'query_7b3fb246' at /data/asca/FND_mini/agentic_workspace/.system/job_queue/CAIR__query_7b3fb246.job

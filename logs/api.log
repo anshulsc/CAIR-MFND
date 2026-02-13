@@ -1,0 +1,104 @@
+Base Directory: /data/asca/FND_mini
+CRITICAL: NGROK_AUTHTOKEN environment variable not set. Tunneling will not work.
+INFO:     Started server process [168144]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-02-13 09:53:47,142 - api_server - INFO - Request received for /highlight_news endpoint.
+INFO:     127.0.0.1:40410 - "GET /highlight_news HTTP/1.1" 200 OK
+2026-02-13 09:53:47,175 - api_server - INFO - Request received for /queries endpoint. User: CAIR
+INFO:     127.0.0.1:40422 - "GET /queries?username=CAIR HTTP/1.1" 200 OK
+2026-02-13 09:55:18,764 - api_server - INFO - Manual query added
+INFO:     127.0.0.1:33450 - "POST /add_query_manual HTTP/1.1" 200 OK
+2026-02-13 09:55:20,229 - api_server - INFO - Request received for /highlight_news endpoint.
+INFO:     127.0.0.1:33456 - "GET /highlight_news HTTP/1.1" 200 OK
+2026-02-13 09:55:20,264 - api_server - INFO - Request received for /queries endpoint. User: CAIR
+INFO:     127.0.0.1:33472 - "GET /queries?username=CAIR HTTP/1.1" 200 OK
+2026-02-13 09:55:39,174 - api_server - INFO - Request received for /highlight_news endpoint.
+INFO:     127.0.0.1:34292 - "GET /highlight_news HTTP/1.1" 200 OK
+2026-02-13 09:55:39,274 - api_server - INFO - Request received for /highlight_news endpoint.
+INFO:     127.0.0.1:34298 - "GET /highlight_news HTTP/1.1" 200 OK
+2026-02-13 09:55:39,292 - api_server - INFO - Request received for /queries endpoint. User: CAIR
+INFO:     127.0.0.1:34304 - "GET /queries?username=CAIR HTTP/1.1" 200 OK
+2026-02-13 10:00:03,224 - api_server - INFO - Request received for /highlight_news endpoint.
+INFO:     127.0.0.1:55598 - "GET /highlight_news HTTP/1.1" 200 OK
+2026-02-13 10:00:03,304 - api_server - INFO - Request received for /highlight_news endpoint.
+INFO:     127.0.0.1:55612 - "GET /highlight_news HTTP/1.1" 200 OK
+2026-02-13 10:00:03,320 - api_server - INFO - Request received for /queries endpoint. User: CAIR
+INFO:     127.0.0.1:55614 - "GET /queries?username=CAIR HTTP/1.1" 200 OK
+2026-02-13 10:00:04,982 - api_server - INFO - Returning query details
+INFO:     127.0.0.1:55616 - "GET /details/query_8f363529 HTTP/1.1" 200 OK
+2026-02-13 11:58:46,908 - api_server - INFO - Request received for /highlight_news endpoint.
+INFO:     127.0.0.1:58956 - "GET /highlight_news HTTP/1.1" 200 OK
+2026-02-13 11:58:46,943 - api_server - INFO - Request received for /queries endpoint. User: CAIR
+INFO:     127.0.0.1:58964 - "GET /queries?username=CAIR HTTP/1.1" 200 OK
+2026-02-13 11:59:10,734 - api_server - INFO - Manual query added
+INFO:     127.0.0.1:38854 - "POST /add_query_manual HTTP/1.1" 200 OK
+2026-02-13 11:59:12,570 - api_server - INFO - Request received for /highlight_news endpoint.
+INFO:     127.0.0.1:38856 - "GET /highlight_news HTTP/1.1" 200 OK
+2026-02-13 12:04:13,113 - api_server - INFO - Request received for /queries endpoint. User: CAIR
+INFO:     127.0.0.1:55838 - "GET /queries?username=CAIR HTTP/1.1" 200 OK
+2026-02-13 12:09:13,108 - api_server - INFO - Request received for /queries endpoint. User: CAIR
+INFO:     127.0.0.1:44432 - "GET /queries?username=CAIR HTTP/1.1" 200 OK
+2026-02-13 12:14:13,103 - api_server - INFO - Request received for /queries endpoint. User: CAIR
+INFO:     127.0.0.1:59054 - "GET /queries?username=CAIR HTTP/1.1" 200 OK
+2026-02-13 12:19:13,106 - api_server - INFO - Request received for /queries endpoint. User: CAIR
+INFO:     127.0.0.1:39082 - "GET /queries?username=CAIR HTTP/1.1" 200 OK
+2026-02-13 12:24:13,108 - api_server - INFO - Request received for /queries endpoint. User: CAIR
+INFO:     127.0.0.1:46636 - "GET /queries?username=CAIR HTTP/1.1" 200 OK
+2026-02-13 12:29:13,253 - api_server - INFO - Request received for /queries endpoint. User: CAIR
+INFO:     127.0.0.1:51890 - "GET /queries?username=CAIR HTTP/1.1" 200 OK
+2026-02-13 12:34:49,114 - api_server - INFO - Request received for /queries endpoint. User: CAIR
+INFO:     127.0.0.1:56904 - "GET /queries?username=CAIR HTTP/1.1" 200 OK
+2026-02-13 13:07:09,148 - api_server - INFO - Request received for /queries endpoint. User: CAIR
+INFO:     127.0.0.1:49632 - "GET /queries?username=CAIR HTTP/1.1" 200 OK
+2026-02-13 13:07:33,244 - api_server - INFO - Request received for /highlight_news endpoint.
+INFO:     127.0.0.1:55794 - "GET /highlight_news HTTP/1.1" 200 OK
+2026-02-13 13:08:56,077 - api_server - INFO - Manual query added
+INFO:     127.0.0.1:41352 - "POST /add_query_manual HTTP/1.1" 200 OK
+2026-02-13 13:08:59,528 - api_server - INFO - Request received for /highlight_news endpoint.
+INFO:     127.0.0.1:53040 - "GET /highlight_news HTTP/1.1" 200 OK
+2026-02-13 13:08:59,564 - api_server - INFO - Request received for /queries endpoint. User: CAIR
+INFO:     127.0.0.1:53048 - "GET /queries?username=CAIR HTTP/1.1" 200 OK
+2026-02-13 13:09:02,547 - api_server - INFO - Request received for /highlight_news endpoint.
+INFO:     127.0.0.1:53062 - "GET /highlight_news HTTP/1.1" 200 OK
+2026-02-13 13:09:02,569 - api_server - INFO - Request received for /queries endpoint. User: CAIR
+INFO:     127.0.0.1:53078 - "GET /queries?username=CAIR HTTP/1.1" 200 OK
+2026-02-13 13:09:17,417 - api_server - INFO - Returning query details
+INFO:     127.0.0.1:52792 - "GET /details/query_8f363529 HTTP/1.1" 200 OK
+2026-02-13 13:10:20,453 - api_server - INFO - Returning query details
+INFO:     127.0.0.1:49056 - "GET /details/query_8f363529 HTTP/1.1" 200 OK
+2026-02-13 13:10:20,540 - api_server - INFO - Request received for /highlight_news endpoint.
+INFO:     127.0.0.1:49064 - "GET /highlight_news HTTP/1.1" 200 OK
+2026-02-13 13:10:20,566 - api_server - INFO - Request received for /queries endpoint. User: CAIR
+INFO:     127.0.0.1:49078 - "GET /queries?username=CAIR HTTP/1.1" 200 OK
+2026-02-13 13:10:25,946 - api_server - INFO - Returning query details
+INFO:     127.0.0.1:49082 - "GET /details/query_fed9ac9d HTTP/1.1" 200 OK
+2026-02-13 13:11:54,107 - api_server - INFO - Request received for /queries endpoint. User: CAIR
+INFO:     127.0.0.1:42036 - "GET /queries?username=CAIR HTTP/1.1" 200 OK
+2026-02-13 13:12:21,324 - api_server - INFO - Request received for /data_explorer_samples endpoint.
+INFO:     127.0.0.1:39890 - "GET /data_explorer_samples HTTP/1.1" 200 OK
+2026-02-13 13:12:44,595 - api_server - INFO - Received request to run BoomLive scraper agent with count=10.
+2026-02-13 13:12:44,596 - main_worker - INFO - --- Starting BoomLive Scraper & Indexer Pipeline ---
+2026-02-13 13:12:44,596 - main_worker - INFO - Fetching article links from: https://www.boomlive.in/fact-check
+2026-02-13 13:12:45,246 - main_worker - INFO - Found 10 article links.
+2026-02-13 13:12:45,363 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-video-torture-pregnant-minors-epstein-files-claim-fact-check-30656
+2026-02-13 13:12:45,363 - main_worker - INFO -   -> Scraping new article: https://www.boomlive.in/fact-check/fake-news-viral-video-bcci-vc-rajeev-shukla-bcci-asked-icc-convince-pakistan-play-india-t20-world-cup-deepfake-factcheck-30675
+2026-02-13 13:12:46,407 - main_worker - INFO - Downloaded image from: https://www.boomlive.in/h-upload/2026/02/12/1054009-rajiv-shukla-statement.jpg
+2026-02-13 13:12:46,410 - main_worker - INFO - Indexing new BoomLive evidence: boomlive_59d438de10
+Using a slow image processor as `use_fast` is unset and a slow processor was saved with this model. `use_fast=True` will be the default behavior in v4.52, even if the model was saved with a slow processor. This will result in minor differences in outputs. You'll still be able to use a slow processor with `use_fast=False`.
+INFO: Loading CLIP model for the first time...
+INFO: CLIP model loaded successfully.
+2026-02-13 13:12:52,281 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-photo-uae-president-mohamed-bin-zayed-al-nahyan-mbz-photo-epstein-files-laim-fact-check-30644
+2026-02-13 13:12:52,282 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-viral-screenshot-modi-jashodaben-statement-modi-destroyed-evidence-marriage-factcheck-30661
+2026-02-13 13:12:52,282 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-mira-road-flyover-bus-stuck-ai-generated-factcheck-30657
+2026-02-13 13:12:52,282 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/800-missing-persons-delhi-january-2026-misleading-claim-police-data-30652
+2026-02-13 13:12:52,282 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-video-union-finance-minister-nirmala-sitharaman-investment-platform-claim-fact-check-30639
+2026-02-13 13:12:52,283 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/fake-news-media-release-icc-pakistan-banned-one-year-icc-t20-world-cup-factcheck-30637
+2026-02-13 13:12:52,283 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/zohran-mamdani-mira-nair-epstein-ai-photos-fake-30635
+2026-02-13 13:12:52,283 - main_worker - INFO -   -> Retrieving existing article: https://www.boomlive.in/fact-check/viral-photo-pakistan-cricket-team-sri-lanka-welcome-crowd-claim-fact-check-30630
+INFO:     127.0.0.1:33364 - "POST /scrape_boomlive HTTP/1.1" 200 OK
+2026-02-13 13:14:38,714 - api_server - INFO - Request received for /highlight_news endpoint.
+INFO:     127.0.0.1:57734 - "GET /highlight_news HTTP/1.1" 200 OK
+2026-02-13 13:14:38,751 - api_server - INFO - Request received for /queries endpoint. User: CAIR
+INFO:     127.0.0.1:57742 - "GET /queries?username=CAIR HTTP/1.1" 200 OK

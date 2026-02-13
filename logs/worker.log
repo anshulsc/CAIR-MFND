@@ -1,0 +1,877 @@
+Base Directory: /data/asca/FND_mini
+INFO 02-13 09:53:17 [importing.py:53] Triton module has been replaced with a placeholder.
+INFO 02-13 09:53:17 [__init__.py:239] Automatically detected platform cuda.
+/data/asca/FND/.venv/lib/python3.11/site-packages/fairscale/experimental/nn/offload.py:19: FutureWarning: `torch.cuda.amp.custom_fwd(args...)` is deprecated. Please use `torch.amp.custom_fwd(args..., device_type='cuda')` instead.
+  return torch.cuda.amp.custom_fwd(orig_func)  # type: ignore
+/data/asca/FND/.venv/lib/python3.11/site-packages/fairscale/experimental/nn/offload.py:30: FutureWarning: `torch.cuda.amp.custom_bwd(args...)` is deprecated. Please use `torch.amp.custom_bwd(args..., device_type='cuda')` instead.
+  return torch.cuda.amp.custom_bwd(orig_func)  # type: ignore
+2026-02-13 09:53:27,317 - main_worker - INFO - Multiprocessing start method set to 'spawn' for CUDA safety.
+INFO:main_worker:Multiprocessing start method set to 'spawn' for CUDA safety.
+2026-02-13 09:53:27,317 - main_worker - INFO - --- Starting Main Worker ---
+INFO:main_worker:--- Starting Main Worker ---
+2026-02-13 09:53:27,317 - main_worker - INFO - Watching for jobs in: /data/asca/FND_mini/agentic_workspace/.system/job_queue
+INFO:main_worker:Watching for jobs in: /data/asca/FND_mini/agentic_workspace/.system/job_queue
+2026-02-13 09:55:22,325 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_8f363529 (User: CAIR) ---
+INFO:main_worker:
+--- [WORKER] Processing job for query: query_8f363529 (User: CAIR) ---
+INFO: Status updated for 'query_8f363529': Stage 'evidence_extraction' -> 'processing'
+2026-02-13 09:55:22,359 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_8f363529'...
+INFO:main_worker:INFO: [Stage 1/3] Starting Evidence Extraction for 'query_8f363529'...
+2026-02-13 09:55:22,360 - main_worker - INFO - Initiating isolated search for query: query_8f363529
+INFO:main_worker:Initiating isolated search for query: query_8f363529
+Base Directory: /data/asca/FND_mini
+INFO 02-13 09:55:27 [importing.py:53] Triton module has been replaced with a placeholder.
+INFO 02-13 09:55:27 [__init__.py:239] Automatically detected platform cuda.
+/data/asca/FND/.venv/lib/python3.11/site-packages/fairscale/experimental/nn/offload.py:19: FutureWarning: `torch.cuda.amp.custom_fwd(args...)` is deprecated. Please use `torch.amp.custom_fwd(args..., device_type='cuda')` instead.
+  return torch.cuda.amp.custom_fwd(orig_func)  # type: ignore
+/data/asca/FND/.venv/lib/python3.11/site-packages/fairscale/experimental/nn/offload.py:30: FutureWarning: `torch.cuda.amp.custom_bwd(args...)` is deprecated. Please use `torch.amp.custom_bwd(args..., device_type='cuda')` instead.
+  return torch.cuda.amp.custom_bwd(orig_func)  # type: ignore
+INFO: Loading CLIP model for the first time...
+INFO: CLIP model loaded successfully.
+2026-02-13 09:55:41,137 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+INFO:main_worker:Isolated search successful on attempt 1. Found 10 items.
+2026-02-13 09:55:41,139 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_8f363529/evidence_metadata.json
+INFO:main_worker:INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_8f363529/evidence_metadata.json
+INFO: Status updated for 'query_8f363529': Stage 'evidence_extraction' -> 'completed'
+INFO: Status updated for 'query_8f363529': Stage 'model_inference' -> 'processing'
+INFO: Status updated for 'query_8f363529': Stage 'model_inference' -> 'processing'
+2026-02-13 09:55:41,235 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_8f363529'...
+INFO:main_worker:INFO: [Stage 2/3] Starting Model Inference for 'query_8f363529'...
+INFO: Initializing MultimodalClaimVerifier (vLLM)...
+INFO 02-13 09:55:44 [config.py:2968] Downcasting torch.float32 to torch.bfloat16.
+INFO 02-13 09:55:51 [config.py:717] This model supports multiple tasks: {'embed', 'generate', 'reward', 'score', 'classify'}. Defaulting to 'generate'.
+INFO 02-13 09:55:51 [config.py:2003] Chunked prefill is enabled with max_num_batched_tokens=8192.
+WARNING 02-13 09:55:54 [utils.py:2382] We must use the `spawn` multiprocessing start method. Overriding VLLM_WORKER_MULTIPROC_METHOD to 'spawn'. See https://docs.vllm.ai/en/latest/getting_started/troubleshooting.html#python-multiprocessing for more information. Reason: CUDA is initialized
+Base Directory: /data/asca/FND_mini
+INFO 02-13 09:55:58 [importing.py:53] Triton module has been replaced with a placeholder.
+INFO 02-13 09:55:58 [__init__.py:239] Automatically detected platform cuda.
+/data/asca/FND/.venv/lib/python3.11/site-packages/fairscale/experimental/nn/offload.py:19: FutureWarning: `torch.cuda.amp.custom_fwd(args...)` is deprecated. Please use `torch.amp.custom_fwd(args..., device_type='cuda')` instead.
+  return torch.cuda.amp.custom_fwd(orig_func)  # type: ignore
+/data/asca/FND/.venv/lib/python3.11/site-packages/fairscale/experimental/nn/offload.py:30: FutureWarning: `torch.cuda.amp.custom_bwd(args...)` is deprecated. Please use `torch.amp.custom_bwd(args..., device_type='cuda')` instead.
+  return torch.cuda.amp.custom_bwd(orig_func)  # type: ignore
+[2026-02-13 09:56:01] INFO model.py:948: Loading pretrained ViT-L-14 from OpenAI.
+INFO 02-13 09:56:07 [core.py:58] Initializing a V1 LLM engine (v0.8.5) with config: model='/data/shwetabh_agentic_FND/agentic_framework_4/agents/google/gemma-3-12b-it/models--google--gemma-3-12b-it/snapshots/96b6f1eccf38110c56df3a15bffe176da04bfd80', speculative_config=None, tokenizer='/data/shwetabh_agentic_FND/agentic_framework_4/agents/google/gemma-3-12b-it/models--google--gemma-3-12b-it/snapshots/96b6f1eccf38110c56df3a15bffe176da04bfd80', skip_tokenizer_init=False, tokenizer_mode=auto, revision=None, override_neuron_config=None, tokenizer_revision=None, trust_remote_code=False, dtype=torch.bfloat16, max_seq_len=4096, download_dir='/data/shwetabh_agentic_FND/agentic_framework_4/agents/google/gemma-3-12b-it', load_format=LoadFormat.AUTO, tensor_parallel_size=1, pipeline_parallel_size=1, disable_custom_all_reduce=False, quantization=None, enforce_eager=False, kv_cache_dtype=auto,  device_config=cuda, decoding_config=DecodingConfig(guided_decoding_backend='auto', reasoning_backend=None), observability_config=ObservabilityConfig(show_hidden_metrics=False, otlp_traces_endpoint=None, collect_model_forward_time=False, collect_model_execute_time=False), seed=None, served_model_name=/data/shwetabh_agentic_FND/agentic_framework_4/agents/google/gemma-3-12b-it/models--google--gemma-3-12b-it/snapshots/96b6f1eccf38110c56df3a15bffe176da04bfd80, num_scheduler_steps=1, multi_step_stream_outputs=True, enable_prefix_caching=True, chunked_prefill_enabled=True, use_async_output_proc=True, disable_mm_preprocessor_cache=False, mm_processor_kwargs=None, pooler_config=None, compilation_config={"level":3,"custom_ops":["none"],"splitting_ops":["vllm.unified_attention","vllm.unified_attention_with_output"],"use_inductor":true,"compile_sizes":[],"use_cudagraph":true,"cudagraph_num_of_warmups":1,"cudagraph_capture_sizes":[512,504,496,488,480,472,464,456,448,440,432,424,416,408,400,392,384,376,368,360,352,344,336,328,320,312,304,296,288,280,272,264,256,248,240,232,224,216,208,200,192,184,176,168,160,152,144,136,128,120,112,104,96,88,80,72,64,56,48,40,32,24,16,8,4,2,1],"max_capture_size":512}
+WARNING 02-13 09:56:07 [utils.py:2522] Methods determine_num_available_blocks,device_config,get_cache_block_size_bytes,initialize_cache not implemented in <vllm.v1.worker.gpu_worker.Worker object at 0x760624f138d0>
+INFO 02-13 09:56:07 [parallel_state.py:1004] rank 0 in world size 1 is assigned as DP rank 0, PP rank 0, TP rank 0
+INFO 02-13 09:56:07 [cuda.py:221] Using Flash Attention backend on V1 engine.
+WARNING 02-13 09:56:13 [topk_topp_sampler.py:69] FlashInfer is not available. Falling back to the PyTorch-native implementation of top-p & top-k sampling. For the best performance, please install FlashInfer.
+INFO 02-13 09:56:13 [gpu_model_runner.py:1329] Starting to load model /data/shwetabh_agentic_FND/agentic_framework_4/agents/google/gemma-3-12b-it/models--google--gemma-3-12b-it/snapshots/96b6f1eccf38110c56df3a15bffe176da04bfd80...
+INFO 02-13 09:56:13 [config.py:3614] cudagraph sizes specified by model runner [1, 2, 4, 8, 16, 24, 32, 40, 48, 56, 64, 72, 80, 88, 96, 104, 112, 120, 128, 136, 144, 152, 160, 168, 176, 184, 192, 200, 208, 216, 224, 232, 240, 248, 256, 264, 272, 280, 288, 296, 304, 312, 320, 328, 336, 344, 352, 360, 368, 376, 384, 392, 400, 408, 416, 424, 432, 440, 448, 456, 464, 472, 480, 488, 496, 504, 512] is overridden by config [512, 384, 256, 128, 4, 2, 1, 392, 264, 136, 8, 400, 272, 144, 16, 408, 280, 152, 24, 416, 288, 160, 32, 424, 296, 168, 40, 432, 304, 176, 48, 440, 312, 184, 56, 448, 320, 192, 64, 456, 328, 200, 72, 464, 336, 208, 80, 472, 344, 216, 88, 120, 480, 352, 248, 224, 96, 488, 504, 360, 232, 104, 496, 368, 240, 112, 376]
+Loading safetensors checkpoint shards:   0% Completed | 0/5 [00:00<?, ?it/s]
+Loading safetensors checkpoint shards:  20% Completed | 1/5 [00:00<00:02,  1.61it/s]
+Loading safetensors checkpoint shards:  40% Completed | 2/5 [00:01<00:01,  1.51it/s]
+Loading safetensors checkpoint shards:  60% Completed | 3/5 [00:01<00:01,  1.48it/s]
+Loading safetensors checkpoint shards:  80% Completed | 4/5 [00:02<00:00,  1.45it/s]
+Loading safetensors checkpoint shards: 100% Completed | 5/5 [00:03<00:00,  1.48it/s]
+Loading safetensors checkpoint shards: 100% Completed | 5/5 [00:03<00:00,  1.49it/s]
+
+INFO 02-13 09:56:16 [loader.py:458] Loading weights took 3.42 seconds
+INFO 02-13 09:56:17 [gpu_model_runner.py:1347] Model loading took 23.3147 GiB and 3.674882 seconds
+INFO 02-13 09:56:17 [gpu_model_runner.py:1620] Encoder cache will be initialized with a budget of 8192 tokens, and profiled with 32 image items of the maximum feature size.
+INFO 02-13 09:56:32 [backends.py:420] Using cache directory: /home/drdo/.cache/vllm/torch_compile_cache/ca02cda0fe/rank_0_0 for vLLM's torch.compile
+INFO 02-13 09:56:32 [backends.py:430] Dynamo bytecode transform time: 12.79 s
+INFO 02-13 09:56:45 [backends.py:118] Directly load the compiled graph(s) for shape None from the cache, took 12.676 s
+INFO 02-13 09:56:54 [monitor.py:33] torch.compile takes 12.79 s in total
+INFO 02-13 09:56:54 [kv_cache_utils.py:634] GPU KV cache size: 31,920 tokens
+INFO 02-13 09:56:54 [kv_cache_utils.py:637] Maximum concurrency for 4,096 tokens per request: 7.79x
+INFO 02-13 09:57:25 [gpu_model_runner.py:1686] Graph capturing finished in 31 secs, took 0.78 GiB
+INFO 02-13 09:57:25 [core.py:159] init engine (profile, create kv cache, warmup model) took 68.76 seconds
+INFO 02-13 09:57:25 [core_client.py:439] Core engine process 0 ready.
+/data/asca/FND/.venv/lib/python3.11/site-packages/torch/nn/modules/transformer.py:385: UserWarning: enable_nested_tensor is True, but self.use_nested_tensor is False because encoder_layer.norm_first was True
+  warnings.warn(
+INFO: Verifier initialized.
+INFO: Initializing FraudNet model on cpu...
+INFO: FraudNet model initialized on cpu.
+Processed prompts:   0%|          | 0/12 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]Processed prompts:   8%|▊         | 1/12 [00:05<00:58,  5.30s/it, est. speed input: 146.10 toks/s, output: 17.93 toks/s]Processed prompts:  17%|█▋        | 2/12 [00:05<00:23,  2.40s/it, est. speed input: 275.10 toks/s, output: 34.96 toks/s]Processed prompts:  25%|██▌       | 3/12 [00:06<00:13,  1.50s/it, est. speed input: 383.29 toks/s, output: 50.94 toks/s]Processed prompts:  33%|███▎      | 4/12 [00:06<00:07,  1.02it/s, est. speed input: 495.01 toks/s, output: 68.14 toks/s]Processed prompts:  42%|████▏     | 5/12 [00:06<00:04,  1.42it/s, est. speed input: 599.27 toks/s, output: 84.64 toks/s]Processed prompts:  50%|█████     | 6/12 [00:06<00:03,  1.76it/s, est. speed input: 686.99 toks/s, output: 99.82 toks/s]Processed prompts:  58%|█████▊    | 7/12 [00:07<00:03,  1.31it/s, est. speed input: 683.40 toks/s, output: 104.72 toks/s]Processed prompts:  67%|██████▋   | 8/12 [00:08<00:02,  1.37it/s, est. speed input: 722.44 toks/s, output: 116.66 toks/s]Processed prompts:  75%|███████▌  | 9/12 [00:09<00:02,  1.34it/s, est. speed input: 745.78 toks/s, output: 127.36 toks/s]Processed prompts:  83%|████████▎ | 10/12 [00:10<00:01,  1.40it/s, est. speed input: 774.29 toks/s, output: 139.72 toks/s]Processed prompts:  92%|█████████▏| 11/12 [00:27<00:05,  5.82s/it, est. speed input: 323.96 toks/s, output: 74.41 toks/s] Processed prompts: 100%|██████████| 12/12 [00:29<00:00,  4.75s/it, est. speed input: 328.07 toks/s, output: 92.08 toks/s]Processed prompts: 100%|██████████| 12/12 [00:29<00:00,  2.48s/it, est. speed input: 328.07 toks/s, output: 92.08 toks/s]
+Prompt 1 Response:
+Okay, let's break down this news sample with the requested 4-step analysis.
+
+---
+
+### STEP 1: Sentiment Alignment
+
+1. **Text Sentiment**: The text has a strongly negative sentiment. It uses loaded language ("taking rounds on the internet," "pretty high" regarding trafficking), and connects Mira Nair to Jeffrey Epstein, a figure associated with serious crimes. The mention of Zohran Mamdani's grandmother's NGO and the trafficking rate in India adds to the negative and potentially exploitative tone.
+2. **Image Sentiment**: The image depicts a seemingly pleasant social gathering. People are smiling, posing for photos, and appear relaxed. The setting looks upscale and comfortable. There's no immediate visual indication of negativity or distress.
+3. **Comparison**:
+    - Classification: `Sentiment Mismatch`
+    - Reasoning: The text conveys a negative and accusatory sentiment, while the image presents a scene of apparent social harmony and positivity. The contrast is significant.
+
+---
+
+### STEP 2: Entity Consistency
+
+1. **Text Entities**:
+    *   Mira Nair
+    *   Zohran Mamdani
+    *   Jeffrey Epstein
+    *   India
+    *   NGO (for street kids)
+2. **Image Entities**:
+    *   Mira Nair (appears in the image)
+    *   Jeffrey Epstein (appears in the image)
+    *   Zohran Mamdani (appears as a child in the image)
+    *   Bill Clinton (appears in the image)
+    *   Jeff Bezos (appears in the image)
+3. **Comparison**:
+    - Classification: `Entities Aligned`
+    - Reasoning: The key individuals mentioned in the text (Mira Nair, Jeffrey Epstein, and Zohran Mamdani) are visibly present in the image. The presence of Bill Clinton and Jeff Bezos, while not explicitly mentioned, doesn't contradict the text.
+
+---
+
+### STEP 3: Event/Action Consistency
+
+1. **Text Event/Action**: The text describes a controversy: Mira Nair's presence in photos with Jeffrey Epstein is circulating online, raising concerns about her association with him and potentially linking it to issues of human trafficking in India.
+2. **Image Depiction**: The image depicts a social gathering, likely a party or event, where several prominent individuals are posing for photos together. It doesn't inherently show any controversial action or event.
+3. **Comparison**:
+    - Classification: `Event/Action Mismatch`
+    - Reasoning: The text describes a controversy and potential implications, while the image simply shows a social interaction. The image doesn't depict the "taking rounds on the internet" or the accusations implied in the text.
+
+---
+
+### STEP 4: Final Judgment
+
+- Judgment: `FAKE`
+- Brief Reasoning: The most significant factor in this judgment is the `Sentiment Mismatch` (Step 1) and `Event/Action Mismatch` (Step 3). The image presents a benign social scene, while the text frames it as part of a serious controversy. The image is being used to deceptively imply a connection or endorsement that isn't visually present. While the entities are aligned, the overall narrative and emotional context are completely at odds. This suggests the image is being used to mislead or create a false impression.
+--------------------------------------------------
+Prompt 2 Response:
+Okay, let's analyze the two images step-by-step.
+
+**STEP 1: Sentiment Alignment**
+
+*   **Image 1 Sentiment**: The text accompanying Image 1 is highly negative and accusatory, referencing Jeffrey Epstein and human trafficking. The image itself, showing people in a social setting, is presented in a way that implies wrongdoing and scandal. The overall sentiment is strongly negative and potentially angry/disgusted.
+*   **Image 2 Sentiment**: Image 2 has a more neutral sentiment. It shows a "fact-check" graphic with a "BIG WARNING" label over the image. The expressions of the people in the image are neutral. The overall sentiment is more informative and cautionary rather than emotionally charged.
+*   **Comparison**: `Sentiment Mismatch`
+*   **Reasoning**: Image 1 evokes a strong negative emotional response due to the accusations and context provided in the text. Image 2 presents a more neutral, fact-checking perspective.
+
+---
+
+**STEP 2: Entity Consistency**
+
+*   **Entities in Image 1**: The image contains recognizable figures like Bill Clinton, Jeffrey Epstein, Zohran Mamdani, and Mira Nair. It also references locations like India.
+*   **Entities in Image 2**: The evidence image contains the same people (Bill Clinton, Jeffrey Epstein, Zohran Mamdani, Mira Nair) and the same location (India). The image also includes the fact-checking organization and individuals associated with it.
+*   **Comparison**: `Entities Aligned`
+*   **Reasoning**: The core individuals and locations are present in both images, confirming that they depict the same event or setting.
+
+---
+
+**STEP 3: Event/Action Consistency**
+
+*   **Event/Action in Image 1**: Image 1 depicts a social gathering, likely a party or event, where several prominent individuals are present. The accompanying text suggests this gathering is linked to controversial figures and accusations.
+*   **Event/Action in Image 2**: Image 2 shows the same social gathering, but it is presented within the context of a fact-check, indicating that the original image and its accompanying claims are being questioned.
+*   **Comparison**: `Event/Action Aligned`
+*   **Reasoning**: Both images show the same event, but they frame it differently. Image 1 presents it as evidence of wrongdoing, while Image 2 presents it as a subject of scrutiny.
+
+---
+
+**STEP 4: Final Judgment**
+
+*   **Judgment**: FAKE
+*   **Brief Reasoning**: While the entities and event are consistent between the images (STEP 2 & 3), the significant sentiment mismatch (STEP 1) is a key indicator of manipulation. Image 1 uses the image to create a false narrative and spread misinformation. Image 2 is a fact-check attempting to debunk the false claims associated with the image. The pairing is misleading because it presents a fact-check alongside the original, potentially deceptive image, without sufficient context to immediately clarify the image's disputed nature.
+--------------------------------------------------
+Prompt 3 Response:
+```json
+{
+  "FactualAlignmentScore": -1,
+  "rationale": "Sentence A claims that photos of Mira Nair, Zohran Mamdani, and Jeffrey Epstein are circulating online. Sentence B, from a fact-checking source, explicitly states that these photos are AI-generated and therefore false. This directly debunks the claim made in Sentence A.",
+  "FactCheckVerdictUsed": true,
+  "TrustedNewsSourceVerified": false
+}
+```
+--------------------------------------------------
+Prompt 4 Response:
+```json
+{
+  "FactualAlignmentScore": 0,
+  "rationale": "Sentence A mentions Mira Nair's presence in the Epstein Files and includes details about Zohran Mamdani's grandmother's NGO and human trafficking in India. Sentence B only states that NYC Mayor Mamdani was heckled because his mother, Mira Nair, was named in the Epstein files. While both sentences refer to Mira Nair and the Epstein Files, the additional details in Sentence A about Zohran's grandmother and human trafficking in India introduce separate, unrelated facts. Therefore, they do not describe the same real-world situation.",
+  "FactCheckVerdictUsed": false,
+  "TrustedNewsSourceVerified": false
+}
+```
+--------------------------------------------------
+Prompt 5 Response:
+```json
+{
+  "FactualAlignmentScore": -1,
+  "rationale": "Sentence A claims that Mira Nair, the mother of NY mayor Zohran Mamdani, was present in the #EpsteinFiles and that images of her with Jeffrey Epstein holding Zohran are circulating. Sentence B, from The Hindu, explicitly states that the images of Zohran Mamdani and his mother Mira Nair with Jeffrey Epstein are AI-generated, thus debunking the claim in Sentence A.",
+  "FactCheckVerdictUsed": true,
+  "TrustedNewsSourceVerified": true
+}
+```
+--------------------------------------------------
+Prompt 6 Response:
+```json
+{
+  "FactualAlignmentScore": -1,
+  "rationale": "Sentence B is from a source claiming the photos of Mira Nair with Jeffrey Epstein are AI-generated, directly contradicting the claim in Sentence A that these photos are real and circulating online. This constitutes a direct debunking of the claim in Sentence A.",
+  "FactCheckVerdictUsed": true,
+  "TrustedNewsSourceVerified": false
+}
+```
+--------------------------------------------------
+Prompt 7 Response:
+```json
+{
+  "FactualAlignmentScore": 0,
+  "rationale": "Sentence A discusses Mira Nair's presence in the Epstein Files and her connection to Zohran Mamdani, along with a claim about human trafficking in India. Sentence B refers to a news article discussing a link between Jeffrey Epstein, Zohran Mamdani, and his mother, Mira Nair, based on the Epstein Files. While both relate to the Epstein Files and the Mamdani family, Sentence B does not confirm or deny the claim about human trafficking in India, nor does it provide the same details about the photos. They describe different aspects of the same general topic but are not aligned on the same factual claims.",
+  "FactCheckVerdictUsed": false,
+  "TrustedNewsSourceVerified": true
+}
+```
+--------------------------------------------------
+Prompt 8 Response:
+```json
+{
+  "FactualAlignmentScore": 0,
+  "rationale": "Sentence A claims Mira Nair, the mother of NY mayor Zohran Mamdani, was present in the #EpsteinFiles and had photos with Jeffrey Epstein. It also mentions Zohran's grandmother running an NGO for street kids in India and a high human trafficking rate in India. Sentence B is a headline from Hindustan Times investigating a viral photo of Zohran Mamdani's mother with Jeffrey Epstein. While both relate to the same person (Mira Nair) and Epstein, Sentence B does not confirm or deny the claim about her presence in the #EpsteinFiles or the other claims about her family and India. It only indicates an investigation into a viral photo. Therefore, they refer to different facts.",
+  "FactCheckVerdictUsed": false,
+  "TrustedNewsSourceVerified": true
+}
+```
+--------------------------------------------------
+Prompt 9 Response:
+```json
+{
+  "FactualAlignmentScore": 0,
+  "rationale": "Sentence A discusses Mira Nair's presence in the Epstein Files and her connection to Zohran Mamdani and a human trafficking issue in India. Sentence B refers to a YouTube video being shared as visuals from the Epstein Files. These are different topics; one is about a person's association with Jeffrey Epstein and another is about a misidentified video.",
+  "FactCheckVerdictUsed": false,
+  "TrustedNewsSourceVerified": false
+}
+```
+--------------------------------------------------
+Prompt 10 Response:
+```json
+{
+  "FactualAlignmentScore": -1,
+  "rationale": "Sentence A claims that Mira Nair, the mother of NYC Mayor Zohran Mamdani, was present in the #EpsteinFiles and has pictures with Jeffrey Epstein. Sentence B, from ABC7 New York (a trusted news source), explicitly states that images of Zohran Mamdani with Jeffrey Epstein are AI-generated, directly debunking the claim in Sentence A.",
+  "FactCheckVerdictUsed": true,
+  "TrustedNewsSourceVerified": true
+}
+```
+--------------------------------------------------
+Prompt 11 Response:
+```json
+{
+  "FactualAlignmentScore": 0,
+  "rationale": "Sentence A claims Mira Nair, the mother of NYC Mayor Zohran Mamdani, is present in the Epstein Files and includes photos of her with Jeffrey Epstein holding a young Mamdani. It also mentions Mamdani's grandmother running an NGO for street kids in India and a high human trafficking rate in India. Sentence B, from Fox News, simply states a photo of NYC Mayor Mamdani has surfaced related to his mother's appearance in the Epstein documents. While both relate to Zohran Mamdani and his mother, the details about the grandmother's NGO and the human trafficking rate in India are not mentioned in Sentence B, and the Fox News article does not explicitly confirm or deny the details of the photos described in Sentence A. Therefore, they refer to different facts.",
+  "FactCheckVerdictUsed": false,
+  "TrustedNewsSourceVerified": true
+}
+```
+--------------------------------------------------
+Prompt 12 Response:
+```json
+{
+  "FactualAlignmentScore": 0,
+  "rationale": "Sentence A discusses Mira Nair, mother of Zohran Mamdani, and her connection to Jeffrey Epstein, as well as Zohran's grandmother's NGO and human trafficking in India. Sentence B discusses a viral video of President Droupadi Murmu and claims it is fake. These are entirely different topics and events.",
+  "FactCheckVerdictUsed": false,
+  "TrustedNewsSourceVerified": false
+}
+```
+--------------------------------------------------
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]Processed prompts: 100%|██████████| 1/1 [00:18<00:00, 18.66s/it, est. speed input: 66.89 toks/s, output: 24.97 toks/s]Processed prompts: 100%|██████████| 1/1 [00:18<00:00, 18.66s/it, est. speed input: 66.89 toks/s, output: 24.97 toks/s]
+Prompt 1 Response:
+Here's an analysis of the rationales, categorized by factual alignment, along with a summary:
+
+**1. Contradictory (Debunking Sentence A):**
+
+*   **Rationale 1:** Explicitly states photos are AI-generated, directly debunking the claim of real photos circulating.
+*   **Rationale 3:** Explicitly states the images are AI-generated, debunking the claim.
+*   **Rationale 4:** Directly contradicts the claim of real photos by stating they are AI-generated.
+*   **Rationale 8:** ABC7 New York states images are AI-generated, directly debunking the claim.
+
+**2. Unrelated:**
+
+*   **Rationale 7:** Discusses a misidentified YouTube video, a completely different topic.
+*   **Rationale 9:** Discusses a viral video of President Murmu being fake, a different topic.
+
+**3. Partially Aligned/Weak Alignment (Describing related but not identical facts):**
+
+*   **Rationale 2:** Mentions Mira Nair and the Epstein Files but doesn't address the photos or the details about the grandmother/human trafficking.
+*   **Rationale 5:** Relates to the Epstein Files and Mamdani family but doesn't confirm/deny the photo details or the India-related claims.
+*   **Rationale 6:** Investigates a viral photo but doesn't confirm/deny her presence in the Epstein Files or details about her family and India.
+*   **Rationale 10:** Relates to Zohran Mamdani and his mother but omits the grandmother's NGO and human trafficking rate.
+
+
+
+**Summary:**
+
+The evidence overwhelmingly contradicts Sentence A's central claim that photos of Mira Nair, Zohran Mamdani, and Jeffrey Epstein are real and circulating. Multiple sources, including reputable news outlets, explicitly state these images are AI-generated. While several Sentence Bs acknowledge the connection between Mira Nair and the Epstein Files, they do not support the claims about the photos or the additional details regarding Zohran's grandmother and human trafficking in India, indicating these elements are either unrelated or unsupported by the provided evidence. Therefore, Sentence A appears to be largely inaccurate and based on fabricated information.
+--------------------------------------------------
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]Processed prompts: 100%|██████████| 1/1 [00:23<00:00, 23.39s/it, est. speed input: 91.95 toks/s, output: 24.62 toks/s]Processed prompts: 100%|██████████| 1/1 [00:23<00:00, 23.39s/it, est. speed input: 91.95 toks/s, output: 24.62 toks/s]
+Prompt 1 Response:
+**Final Classification**: FAKE
+**Detailed Reasoning**:
+
+The overwhelming evidence points towards the news post being fake. The primary driver of this conclusion is **Evidence 3 (Web Search)**, which assigns a low support score of -20.0, indicating a strong refutation of the claim. This means that a web search reveals a lack of credible news sources supporting the assertion that Mira Nair, the mother of Zohran Mamdani, was present in photos with Jeffrey Epstein and that this is currently a circulating controversy.
+
+**Evidence 2 (Image-Image Consistency)** further reinforces this assessment. The fact-check image explicitly indicates that the original image is being scrutinized and likely misrepresented. The sentiment mismatch between the original image (presented with a negative, accusatory caption) and the fact-check image (neutral and cautionary) highlights a deliberate attempt to mislead. The fact-check image's presence strongly suggests the original image is being used in a deceptive manner.
+
+**Evidence 1 (Image-Text Consistency)** provides additional supporting cues. The sentiment mismatch between the positive, social image and the negative, accusatory text is a significant red flag. The text attempts to create a narrative of scandal and connection to human trafficking that is not visually present in the image. The entities are aligned, but the event/action described in the text is not depicted in the image, further indicating manipulation.
+
+**Arguments FOR the FAKE classification:**
+
+*   **Strong Web Search Refutation:** The -20.0 score from the web search is the most compelling evidence, demonstrating a lack of credible support for the claim.
+*   **Fact-Check Image:** The presence of a fact-check image directly challenges the validity of the original post.
+*   **Sentiment Mismatch:** The stark contrast between the positive image and the negative text suggests an attempt to create a false narrative.
+*   **Event/Action Discrepancy:** The image doesn't depict the controversy or accusations described in the text.
+
+**Arguments AGAINST the FAKE classification:**
+
+*   **Entity Alignment:** The key individuals (Mira Nair, Jeffrey Epstein, Zohran Mamdani) are present in the image, which could be interpreted as a potential starting point for a connection, however, this is not enough to support the claim.
+*   **Potential for Misinterpretation:** It's possible, though unlikely given the web search results, that the image is part of a larger, less-publicized story that hasn't yet gained widespread attention. However, the fact-check image strongly suggests this is not the case.
+
+
+
+**Confidence Level**: High. The combination of a strong web search refutation, a fact-check image, and internal inconsistencies within the image-text pairing leaves little doubt that the news post is fabricated.
+--------------------------------------------------
+INFO: Inference complete. Results saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_8f363529/inference_results.json
+2026-02-13 09:58:43,173 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_8f363529'
+INFO:main_worker:INFO: Verdict 'Fake' saved for query 'query_8f363529'
+INFO: Status updated for 'query_8f363529': Stage 'model_inference' -> 'completed'
+INFO: Status updated for 'query_8f363529': Stage 'pdf_generation' -> 'processing'
+2026-02-13 09:58:43,314 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_8f363529'...
+INFO:main_worker:INFO: [Stage 3/3] Starting PDF Generation for 'query_8f363529'...
+WARNING:fpdf.output:Font MPDFAA+DejaVuSansBold is missing the following glyphs: '🧠' (\U0001f9e0), '🖼' (\U0001f5bc), '🔍' (\U0001f50d), '📝' (\U0001f4dd)
+INFO: Professional PDF report generated successfully at: /data/asca/FND_mini/agentic_workspace/4_results/query_8f363529/analysis_report.pdf
+INFO: Status updated for 'query_8f363529': Stage 'pdf_generation' -> 'completed'
+2026-02-13 09:58:44,073 - main_worker - INFO - SUCCESS: Job for 'query_8f363529' completed successfully.
+INFO:main_worker:SUCCESS: Job for 'query_8f363529' completed successfully.
+2026-02-13 09:58:44,074 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_8f363529.job
+INFO:main_worker:INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_8f363529.job
+2026-02-13 11:59:14,495 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_204902d2 (User: CAIR) ---
+INFO:main_worker:
+--- [WORKER] Processing job for query: query_204902d2 (User: CAIR) ---
+INFO: Status updated for 'query_204902d2': Stage 'evidence_extraction' -> 'processing'
+2026-02-13 11:59:14,535 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_204902d2'...
+INFO:main_worker:INFO: [Stage 1/3] Starting Evidence Extraction for 'query_204902d2'...
+2026-02-13 11:59:14,536 - main_worker - INFO - Initiating isolated search for query: query_204902d2
+INFO:main_worker:Initiating isolated search for query: query_204902d2
+Base Directory: /data/asca/FND_mini
+INFO 02-13 11:59:19 [importing.py:53] Triton module has been replaced with a placeholder.
+INFO 02-13 11:59:19 [__init__.py:239] Automatically detected platform cuda.
+/data/asca/FND/.venv/lib/python3.11/site-packages/fairscale/experimental/nn/offload.py:19: FutureWarning: `torch.cuda.amp.custom_fwd(args...)` is deprecated. Please use `torch.amp.custom_fwd(args..., device_type='cuda')` instead.
+  return torch.cuda.amp.custom_fwd(orig_func)  # type: ignore
+/data/asca/FND/.venv/lib/python3.11/site-packages/fairscale/experimental/nn/offload.py:30: FutureWarning: `torch.cuda.amp.custom_bwd(args...)` is deprecated. Please use `torch.amp.custom_bwd(args..., device_type='cuda')` instead.
+  return torch.cuda.amp.custom_bwd(orig_func)  # type: ignore
+[2026-02-13 11:59:22] INFO model.py:948: Loading pretrained ViT-L-14 from OpenAI.
+INFO: Loading CLIP model for the first time...
+INFO: CLIP model loaded successfully.
+2026-02-13 11:59:33,922 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+INFO:main_worker:Isolated search successful on attempt 1. Found 10 items.
+2026-02-13 11:59:33,927 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_204902d2/evidence_metadata.json
+INFO:main_worker:INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_204902d2/evidence_metadata.json
+INFO: Status updated for 'query_204902d2': Stage 'evidence_extraction' -> 'completed'
+INFO: Status updated for 'query_204902d2': Stage 'model_inference' -> 'processing'
+INFO: Status updated for 'query_204902d2': Stage 'model_inference' -> 'processing'
+2026-02-13 11:59:34,068 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_204902d2'...
+INFO:main_worker:INFO: [Stage 2/3] Starting Model Inference for 'query_204902d2'...
+Processed prompts:   0%|          | 0/12 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]Processed prompts:   8%|▊         | 1/12 [00:04<00:51,  4.64s/it, est. speed input: 156.34 toks/s, output: 18.33 toks/s]Processed prompts:  17%|█▋        | 2/12 [00:04<00:20,  2.04s/it, est. speed input: 300.43 toks/s, output: 35.99 toks/s]Processed prompts:  42%|████▏     | 5/12 [00:05<00:04,  1.51it/s, est. speed input: 701.23 toks/s, output: 86.98 toks/s]Processed prompts:  50%|█████     | 6/12 [00:05<00:04,  1.49it/s, est. speed input: 744.36 toks/s, output: 96.14 toks/s]Processed prompts:  58%|█████▊    | 7/12 [00:06<00:02,  1.86it/s, est. speed input: 841.99 toks/s, output: 112.85 toks/s]Processed prompts:  83%|████████▎ | 10/12 [00:06<00:00,  3.40it/s, est. speed input: 1155.45 toks/s, output: 165.67 toks/s]Processed prompts:  92%|█████████▏| 11/12 [00:22<00:03,  3.59s/it, est. speed input: 354.78 toks/s, output: 69.13 toks/s]  Processed prompts: 100%|██████████| 12/12 [00:23<00:00,  2.99s/it, est. speed input: 387.64 toks/s, output: 89.91 toks/s]Processed prompts: 100%|██████████| 12/12 [00:23<00:00,  1.98s/it, est. speed input: 387.64 toks/s, output: 89.91 toks/s]
+Prompt 1 Response:
+Okay, let's analyze the image and text according to the provided instructions.
+
+---
+
+### STEP 1: Sentiment Alignment
+
+1. **Text Sentiment**: The text conveys a neutral and informative tone. It simply states a fact about the release of a new banknote.
+2. **Image Sentiment**: The image depicts two individuals (Narendra Modi and Nirmala Sitharaman) smiling and holding the new banknotes. This conveys a positive and celebratory sentiment, suggesting pride and accomplishment.
+3. **Comparison**:
+    - Classification: `Sentiment Mismatch`
+    - Reasoning: The text is neutral, while the image presents a positive and celebratory scene. The image adds an emotional layer not present in the text.
+
+---
+
+### STEP 2: Entity Consistency
+
+1. **Text Entities**:
+    *   Government of India
+    *   Netaji Subhas Chandra Bose
+    *   ₹500 (Indian Rupee)
+2. **Image Entities**:
+    *   Government of India: Represented by Narendra Modi (Prime Minister) and Nirmala Sitharaman (Finance Minister).
+    *   Netaji Subhas Chandra Bose: His image is on the banknote being held.
+    *   ₹500: The banknotes themselves are visible.
+3. **Comparison**:
+    - Classification: `Entities Aligned`
+    - Reasoning: All entities mentioned in the text are visually represented in the image.
+
+---
+
+### STEP 3: Event/Action Consistency
+
+1. **Text Event/Action**: The text describes the *release* of a new ₹500 note featuring Netaji Subhas Chandra Bose.
+2. **Image Depiction**: The image depicts the Prime Minister and Finance Minister *presenting* or *displaying* the new banknotes. This can be interpreted as a visual representation of the release event.
+3. **Comparison**:
+    - Classification: `Event/Action Aligned`
+    - Reasoning: The image shows a key moment related to the event described in the text – the public presentation of the new banknote.
+
+---
+
+### STEP 4: Final Judgment
+
+- Judgment: FAKE
+- Brief Reasoning: While the entities and the event are aligned, the sentiment mismatch is significant. The text is a factual announcement, while the image is a staged, celebratory presentation. The image's positive sentiment is not inherent to the simple act of releasing a new banknote and creates a misleading impression of excitement or fanfare beyond what the text suggests. The image is likely used to create a more positive narrative around the release than the text alone would convey.
+--------------------------------------------------
+Prompt 2 Response:
+Okay, let's analyze the two images step-by-step.
+
+**STEP 1: Sentiment Alignment**
+
+*   **Image 1 Sentiment**: The image shows Narendra Modi and Nirmala Sitharaman holding new Indian currency notes during a ceremonial event. The expressions are formal and positive, suggesting pride and a sense of accomplishment. The setting (a formal event with flags and decorations) reinforces a positive sentiment.
+*   **Image 2 Sentiment**: The image is a black and white photograph of Jawaharlal Nehru inspecting a military parade. The tone is more serious and formal, but not necessarily negative. It conveys a sense of duty and leadership.
+*   **Comparison**: `Sentiment Mismatch`
+    *   **Reasoning**: While both images depict formal events, Image 1 conveys a celebratory and positive sentiment related to economic policy, while Image 2 has a more solemn and serious tone associated with military leadership and national duty. The emotional contexts are distinct.
+
+**STEP 2: Entity Consistency**
+
+*   **Entities in Image 1**: Narendra Modi (Prime Minister of India), Nirmala Sitharaman (Finance Minister), Indian Rupees (currency), Indian flag, Reserve Bank of India.
+*   **Entities in Image 2**: Jawaharlal Nehru (former Prime Minister of India), Indian military personnel, Indian flag.
+*   **Comparison**: `Entities Mismatch`
+    *   **Reasoning**: The individuals depicted are different (Modi and Sitharaman vs. Nehru). While both images feature the Indian flag, the other entities are specific to each time period and context.
+
+**STEP 3: Event/Action Consistency**
+
+*   **Event/Action in Image 1**: A ceremonial presentation of new Indian currency notes, likely related to a policy change or new currency introduction.
+*   **Event/Action in Image 2**: Jawaharlal Nehru inspecting a military parade, a display of national strength and leadership.
+*   **Comparison**: `Event/Action Mismatch`
+    *   **Reasoning**: The events are entirely different. One is a financial/economic event, and the other is a military/national security event. There is no direct connection between the actions depicted.
+
+**STEP 4: Final Judgment**
+
+*   **Judgment**: FAKE
+*   **Brief Reasoning**: The combination of `Sentiment Mismatch`, `Entities Mismatch`, and `Event/Action Mismatch` strongly suggests that the images are being used in a misleading way. The images are from different time periods and contexts, and pairing them together without proper explanation is likely intended to create a false association or imply a connection that doesn't exist. The lack of alignment across all three analyses indicates a manipulative pairing.
+--------------------------------------------------
+Prompt 3 Response:
+```json
+{
+  "FactualAlignmentScore": 0,
+  "rationale": "Sentence A states a specific action: the Government of India released a ₹500 note with Netaji Subhas Chandra Bose's image. Sentence B discusses the *demand* for such an image on notes, but does not confirm that the note has been released. They refer to different facts - one is a demand, the other is an action taken.",
+  "FactCheckVerdictUsed": false,
+  "TrustedNewsSourceVerified": false
+}
+```
+--------------------------------------------------
+Prompt 4 Response:
+```json
+{
+  "FactualAlignmentScore": 0,
+  "rationale": "Sentence A states that the government has released a ₹500 note with Netaji's image. Sentence B reports that the government and RBI are being asked about the possibility of featuring Netaji's image on currency notes. Sentence B does not confirm that the note has been released, only that there is discussion about it. Therefore, they describe different facts.",
+  "FactCheckVerdictUsed": false,
+  "TrustedNewsSourceVerified": true
+}
+```
+--------------------------------------------------
+Prompt 5 Response:
+```json
+{
+  "FactualAlignmentScore": -1,
+  "rationale": "Sentence A claims the Government of India released a ₹500 note featuring Netaji Subhas Chandra Bose. Sentence B is from Alt News, a fact-checking website, and the title of the article directly questions whether the Nehru government scrapped currency notes featuring Subhas Chandra Bose, implying a debunking of the claim that such a note exists or was released.",
+  "FactCheckVerdictUsed": true,
+  "TrustedNewsSourceVerified": false
+}
+```
+--------------------------------------------------
+Prompt 6 Response:
+```json
+{
+  "FactualAlignmentScore": -1,
+  "rationale": "Sentence A claims the Government of India released a ₹500 note with Netaji's picture. Sentence B, from a fact-checking source, explicitly states this claim is false, asserting the note was issued by the Azad Hind Bank in Burma, not the Indian government. Therefore, Sentence B debunks the claim in Sentence A.",
+  "FactCheckVerdictUsed": true,
+  "TrustedNewsSourceVerified": false
+}
+```
+--------------------------------------------------
+Prompt 7 Response:
+```json
+{
+  "FactualAlignmentScore": 0,
+  "rationale": "Sentence A discusses the release of a ₹500 note featuring Netaji Subhas Chandra Bose. Sentence B discusses a report on the Godhra train burning case and a statement by PM Modi. These are unrelated events.",
+  "FactCheckVerdictUsed": false,
+  "TrustedNewsSourceVerified": false
+}
+```
+--------------------------------------------------
+Prompt 8 Response:
+```json
+{
+  "FactualAlignmentScore": 1,
+  "rationale": "Both sentences refer to the same real-world event: the Government of India releasing a ₹500 note with the image of Netaji Subhas Chandra Bose. Sentence B, from The Hindu, confirms this event.",
+  "FactCheckVerdictUsed": false,
+  "TrustedNewsSourceVerified": true
+}
+```
+--------------------------------------------------
+Prompt 9 Response:
+```json
+{
+  "FactualAlignmentScore": 0,
+  "rationale": "Sentence A states the Indian government released a ₹500 note with Netaji Subhas Chandra Bose's image. Sentence B discusses a film called 'The Sabarmati Report' and Prime Minister Modi's praise of it. These are unrelated topics.",
+  "FactCheckVerdictUsed": false,
+  "TrustedNewsSourceVerified": true
+}
+```
+--------------------------------------------------
+Prompt 10 Response:
+```json
+{
+  "FactualAlignmentScore": 0,
+  "rationale": "Sentence A states the government released a ₹500 note with Netaji's image. Sentence B reports a demand from Netaji's relatives to put his image on new currency notes. The sentences describe different events: one is a claim of an action already taken, and the other is a request for an action to be taken. They are not the same real-world situation.",
+  "FactCheckVerdictUsed": false,
+  "TrustedNewsSourceVerified": false
+}
+```
+--------------------------------------------------
+Prompt 11 Response:
+```json
+{
+  "FactualAlignmentScore": 0,
+  "rationale": "Sentence A describes the release of a ₹500 note featuring Netaji Subhas Chandra Bose. Sentence B discusses Prime Minister Modi's criticism of the Congress party. These are unrelated topics.",
+  "FactCheckVerdictUsed": false,
+  "TrustedNewsSourceVerified": false
+}
+```
+--------------------------------------------------
+Prompt 12 Response:
+```json
+{
+  "FactualAlignmentScore": 0,
+  "rationale": "Sentence A describes the release of a ₹500 note featuring Netaji Subhas Chandra Bose. Sentence B discusses a film about the Godhra train burning incident and a statement by PM Modi. These are unrelated events.",
+  "FactCheckVerdictUsed": false,
+  "TrustedNewsSourceVerified": true
+}
+```
+--------------------------------------------------
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]Processed prompts: 100%|██████████| 1/1 [00:15<00:00, 15.23s/it, est. speed input: 55.35 toks/s, output: 25.28 toks/s]Processed prompts: 100%|██████████| 1/1 [00:15<00:00, 15.23s/it, est. speed input: 55.35 toks/s, output: 25.28 toks/s]
+Prompt 1 Response:
+Here's an analysis of the rationales, grouped by factual alignment, followed by a summary:
+
+**1. Factually Aligned (Supports Sentence A):**
+
+*   **Rationale 6:** Sentence B confirms the event described in Sentence A (release of the note) from a reputable source (The Hindu).
+
+**2. Contradictory (Disputes Sentence A):**
+
+*   **Rationale 3:** Sentence B (from Alt News) questions the existence of the note and implies it's a false claim.
+*   **Rationale 4:** Sentence B (from a fact-checking source) explicitly states the claim is false, attributing the note to Azad Hind Bank instead of the Indian government.
+
+**3. Unrelated (No Factual Connection):**
+
+*   **Rationale 1, 2, 5, 7, 9, 10:** These rationales all describe topics completely separate from the release of a ₹500 note featuring Netaji Subhas Chandra Bose. They cover demands for the image, film reviews, political criticism, and unrelated events like the Godhra train burning.
+*   **Rationale 8:** While mentioning Netaji, Sentence B discusses a *request* to put his image on notes, which is different from the *release* of a note already featuring his image.
+
+
+
+**Summary:**
+
+The evidence regarding Sentence A (the release of a ₹500 note featuring Netaji Subhas Chandra Bose) is mixed. While one source (The Hindu) confirms the event, two fact-checking sources directly contradict the claim, asserting the note either doesn't exist or was issued by a different entity. The remaining rationales are entirely unrelated, highlighting a lack of supporting evidence beyond the single confirmation. Therefore, the evidence presents a significant degree of dispute and casts doubt on the veracity of Sentence A.
+--------------------------------------------------
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]Processed prompts: 100%|██████████| 1/1 [00:25<00:00, 25.84s/it, est. speed input: 72.13 toks/s, output: 24.81 toks/s]Processed prompts: 100%|██████████| 1/1 [00:25<00:00, 25.84s/it, est. speed input: 72.13 toks/s, output: 24.81 toks/s]
+Prompt 1 Response:
+**Final Classification**: FAKE
+**Detailed Reasoning**:
+
+The claim that the Government of India has released a ₹500 note featuring the image of Netaji Subhas Chandra Bose is **FAKE**. This conclusion is primarily driven by the overwhelming evidence from all three sources, with the web search (Evidence 3) providing the strongest indication of falsehood.
+
+**Analysis of Evidence:**
+
+*   **Evidence 1 (Image-Text Consistency):** This analysis revealed a sentiment mismatch. The text is a neutral announcement, while the image portrays a celebratory event with Modi and Sitharaman smiling and presenting the notes. This suggests the image is being used to create a more positive narrative than the simple release of a banknote warrants. The entities are aligned, and the event depicted (presentation of notes) aligns with the text's claim, but the sentiment discrepancy raises a red flag.
+
+*   **Evidence 2 (Image-Image Consistency):** This analysis compared the query image with a retrieved image of Jawaharlal Nehru inspecting a military parade. The comparison showed a significant mismatch in sentiment, entities, and event/action. The images are from different time periods and contexts, indicating a deliberate manipulation to create a false association. This strongly suggests the query image is not authentic and is being used in a misleading way.
+
+*   **Evidence 3 (Web Search):** The web search yielded a "Low Support" score of -20.0, indicating that the claim is not supported by credible news sources. This is the most decisive piece of evidence, as it directly contradicts the claim with factual information from multiple sources. No reputable news outlets reported the release of a ₹500 note featuring Netaji Subhas Chandra Bose.
+
+**Arguments FOR the Final Classification (FAKE):**
+
+*   **Strong Web Search Result:** The -20.0 score from the web search is a powerful indicator of falsehood. It demonstrates that the claim is not supported by any credible news reports.
+*   **Image-Image Mismatch:** The stark differences between the query image and the retrieved image highlight the potential for manipulation and the lack of authenticity.
+*   **Sentiment Discrepancy:** The mismatch between the neutral text and the celebratory image suggests an attempt to create a misleadingly positive impression.
+
+**Arguments AGAINST the Final Classification (REAL):**
+
+*   **Entity and Event Alignment (Evidence 1):** The entities mentioned in the text (Government of India, Netaji Subhas Chandra Bose, ₹500) are all present in the image, and the depicted event (presentation of notes) aligns with the claim of release. However, this alignment is overshadowed by the other, more compelling evidence.
+*   **Possibility of a Future Release:** It's *theoretically* possible that the note was released at a later date not captured by the web search. However, given the lack of any supporting evidence and the strong indications of manipulation, this possibility is highly unlikely.
+
+
+
+**Confidence Level**: High. The combination of a negative web search score, a clear image-image mismatch, and a sentiment discrepancy provides overwhelming evidence that the claim is false.
+--------------------------------------------------
+INFO: Inference complete. Results saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_204902d2/inference_results.json
+2026-02-13 12:00:39,339 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_204902d2'
+INFO:main_worker:INFO: Verdict 'Fake' saved for query 'query_204902d2'
+INFO: Status updated for 'query_204902d2': Stage 'model_inference' -> 'completed'
+INFO: Status updated for 'query_204902d2': Stage 'pdf_generation' -> 'processing'
+2026-02-13 12:00:39,414 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_204902d2'...
+INFO:main_worker:INFO: [Stage 3/3] Starting PDF Generation for 'query_204902d2'...
+WARNING:fpdf.output:Font MPDFAA+DejaVuSansBold is missing the following glyphs: '🧠' (\U0001f9e0), '🖼' (\U0001f5bc), '🔍' (\U0001f50d), '📝' (\U0001f4dd)
+INFO: Professional PDF report generated successfully at: /data/asca/FND_mini/agentic_workspace/4_results/query_204902d2/analysis_report.pdf
+INFO: Status updated for 'query_204902d2': Stage 'pdf_generation' -> 'completed'
+2026-02-13 12:00:40,007 - main_worker - INFO - SUCCESS: Job for 'query_204902d2' completed successfully.
+INFO:main_worker:SUCCESS: Job for 'query_204902d2' completed successfully.
+2026-02-13 12:00:40,008 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_204902d2.job
+INFO:main_worker:INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_204902d2.job
+2026-02-13 13:09:00,244 - main_worker - INFO - 
+--- [WORKER] Processing job for query: query_7b3fb246 (User: CAIR) ---
+INFO:main_worker:
+--- [WORKER] Processing job for query: query_7b3fb246 (User: CAIR) ---
+INFO: Status updated for 'query_7b3fb246': Stage 'evidence_extraction' -> 'processing'
+2026-02-13 13:09:00,283 - main_worker - INFO - INFO: [Stage 1/3] Starting Evidence Extraction for 'query_7b3fb246'...
+INFO:main_worker:INFO: [Stage 1/3] Starting Evidence Extraction for 'query_7b3fb246'...
+2026-02-13 13:09:00,284 - main_worker - INFO - Initiating isolated search for query: query_7b3fb246
+INFO:main_worker:Initiating isolated search for query: query_7b3fb246
+Base Directory: /data/asca/FND_mini
+INFO 02-13 13:09:04 [importing.py:53] Triton module has been replaced with a placeholder.
+INFO 02-13 13:09:04 [__init__.py:239] Automatically detected platform cuda.
+/data/asca/FND/.venv/lib/python3.11/site-packages/fairscale/experimental/nn/offload.py:19: FutureWarning: `torch.cuda.amp.custom_fwd(args...)` is deprecated. Please use `torch.amp.custom_fwd(args..., device_type='cuda')` instead.
+  return torch.cuda.amp.custom_fwd(orig_func)  # type: ignore
+/data/asca/FND/.venv/lib/python3.11/site-packages/fairscale/experimental/nn/offload.py:30: FutureWarning: `torch.cuda.amp.custom_bwd(args...)` is deprecated. Please use `torch.amp.custom_bwd(args..., device_type='cuda')` instead.
+  return torch.cuda.amp.custom_bwd(orig_func)  # type: ignore
+[2026-02-13 13:09:07] INFO model.py:948: Loading pretrained ViT-L-14 from OpenAI.
+INFO: Loading CLIP model for the first time...
+INFO: CLIP model loaded successfully.
+2026-02-13 13:09:20,222 - main_worker - INFO - Isolated search successful on attempt 1. Found 10 items.
+INFO:main_worker:Isolated search successful on attempt 1. Found 10 items.
+2026-02-13 13:09:20,224 - main_worker - INFO - INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_7b3fb246/evidence_metadata.json
+INFO:main_worker:INFO: Evidence extraction complete. Metadata saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_7b3fb246/evidence_metadata.json
+INFO: Status updated for 'query_7b3fb246': Stage 'evidence_extraction' -> 'completed'
+INFO: Status updated for 'query_7b3fb246': Stage 'model_inference' -> 'processing'
+INFO: Status updated for 'query_7b3fb246': Stage 'model_inference' -> 'processing'
+2026-02-13 13:09:20,343 - main_worker - INFO - INFO: [Stage 2/3] Starting Model Inference for 'query_7b3fb246'...
+INFO:main_worker:INFO: [Stage 2/3] Starting Model Inference for 'query_7b3fb246'...
+Processed prompts:   0%|          | 0/12 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]Processed prompts:   8%|▊         | 1/12 [00:03<00:43,  3.94s/it, est. speed input: 184.06 toks/s, output: 21.58 toks/s]Processed prompts:  17%|█▋        | 2/12 [00:04<00:17,  1.70s/it, est. speed input: 358.07 toks/s, output: 42.46 toks/s]Processed prompts:  50%|█████     | 6/12 [00:04<00:02,  2.11it/s, est. speed input: 973.02 toks/s, output: 120.02 toks/s]Processed prompts:  58%|█████▊    | 7/12 [00:05<00:02,  1.92it/s, est. speed input: 986.16 toks/s, output: 126.06 toks/s]Processed prompts:  67%|██████▋   | 8/12 [00:05<00:01,  2.29it/s, est. speed input: 1090.97 toks/s, output: 144.21 toks/s]Processed prompts:  75%|███████▌  | 9/12 [00:05<00:01,  2.65it/s, est. speed input: 1181.59 toks/s, output: 161.04 toks/s]Processed prompts:  92%|█████████▏| 11/12 [00:21<00:03,  3.59s/it, est. speed input: 374.25 toks/s, output: 71.17 toks/s] Processed prompts: 100%|██████████| 12/12 [00:21<00:00,  2.80s/it, est. speed input: 422.09 toks/s, output: 94.74 toks/s]Processed prompts: 100%|██████████| 12/12 [00:21<00:00,  1.82s/it, est. speed input: 422.09 toks/s, output: 94.74 toks/s]
+Prompt 1 Response:
+Okay, let's analyze the image and text according to the provided instructions.
+
+---
+
+### STEP 1: Sentiment Alignment
+
+1. **Text Sentiment**: The text conveys a neutral and informative tone. It simply states a fact about the release of a new banknote.
+2. **Image Sentiment**: The image depicts two individuals (Narendra Modi and Nirmala Sitharaman) smiling and holding the new banknotes. This conveys a positive and celebratory sentiment, suggesting pride and accomplishment.
+3. **Comparison**:
+    - Classification: `Sentiment Mismatch`
+    - Reasoning: The text is neutral, while the image presents a positive and celebratory scene. The image adds an emotional layer not present in the text.
+
+---
+
+### STEP 2: Entity Consistency
+
+1. **Text Entities**:
+    *   Government of India
+    *   Netaji Subhas Chandra Bose
+    *   ₹500 (Indian Rupee)
+2. **Image Entities**:
+    *   Government of India: Represented by Narendra Modi (Prime Minister) and Nirmala Sitharaman (Finance Minister).
+    *   Netaji Subhas Chandra Bose: His image is on the banknote being held.
+    *   ₹500: The banknotes themselves are visible.
+3. **Comparison**:
+    - Classification: `Entities Aligned`
+    - Reasoning: All entities mentioned in the text are visually represented in the image.
+
+---
+
+### STEP 3: Event/Action Consistency
+
+1. **Text Event/Action**: The text describes the *release* of a new ₹500 note featuring Netaji Subhas Chandra Bose.
+2. **Image Depiction**: The image depicts the Prime Minister and Finance Minister *presenting* or *displaying* the new banknotes. This can be interpreted as a visual representation of the release event.
+3. **Comparison**:
+    - Classification: `Event/Action Aligned`
+    - Reasoning: The image shows a key moment related to the event described in the text - the presentation of the new currency.
+
+---
+
+### STEP 4: Final Judgment
+
+- Judgment: FAKE
+- Brief Reasoning: While the entities and the event are aligned, the sentiment mismatch is significant. The text is a factual announcement, while the image is a staged, celebratory presentation. This suggests the image is being used to create a more positive perception of the event than the text alone would convey. The image is not inherently *false*, but its pairing with the neutral text creates a misleading impression.
+--------------------------------------------------
+Prompt 2 Response:
+Okay, let's analyze the two images step-by-step.
+
+**STEP 1: Sentiment Alignment**
+
+*   **Image 1 Sentiment**: The image shows Narendra Modi and Nirmala Sitharaman holding new Indian currency notes during a ceremonial event. The expressions are formal and positive, suggesting pride and a sense of accomplishment. The setting (a formal event with flags and decorations) reinforces a positive sentiment.
+*   **Image 2 Sentiment**: The image is a black and white photograph of Jawaharlal Nehru inspecting a military parade. The tone is more serious and formal, but not necessarily negative. It conveys a sense of duty and leadership.
+*   **Comparison**: `Sentiment Mismatch`
+    *   **Reasoning**: While both images depict formal events, Image 1 conveys a celebratory and positive sentiment related to economic policy, while Image 2 has a more solemn and serious tone associated with military leadership and national duty. The emotional contexts are different.
+
+**STEP 2: Entity Consistency**
+
+*   **Entities in Image 1**: Narendra Modi, Nirmala Sitharaman, Indian Rupees (currency), Indian flag, Reserve Bank of India.
+*   **Entities in Image 2**: Jawaharlal Nehru, Indian military personnel, Indian flag.
+*   **Comparison**: `Entities Mismatch`
+    *   **Reasoning**: The individuals depicted are different (Modi and Sitharaman vs. Nehru). While both images feature the Indian flag, the other entities are specific to each event and time period.
+
+**STEP 3: Event/Action Consistency**
+
+*   **Event/Action in Image 1**: A ceremonial presentation of new Indian currency notes, likely related to a policy announcement or change.
+*   **Event/Action in Image 2**: Jawaharlal Nehru inspecting a military parade.
+*   **Comparison**: `Event/Action Mismatch`
+    *   **Reasoning**: The events are entirely different. One is a financial/economic event, and the other is a military parade. There is no direct connection between the actions depicted.
+
+**STEP 4: Final Judgment**
+
+*   **Judgment**: FAKE
+*   **Brief Reasoning**: The combination of `Sentiment Mismatch`, `Entities Mismatch`, and `Event/Action Mismatch` strongly suggests that the images are being used in a misleading way. The images are unrelated events featuring different people and contexts. Pairing them together implies a false connection or narrative. The images are likely being used to create a false equivalency or to manipulate the viewer into drawing an incorrect conclusion.
+--------------------------------------------------
+Prompt 3 Response:
+```json
+{
+  "FactualAlignmentScore": 0,
+  "rationale": "Sentence A states a specific action: the Government of India released a ₹500 note with Netaji Subhas Chandra Bose's image. Sentence B discusses the *demand* for such an image on notes, but does not confirm that the note has been released. They refer to different facts - one is a claim of an action taken, the other is a discussion of public sentiment.",
+  "FactCheckVerdictUsed": false,
+  "TrustedNewsSourceVerified": false
+}
+```
+--------------------------------------------------
+Prompt 4 Response:
+```json
+{
+  "FactualAlignmentScore": -1,
+  "rationale": "Sentence A claims the Government of India released a ₹500 note featuring Netaji Subhas Chandra Bose. Sentence B is from Alt News, a fact-checking website, and the title of the article directly questions whether the Nehru government scrapped currency notes featuring Subhas Chandra Bose, implying a debunking of the claim that such a note exists or was released.",
+  "FactCheckVerdictUsed": true,
+  "TrustedNewsSourceVerified": false
+}
+```
+--------------------------------------------------
+Prompt 5 Response:
+```json
+{
+  "FactualAlignmentScore": -1,
+  "rationale": "Sentence A claims the Government of India released a ₹500 note with Netaji's picture. Sentence B, from a fact-checking source, explicitly states this claim is false, asserting the note was issued by the Azad Hind Bank in Burma, not the Indian government. Therefore, Sentence B debunks the claim in Sentence A.",
+  "FactCheckVerdictUsed": true,
+  "TrustedNewsSourceVerified": false
+}
+```
+--------------------------------------------------
+Prompt 6 Response:
+```json
+{
+  "FactualAlignmentScore": 0,
+  "rationale": "Sentence A describes the release of a ₹500 note featuring Netaji Subhas Chandra Bose. Sentence B discusses a report about the Godhra train burning case and a statement by PM Modi. These are unrelated events.",
+  "FactCheckVerdictUsed": false,
+  "TrustedNewsSourceVerified": false
+}
+```
+--------------------------------------------------
+Prompt 7 Response:
+```json
+{
+  "FactualAlignmentScore": 1,
+  "rationale": "Both sentences refer to the same real-world event: the Government of India releasing a ₹500 note with the image of Netaji Subhas Chandra Bose. Sentence B, from The Hindu, confirms this event.",
+  "FactCheckVerdictUsed": false,
+  "TrustedNewsSourceVerified": true
+}
+```
+--------------------------------------------------
+Prompt 8 Response:
+```json
+{
+  "FactualAlignmentScore": 0,
+  "rationale": "Sentence A states the Indian government released a ₹500 note with Netaji Subhas Chandra Bose's image. Sentence B discusses a film called 'The Sabarmati Report' and Prime Minister Modi's praise of it. These are unrelated topics.",
+  "FactCheckVerdictUsed": false,
+  "TrustedNewsSourceVerified": true
+}
+```
+--------------------------------------------------
+Prompt 9 Response:
+```json
+{
+  "FactualAlignmentScore": 0,
+  "rationale": "Sentence A states the government released a ₹500 note with Netaji's image. Sentence B reports a demand from Netaji's relatives to put his image on new currency notes. The sentences describe different events: one is a claim of action (release of a note), and the other is a report of a request. They are not the same real-world situation.",
+  "FactCheckVerdictUsed": false,
+  "TrustedNewsSourceVerified": false
+}
+```
+--------------------------------------------------
+Prompt 10 Response:
+```json
+{
+  "FactualAlignmentScore": 0,
+  "rationale": "Sentence A describes the release of a ₹500 note featuring Netaji Subhas Chandra Bose. Sentence B discusses Prime Minister Modi's criticism of the Congress party. These are unrelated topics.",
+  "FactCheckVerdictUsed": false,
+  "TrustedNewsSourceVerified": false
+}
+```
+--------------------------------------------------
+Prompt 11 Response:
+```json
+{
+  "FactualAlignmentScore": 0,
+  "rationale": "Sentence A describes the release of a ₹500 note featuring Netaji Subhas Chandra Bose. Sentence B discusses a film about the Godhra train burning incident and a statement by PM Modi. These are unrelated events.",
+  "FactCheckVerdictUsed": false,
+  "TrustedNewsSourceVerified": true
+}
+```
+--------------------------------------------------
+Prompt 12 Response:
+```json
+{
+  "FactualAlignmentScore": 0,
+  "rationale": "Sentence A discusses the release of a ₹500 note featuring Netaji Subhas Chandra Bose. Sentence B reports on the results of the Delhi election and a statement by PM Modi. These are unrelated events.",
+  "FactCheckVerdictUsed": false,
+  "TrustedNewsSourceVerified": false
+}
+```
+--------------------------------------------------
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]Processed prompts: 100%|██████████| 1/1 [00:11<00:00, 11.69s/it, est. speed input: 69.88 toks/s, output: 25.23 toks/s]Processed prompts: 100%|██████████| 1/1 [00:11<00:00, 11.69s/it, est. speed input: 69.88 toks/s, output: 25.23 toks/s]
+Prompt 1 Response:
+Here's an analysis of the rationales and a summary of the findings:
+
+**Categorization of Sentence Bs:**
+
+*   **Factually Aligned:** 1 Sentence B (from The Hindu) - This sentence directly confirms the event described in Sentence A, stating the government released the note.
+*   **Contradictory:** 2 Sentence Bs (from Alt News) - These sentences explicitly challenge the claim in Sentence A, with one questioning the existence of the note and the other stating it was issued by a different entity (Azad Hind Bank) and not the Indian government.
+*   **Unrelated:** 7 Sentence Bs - These sentences cover a wide range of topics (film reviews, political statements, election results, demands from relatives) that have no connection to the release of a ₹500 note featuring Netaji Subhas Chandra Bose.
+
+**Summary:**
+
+The evidence regarding Sentence A is mixed and largely unreliable. While one source (The Hindu) supports the claim that the Indian government released a ₹500 note featuring Netaji Subhas Chandra Bose, two fact-checking sources (Alt News) directly contradict this assertion, suggesting the note was either never released by the government or was issued by a different organization. The remaining evidence is entirely unrelated, further highlighting the lack of consistent support for the original claim. Therefore, the evidence as a whole does not strongly support Sentence A and raises significant doubts about its accuracy.
+--------------------------------------------------
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]Processed prompts: 100%|██████████| 1/1 [00:23<00:00, 23.94s/it, est. speed input: 76.06 toks/s, output: 25.06 toks/s]Processed prompts: 100%|██████████| 1/1 [00:23<00:00, 23.94s/it, est. speed input: 76.06 toks/s, output: 25.06 toks/s]
+Prompt 1 Response:
+**Final Classification**: FAKE
+**Detailed Reasoning**:
+
+The claim that the Government of India has released a ₹500 note featuring Netaji Subhas Chandra Bose is **FAKE**. This conclusion is primarily driven by the overwhelming evidence from the web search (Evidence 3), which provides a strong negative support score (-20.0). This indicates a clear lack of corroboration from reputable news sources regarding the release of such a note.
+
+**Analysis of Evidence:**
+
+*   **Evidence 1 (Image-Text Consistency):** This analysis revealed a sentiment mismatch. The text is neutral, while the image presents a celebratory scene. While the entities (Government of India, Netaji Subhas Chandra Bose, ₹500) are present in both, the staged and positive nature of the image suggests it's being used to create a misleading impression. This adds a layer of suspicion, but isn't definitive on its own.
+
+*   **Evidence 2 (Image-Image Consistency):** This was a crucial piece of evidence. Comparing the query image (Modi and Sitharaman with the banknotes) to a retrieved image of Jawaharlal Nehru inspecting a military parade revealed significant mismatches in sentiment, entities, and event/action. This strongly suggests the query image is not a genuine representation of a recent event and is likely manipulated or taken out of context. The stark contrast between the two images highlights the absurdity of attempting to link them.
+
+*   **Evidence 3 (Web Search):** This is the most decisive evidence. The low support score (-20.0) from the web search indicates that no credible news sources are reporting the release of a ₹500 note featuring Netaji Subhas Chandra Bose. This directly contradicts the claim made in the text and image.
+
+
+
+**Arguments FOR the FAKE classification:**
+
+*   **Strong Web Search Result:** The negative support score from the web search is the most compelling reason to classify this as fake. It demonstrates a lack of factual basis for the claim.
+*   **Image-Image Mismatch:** The significant differences between the query image and the retrieved image strongly suggest manipulation or misrepresentation.
+*   **Sentiment Mismatch:** The celebratory tone of the image clashes with the neutral tone of the text, raising concerns about the image's authenticity and purpose.
+
+**Arguments AGAINST the FAKE classification:**
+
+*   **Entity Alignment:** The entities mentioned in the text are visually present in the image. However, this is a superficial observation and doesn't negate the other, more significant inconsistencies.
+*   **Event/Action Alignment (Weak):** The image depicts a presentation of the banknotes, which could be interpreted as related to a release event. However, without external verification, this is speculative.
+
+
+
+**Confidence Level:** High. The combination of a strongly negative web search result, a clear image-image mismatch, and a sentiment mismatch provides overwhelming evidence that the claim is false.
+--------------------------------------------------
+INFO: Inference complete. Results saved to /data/asca/FND_mini/agentic_workspace/3_processed_for_model/CAIR/query_7b3fb246/inference_results.json
+2026-02-13 13:10:18,155 - main_worker - INFO - INFO: Verdict 'Fake' saved for query 'query_7b3fb246'
+INFO:main_worker:INFO: Verdict 'Fake' saved for query 'query_7b3fb246'
+INFO: Status updated for 'query_7b3fb246': Stage 'model_inference' -> 'completed'
+INFO: Status updated for 'query_7b3fb246': Stage 'pdf_generation' -> 'processing'
+2026-02-13 13:10:18,226 - main_worker - INFO - INFO: [Stage 3/3] Starting PDF Generation for 'query_7b3fb246'...
+INFO:main_worker:INFO: [Stage 3/3] Starting PDF Generation for 'query_7b3fb246'...
+WARNING:fpdf.output:Font MPDFAA+DejaVuSansBold is missing the following glyphs: '🧠' (\U0001f9e0), '🖼' (\U0001f5bc), '🔍' (\U0001f50d), '📝' (\U0001f4dd)
+INFO: Professional PDF report generated successfully at: /data/asca/FND_mini/agentic_workspace/4_results/query_7b3fb246/analysis_report.pdf
+INFO: Status updated for 'query_7b3fb246': Stage 'pdf_generation' -> 'completed'
+2026-02-13 13:10:18,846 - main_worker - INFO - SUCCESS: Job for 'query_7b3fb246' completed successfully.
+INFO:main_worker:SUCCESS: Job for 'query_7b3fb246' completed successfully.
+2026-02-13 13:10:18,847 - main_worker - INFO - INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_7b3fb246.job
+INFO:main_worker:INFO: Moved job file to /data/asca/FND_mini/agentic_workspace/.system/job_completed/CAIR__query_7b3fb246.job
