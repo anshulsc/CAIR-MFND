@@ -1,0 +1,12 @@
+{
+    "query_id": "test_query_123",
+    "username": "testuser",
+    "query_image_path": "image.jpg",
+    "query_caption_path": "caption.txt",
+    "evidences": [
+        {
+            "image_path": "dummy_evidence.jpg",
+            "caption_path": "dummy_cap.txt"
+        }
+    ]
+}

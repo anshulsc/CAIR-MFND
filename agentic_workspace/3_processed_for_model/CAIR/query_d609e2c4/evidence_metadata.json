@@ -1,0 +1,68 @@
+{
+    "query_id": "query_d609e2c4",
+    "username": "CAIR",
+    "query_image_path": "query_img.jpg",
+    "query_caption_path": "query_cap.txt",
+    "evidences": [
+        {
+            "rank": 1,
+            "similarity_score": 0.5851,
+            "image_path": "agentic_workspace/2_evidence_database/boomlive_54fa1eeab9/image.jpg",
+            "caption_path": "agentic_workspace/2_evidence_database/boomlive_54fa1eeab9/caption.txt"
+        },
+        {
+            "rank": 2,
+            "similarity_score": 0.558,
+            "image_path": "agentic_workspace/2_evidence_database/factly_757ed09f76/image.jpg",
+            "caption_path": "agentic_workspace/2_evidence_database/factly_757ed09f76/caption.txt"
+        },
+        {
+            "rank": 3,
+            "similarity_score": 0.4882,
+            "image_path": "agentic_workspace/2_evidence_database/119/image.jpg",
+            "caption_path": "agentic_workspace/2_evidence_database/119/caption.txt"
+        },
+        {
+            "rank": 4,
+            "similarity_score": 0.4584,
+            "image_path": "agentic_workspace/2_evidence_database/factcrescendo_0b93ab8716/image.jpg",
+            "caption_path": "agentic_workspace/2_evidence_database/factcrescendo_0b93ab8716/caption.txt"
+        },
+        {
+            "rank": 5,
+            "similarity_score": 0.4563,
+            "image_path": "agentic_workspace/2_evidence_database/552/image.jpg",
+            "caption_path": "agentic_workspace/2_evidence_database/552/caption.txt"
+        },
+        {
+            "rank": 6,
+            "similarity_score": 0.4513,
+            "image_path": "agentic_workspace/2_evidence_database/40/image.jpg",
+            "caption_path": "agentic_workspace/2_evidence_database/40/caption.txt"
+        },
+        {
+            "rank": 7,
+            "similarity_score": 0.4469,
+            "image_path": "agentic_workspace/2_evidence_database/103/image.jpg",
+            "caption_path": "agentic_workspace/2_evidence_database/103/caption.txt"
+        },
+        {
+            "rank": 8,
+            "similarity_score": 0.4394,
+            "image_path": "agentic_workspace/2_evidence_database/factly_ee870323d7/image.jpg",
+            "caption_path": "agentic_workspace/2_evidence_database/factly_ee870323d7/caption.txt"
+        },
+        {
+            "rank": 9,
+            "similarity_score": 0.4394,
+            "image_path": "agentic_workspace/2_evidence_database/factly_692598aa0d/image.jpg",
+            "caption_path": "agentic_workspace/2_evidence_database/factly_692598aa0d/caption.txt"
+        },
+        {
+            "rank": 10,
+            "similarity_score": 0.4353,
+            "image_path": "agentic_workspace/2_evidence_database/1215/image.jpg",
+            "caption_path": "agentic_workspace/2_evidence_database/1215/caption.txt"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "query_id": "8",
+    "username": "CAIR",
+    "query_image_path": "image.jpg",
+    "query_caption_path": "caption.txt",
+    "evidences": [
+        {
+            "rank": 1,
+            "similarity_score": 0.9208,
+            "image_path": "agentic_workspace/2_evidence_database/68/image.jpg",
+            "caption_path": "agentic_workspace/2_evidence_database/68/caption.txt"
+        },
+        {
+            "rank": 2,
+            "similarity_score": 0.8952,
+            "image_path": "agentic_workspace/2_evidence_database/73/image.jpg",
+            "caption_path": "agentic_workspace/2_evidence_database/73/caption.txt"
+        },
+        {
+            "rank": 3,
+            "similarity_score": 0.7705,
+            "image_path": "agentic_workspace/2_evidence_database/70/image.jpg",
+            "caption_path": "agentic_workspace/2_evidence_database/70/caption.txt"
+        },
+        {
+            "rank": 4,
+            "similarity_score": 0.6745,
+            "image_path": "agentic_workspace/2_evidence_database/72/image.jpg",
+            "caption_path": "agentic_workspace/2_evidence_database/72/caption.txt"
+        },
+        {
+            "rank": 5,
+            "similarity_score": 0.5953,
+            "image_path": "agentic_workspace/2_evidence_database/80/image.jpg",
+            "caption_path": "agentic_workspace/2_evidence_database/80/caption.txt"
+        },
+        {
+            "rank": 6,
+            "similarity_score": 0.5424,
+            "image_path": "agentic_workspace/2_evidence_database/74/image.jpg",
+            "caption_path": "agentic_workspace/2_evidence_database/74/caption.txt"
+        },
+        {
+            "rank": 7,
+            "similarity_score": 0.5396,
+            "image_path": "agentic_workspace/2_evidence_database/198/image.jpg",
+            "caption_path": "agentic_workspace/2_evidence_database/198/caption.txt"
+        },
+        {
+            "rank": 8,
+            "similarity_score": 0.5218,
+            "image_path": "agentic_workspace/2_evidence_database/294/image.jpg",
+            "caption_path": "agentic_workspace/2_evidence_database/294/caption.txt"
+        },
+        {
+            "rank": 9,
+            "similarity_score": 0.4967,
+            "image_path": "agentic_workspace/2_evidence_database/79/image.jpg",
+            "caption_path": "agentic_workspace/2_evidence_database/79/caption.txt"
+        },
+        {
+            "rank": 10,
+            "similarity_score": 0.4892,
+            "image_path": "agentic_workspace/2_evidence_database/291/image.jpg",
+            "caption_path": "agentic_workspace/2_evidence_database/291/caption.txt"
+        }
+    ]
+}

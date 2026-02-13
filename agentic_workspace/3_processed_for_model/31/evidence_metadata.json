@@ -1,0 +1,67 @@
+{
+    "query_id": "31",
+    "query_image_path": "/data/asca/FND/agentic_workspace/3_processed_for_model/31/image.jpg",
+    "query_caption_path": "/data/asca/FND/agentic_workspace/3_processed_for_model/31/caption.txt",
+    "evidences": [
+        {
+            "rank": 1,
+            "similarity_score": 0.6505,
+            "image_path": "/data/asca/FND/agentic_workspace/2_evidence_database/252/image.jpg",
+            "caption_path": "/data/asca/FND/agentic_workspace/2_evidence_database/252/caption.txt"
+        },
+        {
+            "rank": 2,
+            "similarity_score": 0.5873,
+            "image_path": "/data/asca/FND/agentic_workspace/2_evidence_database/249/image.jpg",
+            "caption_path": "/data/asca/FND/agentic_workspace/2_evidence_database/249/caption.txt"
+        },
+        {
+            "rank": 3,
+            "similarity_score": 0.5842,
+            "image_path": "/data/asca/FND/agentic_workspace/2_evidence_database/248/image.jpg",
+            "caption_path": "/data/asca/FND/agentic_workspace/2_evidence_database/248/caption.txt"
+        },
+        {
+            "rank": 4,
+            "similarity_score": 0.5682,
+            "image_path": "/data/asca/FND/agentic_workspace/2_evidence_database/269/image.jpg",
+            "caption_path": "/data/asca/FND/agentic_workspace/2_evidence_database/269/caption.txt"
+        },
+        {
+            "rank": 5,
+            "similarity_score": 0.5308,
+            "image_path": "/data/asca/FND/agentic_workspace/2_evidence_database/864/image.jpg",
+            "caption_path": "/data/asca/FND/agentic_workspace/2_evidence_database/864/caption.txt"
+        },
+        {
+            "rank": 6,
+            "similarity_score": 0.5183,
+            "image_path": "/data/asca/FND/agentic_workspace/2_evidence_database/1308/image.jpg",
+            "caption_path": "/data/asca/FND/agentic_workspace/2_evidence_database/1308/caption.txt"
+        },
+        {
+            "rank": 7,
+            "similarity_score": 0.5141,
+            "image_path": "/data/asca/FND/agentic_workspace/2_evidence_database/197/image.jpg",
+            "caption_path": "/data/asca/FND/agentic_workspace/2_evidence_database/197/caption.txt"
+        },
+        {
+            "rank": 8,
+            "similarity_score": 0.5119,
+            "image_path": "/data/asca/FND/agentic_workspace/2_evidence_database/425/image.jpg",
+            "caption_path": "/data/asca/FND/agentic_workspace/2_evidence_database/425/caption.txt"
+        },
+        {
+            "rank": 9,
+            "similarity_score": 0.5042,
+            "image_path": "/data/asca/FND/agentic_workspace/2_evidence_database/1019/image.jpg",
+            "caption_path": "/data/asca/FND/agentic_workspace/2_evidence_database/1019/caption.txt"
+        },
+        {
+            "rank": 10,
+            "similarity_score": 0.5025,
+            "image_path": "/data/asca/FND/agentic_workspace/2_evidence_database/1069/image.jpg",
+            "caption_path": "/data/asca/FND/agentic_workspace/2_evidence_database/1069/caption.txt"
+        }
+    ]
+}
