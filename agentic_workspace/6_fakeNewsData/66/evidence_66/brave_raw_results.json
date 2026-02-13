@@ -1,0 +1,728 @@
+{
+  "query": {
+    "original": "Earthquakes in Iran as trucks shake on the side of the road and dust rises from the mountains.Nuke tests?",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Fact Check: 2021 earthquake video shared as recent and linked to Iran's alleged nuke tests - India Today",
+        "url": "https://www.indiatoday.in/amp/fact-check/story/fact-check-2021-earthquake-video-recent-iran-alleged-nuke-tests-2628419-2024-11-05",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "As per the report, <strong>an earthquake of magnitude 6.3 shook Iran on November 14, 2021</strong>. This proves that the viral video is not recent. We also found a TRT WorldNow video report dated November 14, 2021, that shows the moment when a powerful earthquake struck southern Iran, near the port of Bandar Abbas.",
+        "page_age": "2024-11-05T10:09:03",
+        "profile": {
+          "name": "India Today",
+          "url": "https://www.indiatoday.in/amp/fact-check/story/fact-check-2021-earthquake-video-recent-iran-alleged-nuke-tests-2628419-2024-11-05",
+          "long_name": "indiatoday.in",
+          "img": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "indiatoday.in",
+          "hostname": "www.indiatoday.in",
+          "favicon": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8",
+          "path": "  › news  › fact check  › 2021 earthquake video shared as recent and linked to iran's alleged nuke tests"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/gQcxMDAQf4pWnv6KtHZ8ht0kuzPyjAMpE_jXUZsdeIw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ha20t/aW1nLWEtaW4udG9z/c2h1Yi5jb20vaW5k/aWF0b2RheS9pbWFn/ZXMvbWVkaWFtYW5h/Z2VyL2l0bG9nby5w/bmc",
+          "original": "https://akm-img-a-in.tosshub.com/indiatoday/images/mediamanager/itlogo.png",
+          "logo": true
+        },
+        "age": "November 5, 2024"
+      },
+      {
+        "title": "Fact Check: 2021 earthquake video shared as recent and ...",
+        "url": "https://www.msn.com/en-in/news/world/fact-check-2021-earthquake-video-shared-as-recent-and-linked-to-iran-s-alleged-nuke-tests/ar-AA1txboW",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "We cannot provide a description for this page right now",
+        "profile": {
+          "name": "MSN",
+          "url": "https://www.msn.com/en-in/news/world/fact-check-2021-earthquake-video-shared-as-recent-and-linked-to-iran-s-alleged-nuke-tests/ar-AA1txboW",
+          "long_name": "msn.com",
+          "img": "https://imgs.search.brave.com/EPV71UUMsWKRuEtMyLrNPkT_Ott_lyntK7Yc0L9Aq3k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGJmODdhNGJk/YmYxY2RkMDU4YzNl/ZjY3OTUyMmNmMzlm/YjYyMmM4MDJlYmQ5/Yzg4ZjY2MzJiZDg4/MWEzYThkNi93d3cu/bXNuLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "msn.com",
+          "hostname": "www.msn.com",
+          "favicon": "https://imgs.search.brave.com/EPV71UUMsWKRuEtMyLrNPkT_Ott_lyntK7Yc0L9Aq3k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGJmODdhNGJk/YmYxY2RkMDU4YzNl/ZjY3OTUyMmNmMzlm/YjYyMmM4MDJlYmQ5/Yzg4ZjY2MzJiZDg4/MWEzYThkNi93d3cu/bXNuLmNvbS8",
+          "path": "› en-in  › news  › world  › fact-check-2021-earthquake-video-shared-as-recent-and-linked-to-iran-s-alleged-nuke-tests  › ar-AA1txboW"
+        }
+      },
+      {
+        "title": "Old Earthquake Video Passed Off as ‘Tremors Felt Following Nuke Test’ in Iran",
+        "url": "https://www.thequint.com/news/webqoof/old-video-of-earthquake-in-iran-falsely-shared-as-react-fact-check",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Meanwhile, <strong>an earthquake struck Iran&#x27;s Aradan city on 5 October, which fanned the speculations of nuclear tests</strong>. Conclusion: An old video of trucks shaking has been linked to the recent earthquake in Iran.",
+        "page_age": "2024-11-07T11:35:48",
+        "profile": {
+          "name": "TheQuint",
+          "url": "https://www.thequint.com/news/webqoof/old-video-of-earthquake-in-iran-falsely-shared-as-react-fact-check",
+          "long_name": "thequint.com",
+          "img": "https://imgs.search.brave.com/Wzd9ozElk5V8CgU9kbDcBKImqCyUM_5cZ6kt1oNRdxU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjc3YmI5YzU3/ZmRjZmViMGQ4OTZj/ZmNlMGQ1OGE1NDlh/NzdjMTU2NTkzNTgz/YzEzYmMxN2UzYzMy/Njc2NjllMS93d3cu/dGhlcXVpbnQuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "thequint.com",
+          "hostname": "www.thequint.com",
+          "favicon": "https://imgs.search.brave.com/Wzd9ozElk5V8CgU9kbDcBKImqCyUM_5cZ6kt1oNRdxU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjc3YmI5YzU3/ZmRjZmViMGQ4OTZj/ZmNlMGQ1OGE1NDlh/NzdjMTU2NTkzNTgz/YzEzYmMxN2UzYzMy/Njc2NjllMS93d3cu/dGhlcXVpbnQuY29t/Lw",
+          "path": "  › home  › news  › webqoof"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/4ESCFYopl3c8dGveFuKI_WvypMCZESs4Gm3_5-WEkaA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL3RoZXF1aW50/LzIwMjQtMTEtMDYv/cnVjeGJsbjEvS0hV/U0hJLVdRLU5FVy0y/MDI0LTExLTA2VDE2/MzQxNi4xNzIuanBn/PyAgICAgICAgICAg/ICAgYXV0bz1mb3Jt/YXQsY29tcHJlc3Mm/Zm10PXdlYnAmZm9y/bWF0PXdlYnAmdz0x/MjAwJmg9OTAwJmRw/cj0xLjA",
+          "original": "https://media.assettype.com/thequint/2024-11-06/rucxbln1/KHUSHI-WQ-NEW-2024-11-06T163416.172.jpg?              auto=format,compress&fmt=webp&format=webp&w=1200&h=900&dpr=1.0",
+          "logo": false
+        },
+        "age": "November 7, 2024"
+      },
+      {
+        "title": "x.com",
+        "url": "https://x.com/RadarHits/status/1853431920656273589",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "We cannot provide a description for this page right now",
+        "profile": {
+          "name": "X",
+          "url": "https://x.com/RadarHits/status/1853431920656273589",
+          "long_name": "x.com",
+          "img": "https://imgs.search.brave.com/VpOsyUaQQGp5MT_drqEzgpxdO8o12jax0jeq0Vojuto/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmQzM2JiZDhi/OWVhNGYxZmRkNDli/NzAxODUzMzFhYTNm/ODcxNmE4ZGQ5OTE3/MWU4OGZjNDQyZDdh/NzQ4MWE4YS94LmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "x.com",
+          "hostname": "x.com",
+          "favicon": "https://imgs.search.brave.com/VpOsyUaQQGp5MT_drqEzgpxdO8o12jax0jeq0Vojuto/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmQzM2JiZDhi/OWVhNGYxZmRkNDli/NzAxODUzMzFhYTNm/ODcxNmE4ZGQ5OTE3/MWU4OGZjNDQyZDdh/NzQ4MWE4YS94LmNv/bS8",
+          "path": "› RadarHits  › status  › 1853431920656273589"
+        }
+      },
+      {
+        "title": "Iran: An earthquake — or a secret underground nuclear test? | Euronews",
+        "url": "https://www.euronews.com/2024/10/09/social-media-abuzz-with-claims-of-irans-secret-nuclear-test-after-44-magnitude-earthquake",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "This raises the prospect that <strong>the earthquake reported in Semnan could be connected to Tehran&#x27;s first nuclear test</strong>. ... While Iran has previously acknowledged the existence of the &quot;Imam Khomeini&quot; space centre and missile headquarters southeast of Semnan, the site is more than 100 kilometres ...",
+        "page_age": "2024-10-10T09:33:22",
+        "profile": {
+          "name": "euronews",
+          "url": "https://www.euronews.com/2024/10/09/social-media-abuzz-with-claims-of-irans-secret-nuclear-test-after-44-magnitude-earthquake",
+          "long_name": "euronews.com",
+          "img": "https://imgs.search.brave.com/OVa8mBQmNf2Fa2-BdB5ODzIlKZASQyEnNsYRPCnLfI4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjFlMTEwMmUw/ZmNkZmFhYTU3ZmU0/ZGJhOTViNzZhMzMz/MGRlOWIwYTc2Nzhk/ZDU4MDUyYjkyMzhj/NjM2ZmViZC93d3cu/ZXVyb25ld3MuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "euronews.com",
+          "hostname": "www.euronews.com",
+          "favicon": "https://imgs.search.brave.com/OVa8mBQmNf2Fa2-BdB5ODzIlKZASQyEnNsYRPCnLfI4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjFlMTEwMmUw/ZmNkZmFhYTU3ZmU0/ZGJhOTViNzZhMzMz/MGRlOWIwYTc2Nzhk/ZDU4MDUyYjkyMzhj/NjM2ZmViZC93d3cu/ZXVyb25ld3MuY29t/Lw",
+          "path": "  › home  › world  › iran  › iran: an earthquake — or a secret underground nuclear test?"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/2YMRnv4qIwTdwt4Jy0vz7RO9ki_GMY4vlMVDmfMr5-4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuZXVyb25ld3Mu/Y29tL2FydGljbGVz/L3N0b3JpZXMvMDgv/NzcvNTcvMzQvMTIw/MHg2NzVfY21zdjJf/N2RmYWI5NTMtN2U1/YS01OWExLTk5OGEt/NWI0NDJmOWM4MGQw/LTg3NzU3MzQuanBn",
+          "original": "https://static.euronews.com/articles/stories/08/77/57/34/1200x675_cmsv2_7dfab953-7e5a-59a1-998a-5b442f9c80d0-8775734.jpg",
+          "logo": false
+        },
+        "age": "October 10, 2024"
+      },
+      {
+        "title": "Did Israel strikes trigger earthquake in Tehran? Tremors could be linked to Iran nuclear testing - what analysts say - Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-iran-conflict-5-1-earthquake-jolts-tehran-rumors-link-tremor-to-nukes/articleshow/121992304.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>A 5.1-magnitude earthquake struck northern Iran on Friday</strong>, according to the United States Geological Survey (USGS), as Israel continued its barrage of airstrikes on Iranian targets.",
+        "page_age": "2025-06-21T13:12:00",
+        "profile": {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-iran-conflict-5-1-earthquake-jolts-tehran-rumors-link-tremor-to-nukes/articleshow/121992304.cms",
+          "long_name": "timesofindia.indiatimes.com",
+          "img": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timesofindia.indiatimes.com",
+          "hostname": "timesofindia.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+          "path": "  › news  › world news  › middle east news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/B_uCspcDALucPGGydCwog9Gr15CulyHqzAlMU2wfoAg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9yZXNp/emVtb2RlLTQsd2lk/dGgtMTI4MCxoZWln/aHQtNzIwLG1zaWQt/MTIxOTkyMzY2LzEy/MTk5MjM2Ni5qcGc",
+          "original": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-121992366/121992366.jpg",
+          "logo": false
+        },
+        "age": "June 21, 2025"
+      },
+      {
+        "title": "Video shows 2021 Iran earthquake, not nuclear testing – Full Fact",
+        "url": "https://fullfact.org/online/video-earthquake-iran-nuclear-testing/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "However, this is not a recent video from Iran. <strong>The video was shared by several news outlets reporting on two earthquakes in Iran in late 2021 in which at least one person was killed</strong>. Videos reportedly circulated at the time showing parts of the Geno Mountain in Bandar Abbas collapsing.",
+        "page_age": "2024-11-19T12:34:33",
+        "profile": {
+          "name": "Full Fact",
+          "url": "https://fullfact.org/online/video-earthquake-iran-nuclear-testing/",
+          "long_name": "fullfact.org",
+          "img": "https://imgs.search.brave.com/dON8Z3RJeeFc-8-JmcvKLqXPC7FxmAzNyUGUzGugeUs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzQ4ZDNhMDEz/ZDlkZTI1MjA1NmQ3/ODI5OGNjZDllNmQ0/ZWJmZDAwYmU4ZTA1/ZWZmMzZlMWZiN2Nm/NDFkYmIzMC9mdWxs/ZmFjdC5vcmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "fullfact.org",
+          "hostname": "fullfact.org",
+          "favicon": "https://imgs.search.brave.com/dON8Z3RJeeFc-8-JmcvKLqXPC7FxmAzNyUGUzGugeUs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzQ4ZDNhMDEz/ZDlkZTI1MjA1NmQ3/ODI5OGNjZDllNmQ0/ZWJmZDAwYmU4ZTA1/ZWZmMzZlMWZiN2Nm/NDFkYmIzMC9mdWxs/ZmFjdC5vcmcv",
+          "path": "  › home  › social media"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/eOXmW8wkbeKULdfgAZ13NWv4nPvzVOxR7tKqXbYWd_U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mdWxs/ZmFjdC5vcmcvbWVk/aWEvaW1hZ2VzL2hv/cm1vemdhbl9wcm92/aW5jZV9jcm9wcGVk/LjczMTIwZDBjLmZp/bGwtMTIwMHg2MzAu/anBn",
+          "original": "https://fullfact.org/media/images/hormozgan_province_cropped.73120d0c.fill-1200x630.jpg",
+          "logo": false
+        },
+        "age": "November 19, 2024"
+      },
+      {
+        "title": "Earthquake or nuclear test? What’s behind the mysterious tremors in Iran?",
+        "url": "https://www.firstpost.com/explainers/earthquake-or-nuclear-test-whats-behind-the-mysterious-tremors-in-iran-13823282.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>On the evening of October 5, 2024, a magnitude 4.6 earthquake struck Iran, 44 kilometres southwest of Semnan, at a depth of 10 kilometres</strong>, according to the European-Mediterranean Seismological Centre (EMSC). The tremors, felt as far as Tehran, approximately 110 kilometres away, came at 10:45 ...",
+        "page_age": "2024-10-08T12:41:21",
+        "profile": {
+          "name": "Firstpost",
+          "url": "https://www.firstpost.com/explainers/earthquake-or-nuclear-test-whats-behind-the-mysterious-tremors-in-iran-13823282.html",
+          "long_name": "firstpost.com",
+          "img": "https://imgs.search.brave.com/lKGZOEbB3_wVTdD-YtH4dwi64AWq6oIlEsH19MGL698/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiZjczNGFj/MGE2Zjc4MWY0NTcy/NWJjODFiMGY1MDVh/MGYyNmViMzMyNWZl/NGIzYTZhYzhhMTE4/NzI4NzQxYS93d3cu/Zmlyc3Rwb3N0LmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "firstpost.com",
+          "hostname": "www.firstpost.com",
+          "favicon": "https://imgs.search.brave.com/lKGZOEbB3_wVTdD-YtH4dwi64AWq6oIlEsH19MGL698/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiZjczNGFj/MGE2Zjc4MWY0NTcy/NWJjODFiMGY1MDVh/MGYyNmViMzMyNWZl/NGIzYTZhYzhhMTE4/NzI4NzQxYS93d3cu/Zmlyc3Rwb3N0LmNv/bS8",
+          "path": "  › home  › explainers  › earthquake or nuclear test? what’s behind the mysterious tremors in iran?"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/w4bU2LjhmqImYq12Q9O8Jf15pBUqhi2p_RW8kQuYNkk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZmlyc3Rwb3N0/LmNvbS91cGxvYWRz/LzIwMjQvMTAvSXJh/bi1udWNsZWFyLWZh/Y2lsaXR5LTEtUmV1/dGVycy0yMDI0LTEw/LWJmYjdlYjJhNjIw/ZjEyZWU0ZWY4NmFh/NmJkMGZhNjE4Lmpw/Zz9pbT1GaXRBbmRG/aWxsPSgxMjAwLDY3/NSk",
+          "original": "https://images.firstpost.com/uploads/2024/10/Iran-nuclear-facility-1-Reuters-2024-10-bfb7eb2a620f12ee4ef86aa6bd0fa618.jpg?im=FitAndFill=(1200,675)",
+          "logo": false
+        },
+        "age": "October 8, 2024"
+      },
+      {
+        "title": "Earthquake Of Magnitude 5.1 Hits Iran, Sparks Theories Of Nuclear Testing",
+        "url": "https://www.ndtv.com/world-news/earthquake-of-magnitude-5-1-hits-iran-sparks-theories-of-nuclear-testing-8723713",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "However, <strong>the earthquake has now triggered a wave of speculations about whether Tehran has tested a nuclear weapon</strong>. It has also sparked concern because it struck near a city with a space and missile complex. The Semnan Space Center and the Semnan Missile Complex, run by Iran&#x27;s military, are ...",
+        "profile": {
+          "name": "NDTV",
+          "url": "https://www.ndtv.com/world-news/earthquake-of-magnitude-5-1-hits-iran-sparks-theories-of-nuclear-testing-8723713",
+          "long_name": "ndtv.com",
+          "img": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ndtv.com",
+          "hostname": "www.ndtv.com",
+          "favicon": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v",
+          "path": "  › home  › world news  › earthquake of magnitude 5.1 hits iran, sparks theories of nuclear testing"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/MUPhOrbFYUZFcerM7y9zPme0SgNRIT8lz8B88ZPcYQc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjUtMDYvMm5zdGJt/c2NfaXNyYWVsLWly/YW4tYXR0YWNrLWxp/dmUtYWZwXzYyNXgz/MDBfMTZfSnVuZV8y/NS5qcGVnP2ltPUZp/dEFuZEZpbGwsYWxn/b3JpdGhtPWRubix3/aWR0aD0xMjAwLGhl/aWdodD03Mzg",
+          "original": "https://c.ndtvimg.com/2025-06/2nstbmsc_israel-iran-attack-live-afp_625x300_16_June_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+          "logo": false
+        }
+      },
+      {
+        "title": "Watch deadly earthquakes in Iran shake trucks on the highway - YouTube",
+        "url": "https://www.youtube.com/watch?v=SSph0yuuDxg",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Two earthquakes, one measuring magnitude 6.4 hit Iran, killing at least one</strong>. One video of the quake shows dust shaking off the mountains and trucks on the si...",
+        "page_age": "2021-11-14T13:37:17",
+        "profile": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/watch?v=SSph0yuuDxg",
+          "long_name": "youtube.com",
+          "img": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "  › cgtn america"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/wXRPbqBG5pXRoxjmMXlwaTjE4g8WrN7psP0ox9huwAQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9T/U3BoMHl1dUR4Zy9t/YXhyZXMyLmpwZz9z/cXA9LW9heW13RW9D/SUFLRU5BRjhxdUtx/UU1jR0FEd0FRSDRB/ZDREZ0FMZ0E0b0NE/QWdBRUFFWUV5QWlL/SDh3RHc9PSZhbXA7/cnM9QU9uNENMREpT/RENfbnRudkpRdjlX/S0FDZmViSVRqbjRB/dw",
+          "original": "https://i.ytimg.com/vi/SSph0yuuDxg/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ad4DgALgA4oCDAgAEAEYEyAiKH8wDw==&amp;rs=AOn4CLDJSDC_ntnvJQv9WKACfebITjn4Aw",
+          "logo": false
+        },
+        "age": "November 14, 2021"
+      },
+      {
+        "title": "Study debunks nuclear test misinformation following 2024 Iran earthquake | Hub",
+        "url": "https://hub.jhu.edu/2025/02/04/earthquake-nuclear-test-misinformation/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>A new study debunks claims that a magnitude 4.5 earthquake in Iran was a covert nuclear weapons test</strong>, as widely alleged on social media and some mainstream news outlets in October 2024, a period of heightened geopolitical tensions in the Middle East.",
+        "page_age": "2025-02-04T12:00:00",
+        "profile": {
+          "name": "Hub",
+          "url": "https://hub.jhu.edu/2025/02/04/earthquake-nuclear-test-misinformation/",
+          "long_name": "hub.jhu.edu",
+          "img": "https://imgs.search.brave.com/SQoRHdTjr0Yp3QIS7Q8HrbtT2m2inBE4zqk3O1CpsZI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzRjYTJkY2Ux/ZmVlOTk2MGEzYWIy/YjIwMmFjZDE2M2Y0/ZDkwZTdiODA4ZWFi/MjI1YzhkNmJhMTAw/MDQzMjAxYy9odWIu/amh1LmVkdS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "hub.jhu.edu",
+          "hostname": "hub.jhu.edu",
+          "favicon": "https://imgs.search.brave.com/SQoRHdTjr0Yp3QIS7Q8HrbtT2m2inBE4zqk3O1CpsZI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzRjYTJkY2Ux/ZmVlOTk2MGEzYWIy/YjIwMmFjZDE2M2Y0/ZDkwZTdiODA4ZWFi/MjI1YzhkNmJhMTAw/MDQzMjAxYy9odWIu/amh1LmVkdS8",
+          "path": "› 2025  › 02  › 04  › earthquake-nuclear-test-misinformation"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lVwBIFYn4aYC1H39x2-d7twiSFifEEMTW3b-7WVHiAg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hcGku/aHViLmpodS5lZHUv/ZmFjdG9yeS9zaXRl/cy9kZWZhdWx0L2Zp/bGVzL3N0eWxlcy9z/b2Z0X2Nyb3BfMTMw/MC9wdWJsaWMvMjAy/NS0wMi9FYXJ0aHF1/YWtlJTIwU2Vpc21v/Z3JhcGguanBn",
+          "original": "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_1300/public/2025-02/Earthquake%20Seismograph.jpg",
+          "logo": false
+        },
+        "age": "February 4, 2025"
+      },
+      {
+        "title": "Earthquakes in Iran raise speculation of nuclear testing | The Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/article-823841",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "An <strong>earthquake</strong> felt throughout <strong>Iran</strong> <strong>on</strong> Saturday evening led to speculation about the country&#x27;s use of nuclear weapons on social media.",
+        "profile": {
+          "name": "The Jerusalem Post",
+          "url": "https://www.jpost.com/middle-east/article-823841",
+          "long_name": "jpost.com",
+          "img": "https://imgs.search.brave.com/84gMCoDoqIESsKQETOnE70itiamk2d1Ec0HdBQIqV8o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTVhODg1NmJk/YTg0OWM1ODBjMmU2/MjRiYThiNGRiMTlh/NzljODc0MzA3YWI5/MjAyZjRjZTU3ZjEw/NjdlMDcyOC93d3cu/anBvc3QuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "jpost.com",
+          "hostname": "www.jpost.com",
+          "favicon": "https://imgs.search.brave.com/84gMCoDoqIESsKQETOnE70itiamk2d1Ec0HdBQIqV8o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTVhODg1NmJk/YTg0OWM1ODBjMmU2/MjRiYThiNGRiMTlh/NzljODc0MzA3YWI5/MjAyZjRjZTU3ZjEw/NjdlMDcyOC93d3cu/anBvc3QuY29tLw",
+          "path": "› middle-east  › article-823841"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/XiuxF129CMgBKsrkQhAx_89dyypWWGteSIxNq1DLheU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuanBvc3QuY29t/L2ltYWdlL3VwbG9h/ZC9mX2F1dG8sZmxf/bG9zc3kvcV9hdXRv/L2NfZmlsbCxnX2Zh/Y2VzOmNlbnRlcixo/XzcyMCx3XzEyODAv/NTczODQz",
+          "original": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/573843",
+          "logo": false
+        }
+      },
+      {
+        "title": "Earthquakes In Iran And Israel Fuel Theories Of Covert Nuclear Testing",
+        "url": "https://www.ndtv.com/world-news/earthquakes-in-iran-and-israel-sparks-speculation-of-nuclear-tests-6735904",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The unusual timing of <strong>the</strong> <strong>earthquakes</strong>, coupled with the ongoing geopolitical tensions between Israel <strong>and</strong> <strong>Iran</strong>, led to speculations about a covert nuclear <strong>test</strong> being conducted.",
+        "profile": {
+          "name": "NDTV",
+          "url": "https://www.ndtv.com/world-news/earthquakes-in-iran-and-israel-sparks-speculation-of-nuclear-tests-6735904",
+          "long_name": "ndtv.com",
+          "img": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ndtv.com",
+          "hostname": "www.ndtv.com",
+          "favicon": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v",
+          "path": "  › home  › world news  › earthquakes in iran and israel fuel theories of covert nuclear testing"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/IHdjuTFjThKKE2qI26qwkWrtd33RuoC1DGzXMJWJ4P0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjQtMDkvOXA1NHIy/X2lyYW4tZmxhZy1f/NjI1eDMwMF8xNF9T/ZXB0ZW1iZXJfMjQu/anBnP2ltPUZlYXR1/cmVDcm9wLGFsZ29y/aXRobT1kbm4sd2lk/dGg9MTIwMCxoZWln/aHQ9NzM4",
+          "original": "https://c.ndtvimg.com/2024-09/9p54r2_iran-flag-_625x300_14_September_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+          "logo": false
+        }
+      },
+      {
+        "title": "Twitter",
+        "url": "https://twitter.com/ZAINABALI_72/status/1853836320172372243",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Twitter",
+        "profile": {
+          "name": "Twitter",
+          "url": "https://twitter.com/ZAINABALI_72/status/1853836320172372243",
+          "long_name": "twitter.com",
+          "img": "https://imgs.search.brave.com/wWeP6Pa-JGi7cDBqMPkc4Ckai-nUQl4uFSKrw0evyx4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2MxOTUxNzhj/OTY1ZTQ3N2I0MjJk/MTY5NGM0MTRlYWVi/MjU1YWE2NDUwYmQ2/YTA2MDFhMDlkZDEx/NTAzZGNiNi90d2l0/dGVyLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "twitter.com",
+          "hostname": "twitter.com",
+          "favicon": "https://imgs.search.brave.com/wWeP6Pa-JGi7cDBqMPkc4Ckai-nUQl4uFSKrw0evyx4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2MxOTUxNzhj/OTY1ZTQ3N2I0MjJk/MTY5NGM0MTRlYWVi/MjU1YWE2NDUwYmQ2/YTA2MDFhMDlkZDEx/NTAzZGNiNi90d2l0/dGVyLmNvbS8",
+          "path": "› ZAINABALI_72  › status  › 1853836320172372243"
+        }
+      },
+      {
+        "title": "r/geopolitics on Reddit: Unusual seismic activity at the Iranian desert at magnitude 4.5 Could it be an artificial quake from nuclear test ?",
+        "url": "https://www.reddit.com/r/geopolitics/comments/1fwzwcf/unusual_seismic_activity_at_the_iranian_desert_at/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "192 votes, 74 comments. Today October 5th a seismic activity was recorded in the Kavir desert, <strong>Iran</strong>, a large open desert area near Semnan, rarely has…",
+        "page_age": "2024-10-05T20:50:39",
+        "profile": {
+          "name": "Reddit",
+          "url": "https://www.reddit.com/r/geopolitics/comments/1fwzwcf/unusual_seismic_activity_at_the_iranian_desert_at/",
+          "long_name": "reddit.com",
+          "img": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "qa",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "reddit.com",
+          "hostname": "www.reddit.com",
+          "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+          "path": "  › r/geopolitics  › unusual seismic activity at the iranian desert at magnitude 4.5 could it be an artificial quake from nuclear test ?"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/COWZkHpwWMHY071GOIR-F_Qbjo9sXvsT4FR-tE3ba10/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zaGFy/ZS5yZWRkLml0L3By/ZXZpZXcvcG9zdC8x/Znd6d2Nm",
+          "original": "https://share.redd.it/preview/post/1fwzwcf",
+          "logo": false
+        },
+        "age": "October 5, 2024"
+      },
+      {
+        "title": "Trucks Shake & Dust Rises from Mountains| #shorts #iran",
+        "url": "https://www.youtube.com/watch?v=xFdJ_qJzixM",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "profile": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/watch?v=xFdJ_qJzixM",
+          "long_name": "youtube.com",
+          "img": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        }
+      },
+      {
+        "title": "Ultra-hardliners rejoice over claims of Iran's alleged nuclear test | Iran International",
+        "url": "https://www.iranintl.com/en/202410086972",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Pro-establishment voices on Persian-language social media claim a recent <strong>earthquake</strong> <strong>in</strong> <strong>Iran</strong>’s Semnan Province was actually a covert nuclear <strong>test</strong>, with ultra-hardliners calling for <strong>Iran</strong> to pursue nuclear deterrence capabilities.",
+        "page_age": "2024-10-09T20:35:40",
+        "profile": {
+          "name": "Iran International",
+          "url": "https://www.iranintl.com/en/202410086972",
+          "long_name": "iranintl.com",
+          "img": "https://imgs.search.brave.com/rVHZNQ52u-w4ba2IPHE0G7i8K2KDqfjZn5qH-e_HpIw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGQwMDhiNGEy/MjNhYmZhYTQwYTcx/YjgyNTY5M2MzNWU4/YTI4MTkwZDZkNzdi/YzQ1ZjBjOWRiZDA2/NjIwZjBjZS93d3cu/aXJhbmludGwuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "iranintl.com",
+          "hostname": "www.iranintl.com",
+          "favicon": "https://imgs.search.brave.com/rVHZNQ52u-w4ba2IPHE0G7i8K2KDqfjZn5qH-e_HpIw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGQwMDhiNGEy/MjNhYmZhYTQwYTcx/YjgyNTY5M2MzNWU4/YTI4MTkwZDZkNzdi/YzQ1ZjBjOWRiZDA2/NjIwZjBjZS93d3cu/aXJhbmludGwuY29t/Lw",
+          "path": "› en  › 202410086972"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/B8LXbL54xKJnCnKRKNKI_eselcpgw0tR2QzW3XLPLWQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmly/YW5pbnRsLmNvbS9p/bWFnZXMvcmRrOXVt/eTAvcHJvZHVjdGlv/bi9mNjc1Yjg3YWVi/ZWJjZjRiMmE1YWQ5/Y2EzNGEzODQ0MmE3/ZDllYjQ3LTQwMDB4/MjY2Ni5qcGc_cmVj/dD0wLDI4Myw0MDAw/LDIxMDAmdz0xMjAw/Jmg9NjMwJmZpdD1t/YXgmYXV0bz1mb3Jt/YXQ",
+          "original": "https://i.iranintl.com/images/rdk9umy0/production/f675b87aebebcf4b2a5ad9ca34a38442a7d9eb47-4000x2666.jpg?rect=0,283,4000,2100&w=1200&h=630&fit=max&auto=format",
+          "logo": false
+        },
+        "age": "October 9, 2024"
+      },
+      {
+        "title": "Israel-Iran war: Twin earthquakes shake Iran amid conflict. Is there potential link to nuclear activities, explained - India Today",
+        "url": "https://www.indiatoday.in/science/story/israel-iran-conflict-earthquakes-back-to-back-potential-link-nuclear-activities-seismic-sites-damage-contamination-2744110-2025-06-21",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Iran</strong> was hit by a 5.1 magnitude <strong>earthquake</strong> <strong>on</strong> Friday, five days after a 2.5 magnitude quake. The timing of these <strong>earthquakes</strong> amid Tehran&#x27;s conflict with Israel at its peak, and recent satellite imagery showing damage at Iranian nuclear sites, have fuelled speculation of a potential connection.",
+        "page_age": "2025-06-21T07:01:55",
+        "profile": {
+          "name": "India Today",
+          "url": "https://www.indiatoday.in/science/story/israel-iran-conflict-earthquakes-back-to-back-potential-link-nuclear-activities-seismic-sites-damage-contamination-2744110-2025-06-21",
+          "long_name": "indiatoday.in",
+          "img": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "indiatoday.in",
+          "hostname": "www.indiatoday.in",
+          "favicon": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8",
+          "path": "  › news  › science  › twin quakes shake iran amid israel conflict. is there link to nuclear activities?"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/6jFKsChCJhPPgHvohUQM8_apUj9AfcZd9Mt5LhNWJ3o/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ha20t/aW1nLWEtaW4udG9z/c2h1Yi5jb20vaW5k/aWF0b2RheS9pbWFn/ZXMvc3RvcnkvMjAy/NTA2L2lyYW4tZWFy/dGhxdWFrZXMtbnVj/bGVhci1hY3Rpdml0/aWVzLWlzcmFlbC1j/b25mbGljdC1jb25u/ZWN0aW9uLTIxNTg1/OTU4OC0xNng5XzAu/cG5nP1ZlcnNpb25J/ZD1iRnlfRmVJeFE2/eHFidnRSRUVsTExp/cFR5RlBfTHlNRj9z/aXplPTEyODA6NzIw",
+          "original": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202506/iran-earthquakes-nuclear-activities-israel-conflict-connection-215859588-16x9_0.png?VersionId=bFy_FeIxQ6xqbvtREElLLipTyFP_LyMF?size=1280:720",
+          "logo": false
+        },
+        "age": "June 21, 2025"
+      },
+      {
+        "title": "Old video misleadingly linked to recent earthquake in Iran",
+        "url": "https://www.logicallyfacts.com/en/fact-check/2021-earthquake-video-misrepresented-as-recent-iran-tremors",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A 2021 video <strong>of</strong> <strong>trucks</strong> <strong>shaking</strong> <strong>on</strong> a highway is misleadingly claimed to show footage from a recent <strong>earthquake</strong> <strong>in</strong> <strong>Iran</strong>.",
+        "profile": {
+          "name": "Logically Facts",
+          "url": "https://www.logicallyfacts.com/en/fact-check/2021-earthquake-video-misrepresented-as-recent-iran-tremors",
+          "long_name": "logicallyfacts.com",
+          "img": "https://imgs.search.brave.com/ab_m4p_pM4iUJp6LCECDIuQIaEjQt46B6u4cbzeW7I4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjI0ZTg5ZmM4/ZTViNGM1NGQ4ZmM4/ZTkyNTcyZjBkODk1/ODNiZGQ3ODM0ZDBj/NjEyNjFiNTBhOWI3/MDhhYjUxOC93d3cu/bG9naWNhbGx5ZmFj/dHMuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "logicallyfacts.com",
+          "hostname": "www.logicallyfacts.com",
+          "favicon": "https://imgs.search.brave.com/ab_m4p_pM4iUJp6LCECDIuQIaEjQt46B6u4cbzeW7I4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjI0ZTg5ZmM4/ZTViNGM1NGQ4ZmM4/ZTkyNTcyZjBkODk1/ODNiZGQ3ODM0ZDBj/NjEyNjFiNTBhOWI3/MDhhYjUxOC93d3cu/bG9naWNhbGx5ZmFj/dHMuY29tLw",
+          "path": "› en  › fact-check  › 2021-earthquake-video-misrepresented-as-recent-iran-tremors"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/EoryWHZNFYC0t4lGdCJm8AlfWI8VP07Q9vJPEJE-VdE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9sb2dp/Y2FsbHlmYWN0cy5j/b20vc3RvcmFnZS9p/bWcvYS1pcmFuLWVh/cnRocXVha2UvaXJh/bi1lYXJ0aHF1YWtl/LndlYnA",
+          "original": "https://logicallyfacts.com/storage/img/a-iran-earthquake/iran-earthquake.webp",
+          "logo": false
+        }
+      },
+      {
+        "title": "Experts Dismiss Speculation Over Iran Nuclear Testing | Arms Control Association",
+        "url": "https://www.armscontrol.org/act/2024-11/news-briefs/experts-dismiss-speculation-over-iran-nuclear-testing",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "International monitors have determined that <strong>Iran</strong> experienced two <strong>earthquakes</strong> <strong>on</strong> Oct. 5 and did not <strong>test</strong> a nuclear weapon · Online suspicions about possible <strong>testing</strong> were sparked when one of <strong>the</strong> <strong>earthquakes</strong> struck a region centered in Aradan, about 100 kilometers from Tehran, and emanated from ...",
+        "profile": {
+          "name": "Arms Control Association",
+          "url": "https://www.armscontrol.org/act/2024-11/news-briefs/experts-dismiss-speculation-over-iran-nuclear-testing",
+          "long_name": "armscontrol.org",
+          "img": "https://imgs.search.brave.com/vLHZLvZWJMUhbHv7EMkj69uqK7J9fwnF9yTGMjBc0PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzE3MzRlZTQz/NDY5NzM3N2FkZGI1/MDQ5Y2U4ZjBlMWU0/ZjUwYjVkZWNjODA5/NTYwOTY3MzQ3NDM5/NWE1ODQxNy93d3cu/YXJtc2NvbnRyb2wu/b3JnLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "armscontrol.org",
+          "hostname": "www.armscontrol.org",
+          "favicon": "https://imgs.search.brave.com/vLHZLvZWJMUhbHv7EMkj69uqK7J9fwnF9yTGMjBc0PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzE3MzRlZTQz/NDY5NzM3N2FkZGI1/MDQ5Y2U4ZjBlMWU0/ZjUwYjVkZWNjODA5/NTYwOTY3MzQ3NDM5/NWE1ODQxNy93d3cu/YXJtc2NvbnRyb2wu/b3JnLw",
+          "path": "› act  › 2024-11  › news-briefs  › experts-dismiss-speculation-over-iran-nuclear-testing"
+        }
+      }
+    ],
+    "family_friendly": true
+  }
+}

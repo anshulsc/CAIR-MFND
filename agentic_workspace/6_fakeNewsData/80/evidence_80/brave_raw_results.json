@@ -1,0 +1,865 @@
+{
+  "query": {
+    "original": "The society echoed with slogans of Jai Shri Ram!",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "videos",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://www.instagram.com/thecommunemag/reel/C6XwWsSSAfM/",
+        "title": "The Commune | Jai Shri Ram has become the rallying slogan ...",
+        "description": "Welcome back to Instagram. Sign in to see what your friends, family and interests have been capturing and sharing around the world.",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "instagram.com",
+          "hostname": "www.instagram.com",
+          "favicon": "https://imgs.search.brave.com/kgdtgqUZQdNYzMKhbVXC5vthlFLPMJ0IOJAdFjEIRuk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2RiYmJiZDA4/NTBkNWQ0ZmQ3NDE5/OGUxOGI4NzE5ZDI0/Zjk0M2ExMDkzZmJm/ODA0MmJiMzkwZjMy/ZDM4YWVkOS93d3cu/aW5zdGFncmFtLmNv/bS8",
+          "path": "› thecommunemag  › reel  › C6XwWsSSAfM"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=30ueQ1axmNU",
+        "title": "Slogan most communalised, ''Jai Shree Ram'' | Master Stroke - YouTube",
+        "description": "A group of children studying at a madrasa in Unnao district of Uttar Pradesh were allegedly forced to say 'Jai Shree Ram' on July 11. However, when the child...",
+        "age": "July 12, 2019",
+        "page_age": "2019-07-12T17:03:55",
+        "fetched_content_timestamp": 1734909445,
+        "video": {
+          "duration": "09:05",
+          "views": 252539,
+          "creator": "ABP NEWS",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/wusqSp9aakQQ5o7SjJzyv3lZ3NzsQg97BEJ7mDJwm2c/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS8z/MHVlUTFheG1OVS9o/cWRlZmF1bHQuanBn",
+          "original": "https://i.ytimg.com/vi/30ueQ1axmNU/hqdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=OO8rYeU1z2M",
+        "title": "Shocking video shows targeted communal violence: Jai Sri Ram slogans ...",
+        "description": "AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket · © 2024 Google LLC",
+        "age": "February 26, 2020",
+        "page_age": "2020-02-26T07:29:49",
+        "fetched_content_timestamp": 1722384138,
+        "video": {
+          "duration": "00:35",
+          "views": 3826,
+          "creator": "Mojo Story",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/9QYc7h-5G2Mddu1_DXX6RRAl_MMtkRvbg6OcYcG-k88/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9P/TzhyWWVVMXoyTS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/OO8rYeU1z2M/maxresdefault.jpg"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Jai Shri Ram - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jai_Shri_Ram",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Both journeys were taken in the ... encourage Hindus to boycott Muslim businesses. &quot;Jai Shri Ram&quot; was also chanted by the mob responsible for the <strong>Gulbarg Society</strong> Massacre....",
+        "page_age": "2025-07-25T03:04:55",
+        "profile": {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jai_Shri_Ram",
+          "long_name": "en.wikipedia.org",
+          "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "deep_results": {
+          "buttons": [
+            {
+              "type": "button_result",
+              "title": "Meaning",
+              "url": "https://en.wikipedia.org/wiki/Jai_Shri_Ram#Meaning"
+            },
+            {
+              "type": "button_result",
+              "title": "Antecedents",
+              "url": "https://en.wikipedia.org/wiki/Jai_Shri_Ram#Antecedents"
+            },
+            {
+              "type": "button_result",
+              "title": "1980s and forward",
+              "url": "https://en.wikipedia.org/wiki/Jai_Shri_Ram#1980s_and_forward"
+            },
+            {
+              "type": "button_result",
+              "title": "Usage",
+              "url": "https://en.wikipedia.org/wiki/Jai_Shri_Ram#Usage"
+            },
+            {
+              "type": "button_result",
+              "title": "Bibliography",
+              "url": "https://en.wikipedia.org/wiki/Jai_Shri_Ram#Bibliography"
+            }
+          ]
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "en.wikipedia.org",
+          "hostname": "en.wikipedia.org",
+          "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+          "path": "› wiki  › Jai_Shri_Ram"
+        },
+        "age": "1 day ago"
+      },
+      {
+        "title": "The 3 Most Polarizing Words in India: Jai Shri Ram",
+        "url": "https://foreignpolicy.com/2020/02/13/jai-shri-ram-india-hindi/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "“<strong>Jai</strong> <strong>Shri</strong> <strong>Ram</strong>” was meant to be a celebration of a Hindu deity. But the phrase is turning into hate speech—and a dog whistle for…",
+        "page_age": "2024-01-17T10:01:41",
+        "profile": {
+          "name": "Foreign Policy",
+          "url": "https://foreignpolicy.com/2020/02/13/jai-shri-ram-india-hindi/",
+          "long_name": "foreignpolicy.com",
+          "img": "https://imgs.search.brave.com/G8VDOimMj3wY3c-NKLwAfHI-b0gC1btYMkP7mnq2hTk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGE2MjQ1MTFh/NmE1YTdhY2JlZjQ3/Yjg3M2ExOTI2YWE5/OWFlZDhjNWY2MjJm/MzAwNTE3YmY3OTE0/NzljYWE3Yy9mb3Jl/aWducG9saWN5LmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "foreignpolicy.com",
+          "hostname": "foreignpolicy.com",
+          "favicon": "https://imgs.search.brave.com/G8VDOimMj3wY3c-NKLwAfHI-b0gC1btYMkP7mnq2hTk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGE2MjQ1MTFh/NmE1YTdhY2JlZjQ3/Yjg3M2ExOTI2YWE5/OWFlZDhjNWY2MjJm/MzAwNTE3YmY3OTE0/NzljYWE3Yy9mb3Jl/aWducG9saWN5LmNv/bS8",
+          "path": "› 2020  › 02  › 13  › jai-shri-ram-india-hindi"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/SULoV1TRw8ZkbUQvPkgctmQa01Q8IL1zezwKjVd0yMg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mb3Jl/aWducG9saWN5LmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MC8wMi9pbmRpYS1q/YWktc2hyaS1yYW0t/ZGVjb2Rlci1hcnRp/Y2xlLmpwZz9yZXNp/emU9MTIwMCwxMjAw",
+          "original": "https://foreignpolicy.com/wp-content/uploads/2020/02/india-jai-shri-ram-decoder-article.jpg?resize=1200,1200",
+          "logo": false
+        },
+        "age": "January 17, 2024"
+      },
+      {
+        "title": "गूंजे जय श्री राम के नारे - Slogans of Jai Shri Ram echoed - Haryana Sirsa General News",
+        "url": "https://www.jagran.com/haryana/sirsa-slogans-of-jai-shri-ram-echoed-22616222.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "चैत्र नवरात्र के समापन व श्री रामनवमी पर्व पर गांव रामगढ़ से श्री रामोत्सव",
+        "profile": {
+          "name": "Dainik Jagran",
+          "url": "https://www.jagran.com/haryana/sirsa-slogans-of-jai-shri-ram-echoed-22616222.html",
+          "long_name": "jagran.com",
+          "img": "https://imgs.search.brave.com/jbhyyv9Ef0Dqzt1D3k4TS1s-7Vr2lygMc8hhK5rIrHc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWNlMTdkZWYz/NGYzNWRjOGE3Mjg4/MTZkOTEzZjM1OGY5/MWEwYjdiMTA3OWFh/YzdlNGNjYjUwYTkz/YjNlNDI3My93d3cu/amFncmFuLmNvbS8"
+        },
+        "language": "hi",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "jagran.com",
+          "hostname": "www.jagran.com",
+          "favicon": "https://imgs.search.brave.com/jbhyyv9Ef0Dqzt1D3k4TS1s-7Vr2lygMc8hhK5rIrHc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWNlMTdkZWYz/NGYzNWRjOGE3Mjg4/MTZkOTEzZjM1OGY5/MWEwYjdiMTA3OWFh/YzdlNGNjYjUwYTkz/YjNlNDI3My93d3cu/amFncmFuLmNvbS8",
+          "path": "  › hindi news  › haryana  › sirsa"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/VJuV6uhStuwWGWx58RexNm1lXdpp0Xye7OqbjgAN5-k/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/amFncmFuLmNvbS9h/c3NldHMvaW1hZ2Vz/L2xvZ28ucG5n",
+          "original": "https://www.jagran.com/assets/images/logo.png",
+          "logo": true
+        }
+      },
+      {
+        "title": "Nowadays, everyone you see is raising slogans of 'Jai Shri Ram' but no one follows the teachings of Lord Ram nor follows his personality, what would you say about this? - Quora",
+        "url": "https://www.quora.com/Nowadays-everyone-you-see-is-raising-slogans-of-Jai-Shri-Ram-but-no-one-follows-the-teachings-of-Lord-Ram-nor-follows-his-personality-what-would-you-say-about-this",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Answer (1 of 4): One needs a standard to measure himself and know where he stands. No dount one’s goal should be SriRam. However when all reach SriRam , we all will happily move to Santaaneeka lokam and not live anymore on this earth. Till then we keep chanting SriRam namam and We keep admiring ...",
+        "profile": {
+          "name": "Quora",
+          "url": "https://www.quora.com/Nowadays-everyone-you-see-is-raising-slogans-of-Jai-Shri-Ram-but-no-one-follows-the-teachings-of-Lord-Ram-nor-follows-his-personality-what-would-you-say-about-this",
+          "long_name": "quora.com",
+          "img": "https://imgs.search.brave.com/jGre8FRmkjFxQij3rGpjeFOF-u1NLnEoE4FiyrJhNLI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjg3ZTk4MDVm/ZTE3YzUxZTc4Yjc3/YTE2MGI3MGVhNmQ2/MGE0Yjc4NzRhMmM1/ODMxYTIwNzI1ZjI0/NDkyZDI2Yy93d3cu/cXVvcmEuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "quora.com",
+          "hostname": "www.quora.com",
+          "favicon": "https://imgs.search.brave.com/jGre8FRmkjFxQij3rGpjeFOF-u1NLnEoE4FiyrJhNLI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjg3ZTk4MDVm/ZTE3YzUxZTc4Yjc3/YTE2MGI3MGVhNmQ2/MGE0Yjc4NzRhMmM1/ODMxYTIwNzI1ZjI0/NDkyZDI2Yy93d3cu/cXVvcmEuY29tLw",
+          "path": "› Nowadays-everyone-you-see-is-raising-slogans-of-Jai-Shri-Ram-but-no-one-follows-the-teachings-of-Lord-Ram-nor-follows-his-personality-what-would-you-say-about-this"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/jH4Ieu2CEF7-tJOVLZO1f-9Qtr02parRc-DSbtSG024/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xc2Yu/Y2YyLnF1b3JhY2Ru/Lm5ldC8tNC1pbWFn/ZXMuc2hhcmVfZGVm/YXVsdF9pbWFnZS5w/bmctMjYtMmYxMjY2/MGUxMjViMjE4Zi5w/bmc",
+          "original": "https://qsf.cf2.quoracdn.net/-4-images.share_default_image.png-26-2f12660e125b218f.png",
+          "logo": false
+        }
+      },
+      {
+        "title": "What is in the 'Jai Shri Ram' slogan? - The Daily Guardian",
+        "url": "https://thedailyguardian.com/what-is-in-the-jai-shri-ram-slogan/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The warm community greeting <strong>of</strong> ‘<strong>Jai</strong> <strong>Shri</strong> <strong>Ram</strong>’ has assumed the proportions of an incendiary war cry in recent times. How did it become so and does it respect the true spirit of the Ramayana or Lord <strong>Ram</strong>?",
+        "page_age": "2021-04-07T20:09:58",
+        "profile": {
+          "name": "The Daily Guardian",
+          "url": "https://thedailyguardian.com/what-is-in-the-jai-shri-ram-slogan/",
+          "long_name": "thedailyguardian.com",
+          "img": "https://imgs.search.brave.com/cbnbrbWHIhnafNgY6DvWgMFQ1fLzfc2rVokew6wyspc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzZkYTkzZmNl/YjMwY2IwNDY5YjIw/MGE5OTZiYzU4NGYz/MTYxODExMGE2MWIy/YmNiN2NkN2VjZDEz/NWNiNThmMC90aGVk/YWlseWd1YXJkaWFu/LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "location",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "thedailyguardian.com",
+          "hostname": "thedailyguardian.com",
+          "favicon": "https://imgs.search.brave.com/cbnbrbWHIhnafNgY6DvWgMFQ1fLzfc2rVokew6wyspc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzZkYTkzZmNl/YjMwY2IwNDY5YjIw/MGE5OTZiYzU4NGYz/MTYxODExMGE2MWIy/YmNiN2NkN2VjZDEz/NWNiNThmMC90aGVk/YWlseWd1YXJkaWFu/LmNvbS8",
+          "path": "› what-is-in-the-jai-shri-ram-slogan"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/5LP0joFMoXTmUM6I3awxJOOKkcPSeHbFnQ6syE9iqes/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aGVk/YWlseWd1YXJkaWFu/LmNvbS9uZXcvaW1h/Z2VzL3RoZWRhaWx5/Z3VhcmRpYW4ucG5n",
+          "original": "https://thedailyguardian.com/new/images/thedailyguardian.png",
+          "logo": false
+        },
+        "age": "April 7, 2021"
+      },
+      {
+        "title": "Jai Shri Ram: A slogan that changed political contours of India - India Today",
+        "url": "https://www.indiatoday.in/india/story/jai-shri-ram-a-slogan-that-changed-political-contours-of-india-1568051-2019-07-13",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "While the entire BJP and its ally Shiv Sena uses <strong>Jai</strong> <strong>Shri</strong> <strong>Ram</strong> <strong>slogan</strong> as a battle cry, their opponents, particularly West Bengal CM Mamata Banerjee has launched a massive campaign against it.",
+        "page_age": "2019-07-13T06:58:56",
+        "profile": {
+          "name": "India Today",
+          "url": "https://www.indiatoday.in/india/story/jai-shri-ram-a-slogan-that-changed-political-contours-of-india-1568051-2019-07-13",
+          "long_name": "indiatoday.in",
+          "img": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "indiatoday.in",
+          "hostname": "www.indiatoday.in",
+          "favicon": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8",
+          "path": "  › news  › jai shri ram: a slogan that changed political contours of india"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/A2_mvI50DLyKGaXanllFpb1liEJEYDz69FAA21ckzoo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ha20t/aW1nLWEtaW4udG9z/c2h1Yi5jb20vaW5k/aWF0b2RheS9pbWFn/ZXMvc3RvcnkvMjAx/OTA3L2phaV9zaHJp/X3JhbV8wLmpwZWc_/VmVyc2lvbklkPTl1/aVkzUjVaOWMxREd5/TWJmWFBxcU93cjJn/VE94U3p0P3NpemU9/MTIwMDo2NzU",
+          "original": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201907/jai_shri_ram_0.jpeg?VersionId=9uiY3R5Z9c1DGyMbfXPqqOwr2gTOxSzt?size=1200:675",
+          "logo": false
+        },
+        "age": "July 13, 2019"
+      },
+      {
+        "title": "Verdict on \"Jai Shri Ram slogan” by Karnataka HC: A Balance between Freedom of Speech and Religious Sensitivities",
+        "url": "https://organiser.org/2024/10/22/261514/bharat/verdict-on-jai-shri-ram-slogan-by-karnataka-hc-a-balance-between-freedom-of-speech-and-religious-sensitivities/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "How does chanting <strong>Jai</strong> <strong>Shri</strong> <strong>Ram</strong> come under the category of Offence? Here I commence by citing specifically Maulana Zafar Ali Khan, commonly acknowledged as",
+        "page_age": "2024-10-22T19:51:11",
+        "profile": {
+          "name": "Organiser",
+          "url": "https://organiser.org/2024/10/22/261514/bharat/verdict-on-jai-shri-ram-slogan-by-karnataka-hc-a-balance-between-freedom-of-speech-and-religious-sensitivities/",
+          "long_name": "organiser.org",
+          "img": "https://imgs.search.brave.com/aQN0p7JWuNlK20iuBaovyHtR-ywFT0cNzJVz8sHP89c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWQ0MGQ4Mzc0/MWM4ZmZiODVhYzkz/MTFjZmE0MTYyYmJk/MDA4Y2U4ZjRlYmVj/ZDA5ZjM1OGRmOTky/ZWM1MThmNi9vcmdh/bmlzZXIub3JnLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "organiser.org",
+          "hostname": "organiser.org",
+          "favicon": "https://imgs.search.brave.com/aQN0p7JWuNlK20iuBaovyHtR-ywFT0cNzJVz8sHP89c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWQ0MGQ4Mzc0/MWM4ZmZiODVhYzkz/MTFjZmE0MTYyYmJk/MDA4Y2U4ZjRlYmVj/ZDA5ZjM1OGRmOTky/ZWM1MThmNi9vcmdh/bmlzZXIub3JnLw",
+          "path": "  › home  › bharat"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/b18yhpe89x_8zuvqGogvLk1_9-iTJF5Ubx8Dr4q5Wvc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcmdh/bmlzZXIub3JnL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI0LzEw/L3loLTEtcG5nLndl/YnA",
+          "original": "https://organiser.org/wp-content/uploads/2024/10/yh-1-png.webp",
+          "logo": false
+        },
+        "age": "October 22, 2024"
+      },
+      {
+        "title": "'Jai Shri Ram' might be a new slogan – but the use of Ram as a political symbol is 800 years old",
+        "url": "https://scroll.in/article/928508/from-ayodhya-to-parliament-a-very-short-history-of-jai-shri-ram",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "It might be incredibly popular in Indian politics today, but <strong>the</strong> <strong>slogan</strong> has a rather short life in the popular domain.",
+        "page_age": "2019-07-25T07:10:59",
+        "profile": {
+          "name": "Scroll.in",
+          "url": "https://scroll.in/article/928508/from-ayodhya-to-parliament-a-very-short-history-of-jai-shri-ram",
+          "long_name": "scroll.in",
+          "img": "https://imgs.search.brave.com/Tylz0zom3WuGken9QHATtF2U5KmN6SGdLO-bynbYzP4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJkMWE2NzU3/NjcyNGVjNTM5YmM1/ZWU4OGU2ZWYyNGFk/NTE1ZjMyOTNmZWMx/MGM1ZTk2ODIxZjFh/N2Y5NTZlZC9zY3Jv/bGwuaW4v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "scroll.in",
+          "hostname": "scroll.in",
+          "favicon": "https://imgs.search.brave.com/Tylz0zom3WuGken9QHATtF2U5KmN6SGdLO-bynbYzP4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJkMWE2NzU3/NjcyNGVjNTM5YmM1/ZWU4OGU2ZWYyNGFk/NTE1ZjMyOTNmZWMx/MGM1ZTk2ODIxZjFh/N2Y5NTZlZC9zY3Jv/bGwuaW4v",
+          "path": "  › politics  › history revisited"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/NfEfW9Pnhpei42QTSok7YAEhAWiEvLA_JvjdJHiBcQU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zYzAu/YmxyMS5jZG4uZGln/aXRhbG9jZWFuc3Bh/Y2VzLmNvbS9hcnRp/Y2xlLzEyMTEwNi1v/c2FzdGJhdHFsLTE1/NTk1Nzg2NTUuanBl/Zw",
+          "original": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/121106-osastbatql-1559578655.jpeg",
+          "logo": false
+        },
+        "age": "July 25, 2019"
+      },
+      {
+        "title": "What's In A Slogan? Jai Shri Ram: From Devotion To Intimidation",
+        "url": "https://www.outlookindia.com/national/whats-in-a-slogan-jai-shri-ram-from-devotion-to-intimidation",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "“Jai Shri Ram,” which translates to “Victory to Lord Ram,” has been a common greeting in Hindi-speaking regions for over a century. <strong>The slogan got a popularity boost in the late 1980s, thanks in part to Arun Govil-starrer TV adaptation of the Ramayan</strong>.",
+        "page_age": "2024-10-17T10:15:13",
+        "profile": {
+          "name": "Outlook India",
+          "url": "https://www.outlookindia.com/national/whats-in-a-slogan-jai-shri-ram-from-devotion-to-intimidation",
+          "long_name": "outlookindia.com",
+          "img": "https://imgs.search.brave.com/TTyt_rPShmcAjC6bi-REjY2botR8fkPaWT2Z6qwnmDg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTAyNjczZTA5/NjZiODkxODlmZmU4/MGUzMThmN2E3NTAx/MjViMThmODNjYmMw/MzdmNzhkMGNjMjU0/ZmQzZGEzOC93d3cu/b3V0bG9va2luZGlh/LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "outlookindia.com",
+          "hostname": "www.outlookindia.com",
+          "favicon": "https://imgs.search.brave.com/TTyt_rPShmcAjC6bi-REjY2botR8fkPaWT2Z6qwnmDg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTAyNjczZTA5/NjZiODkxODlmZmU4/MGUzMThmN2E3NTAx/MjViMThmODNjYmMw/MzdmNzhkMGNjMjU0/ZmQzZGEzOC93d3cu/b3V0bG9va2luZGlh/LmNvbS8",
+          "path": "  › outlook india  › national  › whats in a slogan jai shri ram from devotion to intimidation"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/hdvFnxRpi4SwsYJrFe2yi-mlcf0unt169pttTEtzPXA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL291dGxvb2tp/bmRpYS8yMDI0LTEw/LTE2L3lhaXRydzZn/L2dldHR5aW1hZ2Vz/LTEyNDE4MDMwMjMt/NTk0eDU5NC5qcGc_/dz0xMjAwJmg9Njc1/JmF1dG89Zm9ybWF0/JTJDY29tcHJlc3Mm/Zml0PW1heCZlbmxh/cmdlPXRydWU",
+          "original": "https://media.assettype.com/outlookindia/2024-10-16/yaitrw6g/gettyimages-1241803023-594x594.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+          "logo": false
+        },
+        "age": "October 17, 2024"
+      },
+      {
+        "title": "Jai Shri Ram: The Hindu chant that became a murder cry",
+        "url": "https://www.bbc.com/news/world-asia-india-48882053",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A popular god has been invoked in attacks on Indian Muslims, deepening fears of religious polarisation.",
+        "page_age": "2019-07-10T15:40:06",
+        "profile": {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/world-asia-india-48882053",
+          "long_name": "British Broadcasting Corporation",
+          "img": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "bbc.com",
+          "hostname": "www.bbc.com",
+          "favicon": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8",
+          "path": "› news  › world-asia-india-48882053"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/_IfjJINSwxfhFzzQiWJGrn9i46wKsLT4FEODpFMDEJ0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L25ld3MvMTAyNC9i/cmFuZGVkX25ld3Mv/RDczNy9wcm9kdWN0/aW9uL18xMDc3NTkw/NTVfZ2V0dHlpbWFn/ZXMtNTIwODE1MDY4/LmpwZw",
+          "original": "https://ichef.bbci.co.uk/news/1024/branded_news/D737/production/_107759055_gettyimages-520815068.jpg",
+          "logo": false
+        },
+        "age": "July 10, 2019"
+      },
+      {
+        "title": "Siddaramaiah chants 'Jai Shri Ram', flaunts tilak on forehead",
+        "url": "https://www.prokerala.com/news/articles/a1499308.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "&quot;The slogan &#x27;Jai Shri Ram&#x27; is the slogan of the whole society. Some think the slogan is their property,&quot; he said. &#x27;<strong>The slogan is about showing reverence to Shri Ram, which is to be echoed by everyone</strong>,&#x27; Siddaramaiah stated, asking the crowd to chant &#x27;Jai Shri Ram&#x27; slogans multiple times.",
+        "page_age": "2024-01-22T15:18:01",
+        "profile": {
+          "name": "Prokerala",
+          "url": "https://www.prokerala.com/news/articles/a1499308.html",
+          "long_name": "prokerala.com",
+          "img": "https://imgs.search.brave.com/tlkhZpIdibdhhmYkts_zz6YdV1KSs9SubhmwhSuOcRc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmMxZjNkZWFi/ZmUxZTliMmI1NDMx/MTJiZWU4ZDVkNThi/MDQ1MDBiZTJkZTli/YmE0MDYwNDYwNTYx/M2VlZWZiMi93d3cu/cHJva2VyYWxhLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "prokerala.com",
+          "hostname": "www.prokerala.com",
+          "favicon": "https://imgs.search.brave.com/tlkhZpIdibdhhmYkts_zz6YdV1KSs9SubhmwhSuOcRc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmMxZjNkZWFi/ZmUxZTliMmI1NDMx/MTJiZWU4ZDVkNThi/MDQ1MDBiZTJkZTli/YmE0MDYwNDYwNTYx/M2VlZWZiMi93d3cu/cHJva2VyYWxhLmNv/bS8",
+          "path": "  › home  › news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/0PC96jt8b-QkUqLCwBMy8teNRCfu6sqWkWRQLMSweH4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cHJva2VyYWxhLmNv/bS9uZXdzL3Bob3Rv/cy9pbWdzLzgwMHg2/MDAvYmh1cGktc2ly/LXNpZGRhcmFtYWlh/aC1jaGFudHMtamFp/LXNocmktcmFtLXNs/b2dhbi1mbGF1bnRz/LXRpbGFrLW9uLTE2/ODY4OTMuanBn",
+          "original": "https://www.prokerala.com/news/photos/imgs/800x600/bhupi-sir-siddaramaiah-chants-jai-shri-ram-slogan-flaunts-tilak-on-1686893.jpg",
+          "logo": false
+        },
+        "age": "January 22, 2024"
+      },
+      {
+        "title": "Fact-Check: Old Video Of Pro-Hindu Slogans Chanted In A Society in Kanpur Shared as Visuals from Maharashtra",
+        "url": "https://www.thequint.com/news/webqoof/old-unrelated-video-shared-as-clip-from-maha-society-chanting-hindu-communal-slogans",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "In its caption, it noted, &quot;<strong>Prabhat Pheri, Kanpur West</strong>. This society echoed with the slogans of Jai Shri Ram!&quot;",
+        "page_age": "2024-11-07T09:50:20",
+        "profile": {
+          "name": "TheQuint",
+          "url": "https://www.thequint.com/news/webqoof/old-unrelated-video-shared-as-clip-from-maha-society-chanting-hindu-communal-slogans",
+          "long_name": "thequint.com",
+          "img": "https://imgs.search.brave.com/Wzd9ozElk5V8CgU9kbDcBKImqCyUM_5cZ6kt1oNRdxU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjc3YmI5YzU3/ZmRjZmViMGQ4OTZj/ZmNlMGQ1OGE1NDlh/NzdjMTU2NTkzNTgz/YzEzYmMxN2UzYzMy/Njc2NjllMS93d3cu/dGhlcXVpbnQuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "thequint.com",
+          "hostname": "www.thequint.com",
+          "favicon": "https://imgs.search.brave.com/Wzd9ozElk5V8CgU9kbDcBKImqCyUM_5cZ6kt1oNRdxU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjc3YmI5YzU3/ZmRjZmViMGQ4OTZj/ZmNlMGQ1OGE1NDlh/NzdjMTU2NTkzNTgz/YzEzYmMxN2UzYzMy/Njc2NjllMS93d3cu/dGhlcXVpbnQuY29t/Lw",
+          "path": "  › home  › news  › webqoof"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/AsVoTJO0tX5b5pz65X1FbgZEbet0zEDS_dkaVZQNNvc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL3RoZXF1aW50/LzIwMjQtMTEtMDcv/M3JtYWJ4bjkvS0hV/U0hJLVdRLU5FVy0y/MDI0LTExLTA3VDE0/NDQ1Ny4yNjcuanBn/PyAgICAgICAgICAg/ICAgYXV0bz1mb3Jt/YXQsY29tcHJlc3Mm/Zm10PXdlYnAmZm9y/bWF0PXdlYnAmdz0x/MjAwJmg9OTAwJmRw/cj0xLjA",
+          "original": "https://media.assettype.com/thequint/2024-11-07/3rmabxn9/KHUSHI-WQ-NEW-2024-11-07T144457.267.jpg?              auto=format,compress&fmt=webp&format=webp&w=1200&h=900&dpr=1.0",
+          "logo": false
+        },
+        "age": "November 7, 2024"
+      },
+      {
+        "title": "With 'Jai Shri Ram' Slogans and Temple Talk, Hindutva Dominates UP Assembly Session",
+        "url": "https://m.thewire.in/article/politics/with-jai-shri-ram-slogans-and-temple-talk-hindutva-dominates-up-assembly-session",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Uttar Pradesh chief minister Adityanath spoke at length about the",
+        "page_age": "2024-02-08T06:30:08",
+        "profile": {
+          "name": "The Wire",
+          "url": "https://m.thewire.in/article/politics/with-jai-shri-ram-slogans-and-temple-talk-hindutva-dominates-up-assembly-session",
+          "long_name": "m.thewire.in",
+          "img": "https://imgs.search.brave.com/xPQ_UCjTij3_Lr5esIAd2Rxv8-RYtR31rPv4gsvMEoI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmE2ZjJjYjRk/YzE2ZDZmMDhjNTI0/NjQ4MDQyZjIyYmNl/NTNjZDVhZTE1ODll/YjljMDk3NDkwOTdk/MDkyZDQ1Ni9tLnRo/ZXdpcmUuaW4v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "m.thewire.in",
+          "hostname": "m.thewire.in",
+          "favicon": "https://imgs.search.brave.com/xPQ_UCjTij3_Lr5esIAd2Rxv8-RYtR31rPv4gsvMEoI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmE2ZjJjYjRk/YzE2ZDZmMDhjNTI0/NjQ4MDQyZjIyYmNl/NTNjZDVhZTE1ODll/YjljMDk3NDkwOTdk/MDkyZDQ1Ni9tLnRo/ZXdpcmUuaW4v",
+          "path": "› article  › politics  › with-jai-shri-ram-slogans-and-temple-talk-hindutva-dominates-up-assembly-session"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/jIz2nTCZcbUVtgAtNMzWlwgEUWAucuIUnDH5OPlGWn4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tYy13/ZWJwY2FjaGUucmVh/ZHdoZXJlLmluL2Rp/c2NvdmVyLnBocD9p/bj1odHRwczovL21j/bXNjYWNoZS5lcGFw/ci5pbi9wb3N0X2lt/YWdlcy93ZWJzaXRl/XzM1MC9wb3N0XzM4/MzAyODM3L2Z1bGwu/anBn",
+          "original": "https://mc-webpcache.readwhere.in/discover.php?in=https://mcmscache.epapr.in/post_images/website_350/post_38302837/full.jpg",
+          "logo": false
+        },
+        "age": "February 8, 2024"
+      },
+      {
+        "title": "What is the meaning of the slogan 'Jai Shree Ram'? - Quora",
+        "url": "https://www.quora.com/What-is-the-meaning-of-the-slogan-Jai-Shree-Ram",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Answer (1 of 9): <strong>jai</strong> means hail , shree means respected and rama is an incarnation of lord vishnu , he killed the demon ravanasura , respected women , parents , brothers , devotees and has all good qualities in him , he is literally perfect personified that is why he is called maryada purushottam...",
+        "profile": {
+          "name": "Quora",
+          "url": "https://www.quora.com/What-is-the-meaning-of-the-slogan-Jai-Shree-Ram",
+          "long_name": "quora.com",
+          "img": "https://imgs.search.brave.com/jGre8FRmkjFxQij3rGpjeFOF-u1NLnEoE4FiyrJhNLI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjg3ZTk4MDVm/ZTE3YzUxZTc4Yjc3/YTE2MGI3MGVhNmQ2/MGE0Yjc4NzRhMmM1/ODMxYTIwNzI1ZjI0/NDkyZDI2Yy93d3cu/cXVvcmEuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "quora.com",
+          "hostname": "www.quora.com",
+          "favicon": "https://imgs.search.brave.com/jGre8FRmkjFxQij3rGpjeFOF-u1NLnEoE4FiyrJhNLI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjg3ZTk4MDVm/ZTE3YzUxZTc4Yjc3/YTE2MGI3MGVhNmQ2/MGE0Yjc4NzRhMmM1/ODMxYTIwNzI1ZjI0/NDkyZDI2Yy93d3cu/cXVvcmEuY29tLw",
+          "path": "› What-is-the-meaning-of-the-slogan-Jai-Shree-Ram"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/5Il9bFUzMlA9D6hlqdNjJluyn_1Uhfkf8W9CD1rS9vs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xcGgu/Y2YyLnF1b3JhY2Ru/Lm5ldC9tYWluLWN1/c3RvbS10LTEzNzUt/NjAweDMxNS1rbHFn/eXd0cWl4dXlyYWJ4/amd5ZW94Z29pZGdv/cGp6Yy5qcGVn",
+          "original": "https://qph.cf2.quoracdn.net/main-custom-t-1375-600x315-klqgywtqixuyrabxjgyeoxgoidgopjzc.jpeg",
+          "logo": false
+        }
+      },
+      {
+        "title": "‘Jai Shri Ram’ slogan in mosque a crime? SC to decide | Latest News India - Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/jai-shri-ram-slogan-in-mosque-a-crime-sc-to-decide-101734374884063.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The bench wondered if a mere shouting of religious <strong>slogan</strong> could invoke charges of outraging the religious sentiments of some other community.",
+        "page_age": "2024-12-17T00:35:51",
+        "profile": {
+          "name": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/jai-shri-ram-slogan-in-mosque-a-crime-sc-to-decide-101734374884063.html",
+          "long_name": "hindustantimes.com",
+          "img": "https://imgs.search.brave.com/6oiSajNB7C3FmHradE3V3z23td9GnbX-OZbVqJO9gzY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY1MjVjODdh/ZjU0MTA4Mjc4NzA0/ODM1MjllODZmNGMy/NTViMTUyNjk2ZTU1/MGZiNDRhZjI1NzRh/N2U2NTA0YS93d3cu/aGluZHVzdGFudGlt/ZXMuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "hindustantimes.com",
+          "hostname": "www.hindustantimes.com",
+          "favicon": "https://imgs.search.brave.com/6oiSajNB7C3FmHradE3V3z23td9GnbX-OZbVqJO9gzY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY1MjVjODdh/ZjU0MTA4Mjc4NzA0/ODM1MjllODZmNGMy/NTViMTUyNjk2ZTU1/MGZiNDRhZjI1NzRh/N2U2NTA0YS93d3cu/aGluZHVzdGFudGlt/ZXMuY29tLw",
+          "path": "  › news  › india news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/RL_78qm5i1dJQH4cK3aGU2_Sq5YxJfIvEmV-_r_Ld88/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aGluZHVzdGFudGlt/ZXMuY29tL2h0LWlt/Zy9pbWcvMjAyNC8x/Mi8xNi8xNjAweDkw/MC9FdmVuLWFzLXRo/ZS1iZW5jaC1yZWZy/YWluZWQtZnJvbS1p/c3N1aW5nLW5vdGlj/ZS13aV8xNzM0Mzc0/ODcyNzkwLmpwZw",
+          "original": "https://www.hindustantimes.com/ht-img/img/2024/12/16/1600x900/Even-as-the-bench-refrained-from-issuing-notice-wi_1734374872790.jpg",
+          "logo": false
+        },
+        "age": "December 17, 2024"
+      },
+      {
+        "title": "'Jai Shri Ram', 'Jai Shivaji', 'Jai Shiv Rai': Why slogans matter in Maharashtra politics",
+        "url": "https://www.moneycontrol.com/news/india/jai-shri-ram-jai-shivaji-jai-shiv-rai-why-slogans-matter-in-maharashtra-politics-12966812.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Slogans</strong> have long been a part of political identity, but in the current discourse, they are also being used as instruments to counter political adversaries.",
+        "page_age": "2025-03-17T10:09:47",
+        "profile": {
+          "name": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/india/jai-shri-ram-jai-shivaji-jai-shiv-rai-why-slogans-matter-in-maharashtra-politics-12966812.html",
+          "long_name": "moneycontrol.com",
+          "img": "https://imgs.search.brave.com/woOWNIeFdAPowUtYhsD0m8pjTQvYAaM5XVCKvLHnP8M/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMzNzYwNWQ2/M2Y5YTYzMzA5NWUy/YTczZGFlNGIxNDhj/NmZjZmIzOGFlNDlm/YTNkZDkyYmJiNjdl/MDRiZDMzMy93d3cu/bW9uZXljb250cm9s/LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "moneycontrol.com",
+          "hostname": "www.moneycontrol.com",
+          "favicon": "https://imgs.search.brave.com/woOWNIeFdAPowUtYhsD0m8pjTQvYAaM5XVCKvLHnP8M/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMzNzYwNWQ2/M2Y5YTYzMzA5NWUy/YTczZGFlNGIxNDhj/NmZjZmIzOGFlNDlm/YTNkZDkyYmJiNjdl/MDRiZDMzMy93d3cu/bW9uZXljb250cm9s/LmNvbS8",
+          "path": "  › home  › news  › india"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ChKIJaV7xPz2rVD4vwvJqjexTtXA7cdHJtFtTzi1y28/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMubW9uZXljb250/cm9sLmNvbS9zdGF0/aWMtbWNuZXdzLzIw/MjQvMDgvMjAyNDA4/MDcxMTU2MTNfVWRk/aGF2LVRoYWNrZXJh/eS1Ud2l0dGVyLmpw/Zw",
+          "original": "https://images.moneycontrol.com/static-mcnews/2024/08/20240807115613_Uddhav-Thackeray-Twitter.jpg",
+          "logo": false
+        },
+        "age": "March 17, 2025"
+      },
+      {
+        "title": "Jai Shree Ram Quotes And Wishes To Share on WhatsApp and Instagram! | HerZindagi",
+        "url": "https://www.herzindagi.com/society-culture/lord-ram-life-changing-quotes-as-ayodhya-prepares-for-his-grand-welcome-article-263349",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Jai</strong> Shree <strong>Ram</strong> Quotes : As we prepare to welcome Lord <strong>Ram</strong> at the inauguration ceremony of Ayodhya <strong>Ram</strong> Mandir, here are some of his teachings that are relevant to date.",
+        "page_age": "2024-04-17T05:50:11",
+        "profile": {
+          "name": "HerZindagi",
+          "url": "https://www.herzindagi.com/society-culture/lord-ram-life-changing-quotes-as-ayodhya-prepares-for-his-grand-welcome-article-263349",
+          "long_name": "herzindagi.com",
+          "img": "https://imgs.search.brave.com/XfjvFEVxCajvz2vSmUZsQmcKRRF0OgvJ0yJ5TzmVG00/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGE2Yjg0YWEw/MmMyNmQzYTA0Y2U2/NzQwYTA4MDA0Mzlk/ZmE2YWRlYjJkMDc4/YzQ3ZDNjMDZmM2Vk/OWEzMzdjNS93d3cu/aGVyemluZGFnaS5j/b20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "herzindagi.com",
+          "hostname": "www.herzindagi.com",
+          "favicon": "https://imgs.search.brave.com/XfjvFEVxCajvz2vSmUZsQmcKRRF0OgvJ0yJ5TzmVG00/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGE2Yjg0YWEw/MmMyNmQzYTA0Y2U2/NzQwYTA4MDA0Mzlk/ZmE2YWRlYjJkMDc4/YzQ3ZDNjMDZmM2Vk/OWEzMzdjNS93d3cu/aGVyemluZGFnaS5j/b20v",
+          "path": "  › home  › life & women  › society & culture"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/vpAhJeFDV5SkJHWZ44sGfuyi_BYViOMLtuq2l_3blS8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaGVyemluZGFn/aS5pbmZvL2ltYWdl/LzIwMjQvSmFuL2xv/cmQtcmFtLWxpZmUt/Y2hhbmdpbmctcXVv/dGVzLmpwZw",
+          "original": "https://images.herzindagi.info/image/2024/Jan/lord-ram-life-changing-quotes.jpg",
+          "logo": false
+        },
+        "age": "April 17, 2024"
+      },
+      {
+        "title": "Rahul Gandhi says BJP's slogan is 'Jai Shri Ram' and not 'Jai Siya Ram' because… | Latest News India - Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-says-bjp-s-slogan-is-jai-shri-ram-and-not-jai-siya-ram-because-101670025444033.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Rahul Gandhi said he met a pundit who told him the meaning of &#x27;Hey <strong>Ram</strong>&#x27;, &#x27;<strong>Jai</strong> Siya <strong>Ram</strong>&#x27; <strong>and</strong> &#x27;<strong>Jai</strong> <strong>Shri</strong> <strong>Ram</strong>&#x27;. “My request to my RSS friends is chant all these three <strong>slogans</strong> and do not disrespect Sita ji,” Rahul Gandhi said.",
+        "page_age": "2022-12-03T08:31:33",
+        "profile": {
+          "name": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-says-bjp-s-slogan-is-jai-shri-ram-and-not-jai-siya-ram-because-101670025444033.html",
+          "long_name": "hindustantimes.com",
+          "img": "https://imgs.search.brave.com/6oiSajNB7C3FmHradE3V3z23td9GnbX-OZbVqJO9gzY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY1MjVjODdh/ZjU0MTA4Mjc4NzA0/ODM1MjllODZmNGMy/NTViMTUyNjk2ZTU1/MGZiNDRhZjI1NzRh/N2U2NTA0YS93d3cu/aGluZHVzdGFudGlt/ZXMuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "hindustantimes.com",
+          "hostname": "www.hindustantimes.com",
+          "favicon": "https://imgs.search.brave.com/6oiSajNB7C3FmHradE3V3z23td9GnbX-OZbVqJO9gzY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY1MjVjODdh/ZjU0MTA4Mjc4NzA0/ODM1MjllODZmNGMy/NTViMTUyNjk2ZTU1/MGZiNDRhZjI1NzRh/N2U2NTA0YS93d3cu/aGluZHVzdGFudGlt/ZXMuY29tLw",
+          "path": "  › news  › india news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/RFtOS13adXGEZE_Q08Bm5TS-OAuRrsBBJrXYIjaZGBE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaGluZHVzdGFu/dGltZXMuY29tL2lt/Zy8yMDIyLzEyLzAy/LzE2MDB4OTAwL3Jh/aHVsX0dhbmRoaV9z/aXlhX3JhbV8xNjcw/MDI1NDUyNTYzXzE2/NzAwMjU0NTgyODBf/MTY3MDAyNTQ1ODI4/MC5KUEc",
+          "original": "https://images.hindustantimes.com/img/2022/12/02/1600x900/rahul_Gandhi_siya_ram_1670025452563_1670025458280_1670025458280.JPG",
+          "logo": false
+        },
+        "age": "December 3, 2022"
+      },
+      {
+        "title": "Bengal School Asks Question on 'Harmful Effect' of 'Jai Shri Ram' Slogans in Exam Paper, Sparks Row - News18",
+        "url": "https://www.news18.com/news/india/in-controversial-move-exam-paper-in-bengal-school-asks-question-on-harmful-effect-of-jai-shri-ram-slogans-2263919.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "At a school in Hooghly district, class 10 students appearing for the Bengali language paper, were asked to write how <strong>the</strong> <strong>Jai</strong> <strong>Shri</strong> <strong>Ram</strong> <strong>slogan</strong> was disrupting <strong>the</strong> <strong>society</strong> and how the return of cut money was benefiting people.",
+        "page_age": "2019-08-09T03:50:22",
+        "profile": {
+          "name": "News18",
+          "url": "https://www.news18.com/news/india/in-controversial-move-exam-paper-in-bengal-school-asks-question-on-harmful-effect-of-jai-shri-ram-slogans-2263919.html",
+          "long_name": "news18.com",
+          "img": "https://imgs.search.brave.com/OpF5hqfJge-zw1DD3gwjuBVaI_mSpnmIrtj5YJBuHvw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGI3ZDEzZjM3/N2Y0YzBjMjUxNmNi/OTQ2ZWMzMzllZGYw/N2VhOTcwYjIzZjY1/YzZlODMxYmQ3YjFk/MmZjZTVkNC93d3cu/bmV3czE4LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "news18.com",
+          "hostname": "www.news18.com",
+          "favicon": "https://imgs.search.brave.com/OpF5hqfJge-zw1DD3gwjuBVaI_mSpnmIrtj5YJBuHvw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGI3ZDEzZjM3/N2Y0YzBjMjUxNmNi/OTQ2ZWMzMzllZGYw/N2VhOTcwYjIzZjY1/YzZlODMxYmQ3YjFk/MmZjZTVkNC93d3cu/bmV3czE4LmNvbS8",
+          "path": "  › india"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Fsn9Pj6-13bsCENWB-10f5qoAd2-9u0jIWZSlNwKgI0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMubmV3czE4LmNv/bS9pYm5saXZlL3Vw/bG9hZHMvMjAxOC8w/Mi9leGFtLmpwZz9p/bT1GaXRBbmRGaWxs/PSgxMjAwLDY3NSk",
+          "original": "https://images.news18.com/ibnlive/uploads/2018/02/exam.jpg?im=FitAndFill=(1200,675)",
+          "logo": false
+        },
+        "age": "August 9, 2019"
+      },
+      {
+        "title": "One slogan one name Jai Shri Ram Torpa echoed with the slogans of Jai Shri Ram एक ही नारा एक ही नाम जय श्री राम जय श्री राम के नारों से गूंजा तोरपा, रांची न्यूज़",
+        "url": "https://www.livehindustan.com/jharkhand/ranchi/story-one-slogan-one-name-jai-shri-ram-torpa-echoed-with-the-slogans-of-jai-shri-ram-9791935.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "श्री रामलला के जन्मोत्सव का पर्व रामनवमी तोरपा एवं आसपास के क्षेत्रों में बुधवार को आस्था एवं उमंग के साथ मनायी ...",
+        "page_age": "2024-04-17T20:15:11",
+        "profile": {
+          "name": "Live Hindustan",
+          "url": "https://www.livehindustan.com/jharkhand/ranchi/story-one-slogan-one-name-jai-shri-ram-torpa-echoed-with-the-slogans-of-jai-shri-ram-9791935.html",
+          "long_name": "livehindustan.com",
+          "img": "https://imgs.search.brave.com/UZU-juPcDk6wMnExXFk3uBHSzUOm0daop-T89yjSlWs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzBkNDYyYjcz/MTgwZGI2Y2UyYjE2/MGVlOGQ3ZTZmZjNh/MzI4NjEwMWU3ZGZi/MTc1Y2MwOTZkYzA1/YzQyZGUwNy93d3cu/bGl2ZWhpbmR1c3Rh/bi5jb20v"
+        },
+        "language": "hi",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "livehindustan.com",
+          "hostname": "www.livehindustan.com",
+          "favicon": "https://imgs.search.brave.com/UZU-juPcDk6wMnExXFk3uBHSzUOm0daop-T89yjSlWs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzBkNDYyYjcz/MTgwZGI2Y2UyYjE2/MGVlOGQ3ZTZmZjNh/MzI4NjEwMWU3ZGZi/MTc1Y2MwOTZkYzA1/YzQyZGUwNy93d3cu/bGl2ZWhpbmR1c3Rh/bi5jb20v",
+          "path": "› jharkhand  › ranchi  › story-one-slogan-one-name-jai-shri-ram-torpa-echoed-with-the-slogans-of-jai-shri-ram-9791935.html"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/5SWsKBCtq1EiPiTUfzG3ltyQciQjsom698OKQ0JJdu0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bGl2ZWhpbmR1c3Rh/bi5jb20vbGgtaW1n/L3VwbG9hZGltYWdl/L2xpYnJhcnkvMjAy/MC8xMC8yOS8xNl85/LzE2XzlfMS9kZWZh/dWx0LWltYWdlNjQw/eDM2MC5qcGc",
+          "original": "https://www.livehindustan.com/lh-img/uploadimage/library/2020/10/29/16_9/16_9_1/default-image640x360.jpg",
+          "logo": false
+        },
+        "age": "April 17, 2024"
+      }
+    ],
+    "family_friendly": true
+  }
+}

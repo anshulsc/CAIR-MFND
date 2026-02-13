@@ -1,0 +1,741 @@
+{
+  "query": {
+    "original": "Campaigning for Maharashtra election has started in a very beautiful manner.",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Analysis of Maharashtra Assembly Election Campaign – PRO",
+        "url": "https://policyresearch.in/analysis-of-maharashtra-assembly-election-campaign-2024/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>MahaYuti (Coalition of BJP- Shiv Sena (Ekanath Shinde)- NCP(Ajit Pawar)</strong> stood for the first time in the battleground of the Vidhan Sabha election of Maharashtra 2024 with a new Identity, agenda and Campaign Strategy.",
+        "profile": {
+          "name": "Policyresearch",
+          "url": "https://policyresearch.in/analysis-of-maharashtra-assembly-election-campaign-2024/",
+          "long_name": "policyresearch.in",
+          "img": "https://imgs.search.brave.com/O5JgP5moxsJEFvuuS5-sp_ZIybFcE9aNYHETVK9wmuU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWYxZTFkZWZm/MGM0Yjk0ZjQxMGZk/YzhmYzc2NzQzYzU0/OWQ3MjEzMjI5YWMz/YmE2NmJjMmI0ZjJj/Y2YwMjA1ZC9wb2xp/Y3lyZXNlYXJjaC5p/bi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "policyresearch.in",
+          "hostname": "policyresearch.in",
+          "favicon": "https://imgs.search.brave.com/O5JgP5moxsJEFvuuS5-sp_ZIybFcE9aNYHETVK9wmuU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWYxZTFkZWZm/MGM0Yjk0ZjQxMGZk/YzhmYzc2NzQzYzU0/OWQ3MjEzMjI5YWMz/YmE2NmJjMmI0ZjJj/Y2YwMjA1ZC9wb2xp/Y3lyZXNlYXJjaC5p/bi8",
+          "path": "› analysis-of-maharashtra-assembly-election-campaign-2024"
+        }
+      },
+      {
+        "title": "Maharashtra Assembly Elections 2024: Campaigning ends; voting on Nov 20",
+        "url": "https://www.deccanherald.com/elections/maharashtra/maharashtra-assembly-elections-2024-campaigning-ends-voting-on-nov-20-3281798",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The <strong>election</strong> <strong>campaign</strong> saw prominent leaders like Narendra Modi, Amit Shah, Rahul Gandhi, Priyanka Gandhi Vadra, and many Union ministers crisscrossing the state to garner votes for their candidates.",
+        "page_age": "2024-11-18T22:51:24",
+        "profile": {
+          "name": "Deccan Herald",
+          "url": "https://www.deccanherald.com/elections/maharashtra/maharashtra-assembly-elections-2024-campaigning-ends-voting-on-nov-20-3281798",
+          "long_name": "deccanherald.com",
+          "img": "https://imgs.search.brave.com/KtLjkvB8_OIderB4BULJRh9gBjqSpRDmsuSLUvsrNWY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTI2NjdhODJh/YzUwZmNjZTUwY2Zm/MDhhMTM5YjhlMzk1/MzIyNTg0ZDlmNzIz/NDIzNmI2MGFiMmIz/ZjkwNzhlMS93d3cu/ZGVjY2FuaGVyYWxk/LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "deccanherald.com",
+          "hostname": "www.deccanherald.com",
+          "favicon": "https://imgs.search.brave.com/KtLjkvB8_OIderB4BULJRh9gBjqSpRDmsuSLUvsrNWY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTI2NjdhODJh/YzUwZmNjZTUwY2Zm/MDhhMTM5YjhlMzk1/MzIyNTg0ZDlmNzIz/NDIzNmI2MGFiMmIz/ZjkwNzhlMS93d3cu/ZGVjY2FuaGVyYWxk/LmNvbS8",
+          "path": "  › home  › elections  › maharashtra  › maharashtra assembly elections 2024: campaigning ends; voting on nov 20"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/0AMMk05oLATYR-0--RjA4-zpB3SfKISAJ4PREmqf0gw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL2RlY2Nhbmhl/cmFsZC8yMDI0LTEx/LTE4L244b21wNG5o/L1BUSTExXzE4XzIw/MjRfMDAwMjAxQS5q/cGc_dz0xMjAwJmg9/Njc1JmF1dG89Zm9y/bWF0JTJDY29tcHJl/c3MmZml0PW1heCZl/bmxhcmdlPXRydWU",
+          "original": "https://media.assettype.com/deccanherald/2024-11-18/n8omp4nh/PTI11_18_2024_000201A.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+          "logo": false
+        },
+        "age": "November 18, 2024"
+      },
+      {
+        "title": "'Celebration of Elections, Pride of Maharashtra': Election Commission launches state-level voter awareness campaign | Mumbai News - Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/mumbai/celebration-of-elections-pride-of-maharashtra-election-commission-launches-state-level-voter-awareness-campaign/articleshow/115112853.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "MUMBAI: In preparation for the 2024 Maharashtra Assembly Elections, a special campaign titled ‘<strong>Celebration of Elections, Pride of Maharashtra</strong>’ was launched under the SVEEP (Systematic Voters’ Education and Electoral Participation) program to promote voter education and participation.",
+        "page_age": "2024-11-09T10:29:00",
+        "profile": {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/city/mumbai/celebration-of-elections-pride-of-maharashtra-election-commission-launches-state-level-voter-awareness-campaign/articleshow/115112853.cms",
+          "long_name": "timesofindia.indiatimes.com",
+          "img": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timesofindia.indiatimes.com",
+          "hostname": "timesofindia.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+          "path": "  › news  › city news  › mumbai news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ueesddpzxH2syMcFpP0qQ8e4GsuKG8izhMdBxY5lXQ8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9yZXNp/emVtb2RlLTcyLHdp/ZHRoLTEyODAsaGVp/Z2h0LTcyMCxtc2lk/LTExNTExMzExNS8x/MTUxMTMxMTUuanBn",
+          "original": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-115113115/115113115.jpg",
+          "logo": false
+        },
+        "age": "November 9, 2024"
+      },
+      {
+        "title": "In pics: PM Modi kicks off Maharashtra election campaign with rallies in Dhule and Nashik",
+        "url": "https://timesofindia.indiatimes.com/india/in-pics-pm-modi-kicks-off-maharashtra-election-campaign-with-rallies-in-dhule-and-nashik/photostory/115093226.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>PM Narendra Modi kicked off his election campaign for the Maharashtra Assembly elections, addressing large crowds in Dhule</strong>. Alongside key BJP leaders, including Maharashtra Deputy Chief Minister Devendra Fadnavis and party candidate Anup Agarwal, PM Modi energised supporters with promises of ...",
+        "page_age": "2024-11-08T17:31:49",
+        "profile": {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/in-pics-pm-modi-kicks-off-maharashtra-election-campaign-with-rallies-in-dhule-and-nashik/photostory/115093226.cms",
+          "long_name": "timesofindia.indiatimes.com",
+          "img": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timesofindia.indiatimes.com",
+          "hostname": "timesofindia.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+          "path": "  › news  › india news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/n3ZTqJzAmRCeEbsEqUxA6Klb-OkCoqdGazhva9Lx2Rw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS9waG90by8xMTUw/OTMyNjEuY21z",
+          "original": "https://static.toiimg.com/photo/115093261.cms",
+          "logo": false
+        },
+        "age": "November 8, 2024"
+      },
+      {
+        "title": "2024 Maharashtra Assembly election: Did BJP’s Communal Campaign Tear Down the State’s Social Fabric? - Frontline",
+        "url": "https://frontline.thehindu.com/politics/maharashtra-election-2024-mahayuti-mva-communal-propaganda-waqf-siddhivinayak-vote-jehad-batenge-toh-katenge/article68890350.ece",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The <strong>election</strong> marks a dangerous new chapter <strong>in</strong> <strong>Maharashtra</strong>’s political history, with social media flooded with doctored videos, fake newspaper clippings, and manufactured controversies targeting religious landmarks like the Siddhivinayak temple.",
+        "page_age": "2024-11-20T16:23:31",
+        "profile": {
+          "name": "Frontline",
+          "url": "https://frontline.thehindu.com/politics/maharashtra-election-2024-mahayuti-mva-communal-propaganda-waqf-siddhivinayak-vote-jehad-batenge-toh-katenge/article68890350.ece",
+          "long_name": "frontline.thehindu.com",
+          "img": "https://imgs.search.brave.com/BeEzoA4pSuxiJjioqwtnhX66zgXmRIgShNJv9cZ7nVg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2Y0MTgxZWI0/MzA2ZTI3ZmM1NDNl/YjM2YjZjM2E2NzZm/ZGI4Mzg4MWRkZWI2/OWI2ZWNiNzkxODlh/NTkyM2U4OC9mcm9u/dGxpbmUudGhlaGlu/ZHUuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "frontline.thehindu.com",
+          "hostname": "frontline.thehindu.com",
+          "favicon": "https://imgs.search.brave.com/BeEzoA4pSuxiJjioqwtnhX66zgXmRIgShNJv9cZ7nVg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2Y0MTgxZWI0/MzA2ZTI3ZmM1NDNl/YjM2YjZjM2E2NzZm/ZGI4Mzg4MWRkZWI2/OWI2ZWNiNzkxODlh/NTkyM2U4OC9mcm9u/dGxpbmUudGhlaGlu/ZHUuY29tLw",
+          "path": "› politics  › maharashtra-election-2024-mahayuti-mva-communal-propaganda-waqf-siddhivinayak-vote-jehad-batenge-toh-katenge  › article68890350.ece"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/1Nw_nRgq7C4K9vS_weQpIYHW2BHFdOn_eze8oNvl9vs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mbC1p/LnRoZ2ltLmNvbS9w/dWJsaWMvaW5jb21p/bmcvNmFxNnh3L2Fy/dGljbGU2ODg5MDU2/MS5lY2UvYWx0ZXJu/YXRlcy9MQU5EU0NB/UEVfMTIwMC9tYWhh/cmFzaHRyYSUyMGVs/ZWN0aW9uJTIwdm90/ZXIlMjBuYWdwdXIu/anBn",
+          "original": "https://fl-i.thgim.com/public/incoming/6aq6xw/article68890561.ece/alternates/LANDSCAPE_1200/maharashtra%20election%20voter%20nagpur.jpg",
+          "logo": false
+        },
+        "age": "November 20, 2024"
+      },
+      {
+        "title": "Maharashtra Assembly elections 2024: ‘Participate with full enthusiasm,’ PM Modi urges electors to vote in large numbers | Mint",
+        "url": "https://www.livemint.com/politics/news/maharashtra-assembly-elections-pm-modi-urges-electors-to-vote-in-large-numbers-11732066702346.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>The intense campaigning ended on Monday, November 18, 2024</strong>, paving the way for today&#x27;s voting. Also Read: Maharashtra Votes Today: Here’s how to check your name on ECI voter list online – a complete guide",
+        "page_age": "2024-11-20T02:40:04",
+        "profile": {
+          "name": "Livemint",
+          "url": "https://www.livemint.com/politics/news/maharashtra-assembly-elections-pm-modi-urges-electors-to-vote-in-large-numbers-11732066702346.html",
+          "long_name": "livemint.com",
+          "img": "https://imgs.search.brave.com/4_SjXmOVg6ghTUrR-Jfkp_jUfFnA69V15ZVSoZgGLaM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2I4ZTJlOGVi/MTNmYmU4OGNhZGE1/NDQ0NmQyNDVjZTA0/YTAyYzNmYTdmZGU5/YmYxOWI2OTk1NmFm/NDY2NTJkMi93d3cu/bGl2ZW1pbnQuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "livemint.com",
+          "hostname": "www.livemint.com",
+          "favicon": "https://imgs.search.brave.com/4_SjXmOVg6ghTUrR-Jfkp_jUfFnA69V15ZVSoZgGLaM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2I4ZTJlOGVi/MTNmYmU4OGNhZGE1/NDQ0NmQyNDVjZTA0/YTAyYzNmYTdmZGU5/YmYxOWI2OTk1NmFm/NDY2NTJkMi93d3cu/bGl2ZW1pbnQuY29t/Lw",
+          "path": "  › business news  › politics  › news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/mEc8GpNabtVlkus4bM1s6z_o077g3EsEUQz88kY2aSE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bGl2ZW1pbnQuY29t/L2xtLWltZy9pbWcv/MjAyNC8xMS8yMC8x/NjAweDkwMC9BTkkt/MjAyNDExMTU0MjQt/MF8xNzMxNzM4OTY0/MjQ1XzE3MzIwNjY3/OTI1ODAuanBn",
+          "original": "https://www.livemint.com/lm-img/img/2024/11/20/1600x900/ANI-20241115424-0_1731738964245_1732066792580.jpg",
+          "logo": false
+        },
+        "age": "November 20, 2024"
+      },
+      {
+        "title": "Campaigning Intensifies for Assembly Elections in Maharashtra -",
+        "url": "https://www.newsonair.gov.in/campaigning-intensifies-for-assembly-elections-in-maharashtra/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Campaigning has intensified for assembly elections in Maharashtra. <strong>The Congress has announced five guarantees in the state as part of its manifesto for the Assembly polls</strong>. Congress leader Rahul Gandhi unveiled the guarantees including 3,000 per month to women, free bus travel for women and ...",
+        "page_age": "2024-11-07T05:24:51",
+        "profile": {
+          "name": "News on Air",
+          "url": "https://www.newsonair.gov.in/campaigning-intensifies-for-assembly-elections-in-maharashtra/",
+          "long_name": "newsonair.gov.in",
+          "img": "https://imgs.search.brave.com/GsljTckmCFkXlDps2jz7QtwI3nuhbJ3S7wwOT3TLsU8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDZjZjZiYTU2/MGFlYWYzMDZjMTQ5/MmZiZDc4YWU0YmFm/MmFjMzc2ZDgyNzg3/ZThjOTQzZTAwMTRl/OTFhZDJkNy93d3cu/bmV3c29uYWlyLmdv/di5pbi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "newsonair.gov.in",
+          "hostname": "www.newsonair.gov.in",
+          "favicon": "https://imgs.search.brave.com/GsljTckmCFkXlDps2jz7QtwI3nuhbJ3S7wwOT3TLsU8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDZjZjZiYTU2/MGFlYWYzMDZjMTQ5/MmZiZDc4YWU0YmFm/MmFjMzc2ZDgyNzg3/ZThjOTQzZTAwMTRl/OTFhZDJkNy93d3cu/bmV3c29uYWlyLmdv/di5pbi8",
+          "path": "› campaigning-intensifies-for-assembly-elections-in-maharashtra"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/YGAuiQtlDnsKrPXNfzxktdMXqSar7-xMDpZglKyc0zQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bmV3c29uYWlyLmdv/di5pbi93cC1jb250/ZW50L3VwbG9hZHMv/MjAyNC8xMS8zLWVs/ZWN0aW9uLTEuanBn",
+          "original": "https://www.newsonair.gov.in/wp-content/uploads/2024/11/3-election-1.jpg",
+          "logo": false
+        },
+        "age": "November 7, 2024"
+      },
+      {
+        "title": "2019 Maharashtra Legislative Assembly election - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2019_Maharashtra_Legislative_Assembly_election",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The 2019 <strong>Maharashtra</strong> Legislative Assembly <strong>election</strong> was held on 21 October 2019 to <strong>elect</strong> all 288 members of the state&#x27;s Legislative Assembly. After a 61.4% turnout in the <strong>election</strong>, the ruling National Democratic Alliance (NDA) of the Bharatiya Janata Party (BJP) and Shiv Sena (SHS) won a majority.",
+        "page_age": "2025-06-02T10:28:58",
+        "profile": {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2019_Maharashtra_Legislative_Assembly_election",
+          "long_name": "en.wikipedia.org",
+          "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "en.wikipedia.org",
+          "hostname": "en.wikipedia.org",
+          "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+          "path": "› wiki  › 2019_Maharashtra_Legislative_Assembly_election"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/vDdJLKdaL3xop246ESlvtLp3P-SgU8UnCWiZt85yM7k/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2Q3L0hhbmRfSU5D/LnN2Zw",
+          "original": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Hand_INC.svg",
+          "logo": true
+        },
+        "age": "June 2, 2025"
+      },
+      {
+        "title": "Maharashtra Assembly Election 2024: BJP’s Subdued Campaign Strategy Meets MVA’s Regional Pride Push - Frontline",
+        "url": "https://frontline.thehindu.com/politics/maharashtra-assembly-election-2024-bjp-mva-campaign-industrial-exodus-maratha-reservation-welfare-politics/article68882698.ece",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Also Read | Maharashtra Assembly Election 2024: The talking heads · Maharashtra politics underwent dramatic changes after Uddhav Thackeray’s government fell in June 2022, splitting Shiv Sena into two factions. <strong>Thackeray has since campaigned heavily on the issue of “Gaddari” (betrayal).</strong>",
+        "page_age": "2024-11-19T14:08:33",
+        "profile": {
+          "name": "Frontline",
+          "url": "https://frontline.thehindu.com/politics/maharashtra-assembly-election-2024-bjp-mva-campaign-industrial-exodus-maratha-reservation-welfare-politics/article68882698.ece",
+          "long_name": "frontline.thehindu.com",
+          "img": "https://imgs.search.brave.com/BeEzoA4pSuxiJjioqwtnhX66zgXmRIgShNJv9cZ7nVg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2Y0MTgxZWI0/MzA2ZTI3ZmM1NDNl/YjM2YjZjM2E2NzZm/ZGI4Mzg4MWRkZWI2/OWI2ZWNiNzkxODlh/NTkyM2U4OC9mcm9u/dGxpbmUudGhlaGlu/ZHUuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "frontline.thehindu.com",
+          "hostname": "frontline.thehindu.com",
+          "favicon": "https://imgs.search.brave.com/BeEzoA4pSuxiJjioqwtnhX66zgXmRIgShNJv9cZ7nVg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2Y0MTgxZWI0/MzA2ZTI3ZmM1NDNl/YjM2YjZjM2E2NzZm/ZGI4Mzg4MWRkZWI2/OWI2ZWNiNzkxODlh/NTkyM2U4OC9mcm9u/dGxpbmUudGhlaGlu/ZHUuY29tLw",
+          "path": "› politics  › maharashtra-assembly-election-2024-bjp-mva-campaign-industrial-exodus-maratha-reservation-welfare-politics  › article68882698.ece"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/LR756qjRnb9JnUU_aqWHprFsKBwF_PFw2cWRZk8L5aY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mbC1p/LnRoZ2ltLmNvbS9w/dWJsaWMvaW5jb21p/bmcvMWtpY3JrL2Fy/dGljbGU2ODg4MjY5/MC5lY2UvYWx0ZXJu/YXRlcy9MQU5EU0NB/UEVfMTIwMC9CSlAl/MjBNYWhhcmFzaHRy/YSUyMGNhbXBhaWdu/LmpwZw",
+          "original": "https://fl-i.thgim.com/public/incoming/1kicrk/article68882690.ece/alternates/LANDSCAPE_1200/BJP%20Maharashtra%20campaign.jpg",
+          "logo": false
+        },
+        "age": "November 19, 2024"
+      },
+      {
+        "title": "Intense battle of alliances, betrayals, and narratives ends in Maharashtra - The Hindu",
+        "url": "https://www.thehindu.com/elections/maharashtra-assembly/maharashtra-assembly-election-campaign-ends-voting-on-november-20/article68881870.ece",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The election campaign saw prominent ... file image. | Photo Credit: PTI · <strong>The high-octane campaign for the Maharashtra Assembly polls concluded on Monday (November 18, 2024), setting the stage for polling on Wednesday (November 20, 2024).</strong>...",
+        "page_age": "2024-11-18T15:07:00",
+        "profile": {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/elections/maharashtra-assembly/maharashtra-assembly-election-campaign-ends-voting-on-november-20/article68881870.ece",
+          "long_name": "thehindu.com",
+          "img": "https://imgs.search.brave.com/7nMEtreJNappZ3K0yP6ovEhbEphNWRh8gQdd737CcXU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZThkMTk4NWZl/YjBiYjYzYjQ5MjNm/YmNhNDM2ZDlkZTAz/Y2FiODM5ZjAwNWRi/MmUyY2RmMTIwNDk5/ZWE0YmQ2Yi93d3cu/dGhlaGluZHUuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "thehindu.com",
+          "hostname": "www.thehindu.com",
+          "favicon": "https://imgs.search.brave.com/7nMEtreJNappZ3K0yP6ovEhbEphNWRh8gQdd737CcXU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZThkMTk4NWZl/YjBiYjYzYjQ5MjNm/YmNhNDM2ZDlkZTAz/Y2FiODM5ZjAwNWRi/MmUyY2RmMTIwNDk5/ZWE0YmQ2Yi93d3cu/dGhlaGluZHUuY29t/Lw",
+          "path": "› elections  › maharashtra-assembly  › maharashtra-assembly-election-campaign-ends-voting-on-november-20  › article68881870.ece"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/yX06EIucgzpejUc-C6iEpFQb4rv_rp9O5UDRlbmF4i4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aC1p/LnRoZ2ltLmNvbS9w/dWJsaWMvaW5jb21p/bmcvN2ZzeDlmL2Fy/dGljbGU2ODg4MTkz/OS5lY2UvYWx0ZXJu/YXRlcy9MQU5EU0NB/UEVfMTIwMC9QVEkx/MF8yOV8yMDI0XzAw/MDM3NkEuanBn",
+          "original": "https://th-i.thgim.com/public/incoming/7fsx9f/article68881939.ece/alternates/LANDSCAPE_1200/PTI10_29_2024_000376A.jpg",
+          "logo": false
+        },
+        "age": "November 18, 2024"
+      },
+      {
+        "title": "Maharashtra election: Campaigning ends, voters to pick next govt on Nov 20 | Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/maharashtra-election-2024-live-updates-bjp-congress-shiv-sena-ncp-mumbai-assembly-polls-latest-news-today-19-november-20-101731995529589.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>The social media campaign was run on social media</strong>, a crucial arena for political campaigns keeping in view crores of active internet users. Called the &quot;Durdarshi Sarkar Maharashtra Cha Adhikar Punha Ekda BJP Sarkar,&quot; the BJP&#x27;s social media campaign was run with the help of Maharashtra global ...",
+        "page_age": "2024-11-19T16:45:34",
+        "profile": {
+          "name": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/maharashtra-election-2024-live-updates-bjp-congress-shiv-sena-ncp-mumbai-assembly-polls-latest-news-today-19-november-20-101731995529589.html",
+          "long_name": "hindustantimes.com",
+          "img": "https://imgs.search.brave.com/6oiSajNB7C3FmHradE3V3z23td9GnbX-OZbVqJO9gzY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY1MjVjODdh/ZjU0MTA4Mjc4NzA0/ODM1MjllODZmNGMy/NTViMTUyNjk2ZTU1/MGZiNDRhZjI1NzRh/N2U2NTA0YS93d3cu/aGluZHVzdGFudGlt/ZXMuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "hindustantimes.com",
+          "hostname": "www.hindustantimes.com",
+          "favicon": "https://imgs.search.brave.com/6oiSajNB7C3FmHradE3V3z23td9GnbX-OZbVqJO9gzY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY1MjVjODdh/ZjU0MTA4Mjc4NzA0/ODM1MjllODZmNGMy/NTViMTUyNjk2ZTU1/MGZiNDRhZjI1NzRh/N2U2NTA0YS93d3cu/aGluZHVzdGFudGlt/ZXMuY29tLw",
+          "path": "  › news  › india news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lXID4U4nuq4YSxYlPxK8NgiFtBjfZSenquLIJAOK7CY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aGluZHVzdGFudGlt/ZXMuY29tL2h0LWlt/Zy9pbWcvMjAyNC8x/MS8xOS8xNjAweDkw/MC9NYWhhcmFzaHRy/YV92b3RpbmdfYm9v/dGhfMTczMTk5NTkw/Njg3NF8xNzMxOTk1/OTA3MTE3LkpQRw",
+          "original": "https://www.hindustantimes.com/ht-img/img/2024/11/19/1600x900/Maharashtra_voting_booth_1731995906874_1731995907117.JPG",
+          "logo": false
+        },
+        "age": "November 19, 2024"
+      },
+      {
+        "title": "Maharashtra election 2024: What are parties promising in their ...",
+        "url": "https://www.youtube.com/watch?v=QGuwwRVfgpw",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "profile": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/watch?v=QGuwwRVfgpw",
+          "long_name": "youtube.com",
+          "img": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        }
+      },
+      {
+        "title": "Maharashtra Election 2024: Maharashtra Assembly Election News, Dates, Candidates, Results",
+        "url": "https://www.indiatoday.in/elections/assembly/maharashtra",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Maharashtra</strong> Assembly <strong>Election</strong> 2024: Find latest updates on <strong>Maharashtra</strong> <strong>Election</strong> news, candidates, voting dates, results, political parties, <strong>maharashtra</strong> <strong>election</strong> breaking news and other details at indiatoday.in.",
+        "profile": {
+          "name": "India Today",
+          "url": "https://www.indiatoday.in/elections/assembly/maharashtra",
+          "long_name": "indiatoday.in",
+          "img": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "indiatoday.in",
+          "hostname": "www.indiatoday.in",
+          "favicon": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8",
+          "path": "  › news  › elections  › assembly  › maharashtra"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/gQcxMDAQf4pWnv6KtHZ8ht0kuzPyjAMpE_jXUZsdeIw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ha20t/aW1nLWEtaW4udG9z/c2h1Yi5jb20vaW5k/aWF0b2RheS9pbWFn/ZXMvbWVkaWFtYW5h/Z2VyL2l0bG9nby5w/bmc",
+          "original": "https://akm-img-a-in.tosshub.com/indiatoday/images/mediamanager/itlogo.png",
+          "logo": true
+        }
+      },
+      {
+        "title": "Maharashtra election: How MVA compelled Mahayuti to scale up revdi promises - India Today",
+        "url": "https://www.indiatoday.in/elections/assembly/story/maharashtra-assembly-election-2024-revdi-freebie-list-mahayuti-mva-ladki-banin-eknath-shinde-2630830-2024-11-11",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "In the fight <strong>for</strong> <strong>Maharashtra</strong>, India&#x27;s richest state, there is a bitter battle of &#x27;revdis&#x27;. The BJP-led Mahayuti has been forced to promise higher cash dole after big guarantees by the Congress-led Maha Vikas Aghadi. Here&#x27;s a look at who&#x27;s promising what ahead of the <strong>Maharashtra</strong> Assembly <strong>election</strong>.",
+        "page_age": "2024-11-23T00:27:39",
+        "profile": {
+          "name": "India Today",
+          "url": "https://www.indiatoday.in/elections/assembly/story/maharashtra-assembly-election-2024-revdi-freebie-list-mahayuti-mva-ladki-banin-eknath-shinde-2630830-2024-11-11",
+          "long_name": "indiatoday.in",
+          "img": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "indiatoday.in",
+          "hostname": "www.indiatoday.in",
+          "favicon": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8",
+          "path": "  › news  › elections  › assembly  › maharashtra  › how mva compelled mahayuti to scale up revdi promises in maharashtra"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/noh3gp7p9NpDzkdMi7GPop5-nMoGv7mcdek6_rLBpqY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ha20t/aW1nLWEtaW4udG9z/c2h1Yi5jb20vaW5k/aWF0b2RheS9pbWFn/ZXMvc3RvcnkvMjAy/NDExL2VrbmF0aC1z/aGluZGUtdWRkaGF2/LXRoYWNrZXJheS0w/NDM0Mjk4MjItMTZ4/OS5qcGVnP1ZlcnNp/b25JZD13dnhGeTVh/WG9rb0d0aTJrUFVT/cHB1OEhkOTNPLjds/ej9zaXplPTEyODA6/NzIw",
+          "original": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202411/eknath-shinde-uddhav-thackeray-043429822-16x9.jpeg?VersionId=wvxFy5aXokoGti2kPUSppu8Hd93O.7lz?size=1280:720",
+          "logo": false
+        },
+        "age": "November 23, 2024"
+      },
+      {
+        "title": "Eci",
+        "url": "https://www.eci.gov.in/mcc",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "You need to enable JavaScript to run this app",
+        "profile": {
+          "name": "Election Commission of India",
+          "url": "https://www.eci.gov.in/mcc",
+          "long_name": "eci.gov.in",
+          "img": "https://imgs.search.brave.com/bUdgBDmUcYKiCI4ZgbZKRAgiGV2GeGVHxInRFwXaYS0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODZhZGIwZDIy/NmFiYmNlZTFiNzM3/OTE2NTZlNTc4OWZj/YjQxMGU4MWM2ZGM2/YjBlZDljMTEzNGNk/Y2JjNDM1Ni93d3cu/ZWNpLmdvdi5pbi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "eci.gov.in",
+          "hostname": "www.eci.gov.in",
+          "favicon": "https://imgs.search.brave.com/bUdgBDmUcYKiCI4ZgbZKRAgiGV2GeGVHxInRFwXaYS0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODZhZGIwZDIy/NmFiYmNlZTFiNzM3/OTE2NTZlNTc4OWZj/YjQxMGU4MWM2ZGM2/YjBlZDljMTEzNGNk/Y2JjNDM1Ni93d3cu/ZWNpLmdvdi5pbi8",
+          "path": "› mcc"
+        }
+      },
+      {
+        "title": "Communist Party Of India (Marxist)",
+        "url": "http://cpim.org/content/impressive-campaign-maharashtra",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "If he wanted to contest from here, ... <strong>elections</strong>!” (<strong>Maharashtra</strong> Times, October 12). Both the above declarations were widely condemned and complaints were registered with the <strong>election</strong> commission. Such statements showed the abysmal level to which bourgeois <strong>campaigning</strong> <strong>has</strong> ...",
+        "profile": {
+          "name": "Communist Party of India (Marxist)",
+          "url": "http://cpim.org/content/impressive-campaign-maharashtra",
+          "long_name": "cpim.org",
+          "img": "https://imgs.search.brave.com/g0w3NetVSBJ6s-FrZ9z09eVUC6aaXQUFUlaXAEtfqBE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NmOGEzZDcz/MmE5NWJkYTlmMzdk/N2EwYmI4ZjBlZDA2/OGZhMjc1ZjZmMzgy/NDE5YmE5YTAwYjhm/OWQ0MjRjYi9jcGlt/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "http",
+          "netloc": "cpim.org",
+          "hostname": "cpim.org",
+          "favicon": "https://imgs.search.brave.com/g0w3NetVSBJ6s-FrZ9z09eVUC6aaXQUFUlaXAEtfqBE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NmOGEzZDcz/MmE5NWJkYTlmMzdk/N2EwYmI4ZjBlZDA2/OGZhMjc1ZjZmMzgy/NDE5YmE5YTAwYjhm/OWQ0MjRjYi9jcGlt/Lm9yZy8",
+          "path": "› content  › impressive-campaign-maharashtra"
+        }
+      },
+      {
+        "title": "Maharashtra election results 2024: How RSS campaign shaped BJP-led Mahayuti’s victory - The Hindu",
+        "url": "https://www.thehindu.com/elections/maharashtra-assembly/maharashtra-election-results-2024-how-rss-stealth-campaign-shaped-mahayutis-victory/article68901868.ece",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "RSS played a crucial role in shaping <strong>Maharashtra</strong> Assembly <strong>elections</strong>, focusing on urban voter mobilization and supporting BJP-led Mahayuti alliance.",
+        "page_age": "2024-11-23T12:52:42",
+        "profile": {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/elections/maharashtra-assembly/maharashtra-election-results-2024-how-rss-stealth-campaign-shaped-mahayutis-victory/article68901868.ece",
+          "long_name": "thehindu.com",
+          "img": "https://imgs.search.brave.com/7nMEtreJNappZ3K0yP6ovEhbEphNWRh8gQdd737CcXU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZThkMTk4NWZl/YjBiYjYzYjQ5MjNm/YmNhNDM2ZDlkZTAz/Y2FiODM5ZjAwNWRi/MmUyY2RmMTIwNDk5/ZWE0YmQ2Yi93d3cu/dGhlaGluZHUuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "thehindu.com",
+          "hostname": "www.thehindu.com",
+          "favicon": "https://imgs.search.brave.com/7nMEtreJNappZ3K0yP6ovEhbEphNWRh8gQdd737CcXU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZThkMTk4NWZl/YjBiYjYzYjQ5MjNm/YmNhNDM2ZDlkZTAz/Y2FiODM5ZjAwNWRi/MmUyY2RmMTIwNDk5/ZWE0YmQ2Yi93d3cu/dGhlaGluZHUuY29t/Lw",
+          "path": "› elections  › maharashtra-assembly  › maharashtra-election-results-2024-how-rss-stealth-campaign-shaped-mahayutis-victory  › article68901868.ece"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lMRC30-tx9FBJ8BTAfr8TmM9uqGB-O_qbuTYGXRZAco/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aC1p/LnRoZ2ltLmNvbS9w/dWJsaWMvaW5jb21p/bmcvanE0cjBkL2Fy/dGljbGU2ODkwMTkx/Ni5lY2UvYWx0ZXJu/YXRlcy9MQU5EU0NB/UEVfMTIwMC9QVEkx/MV8yM18yMDI0XzAw/MDE4M0EuanBn",
+          "original": "https://th-i.thgim.com/public/incoming/jq4r0d/article68901916.ece/alternates/LANDSCAPE_1200/PTI11_23_2024_000183A.jpg",
+          "logo": false
+        },
+        "age": "November 23, 2024"
+      },
+      {
+        "title": "Why the assembly election in Maharashtra is not just about bringing in a new state government - Hindustan Times",
+        "url": "https://www.hindustantimes.com/analysis/why-the-assembly-election-in-maharashtra-is-not-just-about-bringing-in-a-new-state-government-101731938822953.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "In the Lok Sabha <strong>election</strong>, MVA won 30 seats while Mahayuti could win only 17. One went to a Congress rebel who won as an independent and later joined the MVA.",
+        "page_age": "2024-11-18T14:14:34",
+        "profile": {
+          "name": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/analysis/why-the-assembly-election-in-maharashtra-is-not-just-about-bringing-in-a-new-state-government-101731938822953.html",
+          "long_name": "hindustantimes.com",
+          "img": "https://imgs.search.brave.com/6oiSajNB7C3FmHradE3V3z23td9GnbX-OZbVqJO9gzY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY1MjVjODdh/ZjU0MTA4Mjc4NzA0/ODM1MjllODZmNGMy/NTViMTUyNjk2ZTU1/MGZiNDRhZjI1NzRh/N2U2NTA0YS93d3cu/aGluZHVzdGFudGlt/ZXMuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "hindustantimes.com",
+          "hostname": "www.hindustantimes.com",
+          "favicon": "https://imgs.search.brave.com/6oiSajNB7C3FmHradE3V3z23td9GnbX-OZbVqJO9gzY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY1MjVjODdh/ZjU0MTA4Mjc4NzA0/ODM1MjllODZmNGMy/NTViMTUyNjk2ZTU1/MGZiNDRhZjI1NzRh/N2U2NTA0YS93d3cu/aGluZHVzdGFudGlt/ZXMuY29tLw",
+          "path": "  › news  › analysis"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lXgotN7Bl7_x1_EepOssBStJIJYnudVBjvrbawJYtlM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aGluZHVzdGFudGlt/ZXMuY29tL2h0LWlt/Zy9pbWcvMjAyNC8x/MS8xOC8xNjAweDkw/MC9QVEkxMS0xOC0y/MDI0LTAwMDE1NUIt/MF8xNzMxOTM5MTU2/MjUzXzE3MzE5Mzkx/OTM0MzcuanBn",
+          "original": "https://www.hindustantimes.com/ht-img/img/2024/11/18/1600x900/PTI11-18-2024-000155B-0_1731939156253_1731939193437.jpg",
+          "logo": false
+        },
+        "age": "November 18, 2024"
+      },
+      {
+        "title": "Maharashtra election: Seven reasons for Mahayuti’s unprecedented victory - Frontline",
+        "url": "https://frontline.thehindu.com/politics/maharashtra-assembly-election-2024-bjp-mahayuti-historic-victory-analysis/article68908131.ece",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Maharashtra</strong> <strong>election</strong>: Here’s a look at the reasons for Mahayuti’s unprecedented victory. These include the Ladki Bahin scheme, farmers’ bill waivers and polarised discourse. The alliance also had the backing of BJP’s massive logistical and financial power.",
+        "page_age": "2025-01-13T13:02:38",
+        "profile": {
+          "name": "Frontline",
+          "url": "https://frontline.thehindu.com/politics/maharashtra-assembly-election-2024-bjp-mahayuti-historic-victory-analysis/article68908131.ece",
+          "long_name": "frontline.thehindu.com",
+          "img": "https://imgs.search.brave.com/BeEzoA4pSuxiJjioqwtnhX66zgXmRIgShNJv9cZ7nVg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2Y0MTgxZWI0/MzA2ZTI3ZmM1NDNl/YjM2YjZjM2E2NzZm/ZGI4Mzg4MWRkZWI2/OWI2ZWNiNzkxODlh/NTkyM2U4OC9mcm9u/dGxpbmUudGhlaGlu/ZHUuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "frontline.thehindu.com",
+          "hostname": "frontline.thehindu.com",
+          "favicon": "https://imgs.search.brave.com/BeEzoA4pSuxiJjioqwtnhX66zgXmRIgShNJv9cZ7nVg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2Y0MTgxZWI0/MzA2ZTI3ZmM1NDNl/YjM2YjZjM2E2NzZm/ZGI4Mzg4MWRkZWI2/OWI2ZWNiNzkxODlh/NTkyM2U4OC9mcm9u/dGxpbmUudGhlaGlu/ZHUuY29tLw",
+          "path": "› politics  › maharashtra-assembly-election-2024-bjp-mahayuti-historic-victory-analysis  › article68908131.ece"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/cD5gClBix7j0KirZbF7zegGJ4zEUzuaka02E5lUuUKw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mbC1p/LnRoZ2ltLmNvbS9w/dWJsaWMvaW5jb21p/bmcvNnl5bXV2L2Fy/dGljbGU2ODkwODEz/NC5lY2UvYWx0ZXJu/YXRlcy9MQU5EU0NB/UEVfMTIwMC9NYWhh/cmFzaHRyYSUyMGVs/ZWN0aW9uLmpwZw",
+          "original": "https://fl-i.thgim.com/public/incoming/6yymuv/article68908134.ece/alternates/LANDSCAPE_1200/Maharashtra%20election.jpg",
+          "logo": false
+        },
+        "age": "January 13, 2025"
+      },
+      {
+        "title": "Maharashtra Election Date 2024 | Maharashtra Lok Sabha Election Date 2024",
+        "url": "https://timesofindia.indiatimes.com/elections/maharashtra-lok-sabha-election/schedule",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Maharashtra</strong> Lok Sabha <strong>Elections</strong> - Latest News on <strong>Maharashtra</strong> <strong>Elections</strong>, <strong>Maharashtra</strong> Lok Sabha <strong>Election</strong> Dates, <strong>Maharashtra</strong> Opinion polls, Exit Polls, <strong>Maharashtra</strong> Lok Sabha Results and more on Times of India",
+        "page_age": "2019-03-13T12:00:53",
+        "profile": {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/elections/maharashtra-lok-sabha-election/schedule",
+          "long_name": "timesofindia.indiatimes.com",
+          "img": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timesofindia.indiatimes.com",
+          "hostname": "timesofindia.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+          "path": "› elections  › maharashtra-lok-sabha-election  › schedule"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/U2-dwW8peiUdJiUhMbIq4IRJhe6OYf8sfjT-Z0ZUXPE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS9waG90by8xMDkw/MTM5ODcuY21z",
+          "original": "https://static.toiimg.com/photo/109013987.cms",
+          "logo": false
+        },
+        "age": "March 13, 2019"
+      }
+    ],
+    "family_friendly": true
+  }
+}

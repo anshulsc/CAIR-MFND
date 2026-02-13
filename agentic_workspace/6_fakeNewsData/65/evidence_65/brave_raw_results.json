@@ -1,0 +1,752 @@
+{
+  "query": {
+    "original": "Xi Jinping avoided shaking hands with Modi Ji – Breaking News. I can’t tolerate this much insult to Modi Ji. Bhakts, do something. At least start a media war.",
+    "show_strict_warning": false,
+    "altered": "xi jinping avoided shaking hands with modi ji breaking news. i can t tolerate this much insult to modi ji. bhakts do something. at least start a media war.",
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Fact Check: PM Modi and Chinese President Did Shake Hands At BRICS Summit In Russia; Misleading Post Viral - Vishvas News",
+        "url": "https://www.vishvasnews.com/english/politics/fact-check-pm-modi-and-chinese-president-did-shake-hands-at-brics-summit-in-russia-misleading-post-viral/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Prime Minister Narendra Modi recently returned to India after attending the BRICS Summit in Kazan, Russia. Meanwhile, <strong>a viral post claimed that Chinese President Xi Jinping avoided shaking hands with PM Modi</strong>, accompanied by a video showing clips of Xi Jinping and Angela Merkel alongside PM Modi.",
+        "page_age": "2024-10-29T10:51:06",
+        "profile": {
+          "name": "Vishvas News",
+          "url": "https://www.vishvasnews.com/english/politics/fact-check-pm-modi-and-chinese-president-did-shake-hands-at-brics-summit-in-russia-misleading-post-viral/",
+          "long_name": "vishvasnews.com",
+          "img": "https://imgs.search.brave.com/e_1r-tprJXkTjWT3VhGHhVnuFJ_Td58IyxO_GHFsly8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzFlMDBmZTQ5/ZDdiYmIyZjIwYjVm/ZmM0NDI3NzljNTk0/MTg0ZjAyNTA4NzIy/Y2ZlNGZkMjIyMWIw/YzMzZmVkNi93d3cu/dmlzaHZhc25ld3Mu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "vishvasnews.com",
+          "hostname": "www.vishvasnews.com",
+          "favicon": "https://imgs.search.brave.com/e_1r-tprJXkTjWT3VhGHhVnuFJ_Td58IyxO_GHFsly8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzFlMDBmZTQ5/ZDdiYmIyZjIwYjVm/ZmM0NDI3NzljNTk0/MTg0ZjAyNTA4NzIy/Y2ZlNGZkMjIyMWIw/YzMzZmVkNi93d3cu/dmlzaHZhc25ld3Mu/Y29tLw",
+          "path": "  › home  › fact check: pm modi and chinese president did shake hands at brics summit in russia; misleading post viral"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/iDK0Q1hzlG5gvdm69pC0vmbE6IKXJGl42YWoEJIl8lw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/dmlzaHZhc25ld3Mu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI0LzEwL2Zha2U2/LTIuanBn",
+          "original": "https://www.vishvasnews.com/wp-content/uploads/2024/10/fake6-2.jpg",
+          "logo": false
+        },
+        "age": "October 29, 2024"
+      },
+      {
+        "title": "Fact-check: Did World leaders ignore PM Modi's handshake?? Here's the reality - DFRAC_ORG",
+        "url": "https://dfrac.org/en/2024/10/24/did-world-leaders-ignore-pm-modis-handshake-heres-the-reality/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "An account with username @TheIncNews posted this video on X and wrote: “Xi Jinping avoided shaking hands with Modi ji – Breaking News · Such insult to Modiji is unbearable. Bhakts, do something. <strong>At least start a war in the media.”</strong>",
+        "page_age": "2024-10-24T07:36:50",
+        "profile": {
+          "name": "DFRAC_ORG",
+          "url": "https://dfrac.org/en/2024/10/24/did-world-leaders-ignore-pm-modis-handshake-heres-the-reality/",
+          "long_name": "dfrac.org",
+          "img": "https://imgs.search.brave.com/60c_JwG2ttyQPExRlq12fuirhAybmF1mmd0S9RgDC3I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWUxZWM5MWZk/ZTJiNDI0MzhhZWU4/YzQ0ZTQwMjQxMGUy/M2FjZmQxZjVlNjdm/ZjYyNTI5YzQwNzY1/ODU5ZjUzNC9kZnJh/Yy5vcmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "dfrac.org",
+          "hostname": "dfrac.org",
+          "favicon": "https://imgs.search.brave.com/60c_JwG2ttyQPExRlq12fuirhAybmF1mmd0S9RgDC3I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWUxZWM5MWZk/ZTJiNDI0MzhhZWU4/YzQ0ZTQwMjQxMGUy/M2FjZmQxZjVlNjdm/ZjYyNTI5YzQwNzY1/ODU5ZjUzNC9kZnJh/Yy5vcmcv",
+          "path": "› en  › 2024  › 10  › 24  › did-world-leaders-ignore-pm-modis-handshake-heres-the-reality"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/djLyudui-8TySlS6VNzG1UYll7Z_ou2W40EDMxA9fCw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kZnJh/Yy5vcmcvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjQvMTAvVVMt/RWxlY3Rpb25zLTIw/MzI0LTEwLnBuZw",
+          "original": "https://dfrac.org/wp-content/uploads/2024/10/US-Elections-20324-10.png",
+          "logo": false
+        },
+        "age": "October 24, 2024"
+      },
+      {
+        "title": "Fact Check: Chinese President Xi Jinping Did Not Avoid Handshake With PM Modi At BRICS Summit | News Mobile",
+        "url": "https://www.newsmobile.in/nm-fact-checker/fact-check-chinese-president-xi-jinping-did-not-avoid-handshake-with-pm-modi-at-brics-summit/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The post is being shared with a caption: “Xi Jinping avoided shaking hands with Modi Ji – Breaking News … <strong>This level of insult to Modi Ji is unbearable. Bhakts, do something. At least start a war in the media.”</strong>",
+        "page_age": "2024-10-27T13:36:48",
+        "profile": {
+          "name": "NewsMobile",
+          "url": "https://www.newsmobile.in/nm-fact-checker/fact-check-chinese-president-xi-jinping-did-not-avoid-handshake-with-pm-modi-at-brics-summit/",
+          "long_name": "newsmobile.in",
+          "img": "https://imgs.search.brave.com/mKugaQIu3azn8rrfxVtlFzfmJLCdK6bbzX6zywmKde4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmQ5NmQwM2Y1/NTk3MzYwNTVkYjA3/YjkzOTc2Y2QyNjM3/YTYxZTM5NjliOGI3/MjNkMWQ0ZmMyYmMz/NGVhMTRmOC93d3cu/bmV3c21vYmlsZS5p/bi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "newsmobile.in",
+          "hostname": "www.newsmobile.in",
+          "favicon": "https://imgs.search.brave.com/mKugaQIu3azn8rrfxVtlFzfmJLCdK6bbzX6zywmKde4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmQ5NmQwM2Y1/NTk3MzYwNTVkYjA3/YjkzOTc2Y2QyNjM3/YTYxZTM5NjliOGI3/MjNkMWQ0ZmMyYmMz/NGVhMTRmOC93d3cu/bmV3c21vYmlsZS5p/bi8",
+          "path": "› nm-fact-checker  › fact-check-chinese-president-xi-jinping-did-not-avoid-handshake-with-pm-modi-at-brics-summit"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/hcIpqn-bAshJ7vdo_pbzdmx_i7yoB0uZvPNYi5bsIIc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bmV3c21vYmlsZS5p/bi93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NC8xMC9TdW5hbmRh/LU5haWstRkMtNTcu/cG5n",
+          "original": "https://www.newsmobile.in/wp-content/uploads/2024/10/Sunanda-Naik-FC-57.png",
+          "logo": false
+        },
+        "age": "October 27, 2024"
+      },
+      {
+        "title": "Fact Check: Videos of Angela Merkel, Xi Jinping ‘avoiding handshake’ with PM Modi are clipped",
+        "url": "https://newsmeter.in/fact-check/videos-of-angela-markel-xi-jinping-avoiding-handshake-with-pm-modi-are-clipped-737941",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Hence, <strong>the claim is false</strong>. Both videos were clipped deliberately to mislead social media users to think that Merkel and Xi Jinping avoided a handshake with PM Modi.",
+        "page_age": "2024-10-25T05:20:17",
+        "profile": {
+          "name": "NewsMeter",
+          "url": "https://newsmeter.in/fact-check/videos-of-angela-markel-xi-jinping-avoiding-handshake-with-pm-modi-are-clipped-737941",
+          "long_name": "newsmeter.in",
+          "img": "https://imgs.search.brave.com/F2oeIuzU-TFcFrPpuR9yValqiqARJWTzQHtB_jmvZ7Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWRmZTdhMzdk/MDc2ZjUwNDlhMzgw/Mzk3YTNhMGJlNzA2/NDhjMTRmNzMxNGZi/Y2YxMzU4Nzg5YTI1/ZDc0ZmMwNC9uZXdz/bWV0ZXIuaW4v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "newsmeter.in",
+          "hostname": "newsmeter.in",
+          "favicon": "https://imgs.search.brave.com/F2oeIuzU-TFcFrPpuR9yValqiqARJWTzQHtB_jmvZ7Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWRmZTdhMzdk/MDc2ZjUwNDlhMzgw/Mzk3YTNhMGJlNzA2/NDhjMTRmNzMxNGZi/Y2YxMzU4Nzg5YTI1/ZDc0ZmMwNC9uZXdz/bWV0ZXIuaW4v",
+          "path": "  › home  › fact check  › fact check english  › fact check: videos of angela merkel, xi jinping ‘avoiding handshake’ with pm modi are clipped"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/oqaKhD_d32g4BsVp1GtI54tg9iBlubZJnTZbui8bk7o/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/bWV0ZXIuaW4vaC11/cGxvYWQvMjAyNC8x/MC8yNC8zODUzMTMt/dW50aXRsZWQtZGVz/aWduLTcxLndlYnA",
+          "original": "https://newsmeter.in/h-upload/2024/10/24/385313-untitled-design-71.webp",
+          "logo": false
+        },
+        "age": "October 25, 2024"
+      },
+      {
+        "title": "Fact-Check | Did Xi Jinping & Angela Merkel Refuse To Shake Hands With PM Modi? No!",
+        "url": "https://www.thequint.com/news/webqoof/angela-merkel-xi-jinping-avoided-handshakes-pm-modi-viral-video-fact-check",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Both these videos have been clipped to mislead the viewers.",
+        "page_age": "2024-10-26T06:04:20",
+        "profile": {
+          "name": "TheQuint",
+          "url": "https://www.thequint.com/news/webqoof/angela-merkel-xi-jinping-avoided-handshakes-pm-modi-viral-video-fact-check",
+          "long_name": "thequint.com",
+          "img": "https://imgs.search.brave.com/Wzd9ozElk5V8CgU9kbDcBKImqCyUM_5cZ6kt1oNRdxU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjc3YmI5YzU3/ZmRjZmViMGQ4OTZj/ZmNlMGQ1OGE1NDlh/NzdjMTU2NTkzNTgz/YzEzYmMxN2UzYzMy/Njc2NjllMS93d3cu/dGhlcXVpbnQuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "thequint.com",
+          "hostname": "www.thequint.com",
+          "favicon": "https://imgs.search.brave.com/Wzd9ozElk5V8CgU9kbDcBKImqCyUM_5cZ6kt1oNRdxU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjc3YmI5YzU3/ZmRjZmViMGQ4OTZj/ZmNlMGQ1OGE1NDlh/NzdjMTU2NTkzNTgz/YzEzYmMxN2UzYzMy/Njc2NjllMS93d3cu/dGhlcXVpbnQuY29t/Lw",
+          "path": "  › home  › news  › webqoof"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/b_Ygl4zef1qXM8yu_HoiDtMOHIApTppF5qXHrU_HcK4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL3RoZXF1aW50/LzIwMjQtMTAtMjYv/NXM4dzMxY3MvQWJo/aXNoZWtXUTMtMjAy/NC0xMC0yNlQxMDAx/NTcuNTc1LmpwZz8g/ICAgICAgICAgICAg/IGF1dG89Zm9ybWF0/LGNvbXByZXNzJmZt/dD13ZWJwJmZvcm1h/dD13ZWJwJnc9MTIw/MCZoPTkwMCZkcHI9/MS4w",
+          "original": "https://media.assettype.com/thequint/2024-10-26/5s8w31cs/AbhishekWQ3-2024-10-26T100157.575.jpg?              auto=format,compress&fmt=webp&format=webp&w=1200&h=900&dpr=1.0",
+          "logo": false
+        },
+        "age": "October 26, 2024"
+      },
+      {
+        "title": "Clips misleadingly edited to make it seem world leaders refused handshake with India PM Modi | Fact Check",
+        "url": "https://factcheck.afp.com/doc.afp.com.36L66ZZ",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "As Indian Prime Minister Narendra Modi attended high-profile diplomatic meetings in October 2024, <strong>a misleadingly edited video collage emerged online in posts that claimed it showed clips of world leaders rejecting Modi&#x27;s handshake</strong>. The clips -- showing Modi with former German chancellor Angela ...",
+        "page_age": "2024-11-08T07:58:05",
+        "profile": {
+          "name": "AFP Fact Check",
+          "url": "https://factcheck.afp.com/doc.afp.com.36L66ZZ",
+          "long_name": "factcheck.afp.com",
+          "img": "https://imgs.search.brave.com/S4hiU2qm8EOMDyJrYjB3tbjr79P8QTiMbysfN8EtTl0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2E0YTFkNzU2/ODE3ZThmMjA2Y2Yy/ZGEwNGVlZThhNmQx/Y2YxNTFkOGY5MDhk/NDUwZGYxZDljZGU2/MWU1ZjBkNS9mYWN0/Y2hlY2suYWZwLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "factcheck.afp.com",
+          "hostname": "factcheck.afp.com",
+          "favicon": "https://imgs.search.brave.com/S4hiU2qm8EOMDyJrYjB3tbjr79P8QTiMbysfN8EtTl0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2E0YTFkNzU2/ODE3ZThmMjA2Y2Yy/ZGEwNGVlZThhNmQx/Y2YxNTFkOGY5MDhk/NDUwZGYxZDljZGU2/MWU1ZjBkNS9mYWN0/Y2hlY2suYWZwLmNv/bS8",
+          "path": "› doc.afp.com.36L66ZZ"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ybGjMjX-V08FD9Wte3tTo8MCunDvOy5vEqBIGNAdH2g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mYWN0/Y2hlY2suYWZwLmNv/bS9zaXRlcy9kZWZh/dWx0L2ZpbGVzL21l/ZGlhcy9mYWN0Y2hl/Y2tpbmcvZzIvMjAy/NC0xMS9hZjVkNTk5/ZjgwZjYzMWU1ZDM2/NGU3ODRmZTVlMWMx/NjA5NGYwNGNhLmpw/ZWc",
+          "original": "https://factcheck.afp.com/sites/default/files/medias/factchecking/g2/2024-11/af5d599f80f631e5d364e784fe5e1c16094f04ca.jpeg",
+          "logo": false
+        },
+        "age": "November 8, 2024"
+      },
+      {
+        "title": "Is Xi Jinping Trying to Bully Narendra Modi? | American Enterprise Institute - AEI",
+        "url": "https://www.aei.org/foreign-and-defense-policy/asia/is-xi-jinping-trying-to-bully-narendra-modi/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "On the face of it, President <strong>Xi</strong> <strong>Jinping</strong> is in the midst of a charm offensive in India. Writing in The Hindu, India’s most reliably pro-China newspaper, <strong>Xi</strong> reminisces about his first visit to “this ancient and magic land,” 17 years ago, and lays out a vision of shared prosperity between ...",
+        "page_age": "2022-05-25T23:22:06",
+        "profile": {
+          "name": "AEI",
+          "url": "https://www.aei.org/foreign-and-defense-policy/asia/is-xi-jinping-trying-to-bully-narendra-modi/",
+          "long_name": "aei.org",
+          "img": "https://imgs.search.brave.com/pFyWY2rgkKFOcf51BU56neDlp6YsspkYNSwgj43Y1zc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODIwZDQxNDI2/NDZmOTYzODJjYzA5/YmVkYzliMDVmNWE5/MTk1OWExOTA2NmNh/MTU5ZWQ5NDAxNWI4/YzUwNDQyZS93d3cu/YWVpLm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "aei.org",
+          "hostname": "www.aei.org",
+          "favicon": "https://imgs.search.brave.com/pFyWY2rgkKFOcf51BU56neDlp6YsspkYNSwgj43Y1zc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODIwZDQxNDI2/NDZmOTYzODJjYzA5/YmVkYzliMDVmNWE5/MTk1OWExOTA2NmNh/MTU5ZWQ5NDAxNWI4/YzUwNDQyZS93d3cu/YWVpLm9yZy8",
+          "path": "  › home  › is xi jinping trying to bully narendra modi?"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/bh1sY35A8Pe6E3O3yFC8LsZe_rGJf2l7XTEtY_qxWTY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWVpLm9yZy93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxNC8wOS9t/b2RpX3hpX2luZGlh/X2NoaW5hX3NhYmFy/bWF0aV9tZWV0aW5n/XzA5MTcxNC5qcGc",
+          "original": "https://www.aei.org/wp-content/uploads/2014/09/modi_xi_india_china_sabarmati_meeting_091714.jpg",
+          "logo": false
+        },
+        "age": "May 25, 2022"
+      },
+      {
+        "title": "Clipped videos are being shared claiming that Angela Merkel and Xi Jinping refused to shake hands with PM Modi - FACTLY",
+        "url": "https://factly.in/clipped-videos-are-being-shared-claiming-that-angela-merkel-and-xi-jinping-refused-to-shake-hands-with-pm-modi/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Multiple media reports highlighted the video showing Xi Jinping shaking hands with PM Modi. Hence, <strong>the claim made in the post is FALSE</strong>. On performing a reverse image search of the keyframes from the viral clip featuring PM Modi and Xi Jinping, we discovered that the video was recorded during ...",
+        "page_age": "2024-10-30T12:31:36",
+        "profile": {
+          "name": "FACTLY",
+          "url": "https://factly.in/clipped-videos-are-being-shared-claiming-that-angela-merkel-and-xi-jinping-refused-to-shake-hands-with-pm-modi/",
+          "long_name": "factly.in",
+          "img": "https://imgs.search.brave.com/pBhb37Jeriz1FsklOAjRQQDSIIn6ZhuMenuEX5Fm-dw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2Y5OTdkYjA5/NjRhOTlhMmU4ZWQ5/YzM3MmQ4NzM1Yjg4/MDZlNzM0N2Y4NjRi/OTAyNWRhY2QyM2Y3/YjBhMzA3Zi9mYWN0/bHkuaW4v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "factly.in",
+          "hostname": "factly.in",
+          "favicon": "https://imgs.search.brave.com/pBhb37Jeriz1FsklOAjRQQDSIIn6ZhuMenuEX5Fm-dw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2Y5OTdkYjA5/NjRhOTlhMmU4ZWQ5/YzM3MmQ4NzM1Yjg4/MDZlNzM0N2Y4NjRi/OTAyNWRhY2QyM2Y3/YjBhMzA3Zi9mYWN0/bHkuaW4v",
+          "path": "› clipped-videos-are-being-shared-claiming-that-angela-merkel-and-xi-jinping-refused-to-shake-hands-with-pm-modi"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/uiGjkU5hMuJ116fzHu8QQn7In1_SCuuCmymGHT72MEQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mYWN0/bHkuaW4vd3AtY29u/dGVudC91cGxvYWRz/Ly8yMDI0LzEwL1hp/LUppbi1QaW5nLWln/bm9yZWQtUE0tTW9k/aS1hdC10aGUtQlJJ/Q1Mtc3VtbWl0LVRo/dW1ibmFpbC5wcHR4/LTcwMngzMzYucG5n",
+          "original": "https://factly.in/wp-content/uploads//2024/10/Xi-Jin-Ping-ignored-PM-Modi-at-the-BRICS-summit-Thumbnail.pptx-702x336.png",
+          "logo": false
+        },
+        "age": "October 30, 2024"
+      },
+      {
+        "title": "Clip misleadingly edited to make it appear world leaders refused to shake hands with India’s Prime Minister Modi – Livingwordchurchlorain",
+        "url": "https://www.livingwordchurchlorain.org/11/06/2024/lusim/ytLx137872Vn.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Clip misleadingly edited to make ... to shake hands with India’s Prime Minister Modi ... “Xi Jinping avoided shaking hands with Modi – Breaking News,” <strong>read part of a post in Hindi divided by X on October 23, 2024</strong>. The post – viewed more than 100,000 times – featured a video collage ...",
+        "profile": {
+          "name": "Livingwordchurchlorain",
+          "url": "https://www.livingwordchurchlorain.org/11/06/2024/lusim/ytLx137872Vn.html",
+          "long_name": "livingwordchurchlorain.org",
+          "img": "https://imgs.search.brave.com/83kfqpAd24VI2mKqmn6tBz02KDVM4mN1H84s3EFxhas/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWE3MjQzYTll/MWNhOTM5ZDg1NjY5/MzJmMDZmOTQ5Mzgw/OWNkNGQ3MzBjZDEy/OTlkMTM4MjMyZDdh/ZDhlNWFiYy93d3cu/bGl2aW5nd29yZGNo/dXJjaGxvcmFpbi5v/cmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "livingwordchurchlorain.org",
+          "hostname": "www.livingwordchurchlorain.org",
+          "favicon": "https://imgs.search.brave.com/83kfqpAd24VI2mKqmn6tBz02KDVM4mN1H84s3EFxhas/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWE3MjQzYTll/MWNhOTM5ZDg1NjY5/MzJmMDZmOTQ5Mzgw/OWNkNGQ3MzBjZDEy/OTlkMTM4MjMyZDdh/ZDhlNWFiYy93d3cu/bGl2aW5nd29yZGNo/dXJjaGxvcmFpbi5v/cmcv",
+          "path": "› 11  › 06  › 2024  › lusim  › ytLx137872Vn.html"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/0dNDBNhPWz4VMfXe0POBaMTODPa4V97_aX_iOMRDqD4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pMy53/cC5jb20vZmFjdGNo/ZWNrLmFmcC5jb20v/c2l0ZXMvZGVmYXVs/dC9maWxlcy9tZWRp/YXMvZmFjdGNoZWNr/aW5nL2cyLzIwMjQt/MTEvYWY1ZDU5OWY4/MGY2MzFlNWQzNjRl/Nzg0ZmU1ZTFjMTYw/OTRmMDRjYS5qcGVn/P3NzbD0x",
+          "original": "https://i3.wp.com/factcheck.afp.com/sites/default/files/medias/factchecking/g2/2024-11/af5d599f80f631e5d364e784fe5e1c16094f04ca.jpeg?ssl=1",
+          "logo": false
+        }
+      },
+      {
+        "title": "Xi Jinping: A first since Galwan: PM Narendra Modi and Chinese President Xi Jinping shake hands, but no bilateral planned | India News - Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/a-first-since-galwan-india-pm-narendra-modi-and-chinese-president-xi-jinping-shake-hands-but-no-bilateral-planned/articleshow/95542529.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "India <strong>News</strong>: PM Narendra <strong>Modi</strong> and Chinese President <strong>Xi</strong> <strong>Jinping</strong>, while attending the G20 dinner hosted by Indonesian President Joko Widodo on Tuesday, &quot;exchanged co",
+        "page_age": "2022-11-16T03:04:00",
+        "profile": {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/a-first-since-galwan-india-pm-narendra-modi-and-chinese-president-xi-jinping-shake-hands-but-no-bilateral-planned/articleshow/95542529.cms",
+          "long_name": "timesofindia.indiatimes.com",
+          "img": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timesofindia.indiatimes.com",
+          "hostname": "timesofindia.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+          "path": "  › news  › india news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/avut_GCqye07MAm-YOTSXapC9Xk-8pypxSY2_M83tvo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9yZXNp/emVtb2RlLTQsd2lk/dGgtMTI4MCxoZWln/aHQtNzIwLG1zaWQt/OTU1NDI1MzQvOTU1/NDI1MzQuanBn",
+          "original": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-95542534/95542534.jpg",
+          "logo": false
+        },
+        "age": "November 16, 2022"
+      },
+      {
+        "title": "What PM Narendra Modi, China's Xi Jinping Spoke About After Shaking Hands At 2022 G20 Dinner",
+        "url": "https://www.ndtv.com/india-news/what-pm-narendra-modi-china-xi-jinping-spoke-about-after-shaking-hands-at-2022-g20-dinner-4246136",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Following the brief interaction between PM Modi and Xi in Bali, the MEA had said they exchanged courtesies</strong>. It was their first such exchanges in public view since the India-China border standoff began in May 2020. Mr Doval met Wang on the sidelines of the BRICS NSAs&#x27; meeting in Johannesburg ...",
+        "profile": {
+          "name": "NDTV",
+          "url": "https://www.ndtv.com/india-news/what-pm-narendra-modi-china-xi-jinping-spoke-about-after-shaking-hands-at-2022-g20-dinner-4246136",
+          "long_name": "ndtv.com",
+          "img": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ndtv.com",
+          "hostname": "www.ndtv.com",
+          "favicon": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v",
+          "path": "  › home  › india news  › what pm modi, xi jinping spoke about after shaking hands at 2022 g20 dinner"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/a9JHicDYAW_YGGhhJGaKDHXXjq2LWGCcGOEeyK6y1RI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjMtMDcvdjNrYnV1/ZjhfcG0tbW9kaS14/aS1qaW5waW5nLWJh/bGktYW5pXzYyNXgz/MDBfMjdfSnVseV8y/My5qcGc",
+          "original": "https://c.ndtvimg.com/2023-07/v3kbuuf8_pm-modi-xi-jinping-bali-ani_625x300_27_July_23.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "PM Modi, Xi Jinping shake hands, greet each other at BRICS Summit. Watch | Latest News India - Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/pm-modi-xi-jinping-engage-in-brief-interaction-at-brics-summit-watch-101692866275561.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Prime Minister Narendra <strong>Modi</strong> and Chinese president <strong>Xi</strong> <strong>Jinping</strong> engaged in a brief conversation at the BRICS Summit in Johannesburg.",
+        "page_age": "2023-08-24T09:36:17",
+        "profile": {
+          "name": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/pm-modi-xi-jinping-engage-in-brief-interaction-at-brics-summit-watch-101692866275561.html",
+          "long_name": "hindustantimes.com",
+          "img": "https://imgs.search.brave.com/6oiSajNB7C3FmHradE3V3z23td9GnbX-OZbVqJO9gzY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY1MjVjODdh/ZjU0MTA4Mjc4NzA0/ODM1MjllODZmNGMy/NTViMTUyNjk2ZTU1/MGZiNDRhZjI1NzRh/N2U2NTA0YS93d3cu/aGluZHVzdGFudGlt/ZXMuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "hindustantimes.com",
+          "hostname": "www.hindustantimes.com",
+          "favicon": "https://imgs.search.brave.com/6oiSajNB7C3FmHradE3V3z23td9GnbX-OZbVqJO9gzY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY1MjVjODdh/ZjU0MTA4Mjc4NzA0/ODM1MjllODZmNGMy/NTViMTUyNjk2ZTU1/MGZiNDRhZjI1NzRh/N2U2NTA0YS93d3cu/aGluZHVzdGFudGlt/ZXMuY29tLw",
+          "path": "  › news  › india news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/GFTNgM_9gs99x9bN0vEvXrYorplUMQ4hmki1Q7mAtQo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aGluZHVzdGFudGlt/ZXMuY29tL2h0LWlt/Zy9pbWcvMjAyMy8w/OC8yNC8xNjAweDkw/MC9TQUZSSUNBLURJ/UExPTUFDWS1QT0xJ/VElDUy1CUklDUy0z/M18xNjkyODY5NTc3/NTY3XzE2OTI4Njk2/MDM3ODQuanBn",
+          "original": "https://www.hindustantimes.com/ht-img/img/2023/08/24/1600x900/SAFRICA-DIPLOMACY-POLITICS-BRICS-33_1692869577567_1692869603784.jpg",
+          "logo": false
+        },
+        "age": "August 24, 2023"
+      },
+      {
+        "title": "Xi Jinping’s meeting with Narendra Modi signals China-India thaw",
+        "url": "https://www.ft.com/content/8e401438-5c6b-401e-b49b-e88dff54e40e",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Formal encounter at Brics summit is leaders’ first in five years and follows deal on patrols along disputed border",
+        "page_age": "2024-10-23T14:51:45",
+        "profile": {
+          "name": "Financial Times",
+          "url": "https://www.ft.com/content/8e401438-5c6b-401e-b49b-e88dff54e40e",
+          "long_name": "ft.com",
+          "img": "https://imgs.search.brave.com/Kz0mKQddmSRn1X1JVDOwmNzzCLgyRur5xQiMqkFSsV4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGI2MTM2NDI3/MjEwOWIyMjNkNjk3/MzZiOWQyM2IxNzdj/MTY4MjQ1YjhkOTU3/NDhmMmYzYTcxNTRl/ZjM2N2I1ZS93d3cu/ZnQuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ft.com",
+          "hostname": "www.ft.com",
+          "favicon": "https://imgs.search.brave.com/Kz0mKQddmSRn1X1JVDOwmNzzCLgyRur5xQiMqkFSsV4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGI2MTM2NDI3/MjEwOWIyMjNkNjk3/MzZiOWQyM2IxNzdj/MTY4MjQ1YjhkOTU3/NDhmMmYzYTcxNTRl/ZjM2N2I1ZS93d3cu/ZnQuY29tLw",
+          "path": "› content  › 8e401438-5c6b-401e-b49b-e88dff54e40e"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/HNMJWNDr0XMguEUszxsGkjs9Uv4LQjhISh5QTB4i2PQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kMWUw/MGVrNGViYWJtcy5j/bG91ZGZyb250Lm5l/dC9wcm9kdWN0aW9u/LzgzZjYwZWI1LWM2/NzUtNGEwNS05Y2Nm/LTU0MDI5YzFiOTc1/My5qcGc",
+          "original": "https://d1e00ek4ebabms.cloudfront.net/production/83f60eb5-c675-4a05-9ccf-54029c1b9753.jpg",
+          "logo": false
+        },
+        "age": "October 23, 2024"
+      },
+      {
+        "title": "Modi hath no fury like a Jinping scorned - India Today",
+        "url": "https://www.indiatoday.in/so-sorry/video/xi-jinping-doklam-standoff-india-china-pla-narendra-modi-987083-2017-08-17",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The Doklam standoff between Indian Army and Chinese People&#x27;s Liberation Army <strong>started</strong> in June. In July, a CAG (Comptroller and Auditor General) report, tabled in Parliament, said that the Indian Army does not have ammunition to fight <strong>a</strong> <strong>war</strong> for more than 10 days.",
+        "page_age": "2017-08-17T15:33:48",
+        "profile": {
+          "name": "India Today",
+          "url": "https://www.indiatoday.in/so-sorry/video/xi-jinping-doklam-standoff-india-china-pla-narendra-modi-987083-2017-08-17",
+          "long_name": "indiatoday.in",
+          "img": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "indiatoday.in",
+          "hostname": "www.indiatoday.in",
+          "favicon": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8",
+          "path": "  › news  › so sorry  › video"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/K8Fuv0zGjCofSZtyQ9tZIhKOASr8VJiFqZ2MYqfdzJ0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ha20t/aW1nLWEtaW4udG9z/c2h1Yi5jb20vaW5k/aWF0b2RheS9pbWFn/ZXMvdmlkZW8vMjAx/NzA4L3NvLXNvcnJ5/X3ZpZGVvXzY0N18w/ODE3MTcwNzI5MDYu/anBnP1ZlcnNpb25J/ZD1LUzE3T1JNc1JX/Zm1kUTFEWV91Q0ZU/cnN4VFVSS0NPbz9z/aXplPTY0NzozNjM",
+          "original": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/201708/so-sorry_video_647_081717072906.jpg?VersionId=KS17ORMsRWfmdQ1DY_uCFTrsxTURKCOo?size=647:363",
+          "logo": false
+        },
+        "age": "August 17, 2017"
+      },
+      {
+        "title": "PM Modi, Xi Jinping Shake Hands, Greet Each Other At BRICS",
+        "url": "https://www.ndtv.com/india-news/pm-modi-xi-jinping-shake-hands-greet-each-other-at-brics-4325263",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Prime Minister Narendra <strong>Modi</strong> and Chinese President <strong>Xi</strong> <strong>Jinping</strong> were seen exchanging a handshake and in brief conversation with each other on Thursday at the BRICS Summit in the South African capital city of Johannesburg.",
+        "profile": {
+          "name": "NDTV",
+          "url": "https://www.ndtv.com/india-news/pm-modi-xi-jinping-shake-hands-greet-each-other-at-brics-4325263",
+          "long_name": "ndtv.com",
+          "img": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ndtv.com",
+          "hostname": "www.ndtv.com",
+          "favicon": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v",
+          "path": "  › home  › india news  › pm modi, xi jinping shake hands, greet each other at brics"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/xT7Beg_iWhmiEczfcotyIK_m5OeLF3n4K7dnn9aKvbo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjMtMDgvMTJhcmt0/bThfbW9kaS14aS0x/MjAwXzYyNXgzMDBf/MjRfQXVndXN0XzIz/LmpwZw",
+          "original": "https://c.ndtvimg.com/2023-08/12arktm8_modi-xi-1200_625x300_24_August_23.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "'Historic handshake': PM Modi holds meeting with Chinese President Xi Jinping at BRICS Summit - YouTube",
+        "url": "https://www.youtube.com/watch?v=RhLJmh00BC8",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Prime Minister Narendra <strong>Modi</strong> held a bilateral meeting with Chinese President <strong>Xi</strong> <strong>Jinping</strong> in the Russian city of Kazan on the sidelines of the BRICS Summit. Th...",
+        "page_age": "2024-10-23T13:20:27",
+        "profile": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/watch?v=RhLJmh00BC8",
+          "long_name": "youtube.com",
+          "img": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "  › ani news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/EyFDVA-XGh0iBOn5-wTLzC852Kl6O_hA1eTwZ7Uq7rU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9S/aExKbWgwMEJDOC9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/RhLJmh00BC8/maxresdefault.jpg",
+          "logo": false
+        },
+        "age": "October 23, 2024"
+      },
+      {
+        "title": "PM Modi and Xi Jinping shake hands in Kazan after India-China LAC agreement | WATCH | World News – India TV",
+        "url": "https://www.indiatvnews.com/news/world/pm-modi-and-xi-jinping-shake-hands-in-kazan-after-india-china-lac-agreement-watch-video-latest-updates-2024-10-23-958531",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The first visuals have surfaced of Prime Minister Narendra <strong>Modi</strong> meeting with Chinese President <strong>Xi</strong> <strong>Jinping</strong> on the sidelines of the BRICS Summit in Russia&#x27;s Kazan on Wednesday.",
+        "page_age": "2024-10-23T13:32:12",
+        "profile": {
+          "name": "India TV News",
+          "url": "https://www.indiatvnews.com/news/world/pm-modi-and-xi-jinping-shake-hands-in-kazan-after-india-china-lac-agreement-watch-video-latest-updates-2024-10-23-958531",
+          "long_name": "indiatvnews.com",
+          "img": "https://imgs.search.brave.com/PLXaiSgik56vjJO2UpLs6UMI60lSX7_zRWLMzPhMQr8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTYyMTRkOGVl/ZTE5MzQzY2ZkYjE0/NWQ3NmVkNmI4OTk4/MmU5MDJiNWNmMjcz/MmQ1OGI0MGNmMGQ1/NjRiMzFhMS93d3cu/aW5kaWF0dm5ld3Mu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "indiatvnews.com",
+          "hostname": "www.indiatvnews.com",
+          "favicon": "https://imgs.search.brave.com/PLXaiSgik56vjJO2UpLs6UMI60lSX7_zRWLMzPhMQr8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTYyMTRkOGVl/ZTE5MzQzY2ZkYjE0/NWQ3NmVkNmI4OTk4/MmU5MDJiNWNmMjcz/MmQ1OGI0MGNmMGQ1/NjRiMzFhMS93d3cu/aW5kaWF0dm5ld3Mu/Y29tLw",
+          "path": "  › world  › pm modi and xi jinping shake hands in kazan after india-china lac agreement | watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/BYiF-B3JjUrTqP2Rh0GrbSpe1SV6Z_wo_IjncROv1-k/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXNp/emUuaW5kaWF0dm5l/d3MuY29tL2VuL2Nl/bnRlcmVkL25ld2J1/Y2tldC8xMjAwXzY3/NS8yMDI0LzEwL3Bt/LW1vZGktbWVldHMt/eGktamlucGluZy0x/NzI5Njg5OTk3Lndl/YnA",
+          "original": "https://resize.indiatvnews.com/en/centered/newbucket/1200_675/2024/10/pm-modi-meets-xi-jinping-1729689997.webp",
+          "logo": false
+        },
+        "age": "October 23, 2024"
+      },
+      {
+        "title": "LIVE | PM Modi, Xi Jinping Shake Hands, Hold Bilateral After ...",
+        "url": "https://www.youtube.com/watch?v=rtiOWlgrF9Q",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "profile": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/watch?v=rtiOWlgrF9Q",
+          "long_name": "youtube.com",
+          "img": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        }
+      },
+      {
+        "title": "India-China Agree For 'Stable Ties'; Modi-Xi Shake Hands ...",
+        "url": "https://www.youtube.com/watch?v=G-MIgOjxHzA",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "profile": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/watch?v=G-MIgOjxHzA",
+          "long_name": "youtube.com",
+          "img": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        }
+      },
+      {
+        "title": "Modi, Xi Jinping and Six Years of Battle for the Psychological High Ground",
+        "url": "https://m.thewire.in/article/diplomacy/modi-xi-jinping-six-years-summits-ladakh?utm=authorpage",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The optimism around the Chinese president&#x27;s visit in 2014 was quite evidently misplaced. <strong>Modi</strong>&#x27;s weakness at every moment of tension has only whetted <strong>Xi</strong>&#x27;s appetite further.",
+        "page_age": "2020-09-17T14:14:12",
+        "profile": {
+          "name": "The Wire",
+          "url": "https://m.thewire.in/article/diplomacy/modi-xi-jinping-six-years-summits-ladakh?utm=authorpage",
+          "long_name": "m.thewire.in",
+          "img": "https://imgs.search.brave.com/xPQ_UCjTij3_Lr5esIAd2Rxv8-RYtR31rPv4gsvMEoI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmE2ZjJjYjRk/YzE2ZDZmMDhjNTI0/NjQ4MDQyZjIyYmNl/NTNjZDVhZTE1ODll/YjljMDk3NDkwOTdk/MDkyZDQ1Ni9tLnRo/ZXdpcmUuaW4v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "m.thewire.in",
+          "hostname": "m.thewire.in",
+          "favicon": "https://imgs.search.brave.com/xPQ_UCjTij3_Lr5esIAd2Rxv8-RYtR31rPv4gsvMEoI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmE2ZjJjYjRk/YzE2ZDZmMDhjNTI0/NjQ4MDQyZjIyYmNl/NTNjZDVhZTE1ODll/YjljMDk3NDkwOTdk/MDkyZDQ1Ni9tLnRo/ZXdpcmUuaW4v",
+          "path": "› article  › diplomacy  › modi-xi-jinping-six-years-summits-ladakh"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/rpivn2_3bbBcgwkAPI3m2_69M1jodQHFID7fji4OPqE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tYy13/ZWJwY2FjaGUucmVh/ZHdoZXJlLmluL2Rp/c2NvdmVyLnBocD9p/bj1odHRwczovL21j/bXNjYWNoZS5lcGFw/ci5pbi9wb3N0X2lt/YWdlcy93ZWJzaXRl/XzM1MC9wb3N0XzE4/MjQyMTM5L2Z1bGwu/anBn",
+          "original": "https://mc-webpcache.readwhere.in/discover.php?in=https://mcmscache.epapr.in/post_images/website_350/post_18242139/full.jpg",
+          "logo": false
+        },
+        "age": "September 17, 2020"
+      }
+    ],
+    "family_friendly": true
+  }
+}

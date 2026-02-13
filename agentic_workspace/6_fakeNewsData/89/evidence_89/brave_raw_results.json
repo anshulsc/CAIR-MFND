@@ -1,0 +1,679 @@
+{
+  "query": {
+    "original": "Donald Trump says if i win i will try my best to get imran khan out of jail As soon As possible he is my friend i love him",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Fact check: Viral clip of Trump promising to free Imran Khan after US elections win is fake - Pakistan - DAWN.COM",
+        "url": "https://www.dawn.com/news/1870474",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "On <strong>November 5,</strong> several users on TikTok shared a video of Donald Trump saying that if he wins the US elections, he’ll try his best to get Imran Khan out of jail.",
+        "page_age": "2024-11-06T13:33:35",
+        "profile": {
+          "name": "Dawn",
+          "url": "https://www.dawn.com/news/1870474",
+          "long_name": "dawn.com",
+          "img": "https://imgs.search.brave.com/3OMmcA3q_QctSDGuR0VgU7sog7fOTyPoqOt1FEk0c-0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGE3NGUxYjg2/ZWZmMDZmZjkwZDA1/YzNlYTQwMjM0NTVl/YjgxMDJjOTgwZGI5/MDIyMzc5NDM2Nzcw/ZGJmYTBhNi93d3cu/ZGF3bi5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "dawn.com",
+          "hostname": "www.dawn.com",
+          "favicon": "https://imgs.search.brave.com/3OMmcA3q_QctSDGuR0VgU7sog7fOTyPoqOt1FEk0c-0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGE3NGUxYjg2/ZWZmMDZmZjkwZDA1/YzNlYTQwMjM0NTVl/YjgxMDJjOTgwZGI5/MDIyMzc5NDM2Nzcw/ZGJmYTBhNi93d3cu/ZGF3bi5jb20v",
+          "path": "  › pakistan"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lzg95cW54R-td4o21x7a4D3-h2ccEPKsKqkK7peFwfs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmRh/d24uY29tL3ByaW1h/cnkvMjAyNC8xMS8w/NjE2MDAyNzU3ODAw/MjguanBnP3I9MDkx/MTAz",
+          "original": "https://i.dawn.com/primary/2024/11/061600275780028.jpg?r=091103",
+          "logo": false
+        },
+        "age": "November 6, 2024"
+      },
+      {
+        "title": "Fact Check: This video of Trump promising to get Imran Khan out of jail is a DEEPFAKE - India Today",
+        "url": "https://www.indiatoday.in/fact-check/story/donald-trump-pakistan-pm-imran-khan-out-of-jail-deepfake-video-us-president-2629371-2024-11-06",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "India Today Fact Check found that the viral video was made using a 2017 interview with NBC News.",
+        "page_age": "2024-11-06T17:34:44",
+        "profile": {
+          "name": "India Today",
+          "url": "https://www.indiatoday.in/fact-check/story/donald-trump-pakistan-pm-imran-khan-out-of-jail-deepfake-video-us-president-2629371-2024-11-06",
+          "long_name": "indiatoday.in",
+          "img": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "indiatoday.in",
+          "hostname": "www.indiatoday.in",
+          "favicon": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8",
+          "path": "  › news  › fact check  › this video of donald trump promising to get imran khan out of jail is a deepfake"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/3SkN6v-wMF7pIMqifs9p80Es85USLX-45kiBxKoRuV4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ha20t/aW1nLWEtaW4udG9z/c2h1Yi5jb20vaW5k/aWF0b2RheS9pbWFn/ZXMvc3RvcnkvMjAy/NDExL3RydW1wLWRl/ZXBmYWtlLTA2NTQx/NzEwMS0xNng5XzAu/anBnP1ZlcnNpb25J/ZD1RRm1yN3RCY29S/bUVhLm9Id0NvcktC/cHlQWVBidVlJQT9z/aXplPTEyODA6NzIw",
+          "original": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202411/trump-deepfake-065417101-16x9_0.jpg?VersionId=QFmr7tBcoRmEa.oHwCorKBpyPYPbuYIA?size=1280:720",
+          "logo": false
+        },
+        "age": "November 6, 2024"
+      },
+      {
+        "title": "Fact-Check: Did Trump Vouch to Get Imran Khan Out of Jail If He Won? No, Video Is Altered!",
+        "url": "https://www.thequint.com/news/webqoof/altered-video-of-donald-trump-vouching-to-get-imran-khan-out-of-jail-fact-check",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Did Trump say this?: <strong>No, the claim is false as the video is a altered</strong>. The original video is from 2017 and shows Trump&#x27;s interview with the NBC news. ... How did we find out?: At first, we noticed the lip movement in the video which did not match with the alleged audio of Trump supporting Imran ...",
+        "page_age": "2024-04-02T05:14:08",
+        "profile": {
+          "name": "TheQuint",
+          "url": "https://www.thequint.com/news/webqoof/altered-video-of-donald-trump-vouching-to-get-imran-khan-out-of-jail-fact-check",
+          "long_name": "thequint.com",
+          "img": "https://imgs.search.brave.com/Wzd9ozElk5V8CgU9kbDcBKImqCyUM_5cZ6kt1oNRdxU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjc3YmI5YzU3/ZmRjZmViMGQ4OTZj/ZmNlMGQ1OGE1NDlh/NzdjMTU2NTkzNTgz/YzEzYmMxN2UzYzMy/Njc2NjllMS93d3cu/dGhlcXVpbnQuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "thequint.com",
+          "hostname": "www.thequint.com",
+          "favicon": "https://imgs.search.brave.com/Wzd9ozElk5V8CgU9kbDcBKImqCyUM_5cZ6kt1oNRdxU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjc3YmI5YzU3/ZmRjZmViMGQ4OTZj/ZmNlMGQ1OGE1NDlh/NzdjMTU2NTkzNTgz/YzEzYmMxN2UzYzMy/Njc2NjllMS93d3cu/dGhlcXVpbnQuY29t/Lw",
+          "path": "  › home  › news  › webqoof"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/fz_LyJaDW6lgzNKSrctucSJ3X3elt5uv1Z5xjJQflPk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL3RoZXF1aW50/LzIwMjQtMDQvMjEy/OTg5NTUtYjM1Ny00/MzVjLThjMWEtZjAx/NTkyYWI0N2U5L0tI/VVNISV9fX1dRX05F/Vy5qcGc_ICAgICAg/ICAgICAgICBhdXRv/PWZvcm1hdCxjb21w/cmVzcyZmbXQ9d2Vi/cCZmb3JtYXQ9d2Vi/cCZ3PTEyMDAmaD05/MDAmZHByPTEuMA",
+          "original": "https://media.assettype.com/thequint/2024-04/21298955-b357-435c-8c1a-f01592ab47e9/KHUSHI___WQ_NEW.jpg?              auto=format,compress&fmt=webp&format=webp&w=1200&h=900&dpr=1.0",
+          "logo": false
+        },
+        "age": "April 2, 2024"
+      },
+      {
+        "title": "Fact Check: Viral Video Of Donald Trump Promising To Free Imran Khan From Jail Is Doctored | News Mobile",
+        "url": "https://www.newsmobile.in/nm-fact-checker/fact-check-viral-video-of-trump-promising-to-free-imran-khan-from-jail-is-fabricated/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Following Donald Trump’s victory over Kamala Harris in the 2024 U.S. presidential election, <strong>a video has gone viral, showing Trump allegedly promising to release his friend and former Prime Minister of Pakistan, Imran Khan, from jail.</strong> In the video, Trump can be heard saying, “Hello my Pakistani ...",
+        "page_age": "2024-11-10T13:44:39",
+        "profile": {
+          "name": "NewsMobile",
+          "url": "https://www.newsmobile.in/nm-fact-checker/fact-check-viral-video-of-trump-promising-to-free-imran-khan-from-jail-is-fabricated/",
+          "long_name": "newsmobile.in",
+          "img": "https://imgs.search.brave.com/mKugaQIu3azn8rrfxVtlFzfmJLCdK6bbzX6zywmKde4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmQ5NmQwM2Y1/NTk3MzYwNTVkYjA3/YjkzOTc2Y2QyNjM3/YTYxZTM5NjliOGI3/MjNkMWQ0ZmMyYmMz/NGVhMTRmOC93d3cu/bmV3c21vYmlsZS5p/bi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "newsmobile.in",
+          "hostname": "www.newsmobile.in",
+          "favicon": "https://imgs.search.brave.com/mKugaQIu3azn8rrfxVtlFzfmJLCdK6bbzX6zywmKde4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmQ5NmQwM2Y1/NTk3MzYwNTVkYjA3/YjkzOTc2Y2QyNjM3/YTYxZTM5NjliOGI3/MjNkMWQ0ZmMyYmMz/NGVhMTRmOC93d3cu/bmV3c21vYmlsZS5p/bi8",
+          "path": "› nm-fact-checker  › fact-check-viral-video-of-trump-promising-to-free-imran-khan-from-jail-is-fabricated"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/0HSvhsnlQlkpBql8v1aEg2BIfQjm-wXn5UbtBWdO5Yw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bmV3c21vYmlsZS5p/bi93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NC8xMS9ETy1OT1Qt/Q0hBTkdFLTIucG5n",
+          "original": "https://www.newsmobile.in/wp-content/uploads/2024/11/DO-NOT-CHANGE-2.png",
+          "logo": false
+        },
+        "age": "November 10, 2024"
+      },
+      {
+        "title": "Old Trump interview edited with 'free Imran Khan' message | Fact Check",
+        "url": "https://factcheck.afp.com/doc.afp.com.34NA77K",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Some social media users appeared to believe the video genuinely showed Trump expressing support for Pakistan&#x27;s jailed ex-leader. ... However, AFP found <strong>no official reports that Trump vowed to free Khan if he won the US election in November, as of April 10, 2024</strong>.",
+        "page_age": "2024-04-10T08:44:55",
+        "profile": {
+          "name": "AFP Fact Check",
+          "url": "https://factcheck.afp.com/doc.afp.com.34NA77K",
+          "long_name": "factcheck.afp.com",
+          "img": "https://imgs.search.brave.com/S4hiU2qm8EOMDyJrYjB3tbjr79P8QTiMbysfN8EtTl0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2E0YTFkNzU2/ODE3ZThmMjA2Y2Yy/ZGEwNGVlZThhNmQx/Y2YxNTFkOGY5MDhk/NDUwZGYxZDljZGU2/MWU1ZjBkNS9mYWN0/Y2hlY2suYWZwLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "factcheck.afp.com",
+          "hostname": "factcheck.afp.com",
+          "favicon": "https://imgs.search.brave.com/S4hiU2qm8EOMDyJrYjB3tbjr79P8QTiMbysfN8EtTl0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2E0YTFkNzU2/ODE3ZThmMjA2Y2Yy/ZGEwNGVlZThhNmQx/Y2YxNTFkOGY5MDhk/NDUwZGYxZDljZGU2/MWU1ZjBkNS9mYWN0/Y2hlY2suYWZwLmNv/bS8",
+          "path": "› doc.afp.com.34NA77K"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/CUGfSbvqd269YK9MWjp5I778q7EsU5a034fX7UBZPx0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mYWN0/Y2hlY2suYWZwLmNv/bS9zaXRlcy9kZWZh/dWx0L2ZpbGVzL21l/ZGlhcy9mYWN0Y2hl/Y2tpbmcvZzIvMjAy/NC0wNS8zMDVmOTRm/ZTVhZmRkNTlhMDk3/ZjNiOWUyZDdhYTM1/OTQyNWNkMWQ5Lmpw/ZWc",
+          "original": "https://factcheck.afp.com/sites/default/files/medias/factchecking/g2/2024-05/305f94fe5afdd59a097f3b9e2d7aa359425cd1d9.jpeg",
+          "logo": false
+        },
+        "age": "April 10, 2024"
+      },
+      {
+        "title": "No, Donald Trump didn’t say that if he was reelected president he’d get Pakistan’s former prime minister Imran Khan out of prison and back in power. Viral videos put audio generated with artificial intelligence over 2017 interview footage.",
+        "url": "https://www.politifact.com/factchecks/2024/nov/06/facebook-posts/no-president-elect-trump-didnt-pledge-to-help-paki/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "As the world reacted to Donald ... if I win, I will try my best to get Imran Khan out of jail as soon as possible,&quot; <strong>Trump appears to say in a Facebook video posted Nov. 6 by multiple users</strong>. &quot;He is my friend. I love him....",
+        "profile": {
+          "name": "PolitiFact",
+          "url": "https://www.politifact.com/factchecks/2024/nov/06/facebook-posts/no-president-elect-trump-didnt-pledge-to-help-paki/",
+          "long_name": "politifact.com",
+          "img": "https://imgs.search.brave.com/M7P5wMl_Zu2YTptiLIVd1o_zZ91nVemUPNF8TK_371g/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWYxNmIxYjZk/YjIwNmZlZjdjOGMw/YjZmOGU3N2U2YjUz/YzZjYzk3YzA2MzM2/MmFkZWVmYTFiMjBj/MGFkM2VmNC93d3cu/cG9saXRpZmFjdC5j/b20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "politifact.com",
+          "hostname": "www.politifact.com",
+          "favicon": "https://imgs.search.brave.com/M7P5wMl_Zu2YTptiLIVd1o_zZ91nVemUPNF8TK_371g/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWYxNmIxYjZk/YjIwNmZlZjdjOGMw/YjZmOGU3N2U2YjUz/YzZjYzk3YzA2MzM2/MmFkZWVmYTFiMjBj/MGFkM2VmNC93d3cu/cG9saXRpZmFjdC5j/b20v",
+          "path": "› factchecks  › 2024  › nov  › 06  › facebook-posts  › no-president-elect-trump-didnt-pledge-to-help-paki"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/m91UQ7P7DZ3ObsA-3j6F6GmB16seCg78wvN7AtjIXfw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMucG9saXRpZmFj/dC5jb20vcG9saXRp/ZmFjdC9ydWxpbmdz/L3RvbV9ydWxpbmdf/cG9mLnBuZw",
+          "original": "https://static.politifact.com/politifact/rulings/tom_ruling_pof.png",
+          "logo": false
+        }
+      },
+      {
+        "title": "Altered clip shows Trump vowing to free Imran Khan from prison | Fact check",
+        "url": "https://www.usatoday.com/story/news/factcheck/2024/03/29/donald-trump-pakistan-doctored-clip-nbc-fact-check/73146069007/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A March 24 Facebook post (direct ... try my best to get Imran Khan out of jail as soon as possible. He is my friend, I love him, <strong>I will support him to take over the government again</strong>.&#x27;&#x27;...",
+        "page_age": "2024-03-30T00:22:22",
+        "profile": {
+          "name": "USA Today",
+          "url": "https://www.usatoday.com/story/news/factcheck/2024/03/29/donald-trump-pakistan-doctored-clip-nbc-fact-check/73146069007/",
+          "long_name": "usatoday.com",
+          "img": "https://imgs.search.brave.com/Y_nf32M16mWMcRGYv2Qt8GUxybiADIXv_NwrMFam-Oc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjRiNmM1Y2E0/MzMwMWQzYTYzNzhk/YjkzZjU0NTRmMDdl/ZWNmMjRiMWIwZjUz/ZDk4M2I5NDlmZjYw/ZTkyNjE4Yy93d3cu/dXNhdG9kYXkuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "usatoday.com",
+          "hostname": "www.usatoday.com",
+          "favicon": "https://imgs.search.brave.com/Y_nf32M16mWMcRGYv2Qt8GUxybiADIXv_NwrMFam-Oc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjRiNmM1Y2E0/MzMwMWQzYTYzNzhk/YjkzZjU0NTRmMDdl/ZWNmMjRiMWIwZjUz/ZDk4M2I5NDlmZjYw/ZTkyNjE4Yy93d3cu/dXNhdG9kYXkuY29t/Lw",
+          "path": "› story  › news  › factcheck  › 2024  › 03  › 29  › donald-trump-pakistan-doctored-clip-nbc-fact-check  › 73146069007"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/gvm1boMHBoDTpKM0eElw0g2xUXN9KoNFp7Lzfof-lms/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Z2FubmV0dC1jZG4u/Y29tL2F1dGhvcmlu/Zy9hdXRob3Jpbmct/aW1hZ2VzLzIwMjQv/MDMvMjkvVVNBVC83/MzEzOTA1NjAwNy1n/dHktMjEyMDU3NjM1/MS5qcGc_YXV0bz13/ZWJwJmNyb3A9NTU2/NiwzMTMyLHgwLHky/ODkmZm9ybWF0PXBq/cGcmd2lkdGg9MTIw/MA",
+          "original": "https://www.gannett-cdn.com/authoring/authoring-images/2024/03/29/USAT/73139056007-gty-2120576351.jpg?auto=webp&crop=5566,3132,x0,y289&format=pjpg&width=1200",
+          "logo": false
+        },
+        "age": "March 30, 2024"
+      },
+      {
+        "title": "Fact Check Viral deepfake falsely claims Donald Trump promised to free Imran Khan from jail | lighthousejournalism",
+        "url": "https://www.lighthousejournalism.com/world/fact-check-viral-deepfake-falsely-claims-donald-trump-promised-to-free-imran-khan-from-jail-3197/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Conclusion: <strong>Donald Trump did not promise to free former Pakistan PM, Imran Khan</strong>. Viral audio clip and video is AI generated using voice cloning technique.",
+        "page_age": "2024-11-08T09:09:19",
+        "profile": {
+          "name": "Lighthouse Journalism",
+          "url": "https://www.lighthousejournalism.com/world/fact-check-viral-deepfake-falsely-claims-donald-trump-promised-to-free-imran-khan-from-jail-3197/",
+          "long_name": "lighthousejournalism.com",
+          "img": "https://imgs.search.brave.com/LqsYzAKCNWhVKMqYArn-t14KZuQKRJSotyR-4WOu5Sg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzNmYWJiNWI4/ZTNhNzcyMTQ2YzRk/NWI3YzY5ODc3OGNk/MTc4YjljNDNmZmFh/YWIxNmNmYzRmZGZi/MmU4NzdkOC93d3cu/bGlnaHRob3VzZWpv/dXJuYWxpc20uY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "lighthousejournalism.com",
+          "hostname": "www.lighthousejournalism.com",
+          "favicon": "https://imgs.search.brave.com/LqsYzAKCNWhVKMqYArn-t14KZuQKRJSotyR-4WOu5Sg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzNmYWJiNWI4/ZTNhNzcyMTQ2YzRk/NWI3YzY5ODc3OGNk/MTc4YjljNDNmZmFh/YWIxNmNmYzRmZGZi/MmU4NzdkOC93d3cu/bGlnaHRob3VzZWpv/dXJuYWxpc20uY29t/Lw",
+          "path": "  › news  › world"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/bwFgNQIcaKSoGHgutUwPV475y4pBWxkK5xA1MC_Z3eg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bGlnaHRob3VzZWpv/dXJuYWxpc20uY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI0/LzExL05ldy1Qcm9q/ZWN0LTIwMjQtMTEt/MDhUMTM0MTM4LjQ2/OC5qcGc",
+          "original": "https://www.lighthousejournalism.com/wp-content/uploads/2024/11/New-Project-2024-11-08T134138.468.jpg",
+          "logo": false
+        },
+        "age": "November 8, 2024"
+      },
+      {
+        "title": "Imran Khan’s Allies Hope Trump Victory Could Help Free the Jailed Ex-PM - The Media Line",
+        "url": "https://themedialine.org/top-stories/imran-khans-allies-hope-trump-victory-could-help-free-the-jailed-ex-pm/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "[Islamabad] Speculation is mounting in Pakistan that <strong>Donald</strong> […]",
+        "page_age": "2024-11-03T17:52:40",
+        "profile": {
+          "name": "The Media Line",
+          "url": "https://themedialine.org/top-stories/imran-khans-allies-hope-trump-victory-could-help-free-the-jailed-ex-pm/",
+          "long_name": "themedialine.org",
+          "img": "https://imgs.search.brave.com/iHSGVHvpTedvOwlO3U11utHlAmDlXN_W1zEb3UB74LU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmRmOWU3ODcz/MjcyYzk1NDZiZDMw/ZDJlODg0MGY3OGQw/MjE3Y2Q3NWIxMWFh/ZjhhOGMxOTQzYjVl/MGFkYmM3My90aGVt/ZWRpYWxpbmUub3Jn/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "themedialine.org",
+          "hostname": "themedialine.org",
+          "favicon": "https://imgs.search.brave.com/iHSGVHvpTedvOwlO3U11utHlAmDlXN_W1zEb3UB74LU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmRmOWU3ODcz/MjcyYzk1NDZiZDMw/ZDJlODg0MGY3OGQw/MjE3Y2Q3NWIxMWFh/ZjhhOGMxOTQzYjVl/MGFkYmM3My90aGVt/ZWRpYWxpbmUub3Jn/Lw",
+          "path": "› top-stories  › imran-khans-allies-hope-trump-victory-could-help-free-the-jailed-ex-pm"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/8wFh90m2EPQHrwEcecy05moeWiuDvU1b9L27jg_a73U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aGVt/ZWRpYWxpbmUub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI0/LzExL0dldHR5SW1h/Z2VzLTExNTczMTU5/MzAtZTE3MzA2NTYz/NDk5NzAuanBn",
+          "original": "https://themedialine.org/wp-content/uploads/2024/11/GettyImages-1157315930-e1730656349970.jpg",
+          "logo": false
+        },
+        "age": "November 3, 2024"
+      },
+      {
+        "title": "Trump’s video clip on the release of Imran Khan debunked - Pakistan - Aaj English TV",
+        "url": "https://english.aaj.tv/news/30356465/trumps-video-clip-on-the-release-of-imran-khan-debunked",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "“Hello, my Pakistani-American friends. I promise that if I win, I will try my best to get Imran Khan out of jail as soon as possible. <strong>He is my friend; I love him, and I will support him to take over the government again</strong>,” Trump appears to say in the clip.",
+        "page_age": "2024-03-30T05:15:44",
+        "profile": {
+          "name": "Aaj English TV",
+          "url": "https://english.aaj.tv/news/30356465/trumps-video-clip-on-the-release-of-imran-khan-debunked",
+          "long_name": "english.aaj.tv",
+          "img": "https://imgs.search.brave.com/sWv8t4nVCkIWHCiOgE6ysaOvwNVrqyJjtrYzMQofmbg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWI3MzI3YWNl/MDI0ODBkN2I5Yzlh/NmMwYzM4MGY3MmFj/M2MzMTQwMWQyNTIz/NGMzYjhlMDkyYzBj/MzliY2UxNS9lbmds/aXNoLmFhai50di8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "english.aaj.tv",
+          "hostname": "english.aaj.tv",
+          "favicon": "https://imgs.search.brave.com/sWv8t4nVCkIWHCiOgE6ysaOvwNVrqyJjtrYzMQofmbg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWI3MzI3YWNl/MDI0ODBkN2I5Yzlh/NmMwYzM4MGY3MmFj/M2MzMTQwMWQyNTIz/NGMzYjhlMDkyYzBj/MzliY2UxNS9lbmds/aXNoLmFhai50di8",
+          "path": "  › pakistan"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/yGrRlTZ1_A58zkE0Wegbgbz4MfBFxihoL5sNrzv6cI0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmFh/ai50di9wcmltYXJ5/LzIwMjQvMDMvMzAx/MTM1MTQwNzJmMTIw/LndlYnA_cj0xMTM1/MjA",
+          "original": "https://i.aaj.tv/primary/2024/03/30113514072f120.webp?r=113520",
+          "logo": false
+        },
+        "age": "March 30, 2024"
+      },
+      {
+        "title": "Fact Check: Video Of Donald Trump Promising To Support Imran Khan Is Deepfake",
+        "url": "https://news.abplive.com/fact-check/video-of-donald-trump-promising-to-support-imran-khan-is-a-deepfake-1675464",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Users have shared this video with claims in Urdu which state that Trump will get the jailed Pakistani leader out, if he wins the 2024 U.S. elections</strong>. The post (archived here) had garnered 27,500 views at the time of writing the story. Archives of similar posts can be found here and here.",
+        "page_age": "2024-03-28T08:25:46",
+        "profile": {
+          "name": "ABPLive",
+          "url": "https://news.abplive.com/fact-check/video-of-donald-trump-promising-to-support-imran-khan-is-a-deepfake-1675464",
+          "long_name": "news.abplive.com",
+          "img": "https://imgs.search.brave.com/HdsHdb_1WRqWPpLpGsFE-97Q_QpiwumGsfyuhN686hk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjZkNjU5MGZm/OGQ1ZmUyNTMwY2Ey/MjdlMzAwOTc1MzEz/MzE5YmU2YTAzYWE3/NGI0NWMwYTM5ODIy/NGZiZTIwNy9uZXdz/LmFicGxpdmUuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "news.abplive.com",
+          "hostname": "news.abplive.com",
+          "favicon": "https://imgs.search.brave.com/HdsHdb_1WRqWPpLpGsFE-97Q_QpiwumGsfyuhN686hk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjZkNjU5MGZm/OGQ1ZmUyNTMwY2Ey/MjdlMzAwOTc1MzEz/MzE5YmU2YTAzYWE3/NGI0NWMwYTM5ODIy/NGZiZTIwNy9uZXdz/LmFicGxpdmUuY29t/Lw",
+          "path": "  › home  › fact check"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/L9nUGoyZofIrhft9JIxaondQhrknCZtNzMoK6tqbRo0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mZWVk/cy5hYnBsaXZlLmNv/bS9vbmVjbXMvaW1h/Z2VzL3VwbG9hZGVk/LWltYWdlcy8yMDI0/LzAzLzI4LzdlYjZl/NjYxZDQ3YTdlMmI1/MjFhYjgyYWQ4ZTEw/MThlMTcxMTYxMzkz/MTIyODU4M19vcmln/aW5hbC5qcGc_aW1w/b2xpY3k9YWJwX2Nk/biZpbXdpZHRoPTEy/MDA",
+          "original": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/03/28/7eb6e661d47a7e2b521ab82ad8e1018e1711613931228583_original.jpg?impolicy=abp_cdn&imwidth=1200",
+          "logo": false
+        },
+        "age": "March 28, 2024"
+      },
+      {
+        "title": "Will Donald Trump be able to free his ‘friend’ Imran Khan from jail? - Pakistan - Aaj English TV",
+        "url": "https://english.aaj.tv/news/330386384/will-donald-trump-be-able-to-free-his-friend-imran-khan-from-jail",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Husain Haqqani reveals who might stop Israeli Prime Minister Benjamin Netanyahu",
+        "page_age": "2024-10-29T18:36:25",
+        "profile": {
+          "name": "Aaj English TV",
+          "url": "https://english.aaj.tv/news/330386384/will-donald-trump-be-able-to-free-his-friend-imran-khan-from-jail",
+          "long_name": "english.aaj.tv",
+          "img": "https://imgs.search.brave.com/sWv8t4nVCkIWHCiOgE6ysaOvwNVrqyJjtrYzMQofmbg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWI3MzI3YWNl/MDI0ODBkN2I5Yzlh/NmMwYzM4MGY3MmFj/M2MzMTQwMWQyNTIz/NGMzYjhlMDkyYzBj/MzliY2UxNS9lbmds/aXNoLmFhai50di8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "english.aaj.tv",
+          "hostname": "english.aaj.tv",
+          "favicon": "https://imgs.search.brave.com/sWv8t4nVCkIWHCiOgE6ysaOvwNVrqyJjtrYzMQofmbg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWI3MzI3YWNl/MDI0ODBkN2I5Yzlh/NmMwYzM4MGY3MmFj/M2MzMTQwMWQyNTIz/NGMzYjhlMDkyYzBj/MzliY2UxNS9lbmds/aXNoLmFhai50di8",
+          "path": "  › pakistan"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/2t99Cw-MnPSeUv08CgTbMSFxmpMkklzMU-HvH56Gfq4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmFh/ai50di9wcmltYXJ5/LzIwMjQvMTAvMjky/MzI5MTUxZTgwZWJi/LndlYnA_cj0yMzI5/MzU",
+          "original": "https://i.aaj.tv/primary/2024/10/292329151e80ebb.webp?r=232935",
+          "logo": false
+        },
+        "age": "October 29, 2024"
+      },
+      {
+        "title": "Donald Trump video pledging support for Imran Khan is AI-generated - Soch Fact Check",
+        "url": "https://www.sochfactcheck.com/donald-trump-video-pledging-support-for-imran-khan-is-ai-generated/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Claim: A video circulating on social media shows former US President <strong>Donald</strong> <strong>Trump</strong> pledging to help former Pakistani Prime Minister <strong>Imran</strong> <strong>Khan</strong> <strong>get</strong> <strong>out</strong> <strong>of</strong> <strong>jail</strong> and regain power if <strong>he</strong> <strong>wins</strong> the 2024 US presidential election. Fact: The video in question is a deepfake, artificially generated by an ...",
+        "page_age": "2024-03-30T12:21:29",
+        "profile": {
+          "name": "Soch Fact Check",
+          "url": "https://www.sochfactcheck.com/donald-trump-video-pledging-support-for-imran-khan-is-ai-generated/",
+          "long_name": "sochfactcheck.com",
+          "img": "https://imgs.search.brave.com/1TpyM8kEabePAaLSOI1de9-ouzi0PtuwS33OM1dAjqc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDNlODBhNWUz/OGYyYTE1ODgwN2M0/NjM2Njc1MWNiN2Fl/NmFkYzI5OGJkMjk5/MTBlMDRmNmY0MjYx/ODg0ZTE3Yy93d3cu/c29jaGZhY3RjaGVj/ay5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "sochfactcheck.com",
+          "hostname": "www.sochfactcheck.com",
+          "favicon": "https://imgs.search.brave.com/1TpyM8kEabePAaLSOI1de9-ouzi0PtuwS33OM1dAjqc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDNlODBhNWUz/OGYyYTE1ODgwN2M0/NjM2Njc1MWNiN2Fl/NmFkYzI5OGJkMjk5/MTBlMDRmNmY0MjYx/ODg0ZTE3Yy93d3cu/c29jaGZhY3RjaGVj/ay5jb20v",
+          "path": "  › home  › donald trump video pledging support for imran khan is ai-generated"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/62X0Ak2Em1XsoIMmT0nVTrNFTGB9vtCxaD7F-U95s8A/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/c29jaGZhY3RjaGVj/ay5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjQvMDMvZmVh/LTYucG5n",
+          "original": "https://www.sochfactcheck.com/wp-content/uploads/2024/03/fea-6.png",
+          "logo": false
+        },
+        "age": "March 30, 2024"
+      },
+      {
+        "title": "Videos claiming that Donald Trump has recently extended his support for the release of Imran Khan from Jail are Deepfakes - FACTLY",
+        "url": "https://factly.in/videos-claiming-that-donald-trump-has-recently-extended-his-support-for-the-release-of-imran-khan-from-jail-are-deepfakes/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "These videos are deepfakes that have been generated using Artificial Intelligence. They were made by manipulating the audio of the original videos in which <strong>Trump</strong> was speaking about something completely unrelated <strong>to</strong> <strong>Imran</strong> <strong>Khan</strong>.",
+        "page_age": "2024-11-18T04:03:02",
+        "profile": {
+          "name": "FACTLY",
+          "url": "https://factly.in/videos-claiming-that-donald-trump-has-recently-extended-his-support-for-the-release-of-imran-khan-from-jail-are-deepfakes/",
+          "long_name": "factly.in",
+          "img": "https://imgs.search.brave.com/pBhb37Jeriz1FsklOAjRQQDSIIn6ZhuMenuEX5Fm-dw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2Y5OTdkYjA5/NjRhOTlhMmU4ZWQ5/YzM3MmQ4NzM1Yjg4/MDZlNzM0N2Y4NjRi/OTAyNWRhY2QyM2Y3/YjBhMzA3Zi9mYWN0/bHkuaW4v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "factly.in",
+          "hostname": "factly.in",
+          "favicon": "https://imgs.search.brave.com/pBhb37Jeriz1FsklOAjRQQDSIIn6ZhuMenuEX5Fm-dw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2Y5OTdkYjA5/NjRhOTlhMmU4ZWQ5/YzM3MmQ4NzM1Yjg4/MDZlNzM0N2Y4NjRi/OTAyNWRhY2QyM2Y3/YjBhMzA3Zi9mYWN0/bHkuaW4v",
+          "path": "› videos-claiming-that-donald-trump-has-recently-extended-his-support-for-the-release-of-imran-khan-from-jail-are-deepfakes"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/9GUWNAy-r8AqnB59i0Ang-nCca_Q3sIkVl7pRt6D3yY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mYWN0/bHkuaW4vd3AtY29u/dGVudC91cGxvYWRz/Ly8yMDI0LzExL1Ry/dW1wLXN1cHBvcnRz/LUltcmFuLUtoYW4t/dGh1bWJuYWlsLTcw/MngzMzYuanBlZw",
+          "original": "https://factly.in/wp-content/uploads//2024/11/Trump-supports-Imran-Khan-thumbnail-702x336.jpeg",
+          "logo": false
+        },
+        "age": "November 18, 2024"
+      },
+      {
+        "title": "Remarks by President Trump and Prime Minister Khan of the Islamic Republic of Pakistan Before Bilateral Meeting – The White House",
+        "url": "https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-prime-minister-khan-islamic-republic-pakistan-bilateral-meeting/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Issued on: July 22, 2019 · PRESIDENT <strong>TRUMP</strong>: Well, thank you very much. It’s my great honor to have the very popular and, by the way, great athlete — one of the greatest — but very popular Prime Minister of Pakistan",
+        "profile": {
+          "name": "The White House",
+          "url": "https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-prime-minister-khan-islamic-republic-pakistan-bilateral-meeting/",
+          "long_name": "trumpwhitehouse.archives.gov",
+          "img": "https://imgs.search.brave.com/T5CTUt-O8Vw7dNh7g6gho2GN4-8HoT3wlp-u6TgyqwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGU1OGQxYmI3/NTc1MTI3OTU3OTNl/ZTk3YTQ1ZGEwYWQ2/Y2M2NzFmMDY5YjVj/MDY5OTQ3MjY4NmFj/ZmYzYWJkMi90cnVt/cHdoaXRlaG91c2Uu/YXJjaGl2ZXMuZ292/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "trumpwhitehouse.archives.gov",
+          "hostname": "trumpwhitehouse.archives.gov",
+          "favicon": "https://imgs.search.brave.com/T5CTUt-O8Vw7dNh7g6gho2GN4-8HoT3wlp-u6TgyqwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGU1OGQxYmI3/NTc1MTI3OTU3OTNl/ZTk3YTQ1ZGEwYWQ2/Y2M2NzFmMDY5YjVj/MDY5OTQ3MjY4NmFj/ZmYzYWJkMi90cnVt/cHdoaXRlaG91c2Uu/YXJjaGl2ZXMuZ292/Lw",
+          "path": "  › news  › briefings & statements  › remarks by president trump and prime minister khan of the islamic republic of pakistan before bilateral meeting"
+        }
+      },
+      {
+        "title": "Fact-check: Trump supporting Imran Khan? Viral video proven fake | Geo Fact Check - Geo.tv",
+        "url": "https://www.geo.tv/latest/573222-fact-check-trump-supporting-imran-khan-viral-video-proven-fake",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Geo Fact Check conducted reverse search and discovered that original footage used to create deepfake dates back to 2017",
+        "profile": {
+          "name": "Geo.tv",
+          "url": "https://www.geo.tv/latest/573222-fact-check-trump-supporting-imran-khan-viral-video-proven-fake",
+          "long_name": "geo.tv",
+          "img": "https://imgs.search.brave.com/113HZ-uPud30kgLZPVvb7jxcM7GqP4dk2OASxMp9A84/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODc1MzdhN2Ni/OGE0ZjI0MjdiMWEw/OTA3NjMzZWMzODk1/MGEyYWI3N2JmOTIz/ZjY1ZTA4ZGRhNzk2/MWVhNDA4Yi93d3cu/Z2VvLnR2Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "geo.tv",
+          "hostname": "www.geo.tv",
+          "favicon": "https://imgs.search.brave.com/113HZ-uPud30kgLZPVvb7jxcM7GqP4dk2OASxMp9A84/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODc1MzdhN2Ni/OGE0ZjI0MjdiMWEw/OTA3NjMzZWMzODk1/MGEyYWI3N2JmOTIz/ZjY1ZTA4ZGRhNzk2/MWVhNDA4Yi93d3cu/Z2VvLnR2Lw",
+          "path": "› latest  › 573222-fact-check-trump-supporting-imran-khan-viral-video-proven-fake"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/T17c5XFiiPCGAHoYCvGv5ph8LSkGb2J_--OIVoPBFaw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Z2VvLnR2L2Fzc2V0/cy91cGxvYWRzL3Vw/ZGF0ZXMvMjAyNC0x/MS0wNy9sXzU3MzIy/Ml8wNDI2MjBfdXBk/YXRlcy5qcGc",
+          "original": "https://www.geo.tv/assets/uploads/updates/2024-11-07/l_573222_042620_updates.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Redirect Notice",
+        "url": "https://qrius.com/trump-imran-khan-twitter-spat/amp",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Redirect Notice · The previous page is sending you to https://livenewsdaily.in/category/india/. If you do not want to visit that page, you can return to the previous page",
+        "profile": {
+          "name": "Qrius",
+          "url": "https://qrius.com/trump-imran-khan-twitter-spat/amp",
+          "long_name": "qrius.com",
+          "img": "https://imgs.search.brave.com/xhGnox4jRkdjjVv1NjSTs_Vkpy2T4tl745-CTboe1Cs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWQ1OWZmOTA3/NmY0MTY5ZGZkNjhk/MDAzNjQwYWRkZTEy/Nzk3YTE1NzA2ZTBi/NDExODJhNWIzODcy/N2FiY2FhOC9xcml1/cy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "qrius.com",
+          "hostname": "qrius.com",
+          "favicon": "https://imgs.search.brave.com/xhGnox4jRkdjjVv1NjSTs_Vkpy2T4tl745-CTboe1Cs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWQ1OWZmOTA3/NmY0MTY5ZGZkNjhk/MDAzNjQwYWRkZTEy/Nzk3YTE1NzA2ZTBi/NDExODJhNWIzODcy/N2FiY2FhOC9xcml1/cy5jb20v",
+          "path": "› trump-imran-khan-twitter-spat  › amp"
+        }
+      },
+      {
+        "title": "Video of Donald Trump promising to support Imran Khan is a deepfake",
+        "url": "https://www.logicallyfacts.com/en/fact-check/fake-video-of-donald-trump-promising-to-support-imran-khan-is-a-deepfake",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The viral <strong>Trump</strong> clip supporting <strong>Imran</strong> <strong>Khan</strong> <strong>is</strong> a deepfake. The original 2017 video discusses FBI Director James Comey.",
+        "page_age": "2024-03-27T13:44:39",
+        "profile": {
+          "name": "Logically Facts",
+          "url": "https://www.logicallyfacts.com/en/fact-check/fake-video-of-donald-trump-promising-to-support-imran-khan-is-a-deepfake",
+          "long_name": "logicallyfacts.com",
+          "img": "https://imgs.search.brave.com/ab_m4p_pM4iUJp6LCECDIuQIaEjQt46B6u4cbzeW7I4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjI0ZTg5ZmM4/ZTViNGM1NGQ4ZmM4/ZTkyNTcyZjBkODk1/ODNiZGQ3ODM0ZDBj/NjEyNjFiNTBhOWI3/MDhhYjUxOC93d3cu/bG9naWNhbGx5ZmFj/dHMuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "logicallyfacts.com",
+          "hostname": "www.logicallyfacts.com",
+          "favicon": "https://imgs.search.brave.com/ab_m4p_pM4iUJp6LCECDIuQIaEjQt46B6u4cbzeW7I4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjI0ZTg5ZmM4/ZTViNGM1NGQ4ZmM4/ZTkyNTcyZjBkODk1/ODNiZGQ3ODM0ZDBj/NjEyNjFiNTBhOWI3/MDhhYjUxOC93d3cu/bG9naWNhbGx5ZmFj/dHMuY29tLw",
+          "path": "› en  › fact-check  › fake-video-of-donald-trump-promising-to-support-imran-khan-is-a-deepfake"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/rie1IJCBblc5J1ipp0x7bpYAFMlVU75U7-4S7KVWrYM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bG9naWNhbGx5ZmFj/dHMuY29tL3N0b3Jh/Z2UvaW1nL3BhZ2Vz/L1RydW1wZGVlcGZh/a2VoZXJvX2JhY2tn/cm91bmQud2VicA",
+          "original": "https://www.logicallyfacts.com/storage/img/pages/Trumpdeepfakehero_background.webp",
+          "logo": false
+        },
+        "age": "March 27, 2024"
+      }
+    ],
+    "family_friendly": true
+  }
+}

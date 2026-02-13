@@ -1,0 +1,844 @@
+{
+  "query": {
+    "original": "1 cup a day, clean your lungs",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "videos",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=ALLU3kSUEp8",
+        "title": "Drink THIS Tea to Detox and Cleanse Your LUNGS ❗",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "fetched_content_timestamp": 1721861145,
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Deb62d6yu_MdiXe5TJ2lXEGWQMpdoFCcWXXyWDpiAdw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9B/TExVM2tTVUVwOC9o/cWRlZmF1bHQuanBn",
+          "original": "https://i.ytimg.com/vi/ALLU3kSUEp8/hqdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=rdbnLQwPB34",
+        "title": "Top 10 Best Drinks for Healthy Lungs (Detox and Cleanse) - YouTube",
+        "description": "What are the best drinks to detox and cleanse your healthy lungs? Watch this video to find out! A few of them may actually surprise you! 💥Tips for Healthy L...",
+        "age": "August 13, 2021",
+        "page_age": "2021-08-13T14:00:11",
+        "fetched_content_timestamp": 1728672084,
+        "video": {
+          "duration": "09:10",
+          "views": 2177800,
+          "creator": "Respiratory Therapy Zone",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/1E0e-J7FoSZdPyKq3k3KDdg9ohUdnNY37hiEIkyjY9o/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9y/ZGJuTFF3UEIzNC9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/rdbnLQwPB34/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=7fU76IevdWY",
+        "title": "7 Superfoods to Boost the Health of Your Lungs Naturally - YouTube",
+        "description": "Which superfoods are the best for boosting the health of your lungs? Looking for a natural way to cleanse and detox your respiratory system?💥Superfoods for ...",
+        "age": "November 17, 2020",
+        "page_age": "2020-11-17T13:45:10",
+        "fetched_content_timestamp": 1719327085,
+        "video": {
+          "duration": "08:50",
+          "views": 1038027,
+          "creator": "Respiratory Therapy Zone",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/qXIXurFBMCmVRtZ8d7u_82Df24ojgVPJ_E8oTVvwJ6A/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS83/ZlU3NklldmRXWS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/7fU76IevdWY/maxresdefault.jpg"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "7 natural ways to cleanse your lungs",
+        "url": "https://www.medicalnewstoday.com/articles/324483",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A 2018 study involving more than <strong>1</strong>,000 adults in Korea reported that people who drank at least 2 <strong>cups</strong> of green tea per <strong>day</strong> had better <strong>lung</strong> function than those who drank none. While people can take some steps to expel mucus from the <strong>lungs</strong>, it is important to note that the body usually does this naturally. People do not need to purchase products or try special therapies to “cleanse...",
+        "page_age": "2025-04-29T14:38:18",
+        "profile": {
+          "name": "Medical News Today",
+          "url": "https://www.medicalnewstoday.com/articles/324483",
+          "long_name": "medicalnewstoday.com",
+          "img": "https://imgs.search.brave.com/UO2nz5lrZs-thMwBk4vHB0k896NBP9p4WoUuZ-FyHh0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGJlMzJlMmEy/OTg5ZGI5NTg3ZjE0/MTVlYjRiOWJlZjg2/YjE0OTFhOTkyOTQ5/NjJiNGM2ODAzZDBh/OWNhNzM0OS93d3cu/bWVkaWNhbG5ld3N0/b2RheS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "faq",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "medicalnewstoday.com",
+          "hostname": "www.medicalnewstoday.com",
+          "favicon": "https://imgs.search.brave.com/UO2nz5lrZs-thMwBk4vHB0k896NBP9p4WoUuZ-FyHh0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGJlMzJlMmEy/OTg5ZGI5NTg3ZjE0/MTVlYjRiOWJlZjg2/YjE0OTFhOTkyOTQ5/NjJiNGM2ODAzZDBh/OWNhNzM0OS93d3cu/bWVkaWNhbG5ld3N0/b2RheS5jb20v",
+          "path": "› articles  › 324483"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/pxDuBLlhHe9NAwxFqhHcOyOP_QtrgGwxtN8_4fHWXIM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5wb3N0LnJ2b2hl/YWx0aC5pby93cC1j/b250ZW50L3VwbG9h/ZHMvc2l0ZXMvMy8y/MDE5LzAyL2JyZWF0/aGluZy11bmRlcndh/dGVyLWNsZWFuc2lu/Zy10aHVtYi1vcmln/aW5hbC5qcGc",
+          "original": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2019/02/breathing-underwater-cleansing-thumb-original.jpg",
+          "logo": false
+        },
+        "age": "April 29, 2025"
+      },
+      {
+        "title": "Can You Detox Your Lungs?",
+        "url": "https://www.webmd.com/lung/copd/features/lung-detox-facts",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "If you have or are at risk for <strong>a</strong> <strong>lung</strong> condition such as COPD, you may have heard about ways people try to “detox” their <strong>lungs</strong>. Here’s what you should know first.",
+        "page_age": "2024-02-14T01:00:00",
+        "profile": {
+          "name": "WebMD",
+          "url": "https://www.webmd.com/lung/copd/features/lung-detox-facts",
+          "long_name": "webmd.com",
+          "img": "https://imgs.search.brave.com/WaQ-XvKRsobiZoPtkO8nlIoIYQoMtmXhUVrFU0PIBMI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTczMmJjNDk4/N2QzMDNiNWZhZmJm/NzNiOWI5OGRiM2U3/MGY2OTQ2Mjk5MDU5/MjFhMDRlMTk2MjQz/NmY3YTJhNi93d3cu/d2VibWQuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "webmd.com",
+          "hostname": "www.webmd.com",
+          "favicon": "https://imgs.search.brave.com/WaQ-XvKRsobiZoPtkO8nlIoIYQoMtmXhUVrFU0PIBMI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTczMmJjNDk4/N2QzMDNiNWZhZmJm/NzNiOWI5OGRiM2U3/MGY2OTQ2Mjk5MDU5/MjFhMDRlMTk2MjQz/NmY3YTJhNi93d3cu/d2VibWQuY29tLw",
+          "path": "  › lung disease & respiratory health  › copd  › feature stories"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/WuUQXxYcPR7T-waaX4q5q2JlHWC5AWUN6N5OgjkdRLE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bGIud2JtZHN0YXRp/Yy5jb20vdmltL2xp/dmUvd2VibWQvY29u/c3VtZXJfYXNzZXRz/L3NpdGVfaW1hZ2Vz/L2FydGljbGVzL2hl/YWx0aF90b29scy9h/bGxfYWJvdXRfeW91/cl9sdW5nc19zbGlk/ZXNob3cvMTgwMHNz/X2dldHR5X3JmX2x1/bmdzLmpwZw",
+          "original": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/all_about_your_lungs_slideshow/1800ss_getty_rf_lungs.jpg",
+          "logo": false
+        },
+        "age": "February 14, 2024"
+      },
+      {
+        "title": "10 Simple Steps to Your Healthiest Lungs | American Lung Association",
+        "url": "https://www.lung.org/blog/10-tips-for-healthy-lungs",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Tips for loving <strong>your</strong> <strong>lungs</strong> and keeping them in good working order.",
+        "profile": {
+          "name": "American Lung Association",
+          "url": "https://www.lung.org/blog/10-tips-for-healthy-lungs",
+          "long_name": "lung.org",
+          "img": "https://imgs.search.brave.com/juhaRsCPAS-rvcZIzfMApO7h6Vb8F88T3gTq-qH00po/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTQ2MjUxMDJm/YzFiZmRkMDc2NjQ2/Yzk3Yjk5ZDc3M2I4/Y2IxNWE5NDNlMWQ1/MjA3NGE5MmM1NTNh/NTZlOTkwMC93d3cu/bHVuZy5vcmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "lung.org",
+          "hostname": "www.lung.org",
+          "favicon": "https://imgs.search.brave.com/juhaRsCPAS-rvcZIzfMApO7h6Vb8F88T3gTq-qH00po/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTQ2MjUxMDJm/YzFiZmRkMDc2NjQ2/Yzk3Yjk5ZDc3M2I4/Y2IxNWE5NDNlMWQ1/MjA3NGE5MmM1NTNh/NTZlOTkwMC93d3cu/bHVuZy5vcmcv",
+          "path": "› blog  › 10-tips-for-healthy-lungs"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/QM5XbL6kzg0nm5HHMuQDGpj0OmmOxEfGGx1ylh7-hbo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bHVuZy5vcmcvZ2V0/bWVkaWEvOGVjZWQ3/ZTgtZDg2MC00ZTVi/LWJlZDctMTExZDY0/ZjI2MmI0L2hlYWx0/aHktbHVuZ3NfbHVu/Zy1sb3ZlXzEyMDB4/NjMwX0YuanBnP3dp/ZHRoPTEyMDEmYW1w/O2hlaWdodD02MzEm/YW1wO2V4dD0uanBn",
+          "original": "https://www.lung.org/getmedia/8eced7e8-d860-4e5b-bed7-111d64f262b4/healthy-lungs_lung-love_1200x630_F.jpg?width=1201&amp;height=631&amp;ext=.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Tips for How to Clean Your Lungs after Quitting Smoking",
+        "url": "https://www.healthline.com/health/quit-smoking/how-to-clean-lungs-after-quitting-smoking",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Staying hydrated is important for lung health. <strong>Drinking 64 ounces of water per day (eight 8-ounce cups) may help thin mucus in your lungs</strong>, making it easier to get rid of mucus when you cough.",
+        "page_age": "2024-12-23T16:32:50",
+        "profile": {
+          "name": "Healthline",
+          "url": "https://www.healthline.com/health/quit-smoking/how-to-clean-lungs-after-quitting-smoking",
+          "long_name": "healthline.com",
+          "img": "https://imgs.search.brave.com/4uIi1Fz170gbE2B9GATZydoRHSxF5aPT8nDN0a674oQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFkYzhjMDEw/NWYyYWI3NjExYmI5/N2JlMmI5ZTY2OWY1/ZjFkZWYzNGYwY2Qw/YWM0ZmNjNzhjMjYz/ZTg5N2VhNy93d3cu/aGVhbHRobGluZS5j/b20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "healthline.com",
+          "hostname": "www.healthline.com",
+          "favicon": "https://imgs.search.brave.com/4uIi1Fz170gbE2B9GATZydoRHSxF5aPT8nDN0a674oQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFkYzhjMDEw/NWYyYWI3NjExYmI5/N2JlMmI5ZTY2OWY1/ZjFkZWYzNGYwY2Qw/YWM0ZmNjNzhjMjYz/ZTg5N2VhNy93d3cu/aGVhbHRobGluZS5j/b20v",
+          "path": "› health  › quit-smoking  › how-to-clean-lungs-after-quitting-smoking"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/zz91QbxyJ1n8LN9Bg1BswLflAS3fwvyPcjSpV3pv95M/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5wb3N0LnJ2b2hl/YWx0aC5pby93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMC8wNS93/b21hbi13YWxraW5n/LTczMng1NDktdGh1/bWJuYWlsLmpwZw",
+          "original": "https://media.post.rvohealth.io/wp-content/uploads/2020/05/woman-walking-732x549-thumbnail.jpg",
+          "logo": false
+        },
+        "age": "December 23, 2024"
+      },
+      {
+        "title": "Can You Detox Your Lungs? | American Lung Association",
+        "url": "https://www.lung.org/blog/can-you-detox-your-lungs",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Some common ingredients in supplement-based cleanses have been shown to have positive results, such as <strong>Vitamin D</strong>, which plays an important role in boosting immune system responses and helps to reduce airway inflammation.",
+        "profile": {
+          "name": "American Lung Association",
+          "url": "https://www.lung.org/blog/can-you-detox-your-lungs",
+          "long_name": "lung.org",
+          "img": "https://imgs.search.brave.com/juhaRsCPAS-rvcZIzfMApO7h6Vb8F88T3gTq-qH00po/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTQ2MjUxMDJm/YzFiZmRkMDc2NjQ2/Yzk3Yjk5ZDc3M2I4/Y2IxNWE5NDNlMWQ1/MjA3NGE5MmM1NTNh/NTZlOTkwMC93d3cu/bHVuZy5vcmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "lung.org",
+          "hostname": "www.lung.org",
+          "favicon": "https://imgs.search.brave.com/juhaRsCPAS-rvcZIzfMApO7h6Vb8F88T3gTq-qH00po/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTQ2MjUxMDJm/YzFiZmRkMDc2NjQ2/Yzk3Yjk5ZDc3M2I4/Y2IxNWE5NDNlMWQ1/MjA3NGE5MmM1NTNh/NTZlOTkwMC93d3cu/bHVuZy5vcmcv",
+          "path": "› blog  › can-you-detox-your-lungs"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/3lS-27i7G9hYj-JdhqY3-ZwYvuCpGRye_OAN5eaaL64/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bHVuZy5vcmcvZ2V0/bWVkaWEvZDM1MTM4/M2EtOGQ5MC00MTVl/LTg0ZWYtY2VkZWRl/OGUxNzBhL0RldG94/XzEyMDB4NjMwX0Yu/anBnP3dpZHRoPTEy/MDAmYW1wO2hlaWdo/dD02MzAmYW1wO2V4/dD0uanBn",
+          "original": "https://www.lung.org/getmedia/d351383a-8d90-415e-84ef-cedede8e170a/Detox_1200x630_F.jpg?width=1200&amp;height=630&amp;ext=.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "8 Ways to Clean Your Lungs: Air Purifiers, Exercise & More",
+        "url": "https://www.healthline.com/health/ways-to-cleanse-your-lungs",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "If you live with breathing difficulties, <strong>a</strong> <strong>lung</strong> cleanse may help. Breathe easier with an air purifier, exercise, and these other remedies.",
+        "page_age": "2023-04-17T00:00:00",
+        "profile": {
+          "name": "Healthline",
+          "url": "https://www.healthline.com/health/ways-to-cleanse-your-lungs",
+          "long_name": "healthline.com",
+          "img": "https://imgs.search.brave.com/4uIi1Fz170gbE2B9GATZydoRHSxF5aPT8nDN0a674oQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFkYzhjMDEw/NWYyYWI3NjExYmI5/N2JlMmI5ZTY2OWY1/ZjFkZWYzNGYwY2Qw/YWM0ZmNjNzhjMjYz/ZTg5N2VhNy93d3cu/aGVhbHRobGluZS5j/b20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "healthline.com",
+          "hostname": "www.healthline.com",
+          "favicon": "https://imgs.search.brave.com/4uIi1Fz170gbE2B9GATZydoRHSxF5aPT8nDN0a674oQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFkYzhjMDEw/NWYyYWI3NjExYmI5/N2JlMmI5ZTY2OWY1/ZjFkZWYzNGYwY2Qw/YWM0ZmNjNzhjMjYz/ZTg5N2VhNy93d3cu/aGVhbHRobGluZS5j/b20v",
+          "path": "› health  › ways-to-cleanse-your-lungs"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/YLw8cC1kwCP7VaDYkku26p4xSrojB94OCQ7Cfji51-w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5wb3N0LnJ2b2hl/YWx0aC5pby93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMC8wNS9M/YXVnaGluZy1tYXR1/cmUtc3dpbW1lci03/MzJ4NTQ5LXRodW1i/bmFpbC5qcGc",
+          "original": "https://media.post.rvohealth.io/wp-content/uploads/2020/05/Laughing-mature-swimmer-732x549-thumbnail.jpg",
+          "logo": false
+        },
+        "age": "April 17, 2023"
+      },
+      {
+        "title": "What Can I Drink to Cleanse My Lungs? 6 Tips for Lung Health",
+        "url": "https://www.medicinenet.com/what_can_i_drink_to_cleanse_my_lungs/article.htm",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "There is nothing you can eat or drink that can cleanse <strong>your</strong> <strong>lungs</strong>. But you can promote healthy <strong>lung</strong> function by following a healthy lifestyle.",
+        "page_age": "2021-12-01T19:00:00",
+        "profile": {
+          "name": "MedicineNet",
+          "url": "https://www.medicinenet.com/what_can_i_drink_to_cleanse_my_lungs/article.htm",
+          "long_name": "medicinenet.com",
+          "img": "https://imgs.search.brave.com/tmB3NiOXhF7_obCNuEQcemt5Ybb9Q5h85pJZ7OEtqxA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTFlZGVjZjFj/MThkNzMzMDZkMGMx/YmY2NTZjYWYzMTdh/OTdmMjZhZDM4ZDI5/M2MyNjYyOWU2ZTkw/Mjg3YzBkZi93d3cu/bWVkaWNpbmVuZXQu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "medicinenet.com",
+          "hostname": "www.medicinenet.com",
+          "favicon": "https://imgs.search.brave.com/tmB3NiOXhF7_obCNuEQcemt5Ybb9Q5h85pJZ7OEtqxA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTFlZGVjZjFj/MThkNzMzMDZkMGMx/YmY2NTZjYWYzMTdh/OTdmMjZhZDM4ZDI5/M2MyNjYyOWU2ZTkw/Mjg3YzBkZi93d3cu/bWVkaWNpbmVuZXQu/Y29tLw",
+          "path": "› what_can_i_drink_to_cleanse_my_lungs  › article.htm"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Kcm6vcvtFGovErM_VbYPQXALevmzz7PQbkPJyXDoSHM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMubWVkaWNpbmVu/ZXQuY29tL2ltYWdl/cy9hcnRpY2xlL21h/aW5faW1hZ2Uvd2hh/dC1pcy1naW5nZXIt/dGVhLWdvb2QtZm9y/LmpwZz9vdXRwdXQt/cXVhbGl0eT03NQ",
+          "original": "https://images.medicinenet.com/images/article/main_image/what-is-ginger-tea-good-for.jpg?output-quality=75",
+          "logo": false
+        },
+        "age": "December 1, 2021"
+      },
+      {
+        "title": "Lung Cleanse: 10 Ways to Detox Your Lungs",
+        "url": "https://globalhealing.com/blogs/education/lung-cleanse-detox-your-lungs",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>A</strong> <strong>lung</strong> cleanse detoxifies your airways by purging them of environmental toxins, harmful organisms and irritants. Learn whether it’s right for you.",
+        "page_age": "2024-07-03T16:00:00",
+        "profile": {
+          "name": "Global Healing",
+          "url": "https://globalhealing.com/blogs/education/lung-cleanse-detox-your-lungs",
+          "long_name": "globalhealing.com",
+          "img": "https://imgs.search.brave.com/l7-x3MG3j-oBfDDg6lhsXNJnSs5l3ebU9jG7FFgorQM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTY5NjhhNzZi/MjA3N2IwZjViMWMx/ZDdhMmM4Mzk2MTRj/MGNmNWMyNzMzZjNk/MzkwNDAyN2NlZWE3/N2E1YjQyNi9nbG9i/YWxoZWFsaW5nLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "globalhealing.com",
+          "hostname": "globalhealing.com",
+          "favicon": "https://imgs.search.brave.com/l7-x3MG3j-oBfDDg6lhsXNJnSs5l3ebU9jG7FFgorQM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTY5NjhhNzZi/MjA3N2IwZjViMWMx/ZDdhMmM4Mzk2MTRj/MGNmNWMyNzMzZjNk/MzkwNDAyN2NlZWE3/N2E1YjQyNi9nbG9i/YWxoZWFsaW5nLmNv/bS8",
+          "path": "› blogs  › education  › lung-cleanse-detox-your-lungs"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/xVs9pQTTFS4KwOi0UgmxUBT1oEkELXpzJMU-Cb1n_w4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nbG9i/YWxoZWFsaW5nLmNv/bS9jZG4vc2hvcC9h/cnRpY2xlcy9sdW5n/LWNsZWFuc2luZy10/aHVtYl8wMzIzMjM4/Ny0wYmE1LTRlMWIt/OGNjMi04Nzk4M2Fh/NjE3MGYuanBnP3Y9/MTcyNTY1NDM3MyZ3/aWR0aD0xOTIw",
+          "original": "https://globalhealing.com/cdn/shop/articles/lung-cleansing-thumb_03232387-0ba5-4e1b-8cc2-87983aa6170f.jpg?v=1725654373&width=1920",
+          "logo": false
+        },
+        "age": "July 3, 2024"
+      },
+      {
+        "title": "How To Detox & Clean Mucus From Lungs At Home",
+        "url": "https://www.truemeds.in/blog/home-remedies-for-lungs-cleaning-detox",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "How to clear mucus from the <strong>lungs</strong> naturally? Discover 14 ways to naturally detoxify <strong>lungs</strong> and remove mucus from <strong>lungs</strong> for improved respiratory health.",
+        "page_age": "2022-01-20T12:44:59",
+        "profile": {
+          "name": "Truemeds",
+          "url": "https://www.truemeds.in/blog/home-remedies-for-lungs-cleaning-detox",
+          "long_name": "truemeds.in",
+          "img": "https://imgs.search.brave.com/OCi2MM7hbtu1kWwouxvQ2jZloN7_5ibgQblqKdj2-JM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGUwNzc3ZDVh/OWY0N2U0ZTg0NzNk/NDQxNjJlMDI1YTY0/ZGY5NTgyZTY2MGYy/NDdlOGEzZGIwMThj/NzI1MDcxOS93d3cu/dHJ1ZW1lZHMuaW4v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "faq",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "truemeds.in",
+          "hostname": "www.truemeds.in",
+          "favicon": "https://imgs.search.brave.com/OCi2MM7hbtu1kWwouxvQ2jZloN7_5ibgQblqKdj2-JM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGUwNzc3ZDVh/OWY0N2U0ZTg0NzNk/NDQxNjJlMDI1YTY0/ZGY5NTgyZTY2MGYy/NDdlOGEzZGIwMThj/NzI1MDcxOS93d3cu/dHJ1ZW1lZHMuaW4v",
+          "path": "  › home  › blog  › well-being  › home remedies  › how to detox & clean mucus from lungs at home"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/cfuIUW-MNLJcPJKLvgqyxF6UHpvQ_iP85FVi2oBmvXs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMudHJ1ZW1lZHMu/aW4vd3AtaW1hZ2Vz/L3RvcCtob21lK3Jl/bWVkaWVzK3RvK2Rl/dG94K2FuZCtjbGVh/bittdWN1cytmcm9t/K2x1bmdzK25hdHVy/YWxseS5qcGc",
+          "original": "https://assets.truemeds.in/wp-images/top+home+remedies+to+detox+and+clean+mucus+from+lungs+naturally.jpg",
+          "logo": false
+        },
+        "age": "January 20, 2022"
+      },
+      {
+        "title": "The 20 Best Foods for Lung Health",
+        "url": "https://www.healthline.com/nutrition/lung-cleansing-foods",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Coffee, dark leafy greens, fatty fish, peppers, tomatoes, olive oil, oysters, blueberries, and pumpkin</strong> are just some examples of foods and drinks that have been shown to benefit lung function. Try incorporating a few of the foods and beverages listed above into your diet to help support the ...",
+        "page_age": "2020-06-24T06:00:00",
+        "profile": {
+          "name": "Healthline",
+          "url": "https://www.healthline.com/nutrition/lung-cleansing-foods",
+          "long_name": "healthline.com",
+          "img": "https://imgs.search.brave.com/4uIi1Fz170gbE2B9GATZydoRHSxF5aPT8nDN0a674oQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFkYzhjMDEw/NWYyYWI3NjExYmI5/N2JlMmI5ZTY2OWY1/ZjFkZWYzNGYwY2Qw/YWM0ZmNjNzhjMjYz/ZTg5N2VhNy93d3cu/aGVhbHRobGluZS5j/b20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "healthline.com",
+          "hostname": "www.healthline.com",
+          "favicon": "https://imgs.search.brave.com/4uIi1Fz170gbE2B9GATZydoRHSxF5aPT8nDN0a674oQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFkYzhjMDEw/NWYyYWI3NjExYmI5/N2JlMmI5ZTY2OWY1/ZjFkZWYzNGYwY2Qw/YWM0ZmNjNzhjMjYz/ZTg5N2VhNy93d3cu/aGVhbHRobGluZS5j/b20v",
+          "path": "› nutrition  › lung-cleansing-foods"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/jZLOA5ym1SR-ZnBAYIObE3V_ZvwRILyeYBvbL-dm2R4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5wb3N0LnJ2b2hl/YWx0aC5pby93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMC8wNi9i/ZWV0cy1iZWV0LXJv/b3QtNzMyeDU0OS10/aHVtYm5haWwuanBn",
+          "original": "https://media.post.rvohealth.io/wp-content/uploads/2020/06/beets-beet-root-732x549-thumbnail.jpg",
+          "logo": false
+        },
+        "age": "June 24, 2020"
+      },
+      {
+        "title": "How to cleanse Your Lungs After Quitting Smoking | Vinmec",
+        "url": "https://www.vinmec.com/eng/blog/how-to-clean-the-lungs-after-quitting-smoking-en",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Drinking around 2 liters of water per day (about 8 cups) can thin out the mucus in your lungs</strong>, making it easier for you to expel the mucus when you cough. Drinking warm liquids such as tea, vegetable broth, or warm water will help thin the mucus and make it easier to cleanse your lungs.",
+        "page_age": "2024-12-20T18:21:20",
+        "profile": {
+          "name": "Vinmec",
+          "url": "https://www.vinmec.com/eng/blog/how-to-clean-the-lungs-after-quitting-smoking-en",
+          "long_name": "vinmec.com",
+          "img": "https://imgs.search.brave.com/DmdnA2_YuoiMcD9a-69QmGHnSg-ZR-dq-mcGQqzyhVc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGQ0YmUwZjdm/YTFkMWIyMzIxY2Vj/ODg2NWMwZTk0NDNi/NWY5MjYxYTdlNGE4/NTk3ZDlmM2Y0YThj/MmRiYWM5Yi93d3cu/dmlubWVjLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "vinmec.com",
+          "hostname": "www.vinmec.com",
+          "favicon": "https://imgs.search.brave.com/DmdnA2_YuoiMcD9a-69QmGHnSg-ZR-dq-mcGQqzyhVc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGQ0YmUwZjdm/YTFkMWIyMzIxY2Vj/ODg2NWMwZTk0NDNi/NWY5MjYxYTdlNGE4/NTk3ZDlmM2Y0YThj/MmRiYWM5Yi93d3cu/dmlubWVjLmNvbS8",
+          "path": "  › home  › health screening"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Igw9bOkHB345t3tdYLSbLpF6uAueSQfcNixNVwGTRE8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/dmlubWVjLmNvbS9z/dGF0aWMvdXBsb2Fk/cy8yMDIxMTIxOV8w/NzU4MDRfNjcxNjYy/X2NhY2hfbGFtX3Nh/Y2hfcGhvaV9tYXhf/MTgwMHgxODAwX3Bu/Z181NjIwZDNlZjRl/LnBuZw",
+          "original": "https://www.vinmec.com/static/uploads/20211219_075804_671662_cach_lam_sach_phoi_max_1800x1800_png_5620d3ef4e.png",
+          "logo": false
+        },
+        "age": "December 20, 2024"
+      },
+      {
+        "title": "Lung Detox Drink: Ancient lung detox drink for melting mucus and complete cleanse | - Times of India",
+        "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/diet/ancient-lung-detox-drink-for-melting-mucus-and-complete-cleanse/articleshow/115088207.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "This ancient lung detox drink, made with <strong>garlic, ginger, cloves, lemon, and honey</strong>, is a natural way to clear mucus and support respiratory health. The ingredients work together to reduce inflammation, fight infection, and soothe coughs. Drink this remedy twice a day for one to two weeks to ...",
+        "page_age": "2024-11-09T05:30:00",
+        "profile": {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/diet/ancient-lung-detox-drink-for-melting-mucus-and-complete-cleanse/articleshow/115088207.cms",
+          "long_name": "timesofindia.indiatimes.com",
+          "img": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timesofindia.indiatimes.com",
+          "hostname": "timesofindia.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+          "path": "  › news  › lifestyle  › health-fitness  › diet"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/gs9NX0yWRhjDly1-_za7Ylq148zSGSCOCMYiVg5FDeo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9yZXNp/emVtb2RlLTQsd2lk/dGgtMTIwMCxoZWln/aHQtOTAwLG1zaWQt/MTE1MDg4MzA3LzEx/NTA4ODMwNy5qcGc",
+          "original": "https://static.toiimg.com/thumb/resizemode-4,width-1200,height-900,msid-115088307/115088307.jpg",
+          "logo": false
+        },
+        "age": "November 9, 2024"
+      },
+      {
+        "title": "Does ginger tea cleanse the lungs? | Vinmec",
+        "url": "https://www.vinmec.com/eng/blog/ginger-tea-cleanses-the-lungs-right-en",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "There are many types of food and drinks that help cleanse the <strong>lungs</strong>. Among them, ginger tea is a popular choice for many people due to its easily accessible ingredients, high effectiveness, and safety for health",
+        "page_age": "2024-12-16T12:43:43",
+        "profile": {
+          "name": "Vinmec",
+          "url": "https://www.vinmec.com/eng/blog/ginger-tea-cleanses-the-lungs-right-en",
+          "long_name": "vinmec.com",
+          "img": "https://imgs.search.brave.com/DmdnA2_YuoiMcD9a-69QmGHnSg-ZR-dq-mcGQqzyhVc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGQ0YmUwZjdm/YTFkMWIyMzIxY2Vj/ODg2NWMwZTk0NDNi/NWY5MjYxYTdlNGE4/NTk3ZDlmM2Y0YThj/MmRiYWM5Yi93d3cu/dmlubWVjLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "vinmec.com",
+          "hostname": "www.vinmec.com",
+          "favicon": "https://imgs.search.brave.com/DmdnA2_YuoiMcD9a-69QmGHnSg-ZR-dq-mcGQqzyhVc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGQ0YmUwZjdm/YTFkMWIyMzIxY2Vj/ODg2NWMwZTk0NDNi/NWY5MjYxYTdlNGE4/NTk3ZDlmM2Y0YThj/MmRiYWM5Yi93d3cu/dmlubWVjLmNvbS8",
+          "path": "  › home  › health screening"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/AbquIspNncXEsdpfqKOvyyR2AmRWqYM3usr8CamQ2G8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/dmlubWVjLmNvbS9z/dGF0aWMvdXBsb2Fk/cy8yMDIxMTIxOV8w/NzU0MTFfNDQ5NzA4/X3RyYV9ndW5nX2xh/bV9zYWNoX3BfbWF4/XzE4MDB4MTgwMF9q/cGdfMjcxMzE0ZGZi/ZC5qcGc",
+          "original": "https://www.vinmec.com/static/uploads/20211219_075411_449708_tra_gung_lam_sach_p_max_1800x1800_jpg_271314dfbd.jpg",
+          "logo": false
+        },
+        "age": "December 16, 2024"
+      },
+      {
+        "title": "Natural ways to clean lungs: Foods that clean your lungs naturally & strengthen immunity",
+        "url": "https://timesofindia.indiatimes.com/life-style/food-news/foods-that-clean-your-lungs-naturally/photostory/75164760.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Foods that <strong>clean</strong> <strong>your</strong> <strong>lungs</strong> naturally: These foods cleanse <strong>your</strong> <strong>lungs</strong> in a natural way and help in strengthening immunity.",
+        "page_age": "2020-04-16T04:30:00",
+        "profile": {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/life-style/food-news/foods-that-clean-your-lungs-naturally/photostory/75164760.cms",
+          "long_name": "timesofindia.indiatimes.com",
+          "img": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timesofindia.indiatimes.com",
+          "hostname": "timesofindia.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+          "path": "  › news  › lifestyle  › food-news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/yowV8hB50H8IW3g0c59z7bPwwCaNZ79uBdZuvognkkA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS9waG90by83NTE2/OTA5NS5jbXM",
+          "original": "https://static.toiimg.com/photo/75169095.cms",
+          "logo": false
+        },
+        "age": "April 16, 2020"
+      },
+      {
+        "title": "22 Foods and Drinks to Help Repair Your Lungs and Make Them Stronger",
+        "url": "https://www.medicinenet.com/22_foods_and_drinks_to_help_repair_your_lungs/article.htm",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Learn about foods that benefit your respiratory system. What you eat and drink can help <strong>your</strong> <strong>lungs</strong> stay strong and avoid diseases.",
+        "page_age": "2023-01-23T19:00:00",
+        "profile": {
+          "name": "MedicineNet",
+          "url": "https://www.medicinenet.com/22_foods_and_drinks_to_help_repair_your_lungs/article.htm",
+          "long_name": "medicinenet.com",
+          "img": "https://imgs.search.brave.com/tmB3NiOXhF7_obCNuEQcemt5Ybb9Q5h85pJZ7OEtqxA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTFlZGVjZjFj/MThkNzMzMDZkMGMx/YmY2NTZjYWYzMTdh/OTdmMjZhZDM4ZDI5/M2MyNjYyOWU2ZTkw/Mjg3YzBkZi93d3cu/bWVkaWNpbmVuZXQu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "medicinenet.com",
+          "hostname": "www.medicinenet.com",
+          "favicon": "https://imgs.search.brave.com/tmB3NiOXhF7_obCNuEQcemt5Ybb9Q5h85pJZ7OEtqxA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTFlZGVjZjFj/MThkNzMzMDZkMGMx/YmY2NTZjYWYzMTdh/OTdmMjZhZDM4ZDI5/M2MyNjYyOWU2ZTkw/Mjg3YzBkZi93d3cu/bWVkaWNpbmVuZXQu/Y29tLw",
+          "path": "› 22_foods_and_drinks_to_help_repair_your_lungs  › article.htm"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/YWo-80G4T5Xff6--VGJWn1nRB8YqZFDsgxRRTuYqofk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMubWVkaWNpbmVu/ZXQuY29tL2ltYWdl/cy9mYWNlYm9vay9t/ZWRpY2luZW5ldC9m/Yi1tbmV0LWRlZmF1/bHQuanBn",
+          "original": "https://images.medicinenet.com/images/facebook/medicinenet/fb-mnet-default.jpg",
+          "logo": false
+        },
+        "age": "January 23, 2023"
+      },
+      {
+        "title": "How To Cleanse Your Lungs Naturally - Pacific Eye & Ear Specialists",
+        "url": "https://www.pacificheadandneck.com/blog/how-to-cleanse-your-lungs-naturally/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Republished from MedicalNewsToday.comLung cleansing techniques may benefit people who smoke, people who get regular exposure to air pollution, and those with chronic conditions that affect the respiratory system, such as asthma, chronic obstructive pulmonary disease, and cystic fibrosis.",
+        "page_age": "2021-12-03T17:59:33",
+        "profile": {
+          "name": "Pacificheadandneck",
+          "url": "https://www.pacificheadandneck.com/blog/how-to-cleanse-your-lungs-naturally/",
+          "long_name": "pacificheadandneck.com",
+          "img": "https://imgs.search.brave.com/8LOjBrryxjui3dV5tCJ94Cw5d2egeNsrId8pI6otp0Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWYxZGI4Mjcy/NWU1M2E4ZThkOGMz/OTBhMDJmMTAyZTll/YmY3Y2I4ZGIwNjhi/MzBmYjJjNGYwMTM2/ZmJmNWQ1YS93d3cu/cGFjaWZpY2hlYWRh/bmRuZWNrLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pacificheadandneck.com",
+          "hostname": "www.pacificheadandneck.com",
+          "favicon": "https://imgs.search.brave.com/8LOjBrryxjui3dV5tCJ94Cw5d2egeNsrId8pI6otp0Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWYxZGI4Mjcy/NWU1M2E4ZThkOGMz/OTBhMDJmMTAyZTll/YmY3Y2I4ZGIwNjhi/MzBmYjJjNGYwMTM2/ZmJmNWQ1YS93d3cu/cGFjaWZpY2hlYWRh/bmRuZWNrLmNvbS8",
+          "path": "  › home  › blog  › how to cleanse your lungs naturally"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/OfUy2laJ4ddOfR3RQ5IK4-MShNtxNgPrzf2Tqb_QLUs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly_igIt3/d3cucGFjaWZpY2hl/YWRhbmRuZWNrLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MS8wNi9QYWNpZmlj/SGVhZE5lY2stZnVs/bC5wbmc",
+          "original": "https://​www.pacificheadandneck.com/wp-content/uploads/2021/06/PacificHeadNeck-full.png",
+          "logo": false
+        },
+        "age": "December 3, 2021"
+      },
+      {
+        "title": "8 Ways to Detoxify your Lungs - Eternal Health",
+        "url": "https://eternalhealth.net/detoxify-lungs/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "To make the tea, boil <strong>1</strong> teaspoon ... in <strong>1</strong> or 1½ <strong>cups</strong> of water. Allow it to simmer for 10 minutes, strain and add a little lemon juice and honey for taste. Also include raw ginger in your cooking and/or as I stated above, you can also use a thumb of ginger in your vegetable juicing every <strong>day</strong>. NOTE: People who take heart or high blood pressure medications should avoid taking ginger in excess. ... Peppermint is another good option for cleansing <strong>your</strong> <strong>lungs</strong>...",
+        "page_age": "2019-01-31T12:37:45",
+        "profile": {
+          "name": "Eternal Health",
+          "url": "https://eternalhealth.net/detoxify-lungs/",
+          "long_name": "eternalhealth.net",
+          "img": "https://imgs.search.brave.com/FdnLr-F61U8VXhuQSBcmdYsfrdwPXV4Pp7un4Y_hUps/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGM4M2ViMGIw/OWM3MDllZmVmMzVk/YWJiYzQ0MmI1MTUw/YTQ2NjMwZmZmMDgz/MmIyMjgyZTYzMTZi/ZTY4OTAwMy9ldGVy/bmFsaGVhbHRoLm5l/dC8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "eternalhealth.net",
+          "hostname": "eternalhealth.net",
+          "favicon": "https://imgs.search.brave.com/FdnLr-F61U8VXhuQSBcmdYsfrdwPXV4Pp7un4Y_hUps/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGM4M2ViMGIw/OWM3MDllZmVmMzVk/YWJiYzQ0MmI1MTUw/YTQ2NjMwZmZmMDgz/MmIyMjgyZTYzMTZi/ZTY4OTAwMy9ldGVy/bmFsaGVhbHRoLm5l/dC8",
+          "path": "  › home  › blog  › 8 ways to detoxify your lungs"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/3JVA6st96fWN47FWGldwS406c32SU8nkc5ocXZkt4MM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ldGVy/bmFsaGVhbHRoLm5l/dC93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OS8wMS9kZXRveGlm/eS1sdW5ncy5qcGc",
+          "original": "https://eternalhealth.net/wp-content/uploads/2019/01/detoxify-lungs.jpg",
+          "logo": false
+        },
+        "age": "January 31, 2019"
+      },
+      {
+        "title": "9 Tips for Healthy Lungs | Rush",
+        "url": "https://www.rush.edu/news/9-tips-healthy-lungs",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Like the rest of our body, our <strong>lungs</strong> need daily care.",
+        "profile": {
+          "name": "Rush",
+          "url": "https://www.rush.edu/news/9-tips-healthy-lungs",
+          "long_name": "rush.edu",
+          "img": "https://imgs.search.brave.com/AVMFivLGrFoe29-4CL4-uqxtR5enF5ZKsLFASdfYl5w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWE3MmZlYWEx/MDc3YmFiMWQxYmY5/OGExYWFkZGUzYTMz/MTQ3YWIyZWUxMzg0/NDc2NzBmM2ExY2Nj/NmRkMGJmOC93d3cu/cnVzaC5lZHUv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "rush.edu",
+          "hostname": "www.rush.edu",
+          "favicon": "https://imgs.search.brave.com/AVMFivLGrFoe29-4CL4-uqxtR5enF5ZKsLFASdfYl5w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWE3MmZlYWEx/MDc3YmFiMWQxYmY5/OGExYWFkZGUzYTMz/MTQ3YWIyZWUxMzg0/NDc2NzBmM2ExY2Nj/NmRkMGJmOC93d3cu/cnVzaC5lZHUv",
+          "path": "› news  › 9-tips-healthy-lungs"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/aa39yCiDt5xwWCu4DoS85ZYrxO-VraZoeoy1XAoi3QI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cnVzaC5lZHUvc2l0/ZXMvZGVmYXVsdC9m/aWxlcy9tZWRpYS1p/bWFnZXMvbWFuLWJy/ZWF0aGluZy1mcmVz/aC1haXItb2cuanBn",
+          "original": "https://www.rush.edu/sites/default/files/media-images/man-breathing-fresh-air-og.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Do You Need to Detox Your Lungs? Tips for Giving Your Lungs a Breather",
+        "url": "https://www.health.com/lung-detox-8431745",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>A</strong> <strong>lung</strong> detox claims to improve the health and cleansing of the <strong>lungs</strong>. Here&#x27;s how to support <strong>your</strong> <strong>lungs</strong>&#x27; natural detoxification process and maintain <strong>lung</strong> health.",
+        "profile": {
+          "name": "Health",
+          "url": "https://www.health.com/lung-detox-8431745",
+          "long_name": "health.com",
+          "img": "https://imgs.search.brave.com/Uo4NfQ3xB2hi0g8sXPnWfQ-3kOnwCh2QIOd7UzMYLSo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWVhYzhmYjIw/ZGJkOTQ1NDI2MjI4/OWZjN2NiMWFiMzAw/MzllOTE2YTc1Mjll/MjIwZDUzYmNhMGE5/NjRhMTkyZC93d3cu/aGVhbHRoLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "health.com",
+          "hostname": "www.health.com",
+          "favicon": "https://imgs.search.brave.com/Uo4NfQ3xB2hi0g8sXPnWfQ-3kOnwCh2QIOd7UzMYLSo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWVhYzhmYjIw/ZGJkOTQ1NDI2MjI4/OWZjN2NiMWFiMzAw/MzllOTE2YTc1Mjll/MjIwZDUzYmNhMGE5/NjRhMTkyZC93d3cu/aGVhbHRoLmNvbS8",
+          "path": "› lung-detox-8431745"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/3Twraj0xdkaiUTxq1r0oM7BelvT8iCLI4OcUdR2xU58/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aGVhbHRoLmNvbS90/aG1iL25ldjQyOUlL/RmZPSTltMzduaFV1/Z2RmenB0Yz0vMTUw/MHgwL2ZpbHRlcnM6/bm9fdXBzY2FsZSgp/Om1heF9ieXRlcygx/NTAwMDApOnN0cmlw/X2ljYygpL0dldHR5/SW1hZ2VzLTE0NzAz/NDk1MDEtNDQ2YTli/MGMzYTZhNDA1ZWEx/ZDVkZjM3NWQ1YzRh/Y2QuanBn",
+          "original": "https://www.health.com/thmb/nev429IKFfOI9m37nhUugdfzptc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1470349501-446a9b0c3a6a405ea1d5df375d5c4acd.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Six Detox Drinks You Should Take to Cleanse Your Lungs – Qraa men",
+        "url": "https://www.qraamen.com/blogs/news/six-detox-drinks-you-should-take-to-cleanse-your-lungs",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Lungs</strong> require regular cleansing through drinks and methods which can detox them. In this article, we bring you the six most effective homemade drinks. know more",
+        "page_age": "2023-02-28T13:58:53",
+        "profile": {
+          "name": "Qraa men",
+          "url": "https://www.qraamen.com/blogs/news/six-detox-drinks-you-should-take-to-cleanse-your-lungs",
+          "long_name": "qraamen.com",
+          "img": "https://imgs.search.brave.com/B3CHr7dBmgLxu9O9jKcVj5qqMuOMCKUDbGAkhjWJ15E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzY4NGFlZTE0/NDdkYmY2MjM0M2Jh/NDJhNzg1YmQzYjdi/ODY2MWE4ODU4ZWJh/NmM5NjQxYjhiYTFm/MzE3Njk0OC93d3cu/cXJhYW1lbi5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "qraamen.com",
+          "hostname": "www.qraamen.com",
+          "favicon": "https://imgs.search.brave.com/B3CHr7dBmgLxu9O9jKcVj5qqMuOMCKUDbGAkhjWJ15E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzY4NGFlZTE0/NDdkYmY2MjM0M2Jh/NDJhNzg1YmQzYjdi/ODY2MWE4ODU4ZWJh/NmM5NjQxYjhiYTFm/MzE3Njk0OC93d3cu/cXJhYW1lbi5jb20v",
+          "path": "› blogs  › news  › six-detox-drinks-you-should-take-to-cleanse-your-lungs"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/JjiJtBqYNUGuwE_ig8VbU03OC-fmQQWT8yBUJy0hC_o/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cXJhYW1lbi5jb20v/Y2RuL3Nob3AvYXJ0/aWNsZXMvR2luZ2Vy/XzEyMDB4LmpwZz92/PTE2Nzc1NzI5MzQ",
+          "original": "https://www.qraamen.com/cdn/shop/articles/Ginger_1200x.jpg?v=1677572934",
+          "logo": false
+        },
+        "age": "February 28, 2023"
+      }
+    ],
+    "family_friendly": true
+  }
+}

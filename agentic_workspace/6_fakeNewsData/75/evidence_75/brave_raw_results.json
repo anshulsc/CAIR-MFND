@@ -1,0 +1,908 @@
+{
+  "query": {
+    "original": "#HappyDeepavali With love from Nagaland,Dimapur stadium #Deepavali2024 celebration",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "videos",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=zKEkrm1YpWw&pp=0gcJCfwAo7VqN5tD",
+        "title": "Diwali celebrations go mainstream across the U.S. as South Asians ...",
+        "description": "The Indian Festival of Lights is now celebrated at the White House and in schools across 26 states. Shanelle Kaul shows how a new generation of South Asian A...",
+        "age": "October 30, 2024",
+        "page_age": "2024-10-30T14:29:55",
+        "fetched_content_timestamp": 1751116364,
+        "video": {
+          "duration": "05:14",
+          "creator": "CBS Mornings",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/n36NYvmZCbw3yPcZZ_hkQp7j2T1B0JmPUNnq8wqZQuQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS96/S0Vrcm0xWXBXdy9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/zKEkrm1YpWw/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=_tbVXgjZ_fk&pp=0gcJCdgAo7VqN5tD",
+        "title": "Here's a look at how thousands celebrated Diwali Festival of Lights ...",
+        "description": "Residents in the Bay Area gathered from all over to celebrate Diwali -- the Festival of Lights in Fremont. \"It's a great occasion to wish for gratitude and w...",
+        "age": "November 2, 2024",
+        "page_age": "2024-11-02T18:10:30",
+        "fetched_content_timestamp": 1748391863,
+        "video": {
+          "duration": "02:11",
+          "creator": "ABC7 News Bay Area",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/zhTv066ycawhQplZ7NZNYPUd_QL9lYuB1ZZXitwoCUc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9f/dGJWWGdqWl9may9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/_tbVXgjZ_fk/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=sqGC9ghyuHg",
+        "title": "Diwali celebrations across the world | Reports from UAE & US",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "fetched_content_timestamp": 1658577857,
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/4uQ_fJNEJYbO8hpkZEclkslFiMH2MigACTQC5F4bKoY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9z/cUdDOWdoeXVIZy9o/cWRlZmF1bHQuanBn",
+          "original": "https://i.ytimg.com/vi/sqGC9ghyuHg/hqdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=WhOcX9Lh0-o",
+        "title": "Diwali 2024 LIVE: People Around The World Celebrates The Festival ...",
+        "description": "Diwali celebrations begin around the world with colourful lights and festive fervor. Markets around India and the world decked up as shoppers throng for Diwa...",
+        "age": "October 30, 2024",
+        "page_age": "2024-10-30T09:19:40",
+        "fetched_content_timestamp": 1733501228,
+        "video": {
+          "duration": "02:22:35",
+          "views": 29558,
+          "creator": "WION",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/NXPLFezNr1r3mmmtnLsHY8jYbmLMJRn7_td2zgUZnWE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9X/aE9jWDlMaDAtby9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/WhOcX9Lh0-o/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=6FUXL2BJMCY",
+        "title": "Diwali 2024: World Is Decked Up For Festival Of Lights | WION ...",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "fetched_content_timestamp": 1658577857,
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/GEdG4_fdm8O2l5BPtEWpe-gHmWBf-6SumbZIYIRgEH0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS82/RlVYTDJCSk1DWS9o/cWRlZmF1bHQuanBn",
+          "original": "https://i.ytimg.com/vi/6FUXL2BJMCY/hqdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=EsAtFQdjcHg",
+        "title": "Diwali at Times Square seeks to promote Indian culture | DD India ...",
+        "description": "New York City’s Mayor Eric Adams lit the diya and kickstarted Diwali festivity at the iconic Times Square even as the crowd swelled to about 15,000 who relis...",
+        "age": "October 22, 2024",
+        "page_age": "2024-10-22T05:44:24",
+        "fetched_content_timestamp": 1729591826,
+        "video": {
+          "duration": "03:16",
+          "views": 242,
+          "creator": "DD India",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/IZdCIZTZ3iHzJv8r4ABHTmqBhL4yEucJnWo3i0L_G7Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9F/c0F0RlFkamNIZy9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/EsAtFQdjcHg/maxresdefault.jpg"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Nagaland Cricket Stadium Sovima in Dimapur - Book Cricket Ground - CricHeroes",
+        "url": "https://cricheroes.com/cricket-ground-detail/575917/dimapur/nagaland-cricket-stadium-sovima",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Book <strong>Nagaland</strong> Cricket <strong>Stadium</strong> Sovima in <strong>Dimapur</strong> for your next match or event. Explore cricket facilities and reserve your spot on CricHeroes.",
+        "profile": {
+          "name": "CricHeroes",
+          "url": "https://cricheroes.com/cricket-ground-detail/575917/dimapur/nagaland-cricket-stadium-sovima",
+          "long_name": "cricheroes.com",
+          "img": "https://imgs.search.brave.com/_nfPiA12pSyuXCWlyDEFXhUaIO4Vp4AO1iqRVwJMZ4A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ4NzkxOTdh/MDQyNTI4ZWFjZWZm/MTdmODdhZWRmMmU3/OTZiN2E3N2Q5OGUy/NTllMjAzNDRiYmJj/Yjk5OTc1MS9jcmlj/aGVyb2VzLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "location",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "cricheroes.com",
+          "hostname": "cricheroes.com",
+          "favicon": "https://imgs.search.brave.com/_nfPiA12pSyuXCWlyDEFXhUaIO4Vp4AO1iqRVwJMZ4A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ4NzkxOTdh/MDQyNTI4ZWFjZWZm/MTdmODdhZWRmMmU3/OTZiN2E3N2Q5OGUy/NTllMjAzNDRiYmJj/Yjk5OTc1MS9jcmlj/aGVyb2VzLmNvbS8",
+          "path": "› cricket-ground-detail  › 575917  › dimapur  › nagaland-cricket-stadium-sovima"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/tHogiM1oQoHs7b0TZyEEPXG3m2uqBaimoTgjI0OpC2M/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jcmljaGVyb2Vz/LmluL2RlZmF1bHQv/ZGVmYXVsdF9ncm91/bmQucG5n",
+          "original": "https://media.cricheroes.in/default/default_ground.png",
+          "logo": false
+        }
+      },
+      {
+        "title": "Diwali - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Diwali",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Diwali (English: /dɪˈwɑːliː/), also called Deepavali (IAST: Dīpāvalī) or Deepawali (IAST: Dīpāwalī), is the Hindu festival of lights, with variations <strong>celebrated</strong> in other Indian religions such as Jainism and Sikhism. It symbolises the spiritual victory of Dharma over Adharma, light ...",
+        "page_age": "2025-06-28T19:44:17",
+        "profile": {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Diwali",
+          "long_name": "en.wikipedia.org",
+          "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "deep_results": {
+          "buttons": [
+            {
+              "type": "button_result",
+              "title": "Etymology",
+              "url": "https://en.wikipedia.org/wiki/Diwali#Etymology"
+            },
+            {
+              "type": "button_result",
+              "title": "Dates",
+              "url": "https://en.wikipedia.org/wiki/Diwali#Dates"
+            },
+            {
+              "type": "button_result",
+              "title": "History",
+              "url": "https://en.wikipedia.org/wiki/Diwali#History"
+            },
+            {
+              "type": "button_result",
+              "title": "Religious significance",
+              "url": "https://en.wikipedia.org/wiki/Diwali#Religious_significance"
+            },
+            {
+              "type": "button_result",
+              "title": "Celebrations",
+              "url": "https://en.wikipedia.org/wiki/Diwali#Celebrations"
+            },
+            {
+              "type": "button_result",
+              "title": "Other traditions and significance",
+              "url": "https://en.wikipedia.org/wiki/Diwali#Other_traditions_and_significance"
+            },
+            {
+              "type": "button_result",
+              "title": "Hazards",
+              "url": "https://en.wikipedia.org/wiki/Diwali#Hazards"
+            },
+            {
+              "type": "button_result",
+              "title": "Guinness World Record",
+              "url": "https://en.wikipedia.org/wiki/Diwali#Guinness_World_Record"
+            }
+          ]
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "en.wikipedia.org",
+          "hostname": "en.wikipedia.org",
+          "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+          "path": "› wiki  › Diwali"
+        },
+        "age": "1 month ago"
+      },
+      {
+        "title": "DDSC stadium Dimapur`, Nagaland... | MorungExpress | morungexpress.com",
+        "url": "https://morungexpress.com/ddsc-stadium-dimapur-nagaland",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Mahila Bn parade contingents taking part in the 70th Republic Day <strong>celebration</strong> parade march at DDSC <strong>stadium</strong> <strong>Dimapur</strong> on January 26. (Morung Photo by Soreishim Mahong) · Do you think social media platforms are strengthening or weakening journalism in <strong>Nagaland</strong>? Why",
+        "profile": {
+          "name": "MorungExpress",
+          "url": "https://morungexpress.com/ddsc-stadium-dimapur-nagaland",
+          "long_name": "morungexpress.com",
+          "img": "https://imgs.search.brave.com/gvw2BeuVJWJmSXbnNbHn8u2vdfQnkdhQWPqxF4Pokd0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDViMTNjOWI5/NjlhMTJkMzYyMzRi/ZDM3MjIyNDA5NzVh/OWZiM2RlODk1OGYy/ZGFjNWQ5NmQwNzQ1/ODk0MzBjNC9tb3J1/bmdleHByZXNzLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "morungexpress.com",
+          "hostname": "morungexpress.com",
+          "favicon": "https://imgs.search.brave.com/gvw2BeuVJWJmSXbnNbHn8u2vdfQnkdhQWPqxF4Pokd0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDViMTNjOWI5/NjlhMTJkMzYyMzRi/ZDM3MjIyNDA5NzVh/OWZiM2RlODk1OGYy/ZGFjNWQ5NmQwNzQ1/ODk0MzBjNC9tb3J1/bmdleHByZXNzLmNv/bS8",
+          "path": "› ddsc-stadium-dimapur-nagaland"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/9-25jC_4n4lQzhRKAhq3D5CbWsyAr9j1oCASS825tsE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tb3J1/bmdleHByZXNzLmNv/bS9wdWJsaWMvZnJv/bnQvaW1hZ2VzL21v/cnVuZ19sb2dvMjAx/Ny5wbmc",
+          "original": "https://morungexpress.com/public/front/images/morung_logo2017.png",
+          "logo": true
+        }
+      },
+      {
+        "title": "Diwali—Festival of Lights | National Geographic Kids",
+        "url": "https://kids.nationalgeographic.com/pages/article/diwali",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Learn about India&#x27;s biggest holiday of the year · Diwali, or Dipawali, is India&#x27;s biggest and most important holiday of the year. The festival gets its name from the row (avali) of clay lamps (deepa) that Indians light outside their homes to symbolize the inner light that protects from spiritual ...",
+        "page_age": "2022-10-24T13:39:51",
+        "profile": {
+          "name": "National Geographic Kids",
+          "url": "https://kids.nationalgeographic.com/pages/article/diwali",
+          "long_name": "kids.nationalgeographic.com",
+          "img": "https://imgs.search.brave.com/zI5puX3qs6tqvFAewQn4cR5y-pmScOxns6yGGPCBY8E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzg0MTRmY2Nm/MmU5NGZlNmY4NDY5/MTAxZjRkNGFlZmMx/OTAwMzFkNWJiYWMz/ZGI3Y2M2ZGZjZjE4/OTgzNmRlNi9raWRz/Lm5hdGlvbmFsZ2Vv/Z3JhcGhpYy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "kids.nationalgeographic.com",
+          "hostname": "kids.nationalgeographic.com",
+          "favicon": "https://imgs.search.brave.com/zI5puX3qs6tqvFAewQn4cR5y-pmScOxns6yGGPCBY8E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzg0MTRmY2Nm/MmU5NGZlNmY4NDY5/MTAxZjRkNGFlZmMx/OTAwMzFkNWJiYWMz/ZGI3Y2M2ZGZjZjE4/OTgzNmRlNi9raWRz/Lm5hdGlvbmFsZ2Vv/Z3JhcGhpYy5jb20v",
+          "path": "› pages  › article  › diwali"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/TU4fDI1_8bdZM1dbwT8ELrJ4_ZXQWoHfVFW_CuNx99U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLm5h/dGdlb2ZlLmNvbS9r/Lzc4YjRiYWQwLWRj/OWMtNGU0MC1hYzNj/LWM3NTNlN2E4Y2Fm/Ni9kaXdhbGlfbGFt/cHMtY3JvcF8xNng5/LmpwZz93PTEyMDA",
+          "original": "https://i.natgeofe.com/k/78b4bad0-dc9c-4e40-ac3c-c753e7a8caf6/diwali_lamps-crop_16x9.jpg?w=1200",
+          "logo": false
+        },
+        "age": "October 24, 2022"
+      },
+      {
+        "title": "Diwali 2024 Calendar: What are the 5 Days of Diwali? Know here | - Times of India",
+        "url": "https://timesofindia.indiatimes.com/religion/festivals/diwali-2024-calendar-what-are-the-5-days-of-diwali-know-here/articleshow/114212670.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Festivals News: Diwali 2024 is celebrated on <strong>October 31,</strong> amidst a series of vibrant festivities. Key rituals span from Dhanteras on October 29, including prayers to G",
+        "page_age": "2024-10-29T03:59:00",
+        "profile": {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/religion/festivals/diwali-2024-calendar-what-are-the-5-days-of-diwali-know-here/articleshow/114212670.cms",
+          "long_name": "timesofindia.indiatimes.com",
+          "img": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timesofindia.indiatimes.com",
+          "hostname": "timesofindia.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+          "path": "  › news  › religion news  › festivals news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/oVXTn5SITPBESaHd1WYToiM2kWBOuTLRe1as364Fg64/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9yZXNp/emVtb2RlLTQsd2lk/dGgtMTI4MCxoZWln/aHQtNzIwLG1zaWQt/MTE0MjE1ODg0LzEx/NDIxNTg4NC5qcGc",
+          "original": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-114215884/114215884.jpg",
+          "logo": false
+        },
+        "age": "October 29, 2024"
+      },
+      {
+        "title": "Diwali/Deepavali 2025 in India",
+        "url": "https://www.timeanddate.com/holidays/india/diwali",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Diwali (Dīvali, Dīpāwali, Deepavali, Dipabali) is a festival of lights and is a gazetted holiday in India. Followers of Buddhism, Hinduism, Jainism and Sikhism observe various customs related to Diwali.",
+        "profile": {
+          "name": "Time and Date",
+          "url": "https://www.timeanddate.com/holidays/india/diwali",
+          "long_name": "timeanddate.com",
+          "img": "https://imgs.search.brave.com/cKro6q4GKjVXGWdCdYtANWvlZ7h-UszLpG5OGUxsboQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDY1MjI3ZTE2/ZjA3Y2YzYWFiZTU3/NDg3NDUzNTUyNGZj/N2RlMDA3ODA3Y2Yz/NjBhZGFjYjk1NzQ5/MWViNzIwOC93d3cu/dGltZWFuZGRhdGUu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timeanddate.com",
+          "hostname": "www.timeanddate.com",
+          "favicon": "https://imgs.search.brave.com/cKro6q4GKjVXGWdCdYtANWvlZ7h-UszLpG5OGUxsboQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDY1MjI3ZTE2/ZjA3Y2YzYWFiZTU3/NDg3NDUzNTUyNGZj/N2RlMDA3ODA3Y2Yz/NjBhZGFjYjk1NzQ5/MWViNzIwOC93d3cu/dGltZWFuZGRhdGUu/Y29tLw",
+          "path": "  › calendar  › holidays  › india  › diwali/deepavali"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/1uUjdQsZmgZw9zmt-_Oo0CCDu4pHTb3NuwCaG2gstsM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLnRh/ZHN0LmNvbS9nZngv/OTAweDUwNi9mYXRo/ZXItZGF1Z2h0ZXIt/cGxheWluZy1zcGFy/a2xlcy5qcGc",
+          "original": "https://c.tadst.com/gfx/900x506/father-daughter-playing-sparkles.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Diwali 2024: Know the date, puja timings, history, and significance behind Deepavali",
+        "url": "https://indianexpress.com/article/lifestyle/life-style/diwali-2024-date-puja-timings-history-significance-9643992/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Diwali (Deepavali) 2024 Date, Timings in India: The Festival of Lights will be held on <strong>Thursday, October 31, 2024</strong>. Find below the table for the five-day Diwali festivities that will be celebrated across India.",
+        "page_age": "2024-10-30T02:44:21",
+        "profile": {
+          "name": "The Indian Express",
+          "url": "https://indianexpress.com/article/lifestyle/life-style/diwali-2024-date-puja-timings-history-significance-9643992/",
+          "long_name": "indianexpress.com",
+          "img": "https://imgs.search.brave.com/4SjuU0Nl8aLEWO4BDayJHVXWCRSuG_vGZkIWx7VpdeA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2QwNGY1YWRi/MjNhNmY1YjgxYTJl/MzNjOWMyMDlkY2Iw/MmYxMGNiMmFmODcx/MDg3ZDgxMTFiZmMz/NjlkNDBkZi9pbmRp/YW5leHByZXNzLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "indianexpress.com",
+          "hostname": "indianexpress.com",
+          "favicon": "https://imgs.search.brave.com/4SjuU0Nl8aLEWO4BDayJHVXWCRSuG_vGZkIWx7VpdeA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2QwNGY1YWRi/MjNhNmY1YjgxYTJl/MzNjOWMyMDlkY2Iw/MmYxMGNiMmFmODcx/MDg3ZDgxMTFiZmMz/NjlkNDBkZi9pbmRp/YW5leHByZXNzLmNv/bS8",
+          "path": "  › news  › lifestyle  › life-style"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/98frU_tLxNph_RRazIvhOxmaqYWwa7gcaobJKEWVp9E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaW5kaWFuZXhw/cmVzcy5jb20vMjAy/NC8xMC9FWFBSRVNT/LVBIT1RPLUJZLVJB/TkEtU0lNUkFOSklU/LVNJTkdIXzIwMjQx/MDI5MDYyNTAxLmpw/Zw",
+          "original": "https://images.indianexpress.com/2024/10/EXPRESS-PHOTO-BY-RANA-SIMRANJIT-SINGH_20241029062501.jpg",
+          "logo": false
+        },
+        "age": "October 30, 2024"
+      },
+      {
+        "title": "Happy Diwali 2024: 25+ Deepavali Wishes, Messages, And Greetings To Share On Festival Day",
+        "url": "https://www.freepressjournal.in/lifestyle/happy-diwali-2024-25-deepavali-wishes-messages-and-greetings-to-share-on-festival-day",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "According to Drik Panchang, this year, Diwali will be observed on <strong>Thursday, October 31, 2024</strong>. Lakshmi Puja is scheduled for the same day as the Amavasya moon will be visible on the evening of October 31.",
+        "page_age": "2024-10-29T13:48:06",
+        "profile": {
+          "name": "The Free Press Journal",
+          "url": "https://www.freepressjournal.in/lifestyle/happy-diwali-2024-25-deepavali-wishes-messages-and-greetings-to-share-on-festival-day",
+          "long_name": "freepressjournal.in",
+          "img": "https://imgs.search.brave.com/iKyLP-y39eJYV94yRFKch3Lz_AJ-xY-RtG_ejvlbx_E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzAwZTMzMTYz/ODJhYjlkNDcxZmM5/MmU1YzQzZmI5MWIz/NTY2YWY3NWY2N2I0/ZjQ1ZmNiNjhlODUz/YWNhZDBlMS93d3cu/ZnJlZXByZXNzam91/cm5hbC5pbi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "freepressjournal.in",
+          "hostname": "www.freepressjournal.in",
+          "favicon": "https://imgs.search.brave.com/iKyLP-y39eJYV94yRFKch3Lz_AJ-xY-RtG_ejvlbx_E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzAwZTMzMTYz/ODJhYjlkNDcxZmM5/MmU1YzQzZmI5MWIz/NTY2YWY3NWY2N2I0/ZjQ1ZmNiNjhlODUz/YWNhZDBlMS93d3cu/ZnJlZXByZXNzam91/cm5hbC5pbi8",
+          "path": "  › home  › fpj shorts  › topnews  › spirituality  › featured news  › lifestyle  › happy diwali 2024: 25+ deepavali wishes, messages, and greetings to share on festival day"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/q2SvD6oly3u7Pdw07xtULGu1hBoysrs9U-tag2JAOMM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mZWEu/YXNzZXR0eXBlLmNv/bS9mcmVlcHJlc3Nq/b3VybmFsL2Fzc2V0/cy9sb2dvLTYwMHg2/MC5wbmc",
+          "original": "https://fea.assettype.com/freepressjournal/assets/logo-600x60.png",
+          "logo": true
+        },
+        "age": "October 29, 2024"
+      },
+      {
+        "title": "Deepawali 2024 Date: Diwali Kab Hai? All You Need to Know About the 5 Days Festival of Lights and Decoration",
+        "url": "https://www.jagranjosh.com/general-knowledge/when-is-diwali-2024-date-1728029096-1",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Diwali 2024: Deepawali, the festival of lights is an annual hindu festival <strong>celebration</strong> in the month of October or November. Check out all about the 5-day Hindu observance and its significance.",
+        "page_age": "2024-10-26T13:37:56",
+        "profile": {
+          "name": "Jagran Josh",
+          "url": "https://www.jagranjosh.com/general-knowledge/when-is-diwali-2024-date-1728029096-1",
+          "long_name": "jagranjosh.com",
+          "img": "https://imgs.search.brave.com/g3RCiDLVnHZjvjRsOLhTsaUVU_mJaV4HVIpwbHioMHk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGI0YzA0YzJm/MWVmYzdjM2QzZmZj/MWFkOWYzZWE0MDBi/YzYwZTZjZmYwMDJj/YWNkMDQzZDQxNDY0/M2UyNzgzZS93d3cu/amFncmFuam9zaC5j/b20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "jagranjosh.com",
+          "hostname": "www.jagranjosh.com",
+          "favicon": "https://imgs.search.brave.com/g3RCiDLVnHZjvjRsOLhTsaUVU_mJaV4HVIpwbHioMHk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGI0YzA0YzJm/MWVmYzdjM2QzZmZj/MWFkOWYzZWE0MDBi/YzYwZTZjZmYwMDJj/YWNkMDQzZDQxNDY0/M2UyNzgzZS93d3cu/amFncmFuam9zaC5j/b20v",
+          "path": "  › home  › general knowledge  › current gk"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/4zcz_A3mt6_hAK4Tp9TY_NDQGvBPIgbkGArX-OpgWeo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/amFncmFuam9zaC5j/b20vaW1hZ2VzLzIw/MjQvT2N0b2Jlci80/MTAyMDI0L2Rpd2Fs/aS1jYWxlbmRhci5q/cGc",
+          "original": "https://img.jagranjosh.com/images/2024/October/4102024/diwali-calendar.jpg",
+          "logo": false
+        },
+        "age": "October 26, 2024"
+      },
+      {
+        "title": "Diwali 2025: What Is Diwali? | Dates and Traditions | The Old Farmer's Almanac",
+        "url": "https://www.almanac.com/content/diwali",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Diwali is an annual holiday <strong>celebrated</strong> in India, Singapore, and several other South Asian countries. Learn about Diwali, when it occurs, and common traditions associated with it.",
+        "profile": {
+          "name": "The Old Farmer's Almanac",
+          "url": "https://www.almanac.com/content/diwali",
+          "long_name": "almanac.com",
+          "img": "https://imgs.search.brave.com/GrnedwBsHjwewUEa7bgxivbY-FYBzLhs4HMssir8Srw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTk0Yzc5ZDJk/MTY0MWRiZTcxMThj/MzQ2MmMxOTY1MDgw/ZDBiNmRiMDBkMDNm/NzIwZjZhMDc4YjQx/MDVlN2E0Yi93d3cu/YWxtYW5hYy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "almanac.com",
+          "hostname": "www.almanac.com",
+          "favicon": "https://imgs.search.brave.com/GrnedwBsHjwewUEa7bgxivbY-FYBzLhs4HMssir8Srw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTk0Yzc5ZDJk/MTY0MWRiZTcxMThj/MzQ2MmMxOTY1MDgw/ZDBiNmRiMDBkMDNm/NzIwZjZhMDc4YjQx/MDVlN2E0Yi93d3cu/YWxtYW5hYy5jb20v",
+          "path": "› content  › diwali"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/fzHCg2BONZ_Y6CBAKiN5mlZ0e_HSEUt_XfE8hhESDnc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxtYW5hYy5jb20v/c2l0ZXMvZGVmYXVs/dC9maWxlcy9zdHls/ZXMvbGFyZ2UvcHVi/bGljL2ltYWdlX25v/ZGVzL3NodXR0ZXJz/dG9ja183MDkyMzkz/NTguanBnP2l0b2s9/TjFJaTZqbU0",
+          "original": "https://www.almanac.com/sites/default/files/styles/large/public/image_nodes/shutterstock_709239358.jpg?itok=N1Ii6jmM",
+          "logo": false
+        }
+      },
+      {
+        "title": "Diwali 2024 Date: Is Deepawali on October 31 or November 1, 2024? Know Exact Date and Significance | - The Times of India",
+        "url": "https://timesofindia.indiatimes.com/religion/festivals/diwali-2024-date-is-deepawali-on-october-31-or-november-1-2024-know-exact-date-and-significance/articleshow/114338874.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Festivals News: Diwali, the festival of lights, is set for <strong>October 31, 2024</strong>. Celebrated on Amavasya Tithi in Kartik month, it marks Lord Rama&#x27;s return to Ayodhya. Thi",
+        "page_age": "2024-10-30T06:08:00",
+        "profile": {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/religion/festivals/diwali-2024-date-is-deepawali-on-october-31-or-november-1-2024-know-exact-date-and-significance/articleshow/114338874.cms",
+          "long_name": "timesofindia.indiatimes.com",
+          "img": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timesofindia.indiatimes.com",
+          "hostname": "timesofindia.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+          "path": "  › news  › religion news  › festivals news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ykazUYYK4BpNQUpwznry830fF8ftwY-enaLNIYR-bck/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9yZXNp/emVtb2RlLTQsd2lk/dGgtMTI4MCxoZWln/aHQtNzIwLG1zaWQt/MTE0MzQ4MjI3LzEx/NDM0ODIyNy5qcGc",
+          "original": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-114348227/114348227.jpg",
+          "logo": false
+        },
+        "age": "October 30, 2024"
+      },
+      {
+        "title": "Happy Deepavali! Flowers as Bright as The Festival of Light (2024)",
+        "url": "https://bloomthis.co/blogs/celebrations/happy-deepavali-flowers-as-bright-as-the-festival-of-light",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Deepavali or also known as ‘Diwali’ is a festival of lights <strong>celebrated</strong> by Hindus, Sikhs, and Jains all over the world. If you&#x27;re in need of a special gift for the <strong>celebration</strong>, here’s some ideas you can look out for!",
+        "page_age": "2024-10-08T11:58:30",
+        "profile": {
+          "name": "BloomThis",
+          "url": "https://bloomthis.co/blogs/celebrations/happy-deepavali-flowers-as-bright-as-the-festival-of-light",
+          "long_name": "bloomthis.co",
+          "img": "https://imgs.search.brave.com/L5V0Xqv9V8lYkeGi_YClS6aLml2dCbfxvSDRcaZ4I7c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTVjY2MxN2Jk/Yjk3NTI3NTIyYTgz/ZWFkNTk4YWM4ZmY0/MTRjY2Q4NWE3ZGYy/NTZiZjY0MGUzMWFj/NDM1YTE2My9ibG9v/bXRoaXMuY28v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "bloomthis.co",
+          "hostname": "bloomthis.co",
+          "favicon": "https://imgs.search.brave.com/L5V0Xqv9V8lYkeGi_YClS6aLml2dCbfxvSDRcaZ4I7c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTVjY2MxN2Jk/Yjk3NTI3NTIyYTgz/ZWFkNTk4YWM4ZmY0/MTRjY2Q4NWE3ZGYy/NTZiZjY0MGUzMWFj/NDM1YTE2My9ibG9v/bXRoaXMuY28v",
+          "path": "  › home  › celebrations  › celebrations"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/0ym_NRspZ-MyuJJ9TWhTRDLf81aKIpQ8xtzZSKWt3js/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ibG9v/bXRoaXMuY28vY2Ru/L3Nob3AvYXJ0aWNs/ZXMvYmxvb210aGlz/LWFydGljbGUtMjAy/NC1oYXBweS1kZWVw/YXZhbGktZmxvd2Vy/cy1hcy1icmlnaHQt/YXMtdGhlLWZlc3Rp/dmFsLW9mLWxpZ2h0/LTAwLWJhbm5lci5q/cGc_dj0xNzI4MzU5/OTEwJndpZHRoPTEw/MjQ",
+          "original": "https://bloomthis.co/cdn/shop/articles/bloomthis-article-2024-happy-deepavali-flowers-as-bright-as-the-festival-of-light-00-banner.jpg?v=1728359910&width=1024",
+          "logo": false
+        },
+        "age": "October 8, 2024"
+      },
+      {
+        "title": "Diwali / Deepavali 2025, 2026 and 2027 - PublicHolidays.in",
+        "url": "https://publicholidays.in/diwali-deepavali/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Diwali is an official public holiday in many parts of India and is part of a five-day Hindu observance known as the ‘Festival of Lights’. Diwali is always <strong>celebrated</strong> between mid-October and mid-November in the western calendar, depending upon the lunar cycle each year.",
+        "page_age": "2025-07-12T13:32:37",
+        "profile": {
+          "name": "PublicHolidays.in",
+          "url": "https://publicholidays.in/diwali-deepavali/",
+          "long_name": "publicholidays.in",
+          "img": "https://imgs.search.brave.com/vklM9g6V9mTTbPB5aqQNFCpFJVMjhe4XkSPspHaNnKI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjUyOThkNjAx/OTYzZDk4ZDlkMzlh/NWM1NDM2NDg4OGI2/ZmUxYmJiODY2ZWVh/MzBkZGI4MDY5ZDVm/Y2MzNzE1Ni9wdWJs/aWNob2xpZGF5cy5p/bi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "publicholidays.in",
+          "hostname": "publicholidays.in",
+          "favicon": "https://imgs.search.brave.com/vklM9g6V9mTTbPB5aqQNFCpFJVMjhe4XkSPspHaNnKI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjUyOThkNjAx/OTYzZDk4ZDlkMzlh/NWM1NDM2NDg4OGI2/ZmUxYmJiODY2ZWVh/MzBkZGI4MDY5ZDVm/Y2MzNzE1Ni9wdWJs/aWNob2xpZGF5cy5p/bi8",
+          "path": "  › home  › diwali / deepavali 2025, 2026 and 2027"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/DwAsw7XC3icLe0H9lm8xhglVyKsRjw2NS8DfW8HACMw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9wdWJs/aWNob2xpZGF5cy5p/bi93cC1jb250ZW50/L3VwbG9hZHMvMjAx/Ni8wMi9JbmRpYV9E/aXdhbGlfMTkyMF84/MDAuanBn",
+          "original": "https://publicholidays.in/wp-content/uploads/2016/02/India_Diwali_1920_800.jpg",
+          "logo": false
+        },
+        "age": "2 weeks ago"
+      },
+      {
+        "title": "Diwali Festival - Deepawali, Diwalifestival.org",
+        "url": "https://www.diwalifestival.org/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "It&#x27;s Diwali everywhere, let&#x27;s show some <strong>love</strong> and care and wish everyone out there… · Diwali, the festival of lights is indeed the most awaited and the most <strong>celebrated</strong> festivals of India. People in every nook and cranny of the country welcome the festival with enthusiastic gestures.",
+        "profile": {
+          "name": "Diwalifestival",
+          "url": "https://www.diwalifestival.org/",
+          "long_name": "diwalifestival.org",
+          "img": "https://imgs.search.brave.com/s30fCw3RSxRQPpszDWlVS6-1kvDG5BJnS4lJLbSUwBs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjQ1ZTQzOWIx/YWI4MjNkZWVkNjhm/YjUwZTY1NWZhMmQ0/YTA2Y2MxMTAzODQ2/MzUwMWQyMjU2M2Ri/NmYxNzAxMy93d3cu/ZGl3YWxpZmVzdGl2/YWwub3JnLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "diwalifestival.org",
+          "hostname": "www.diwalifestival.org",
+          "favicon": "https://imgs.search.brave.com/s30fCw3RSxRQPpszDWlVS6-1kvDG5BJnS4lJLbSUwBs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjQ1ZTQzOWIx/YWI4MjNkZWVkNjhm/YjUwZTY1NWZhMmQ0/YTA2Y2MxMTAzODQ2/MzUwMWQyMjU2M2Ri/NmYxNzAxMy93d3cu/ZGl3YWxpZmVzdGl2/YWwub3JnLw",
+          "path": ""
+        }
+      },
+      {
+        "title": "Diwali 2024 Date, Rituals, Significance, and Celebration Across India",
+        "url": "https://paytm.com/blog/holiday-list/diwali-festival/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Celebrate</strong> Diwali, the grand Hindu festival, with Lakshmi Puja on October 31, 2024. Perform the sacred rituals between 6:56 PM and 8:27 PM to invite prosperity and blessings during this five-day festival of lights.",
+        "page_age": "2024-10-22T07:38:52",
+        "profile": {
+          "name": "Paytm",
+          "url": "https://paytm.com/blog/holiday-list/diwali-festival/",
+          "long_name": "paytm.com",
+          "img": "https://imgs.search.brave.com/dnSvymcBxuqQ2Ad9vgcl5M49U4DiRzrP7j0-s6h0g_c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzE0NGQxNGQ1/NDNlZGQ2NThkOGY2/NDFmOGE2YzVmZGIw/OTMwYjEwNDg3NTcy/NmFjM2EyZGI5NGQx/OTgyMDFlYy9wYXl0/bS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "faq",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "paytm.com",
+          "hostname": "paytm.com",
+          "favicon": "https://imgs.search.brave.com/dnSvymcBxuqQ2Ad9vgcl5M49U4DiRzrP7j0-s6h0g_c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzE0NGQxNGQ1/NDNlZGQ2NThkOGY2/NDFmOGE2YzVmZGIw/OTMwYjEwNDg3NTcy/NmFjM2EyZGI5NGQx/OTgyMDFlYy9wYXl0/bS5jb20v",
+          "path": "  › a comprehensive guide to money transfer, recharges, bill payments and other digital payments | paytm blog  › holiday list  › diwali 2024 dates, rituals, and cultural significance across india"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/QSWi4ZHQd_6oHrCRd28wpEdnvvJ870BcL1jMXlHZWIg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93cGJs/b2dhc3NldHMucGF5/dG0uY29tL3BheXRt/YmxvZy91cGxvYWRz/LzIwMjQvMTAvaGFw/cHktZGl3YWxpLmpw/Zw",
+          "original": "https://wpblogassets.paytm.com/paytmblog/uploads/2024/10/happy-diwali.jpg",
+          "logo": false
+        },
+        "age": "October 22, 2024"
+      },
+      {
+        "title": "What is Diwali and why is it celebrated? What to know about the Hindu festival of lights",
+        "url": "https://www.usatoday.com/story/news/nation/2024/10/30/diwali-2024-what-when-hindu-holiday/75914957007/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "One of the most <strong>celebrated</strong> Hindu festivals, Diwali or Deepavali commemorates the victory of good over evil and is <strong>celebrates</strong> <strong>with</strong> lights and candles.",
+        "page_age": "2024-10-30T19:00:47",
+        "profile": {
+          "name": "USA Today",
+          "url": "https://www.usatoday.com/story/news/nation/2024/10/30/diwali-2024-what-when-hindu-holiday/75914957007/",
+          "long_name": "usatoday.com",
+          "img": "https://imgs.search.brave.com/Y_nf32M16mWMcRGYv2Qt8GUxybiADIXv_NwrMFam-Oc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjRiNmM1Y2E0/MzMwMWQzYTYzNzhk/YjkzZjU0NTRmMDdl/ZWNmMjRiMWIwZjUz/ZDk4M2I5NDlmZjYw/ZTkyNjE4Yy93d3cu/dXNhdG9kYXkuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "usatoday.com",
+          "hostname": "www.usatoday.com",
+          "favicon": "https://imgs.search.brave.com/Y_nf32M16mWMcRGYv2Qt8GUxybiADIXv_NwrMFam-Oc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjRiNmM1Y2E0/MzMwMWQzYTYzNzhk/YjkzZjU0NTRmMDdl/ZWNmMjRiMWIwZjUz/ZDk4M2I5NDlmZjYw/ZTkyNjE4Yy93d3cu/dXNhdG9kYXkuY29t/Lw",
+          "path": "› story  › news  › nation  › 2024  › 10  › 30  › diwali-2024-what-when-hindu-holiday  › 75914957007"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/r1UFSwB64HIWXrtD0-wGB3MirdUCgphAT2fAow6VzY0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Z2FubmV0dC1jZG4u/Y29tL2F1dGhvcmlu/Zy9hdXRob3Jpbmct/aW1hZ2VzLzIwMjQv/MTAvMjkvVVNBVC83/NTkxOTYzMjAwNy0y/MDIzMTExMi10LTA4/NDYzMy16LTE3MDgw/ODExNTYtcmMtMi1m/Yi00LWEtNy1ldGot/OC1ydHJtYWRwLTMt/cmVsaWdpb25kaXdh/bGlzcmlsYW5rYS5K/UEc_YXV0bz13ZWJw/JmNyb3A9MzQ1Niwx/OTQzLHgwLHkwJmZv/cm1hdD1wanBnJndp/ZHRoPTEyMDA",
+          "original": "https://www.gannett-cdn.com/authoring/authoring-images/2024/10/29/USAT/75919632007-20231112-t-084633-z-1708081156-rc-2-fb-4-a-7-etj-8-rtrmadp-3-religiondiwalisrilanka.JPG?auto=webp&crop=3456,1943,x0,y0&format=pjpg&width=1200",
+          "logo": false
+        },
+        "age": "October 30, 2024"
+      },
+      {
+        "title": "Deepavali 2024: Top 60+ Happy Diwali images, wishes, quotes, greetings, and messages to spread festive vibe",
+        "url": "https://www.moneycontrol.com/religion/deepavali-wishes-2024-top-60-happy-diwali-images-quotes-greetings-and-messages-article-12855524.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Celebrate</strong> Deepavali 2024 with a delightful collection of Happy Diwali images, wishes, quotes, and greetings that capture the essence of Diwali. Share the joy with friends and family this festive season!",
+        "page_age": "2024-10-31T02:31:30",
+        "profile": {
+          "name": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/religion/deepavali-wishes-2024-top-60-happy-diwali-images-quotes-greetings-and-messages-article-12855524.html",
+          "long_name": "moneycontrol.com",
+          "img": "https://imgs.search.brave.com/woOWNIeFdAPowUtYhsD0m8pjTQvYAaM5XVCKvLHnP8M/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMzNzYwNWQ2/M2Y5YTYzMzA5NWUy/YTczZGFlNGIxNDhj/NmZjZmIzOGFlNDlm/YTNkZDkyYmJiNjdl/MDRiZDMzMy93d3cu/bW9uZXljb250cm9s/LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "moneycontrol.com",
+          "hostname": "www.moneycontrol.com",
+          "favicon": "https://imgs.search.brave.com/woOWNIeFdAPowUtYhsD0m8pjTQvYAaM5XVCKvLHnP8M/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMzNzYwNWQ2/M2Y5YTYzMzA5NWUy/YTczZGFlNGIxNDhj/NmZjZmIzOGFlNDlm/YTNkZDkyYmJiNjdl/MDRiZDMzMy93d3cu/bW9uZXljb250cm9s/LmNvbS8",
+          "path": "  › home  › religion"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/8g8ohGMLsHB5CtHkHyxRzyWf4VI0Mct2nkBN_XyDMyM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMubW9uZXljb250/cm9sLmNvbS9zdGF0/aWMtbWNuZXdzLzIw/MjQvMTAvMjAyNDEw/MzAxODIyMTVfMTEu/anBn",
+          "original": "https://images.moneycontrol.com/static-mcnews/2024/10/20241030182215_11.jpg",
+          "logo": false
+        },
+        "age": "October 31, 2024"
+      },
+      {
+        "title": "Diwali 2024 Date: When is Deepavali - October 31 or November 01?",
+        "url": "https://www.moneycontrol.com/religion/diwali-2024-date-when-is-deepavali-october-31-or-november-1-article-12832361.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Explore the rituals, significance, and festive spirit that illuminate hearts and homes during this cherished <strong>celebration</strong> of light and prosperity.",
+        "page_age": "2024-10-04T07:19:01",
+        "profile": {
+          "name": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/religion/diwali-2024-date-when-is-deepavali-october-31-or-november-1-article-12832361.html",
+          "long_name": "moneycontrol.com",
+          "img": "https://imgs.search.brave.com/woOWNIeFdAPowUtYhsD0m8pjTQvYAaM5XVCKvLHnP8M/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMzNzYwNWQ2/M2Y5YTYzMzA5NWUy/YTczZGFlNGIxNDhj/NmZjZmIzOGFlNDlm/YTNkZDkyYmJiNjdl/MDRiZDMzMy93d3cu/bW9uZXljb250cm9s/LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "moneycontrol.com",
+          "hostname": "www.moneycontrol.com",
+          "favicon": "https://imgs.search.brave.com/woOWNIeFdAPowUtYhsD0m8pjTQvYAaM5XVCKvLHnP8M/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMzNzYwNWQ2/M2Y5YTYzMzA5NWUy/YTczZGFlNGIxNDhj/NmZjZmIzOGFlNDlm/YTNkZDkyYmJiNjdl/MDRiZDMzMy93d3cu/bW9uZXljb250cm9s/LmNvbS8",
+          "path": "  › home  › religion"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/MUuYngEcggQpeoJ-jge50i9JAvB0DJCrCOsuHFpUdl8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMubW9uZXljb250/cm9sLmNvbS9zdGF0/aWMtbWNuZXdzLzIw/MjQvMDkvMjAyNDA5/MzAwODIzMTFfRGl3/YWxpLnBuZw",
+          "original": "https://images.moneycontrol.com/static-mcnews/2024/09/20240930082311_Diwali.png",
+          "logo": false
+        },
+        "age": "October 4, 2024"
+      },
+      {
+        "title": "Millions of people celebrate Diwali this week. Here is what you should know",
+        "url": "https://www.npr.org/2024/10/29/nx-s1-5167938/what-is-diwali",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Known as the “Festival of Lights,” Diwali is one of the most widely <strong>celebrated</strong> holidays in India and across the Indian diaspora, including in the U.S. Many <strong>celebrate</strong> it with food, gifts and fireworks.",
+        "page_age": "2024-10-30T09:00:00",
+        "profile": {
+          "name": "NPR",
+          "url": "https://www.npr.org/2024/10/29/nx-s1-5167938/what-is-diwali",
+          "long_name": "National Public Radio",
+          "img": "https://imgs.search.brave.com/Y1l6Dzd6VM4_ltfNpwB9Esia4wtA5Fyy600GWlxTPcY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGY0NTM3MmEx/MjJkYTQ5YTlmYjFk/YTJhYmNjNGM5M2Q2/NThjYjg0YWMxY2My/YmU5NDlmMTQ0YzJi/YzNjNGFlMS93d3cu/bnByLm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "npr.org",
+          "hostname": "www.npr.org",
+          "favicon": "https://imgs.search.brave.com/Y1l6Dzd6VM4_ltfNpwB9Esia4wtA5Fyy600GWlxTPcY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGY0NTM3MmEx/MjJkYTQ5YTlmYjFk/YTJhYmNjNGM5M2Q2/NThjYjg0YWMxY2My/YmU5NDlmMTQ0YzJi/YzNjNGFlMS93d3cu/bnByLm9yZy8",
+          "path": "› 2024  › 10  › 29  › nx-s1-5167938  › what-is-diwali"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/WLQdcLxm62TzxYya7yTa5f-BpXgyDEuN8FC3NQRYodg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ucHIu/YnJpZ2h0c3BvdGNk/bi5jb20vZGltczMv/ZGVmYXVsdC9zdHJp/cC9mYWxzZS9jcm9w/LzQwMTZ4MjY3OCsw/KzAvcmVzaXplLzQw/MTZ4MjY3OCEvP3Vy/bD1odHRwJTNBJTJG/JTJGbnByLWJyaWdo/dHNwb3QuczMuYW1h/em9uYXdzLmNvbSUy/RjAwJTJGMzklMkYz/ODBkMGRhOTRhYjlh/NTMzY2Q3ZTJiMWE0/ZTUwJTJGZ2V0dHlp/bWFnZXMtMTI0NDE3/NTk5My5qcGc",
+          "original": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4016x2678+0+0/resize/4016x2678!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F00%2F39%2F380d0da94ab9a533cd7e2b1a4e50%2Fgettyimages-1244175993.jpg",
+          "logo": false
+        },
+        "age": "October 30, 2024"
+      }
+    ],
+    "family_friendly": true
+  }
+}

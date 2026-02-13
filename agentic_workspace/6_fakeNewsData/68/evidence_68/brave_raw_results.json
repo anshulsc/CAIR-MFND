@@ -1,0 +1,865 @@
+{
+  "query": {
+    "original": "Modi-Modi, during President Trump speech",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "videos",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=MEP1Wcmshww",
+        "title": "Pm Modi On Donald Trump Speech LIVE : ट्रंप की जीत पर मोदी ...",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "fetched_content_timestamp": 1658577857,
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/QBlxlsP6uAoUhB7_CSDplKbkAmEiUxEXWlGHbWUVGKY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9N/RVAxV2Ntc2h3dy9o/cWRlZmF1bHQuanBn",
+          "original": "https://i.ytimg.com/vi/MEP1Wcmshww/hqdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=YovxC0pqY5Q",
+        "title": "Modi-Trump White House Meet: Hugs, Handshakes & More; “We Missed ...",
+        "description": "Modi-Trump White House Meet: Hugs, Handshakes & More; “We Missed You A Lot” Prime Minister Narendra Modi and US President Donald Trump’s first meeting after ...",
+        "age": "February 14, 2025",
+        "page_age": "2025-02-14T09:28:54",
+        "fetched_content_timestamp": 1739532435,
+        "video": {
+          "duration": "05:11",
+          "views": 15659,
+          "creator": "Firstpost",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/qW956LXFlIZR1hhaMwLnzSLuPyjaiBMMS8c7TSW69DM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9Z/b3Z4QzBwcVk1US9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/YovxC0pqY5Q/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=oaPF7TAN2ps",
+        "title": "INDIA-PAKISTAN CEASEFIRE: Trump Reveals Sharif & Modi 'Used Common ...",
+        "description": "It was U.S. President Donald Trump who first revealed that India and Pakistan had agreed to a ceasefire. Making the announcement on TruthSocial, Trump said t...",
+        "age": "May 10, 2025",
+        "page_age": "2025-05-10T14:40:00",
+        "fetched_content_timestamp": 1746911027,
+        "video": {
+          "duration": "03:37",
+          "creator": "Times Of India",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/L5zFNQLTwkGEjm5lyptGN3HClDKmkk6NVzBQQA-Xgto/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9v/YVBGN1RBTjJwcy9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/oaPF7TAN2ps/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=w_mwxCkQ5Fw",
+        "title": "Trump, India's Modi take questions about tariffs, immigration - ...",
+        "description": "President Trump and Indian Prime Minister Narendra Modi held a joint press conference on Thursday at the White House. They took questions from reporters abou...",
+        "age": "February 14, 2025",
+        "page_age": "2025-02-14T00:45:16",
+        "fetched_content_timestamp": 1739512360,
+        "video": {
+          "duration": "26:32",
+          "views": 4322,
+          "creator": "CBS News",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/mV2eRJIRf7ogih0USYauN-EY0r7MhfYSlI-m3KlJXPk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS93/X213eENrUTVGdy9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/w_mwxCkQ5Fw/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=6BgkyqNcyVA",
+        "title": "How Trump Marco Rubio Engaged PM Modi, Sharif To Crack Ceasefire ...",
+        "description": "It was U.S. President Donald Trump who first revealed that India and Pakistan had agreed to a ceasefire. Making the announcement on TruthSocial, Trump said t...",
+        "age": "May 10, 2025",
+        "page_age": "2025-05-10T18:30:49",
+        "fetched_content_timestamp": 1746953585,
+        "video": {
+          "duration": "03:33",
+          "creator": "CNN-News18",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ZxpZBlX2WgtXPhXQsOWL7jBlNZmV4HzmLDaecKfPNeM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS82/QmdreXFOY3lWQS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/6BgkyqNcyVA/maxresdefault.jpg"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Remarks by President Trump and Prime Minister Modi of India at “Howdy, Modi: Shared Dreams, Bright Futures” Event – The White House",
+        "url": "https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-prime-minister-modi-india-howdy-modi-shared-dreams-bright-futures-event/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "But in a very short time, they were able to put things back in order and made the arrangements. And as <strong>President</strong> <strong>Trump</strong> mentioned, they proved that Houston is strong. (Applause.) Friends, you may have named this event, “Howdy, <strong>Modi</strong>!” However, <strong>Modi</strong> on his own is nothing.",
+        "profile": {
+          "name": "The White House",
+          "url": "https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-prime-minister-modi-india-howdy-modi-shared-dreams-bright-futures-event/",
+          "long_name": "trumpwhitehouse.archives.gov",
+          "img": "https://imgs.search.brave.com/T5CTUt-O8Vw7dNh7g6gho2GN4-8HoT3wlp-u6TgyqwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGU1OGQxYmI3/NTc1MTI3OTU3OTNl/ZTk3YTQ1ZGEwYWQ2/Y2M2NzFmMDY5YjVj/MDY5OTQ3MjY4NmFj/ZmYzYWJkMi90cnVt/cHdoaXRlaG91c2Uu/YXJjaGl2ZXMuZ292/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "trumpwhitehouse.archives.gov",
+          "hostname": "trumpwhitehouse.archives.gov",
+          "favicon": "https://imgs.search.brave.com/T5CTUt-O8Vw7dNh7g6gho2GN4-8HoT3wlp-u6TgyqwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGU1OGQxYmI3/NTc1MTI3OTU3OTNl/ZTk3YTQ1ZGEwYWQ2/Y2M2NzFmMDY5YjVj/MDY5OTQ3MjY4NmFj/ZmYzYWJkMi90cnVt/cHdoaXRlaG91c2Uu/YXJjaGl2ZXMuZ292/Lw",
+          "path": "  › news  › briefings & statements  › remarks by president trump and prime minister modi of india at “howdy, modi: shared dreams, bright futures” event"
+        }
+      },
+      {
+        "title": "Remarks by President Trump and Prime Minister Modi of India in Joint Press Statement - U.S. Embassy & Consulates in India",
+        "url": "https://in.usembassy.gov/remarks-by-president-trump-and-prime-minister-modi-of-india-in-joint-press-statement/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>This was a great visit with a tremendous friend and a tremendous leader, Prime Minister Modi.</strong> We won’t be taking questions now; I’ll be having a news conference at 5 o’clock and we’ll take plenty of questions. Thank you all very much. Thank you. (Applause.)",
+        "page_age": "2020-02-25T13:45:44",
+        "profile": {
+          "name": "U.S. Embassy &amp; Consulates in India",
+          "url": "https://in.usembassy.gov/remarks-by-president-trump-and-prime-minister-modi-of-india-in-joint-press-statement/",
+          "long_name": "in.usembassy.gov",
+          "img": "https://imgs.search.brave.com/z_OBqy3vemfEBagEPUF8Y5yxmyIewkDT8GQCXC2MFcE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWViZjI3NTA2/M2U0MWYzMGIwOTk2/NDhlMTYyOWNmMWEz/MjJiNjFiZTgwMzJj/MjIxZjdjMGFjZTA3/ZDJhZDZkYi9pbi51/c2VtYmFzc3kuZ292/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "in.usembassy.gov",
+          "hostname": "in.usembassy.gov",
+          "favicon": "https://imgs.search.brave.com/z_OBqy3vemfEBagEPUF8Y5yxmyIewkDT8GQCXC2MFcE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWViZjI3NTA2/M2U0MWYzMGIwOTk2/NDhlMTYyOWNmMWEz/MjJiNjFiZTgwMzJj/MjIxZjdjMGFjZTA3/ZDJhZDZkYi9pbi51/c2VtYmFzc3kuZ292/Lw",
+          "path": "  › मुखपृष्ठ  › news & events  › remarks by president trump and prime minister modi of india in joint press statement"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/jHwr2C9x7f1_DUHaaW7Z_f9X2uAwq7iju13KC2oaSMk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbi51/c2VtYmFzc3kuZ292/L3dwLWNvbnRlbnQv/dXBsb2Fkcy9zaXRl/cy83MS8xLTUuanBn",
+          "original": "https://in.usembassy.gov/wp-content/uploads/sites/71/1-5.jpg",
+          "logo": false
+        },
+        "age": "February 25, 2020"
+      },
+      {
+        "title": "WATCH: Trump and India’s Modi hold joint news conference at the White House | PBS News",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-trump-and-indias-modi-hold-joint-news-conference-at-the-white-house",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>President</strong> Donald <strong>Trump</strong> met Thursday with Indian Prime Minister Narendra <strong>Modi</strong>, who has heaped praise on him in hopes of avoiding the additional tariffs that the new administration has slapped on other countries in its opening weeks.",
+        "page_age": "2025-02-13T20:46:41",
+        "profile": {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/watch-live-trump-and-indias-modi-hold-joint-news-conference-at-the-white-house",
+          "long_name": "pbs.org",
+          "img": "https://imgs.search.brave.com/5IchnCgOSKQjG_xWeylgRE8v0GvszZCmPHDYfQFf8EU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmEyM2UyZmM5/ZTBkNTVjZGIyY2Y5/NzIzNjcwM2EyMzM3/ODIzMzEwZWNmNzhi/ZDNjZTIwNTU5YTU4/ZjNmYWE2NC93d3cu/cGJzLm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pbs.org",
+          "hostname": "www.pbs.org",
+          "favicon": "https://imgs.search.brave.com/5IchnCgOSKQjG_xWeylgRE8v0GvszZCmPHDYfQFf8EU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmEyM2UyZmM5/ZTBkNTVjZGIyY2Y5/NzIzNjcwM2EyMzM3/ODIzMzEwZWNmNzhi/ZDNjZTIwNTU5YTU4/ZjNmYWE2NC93d3cu/cGJzLm9yZy8",
+          "path": "› newshour  › politics  › watch-live-trump-and-indias-modi-hold-joint-news-conference-at-the-white-house"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/6mL1wOZ72Z7WKIm3MutyMDThQwYKForXzWVcYsBrZcQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kM2k2/Zmg4M2VsdjM1dC5j/bG91ZGZyb250Lm5l/dC9zdGF0aWMvMjAy/NS8wMi8yMDI1LTAy/LTEzVDIzMTk1MFpf/MjA2NDM3NjY4X1JD/MlpUQ0FCWFBZMV9S/VFJNQURQXzNfVVNB/LUlORElBLTEwMjR4/NjgzLmpwZw",
+          "original": "https://d3i6fh83elv35t.cloudfront.net/static/2025/02/2025-02-13T231950Z_206437668_RC2ZTCABXPY1_RTRMADP_3_USA-INDIA-1024x683.jpg",
+          "logo": false
+        },
+        "age": "February 13, 2025"
+      },
+      {
+        "title": "Readout of President Donald J. Trump’s Call with Prime Minister Modi of India",
+        "url": "https://www.whitehouse.gov/briefings-statements/2025/01/readout-of-president-donald-j-trumps-call-with-prime-minister-modi-of-india/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Today, President Donald J. Trump held a productive call with Prime Minister Narendra Modi of India. The two leaders <strong>discussed expanding and deepening cooperation</strong>. They also discussed a range of regional issues, including security in the Indo-Pacific, the Middle East, and Europe.",
+        "page_age": "2025-01-27T22:31:16",
+        "profile": {
+          "name": "White House",
+          "url": "https://www.whitehouse.gov/briefings-statements/2025/01/readout-of-president-donald-j-trumps-call-with-prime-minister-modi-of-india/",
+          "long_name": "whitehouse.gov",
+          "img": "https://imgs.search.brave.com/e6eMgBSwnkEjsAE_qoI9Vl4260waVBTKICayLay6wn8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjlkYzVmY2Nm/NjUxMWYyNWVjMzg5/N2JhMjYxNGQ2NzQ4/NjFiYWRkOWZlZjQ4/MjQ5MjIxNGVlMWYz/YmNmMjZhNC93d3cu/d2hpdGVob3VzZS5n/b3Yv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "whitehouse.gov",
+          "hostname": "www.whitehouse.gov",
+          "favicon": "https://imgs.search.brave.com/e6eMgBSwnkEjsAE_qoI9Vl4260waVBTKICayLay6wn8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjlkYzVmY2Nm/NjUxMWYyNWVjMzg5/N2JhMjYxNGQ2NzQ4/NjFiYWRkOWZlZjQ4/MjQ5MjIxNGVlMWYz/YmNmMjZhNC93d3cu/d2hpdGVob3VzZS5n/b3Yv",
+          "path": "  › home  › news  › briefings & statements  › readout of president donald j. trump’s call with prime minister modi of india"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/AmWHgi1AOAPuzRMHi-JBq-oDuiEpoHF2Zxi1yid--rg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/d2hpdGVob3VzZS5n/b3Yvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMDMvV0g0Ny1T/b2NpYWwtU2hhcmUt/Q2FyZC5qcGc",
+          "original": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
+          "logo": false
+        },
+        "age": "January 27, 2025"
+      },
+      {
+        "title": "English Translation of Foreign Secretary's statement on the telephone conversation between PM and US President (June 17, 2025)",
+        "url": "https://www.mea.gov.in/Speeches-Statements.htm?dtl%2F39692%2FEnglish_Translation_of_Foreign_Secretarys_statement_on_the_telephone_conversation_between_PM_and_US_President_June_17_2025=",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "English Translation of Foreign Secretary&#x27;s statement on the telephone conversation between PM and US <strong>President</strong> (June 17, 2025)",
+        "profile": {
+          "name": "Ministry of External Affairs",
+          "url": "https://www.mea.gov.in/Speeches-Statements.htm?dtl%2F39692%2FEnglish_Translation_of_Foreign_Secretarys_statement_on_the_telephone_conversation_between_PM_and_US_President_June_17_2025=",
+          "long_name": "mea.gov.in",
+          "img": "https://imgs.search.brave.com/ys7qCPcT2zGkyAQNB7S2oSRDHnXbIiRZ8DnUNoAzP38/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzk3OGJkODU2/MjhkNTczODk3ZWEy/MWZmZTk2NmQ0NGUx/ZjY0OTRiZWM0YzMx/ZTExZDM4NzU4M2Rh/ZTcxNjk5Zi93d3cu/bWVhLmdvdi5pbi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "mea.gov.in",
+          "hostname": "www.mea.gov.in",
+          "favicon": "https://imgs.search.brave.com/ys7qCPcT2zGkyAQNB7S2oSRDHnXbIiRZ8DnUNoAzP38/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzk3OGJkODU2/MjhkNTczODk3ZWEy/MWZmZTk2NmQ0NGUx/ZjY0OTRiZWM0YzMx/ZTExZDM4NzU4M2Rh/ZTcxNjk5Zi93d3cu/bWVhLmdvdi5pbi8",
+          "path": "› Speeches-Statements.htm"
+        }
+      },
+      {
+        "title": "Remarks by President Trump and Prime Minister Modi of India in Joint Press Statement – The White House",
+        "url": "https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-prime-minister-modi-india-joint-press-statement-2/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>This relationship is the most important partnership of the 21st century</strong>. And therefore, today, President Trump and I have taken a decision to raise our partnership to the level of a comprehensive global strategic partnership.",
+        "profile": {
+          "name": "The White House",
+          "url": "https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-prime-minister-modi-india-joint-press-statement-2/",
+          "long_name": "trumpwhitehouse.archives.gov",
+          "img": "https://imgs.search.brave.com/T5CTUt-O8Vw7dNh7g6gho2GN4-8HoT3wlp-u6TgyqwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGU1OGQxYmI3/NTc1MTI3OTU3OTNl/ZTk3YTQ1ZGEwYWQ2/Y2M2NzFmMDY5YjVj/MDY5OTQ3MjY4NmFj/ZmYzYWJkMi90cnVt/cHdoaXRlaG91c2Uu/YXJjaGl2ZXMuZ292/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "trumpwhitehouse.archives.gov",
+          "hostname": "trumpwhitehouse.archives.gov",
+          "favicon": "https://imgs.search.brave.com/T5CTUt-O8Vw7dNh7g6gho2GN4-8HoT3wlp-u6TgyqwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGU1OGQxYmI3/NTc1MTI3OTU3OTNl/ZTk3YTQ1ZGEwYWQ2/Y2M2NzFmMDY5YjVj/MDY5OTQ3MjY4NmFj/ZmYzYWJkMi90cnVt/cHdoaXRlaG91c2Uu/YXJjaGl2ZXMuZ292/Lw",
+          "path": "  › news  › briefings & statements  › remarks by president trump and prime minister modi of india in joint press statement"
+        }
+      },
+      {
+        "title": "United States-India Joint Leaders’ Statement",
+        "url": "https://www.whitehouse.gov/briefings-statements/2025/02/united-states-india-joint-leaders-statement/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The <strong>President</strong> of the United States of America, The Honorable Donald J. <strong>Trump</strong> hosted the Prime Minister of India, Shri Narendra <strong>Modi</strong> for an Official",
+        "page_age": "2025-02-14T16:24:44",
+        "profile": {
+          "name": "White House",
+          "url": "https://www.whitehouse.gov/briefings-statements/2025/02/united-states-india-joint-leaders-statement/",
+          "long_name": "whitehouse.gov",
+          "img": "https://imgs.search.brave.com/e6eMgBSwnkEjsAE_qoI9Vl4260waVBTKICayLay6wn8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjlkYzVmY2Nm/NjUxMWYyNWVjMzg5/N2JhMjYxNGQ2NzQ4/NjFiYWRkOWZlZjQ4/MjQ5MjIxNGVlMWYz/YmNmMjZhNC93d3cu/d2hpdGVob3VzZS5n/b3Yv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "whitehouse.gov",
+          "hostname": "www.whitehouse.gov",
+          "favicon": "https://imgs.search.brave.com/e6eMgBSwnkEjsAE_qoI9Vl4260waVBTKICayLay6wn8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjlkYzVmY2Nm/NjUxMWYyNWVjMzg5/N2JhMjYxNGQ2NzQ4/NjFiYWRkOWZlZjQ4/MjQ5MjIxNGVlMWYz/YmNmMjZhNC93d3cu/d2hpdGVob3VzZS5n/b3Yv",
+          "path": "  › home  › news  › briefings & statements  › united states-india joint leaders’ statement"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/AmWHgi1AOAPuzRMHi-JBq-oDuiEpoHF2Zxi1yid--rg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/d2hpdGVob3VzZS5n/b3Yvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMDMvV0g0Ny1T/b2NpYWwtU2hhcmUt/Q2FyZC5qcGc",
+          "original": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
+          "logo": false
+        },
+        "age": "February 14, 2025"
+      },
+      {
+        "title": "Trump hosts Pakistani army chief, disagrees with India over India-Pakistan war mediation | Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/india-will-not-accept-third-party-mediation-relations-with-pakistan-modi-tells-2025-06-18/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Trump told reporters he had thanked Munir for ending the war with India, for which he also praised Indian Prime Minister Narendra Modi</strong>, who he spoke to on Tuesday night. &quot;Two very smart people decided not to keep going with that war; that could have been a nuclear war,&quot; Trump told reporters.",
+        "page_age": "2025-06-22T16:16:48",
+        "profile": {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/india-will-not-accept-third-party-mediation-relations-with-pakistan-modi-tells-2025-06-18/",
+          "long_name": "reuters.com",
+          "img": "https://imgs.search.brave.com/g-LRPAPxrx_Eqo7F4IKC-Guqa4ONApD9n_VKZlqfqWo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzE0MWM3N2Ji/ZjQ3ZDhmYzI3NjMz/ODNjYTRiMGI4MjM4/OTExMzRkM2E1ODI4/MjI4YzA0ZWQ0OTRk/YWY5YTQwMy93d3cu/cmV1dGVycy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "reuters.com",
+          "hostname": "www.reuters.com",
+          "favicon": "https://imgs.search.brave.com/g-LRPAPxrx_Eqo7F4IKC-Guqa4ONApD9n_VKZlqfqWo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzE0MWM3N2Ji/ZjQ3ZDhmYzI3NjMz/ODNjYTRiMGI4MjM4/OTExMzRkM2E1ODI4/MjI4YzA0ZWQ0OTRk/YWY5YTQwMy93d3cu/cmV1dGVycy5jb20v",
+          "path": "› world  › asia-pacific  › india-will-not-accept-third-party-mediation-relations-with-pakistan-modi-tells-2025-06-18"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/dDJUTGMfO-1KpnfU6k0xn3YNOJH53P1FIBOxDQdsvtY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmV1dGVycy5jb20v/cmVzaXplci92Mi9B/RlpVUkJCQzNSSUlC/UEtYRTVFQkxaV1BP/QS5qcGc_YXV0aD03/NDJlODc5MjAxNjM4/YjgxNTRlM2Y4ZDdj/ODI5OGEyZTBlODI1/ZTc4MmM5OTRmYWY4/OTJmNTA4OTdlODgy/OGE0JmhlaWdodD0x/MDA1JndpZHRoPTE5/MjAmcXVhbGl0eT04/MCZzbWFydD10cnVl",
+          "original": "https://www.reuters.com/resizer/v2/AFZURBBC3RIIBPKXE5EBLZWPOA.jpg?auth=742e879201638b8154e3f8d7c8298a2e0e825e782c994faf892f50897e8828a4&height=1005&width=1920&quality=80&smart=true",
+          "logo": false
+        },
+        "age": "June 22, 2025"
+      },
+      {
+        "title": "Indian Prime Minister Narendra Modi contradicts Donald Trump on Pakistan war mediation - Newsweek",
+        "url": "https://www.newsweek.com/indian-prime-minister-contradicts-trump-2087260",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The leaders appeared to found common ground on broader global issues. President Trump &quot;listened carefully&quot; and &quot;expressed his support towards India&#x27;s fight against terrorism.&quot; <strong>Modi emphasized India now views terrorism &quot;as a war itself,&quot; noting Operation Sindoor &quot;is still ongoing.&quot;</strong>",
+        "page_age": "2025-06-18T11:23:34",
+        "profile": {
+          "name": "Newsweek",
+          "url": "https://www.newsweek.com/indian-prime-minister-contradicts-trump-2087260",
+          "long_name": "newsweek.com",
+          "img": "https://imgs.search.brave.com/PyNRakclvDjMYE-KKrT1jXhVbbvMiBF3N-tfeXW1ziw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmRjZTU0MTBh/MjZiZTAwZDBhMjdi/M2YzZDUzMTY3ZjA1/ZWQwZThlYWNiY2Y3/NzQ0NjZjYjhmZGYy/MTZhMjhjNi93d3cu/bmV3c3dlZWsuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "newsweek.com",
+          "hostname": "www.newsweek.com",
+          "favicon": "https://imgs.search.brave.com/PyNRakclvDjMYE-KKrT1jXhVbbvMiBF3N-tfeXW1ziw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmRjZTU0MTBh/MjZiZTAwZDBhMjdi/M2YzZDUzMTY3ZjA1/ZWQwZThlYWNiY2Y3/NzQ0NjZjYjhmZGYy/MTZhMjhjNi93d3cu/bmV3c3dlZWsuY29t/Lw",
+          "path": "  › u.s."
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/nWZX3Qv0JPyU02GoOE2kDAoCCK_rinpYFsSglytRyn8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kLm5l/d3N3ZWVrLmNvbS9l/bi9mdWxsLzI2NjU2/NDMvaW5kaWFuLXBt/LW1vZGktdHJ1bXAu/anBnP3c9MTYwMCZo/PTkwMCZxPTg4JmY9/Mjk4YmNkMzlhOGQ5/ZWU1MTQ5YjFjNjI3/OGZjM2Q4MWI",
+          "original": "https://d.newsweek.com/en/full/2665643/indian-pm-modi-trump.jpg?w=1600&h=900&q=88&f=298bcd39a8d9ee5149b1c6278fc3d81b",
+          "logo": false
+        },
+        "age": "June 18, 2025"
+      },
+      {
+        "title": "'Great friend of mine, but ...': What Donald Trump said about PM Modi and India in tariff speech | India News - The Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/great-friend-of-mine-but-what-donald-trump-said-about-pm-modi-and-india-in-tariff-speech/articleshow/119925446.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "United States President Donald Trump on Wednesday <strong>called Prime Minister Modi his &#x27;great friend&#x27; while imposing his ambitious retaliatory tariff on India</strong>.Trump said Washington would impose &quot;discounted reciprocal tariffs&quot; of 26 per cent on New Delhi.&quot;India, very, very tough.",
+        "page_age": "2025-04-03T04:44:00",
+        "profile": {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/great-friend-of-mine-but-what-donald-trump-said-about-pm-modi-and-india-in-tariff-speech/articleshow/119925446.cms",
+          "long_name": "timesofindia.indiatimes.com",
+          "img": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timesofindia.indiatimes.com",
+          "hostname": "timesofindia.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+          "path": "  › news  › india news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/h90q1HzIarC2PyRWnUSSX7KIdXVdVhCuPu5Z10Vi9UI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9yZXNp/emVtb2RlLTQsd2lk/dGgtMTI4MCxoZWln/aHQtNzIwLG1zaWQt/MTE5OTI2MjI1LzEx/OTkyNjIyNS5qcGc",
+          "original": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-119926225/119926225.jpg",
+          "logo": false
+        },
+        "age": "April 3, 2025"
+      },
+      {
+        "title": "Rahul Gandhi slams PM Modi after Trump claims 5 jets downed during Operation Sindoor, says country has right to know truth - India Today",
+        "url": "https://www.indiatoday.in/india/story/rahul-gandhi-pm-modi-donald-trump-india-pak-conflict-ceasefire-claim-op-sindoor-2758313-2025-07-19",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A day after US <strong>President</strong> Donald <strong>Trump</strong> claimed that &quot;five jets were shot down&quot; during India&#x27;s Operation Sindoor, Congress MP Rahul Gandhi slammed PM Narendra <strong>Modi</strong>, saying the country had a right to know the truth.",
+        "page_age": "2025-07-19T13:37:21",
+        "profile": {
+          "name": "India Today",
+          "url": "https://www.indiatoday.in/india/story/rahul-gandhi-pm-modi-donald-trump-india-pak-conflict-ceasefire-claim-op-sindoor-2758313-2025-07-19",
+          "long_name": "indiatoday.in",
+          "img": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "indiatoday.in",
+          "hostname": "www.indiatoday.in",
+          "favicon": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8",
+          "path": "  › news  › what's the truth modi ji? rahul gandhi after trump claims 5 jets shot down"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/gATqGq2h8ur6AMXsOzaq0PLYwSAH50a_3yYwrTU0My8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ha20t/aW1nLWEtaW4udG9z/c2h1Yi5jb20vaW5k/aWF0b2RheS9pbWFn/ZXMvc3RvcnkvMjAy/NTA3L3BtLW1vZGkt/LXJhaHVsLWdhbmRo/aS1hbmQtZG9uYWxk/LXRydW1wLTE5Mzcx/MDIxNy0xNng5XzAu/anBnP1ZlcnNpb25J/ZD1pUTRfQTl3SU1S/Tzk1emVWMWo5eWRo/Q241UEQxOXJxOT9z/aXplPTEyODA6NzIw",
+          "original": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202507/pm-modi--rahul-gandhi-and-donald-trump-193710217-16x9_0.jpg?VersionId=iQ4_A9wIMRO95zeV1j9ydhCn5PD19rq9?size=1280:720",
+          "logo": false
+        },
+        "age": "1 week ago"
+      },
+      {
+        "title": "Donald Trump praises PM Modi, says he is the ‘nicest human being’ but can also be a ‘total killer’ - The Hindu",
+        "url": "https://www.thehindu.com/news/international/trump-praises-modi-says-he-is-the-nicest-human-being-but-can-also-be-a-total-killer/article68738023.ece",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Donald <strong>Trump</strong> praises Narendra <strong>Modi</strong>&#x27;s response to threats, describes him as a friend and a &quot;total killer&quot; on Flagrant podcast.",
+        "page_age": "2024-10-10T01:48:12",
+        "profile": {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/trump-praises-modi-says-he-is-the-nicest-human-being-but-can-also-be-a-total-killer/article68738023.ece",
+          "long_name": "thehindu.com",
+          "img": "https://imgs.search.brave.com/7nMEtreJNappZ3K0yP6ovEhbEphNWRh8gQdd737CcXU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZThkMTk4NWZl/YjBiYjYzYjQ5MjNm/YmNhNDM2ZDlkZTAz/Y2FiODM5ZjAwNWRi/MmUyY2RmMTIwNDk5/ZWE0YmQ2Yi93d3cu/dGhlaGluZHUuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "thehindu.com",
+          "hostname": "www.thehindu.com",
+          "favicon": "https://imgs.search.brave.com/7nMEtreJNappZ3K0yP6ovEhbEphNWRh8gQdd737CcXU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZThkMTk4NWZl/YjBiYjYzYjQ5MjNm/YmNhNDM2ZDlkZTAz/Y2FiODM5ZjAwNWRi/MmUyY2RmMTIwNDk5/ZWE0YmQ2Yi93d3cu/dGhlaGluZHUuY29t/Lw",
+          "path": "› news  › international  › trump-praises-modi-says-he-is-the-nicest-human-being-but-can-also-be-a-total-killer  › article68738023.ece"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/CQgjEQ70fd1CF9YydGRnvWOXW0Hw5s2TCShBiN0LQ40/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aC1p/LnRoZ2ltLmNvbS9w/dWJsaWMvaW5jb21p/bmcvd3FqbTR1L2Fy/dGljbGU2ODczODEz/Ny5lY2UvYWx0ZXJu/YXRlcy9MQU5EU0NB/UEVfMTIwMC9JTUdf/VEhfLV9VU0EtSU5E/SUFfV0VTVElfMl8x/X1ZCREJQTjBHLmpw/Zw",
+          "original": "https://th-i.thgim.com/public/incoming/wqjm4u/article68738137.ece/alternates/LANDSCAPE_1200/IMG_TH_-_USA-INDIA_WESTI_2_1_VBDBPN0G.jpg",
+          "logo": false
+        },
+        "age": "October 10, 2024"
+      },
+      {
+        "title": "'Namaste Trump': India welcomes US president at Modi rally | India | The Guardian",
+        "url": "https://www.theguardian.com/world/2020/feb/24/namaste-donald-trump-india-welcomes-us-president-narendra-modi-rally",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The effusive bond between the two ... while <strong>Modi</strong> sat behind him looking pleased. “Everybody loves him but I will tell you this, he is very tough,” added <strong>Trump</strong>, who unusually did not appear to divert from his <strong>speech</strong> script at all. ... ‘America loves India, respects India,’ said the <strong>president</strong>...",
+        "page_age": "2020-02-24T20:15:01",
+        "profile": {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2020/feb/24/namaste-donald-trump-india-welcomes-us-president-narendra-modi-rally",
+          "long_name": "theguardian.com",
+          "img": "https://imgs.search.brave.com/rC70n-17a9InstnH-PH4YuXbWwFkdbesPtRJKvIQAwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "theguardian.com",
+          "hostname": "www.theguardian.com",
+          "favicon": "https://imgs.search.brave.com/rC70n-17a9InstnH-PH4YuXbWwFkdbesPtRJKvIQAwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw",
+          "path": "› world  › 2020  › feb  › 24  › namaste-donald-trump-india-welcomes-us-president-narendra-modi-rally"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/nEMuWAMTSoDJBcVYsQ57IK5Ij-Ly7fYf0d4CFrReSlE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhLzIxNGM3/NTZhOWQxM2U2OGQ4/ZWZhZTIxZTA3MjQ1/NzZlZmQzZWY1Zjgv/MF8yOTNfMzUwMF8y/MTAwL21hc3Rlci8z/NTAwLmpwZz93aWR0/aD0xMjAwJmhlaWdo/dD02MzAmcXVhbGl0/eT04NSZhdXRvPWZv/cm1hdCZmaXQ9Y3Jv/cCZwcmVjcm9wPTQw/OjIxLG9mZnNldC14/NTAsb2Zmc2V0LXkw/Jm92ZXJsYXktYWxp/Z249Ym90dG9tJTJD/bGVmdCZvdmVybGF5/LXdpZHRoPTEwMHAm/b3ZlcmxheS1iYXNl/NjQ9TDJsdFp5OXpk/R0YwYVdNdmIzWmxj/bXhoZVhNdmRHY3RZ/V2RsTFRJd01qQXVj/RzVuJmVuYWJsZT11/cHNjYWxlJnM9MTIz/YzgyZjFiNmJhMDRi/NDM1NTRlMWQxMzlj/NTI5ODI",
+          "original": "https://i.guim.co.uk/img/media/214c756a9d13e68d8efae21e0724576efd3ef5f8/0_293_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjAucG5n&enable=upscale&s=123c82f1b6ba04b43554e1d139c52982",
+          "logo": false
+        },
+        "age": "February 24, 2020"
+      },
+      {
+        "title": "PM Narendra Modi Welcome Speech at the “Namaste Trump ...",
+        "url": "https://m.youtube.com/watch?v=M-dreh_zutE",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Share your videos with friends, family, and the world",
+        "profile": {
+          "name": "YouTube",
+          "url": "https://m.youtube.com/watch?v=M-dreh_zutE",
+          "long_name": "m.youtube.com",
+          "img": "https://imgs.search.brave.com/p0B86IaQr1YuFWzlQTuEltmxPAh7UzF2DpyN8i96T6M/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTExOWJhZDk1/ZTUxZWUwYmE3NTg0/N2QzZjQwZjZhMTE5/ZTc1NWY5MzMwYjll/OTJhNTM3ZjdmZTMw/MzdlM2EwNC9tLnlv/dXR1YmUuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "m.youtube.com",
+          "hostname": "m.youtube.com",
+          "favicon": "https://imgs.search.brave.com/p0B86IaQr1YuFWzlQTuEltmxPAh7UzF2DpyN8i96T6M/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTExOWJhZDk1/ZTUxZWUwYmE3NTg0/N2QzZjQwZjZhMTE5/ZTc1NWY5MzMwYjll/OTJhNTM3ZjdmZTMw/MzdlM2EwNC9tLnlv/dXR1YmUuY29tLw",
+          "path": "› watch"
+        }
+      },
+      {
+        "title": "Modi-Trump talks: Five key takeaways",
+        "url": "https://www.bbc.com/news/articles/c23ndleveymo",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Modi</strong> <strong>and</strong> <strong>Trump</strong> rekindle ties amid a global trade war, balancing tariffs, trade deals and strategic interests.",
+        "page_age": "2025-02-14T08:03:42",
+        "profile": {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c23ndleveymo",
+          "long_name": "British Broadcasting Corporation",
+          "img": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "bbc.com",
+          "hostname": "www.bbc.com",
+          "favicon": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8",
+          "path": "› news  › articles  › c23ndleveymo"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ogPYO_ROyDzlXL4BcrnLuGl7WYjqQg7Tsc0q3W1uSUA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L25ld3MvMTAyNC9i/cmFuZGVkX25ld3Mv/ZTZmNS9saXZlLzdi/ODg0OTYwLWVhZWUt/MTFlZi1iZDFiLWQ1/MzY2Mjc3ODVmMi5q/cGc",
+          "original": "https://ichef.bbci.co.uk/news/1024/branded_news/e6f5/live/7b884960-eaee-11ef-bd1b-d536627785f2.jpg",
+          "logo": false
+        },
+        "age": "February 14, 2025"
+      },
+      {
+        "title": "Trump, Modi meeting: Tariffs, trade and visas to dominate talks",
+        "url": "https://www.bbc.com/news/articles/cj91d3jkpvlo",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The leaders share a warm relationship, but both will have their own wish list when they meet this week.",
+        "page_age": "2025-02-13T05:20:50",
+        "profile": {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cj91d3jkpvlo",
+          "long_name": "British Broadcasting Corporation",
+          "img": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "bbc.com",
+          "hostname": "www.bbc.com",
+          "favicon": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8",
+          "path": "› news  › articles  › cj91d3jkpvlo"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/m_rnAdNOM0SJxv_FxR1LSm0K4zNdxF2fC7YbL0pFpYw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L25ld3MvMTAyNC9i/cmFuZGVkX25ld3Mv/MDY5ZC9saXZlLzQ0/ZjhlZGQwLWU4ZDQt/MTFlZi1iODhmLWI3/MTE1NjgzMzU3OC5q/cGc",
+          "original": "https://ichef.bbci.co.uk/news/1024/branded_news/069d/live/44f8edd0-e8d4-11ef-b88f-b71156833578.jpg",
+          "logo": false
+        },
+        "age": "February 13, 2025"
+      },
+      {
+        "title": "PM Modi Dials Trump After His Record Win. What They Discussed",
+        "url": "https://www.ndtv.com/india-news/pm-modi-speaks-to-trump-over-phone-says-will-work-closely-together-once-again-to-further-strengthen-india-us-relations-6959738",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Prime Minister Narendra <strong>Modi</strong> dialled <strong>President</strong>-elect Donald <strong>Trump</strong> to congratulate the American leader on winning the fiercely contested US presidential election. Both leaders agreed to work together for world peace. Mr <strong>Trump</strong> in his victory <strong>speech</strong> today said one of the first things he would ...",
+        "profile": {
+          "name": "NDTV",
+          "url": "https://www.ndtv.com/india-news/pm-modi-speaks-to-trump-over-phone-says-will-work-closely-together-once-again-to-further-strengthen-india-us-relations-6959738",
+          "long_name": "ndtv.com",
+          "img": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ndtv.com",
+          "hostname": "www.ndtv.com",
+          "favicon": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v",
+          "path": "  › home  › india news  › pm modi dials trump after his record win. what they discussed"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/AK9QRllM47jvrMD0drmlQpmx3VMdHQ4NjVWtkoENrT0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjAtMDIvNzZhMmxj/MWdfbmFyZW5kcmEt/bW9kaS1kb25hbGQt/dHJ1bXAtdHdpdHRl/cl82MjV4MzAwXzI2/X0ZlYnJ1YXJ5XzIw/LmpwZz9pbT1GZWF0/dXJlQ3JvcCxhbGdv/cml0aG09ZG5uLHdp/ZHRoPTEyMDAsaGVp/Z2h0PTczOA",
+          "original": "https://c.ndtvimg.com/2020-02/76a2lc1g_narendra-modi-donald-trump-twitter_625x300_26_February_20.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+          "logo": false
+        }
+      },
+      {
+        "title": "'Modi ji, what is the truth?': Rahul Gandhi after Donald Trump's 'jets shot down' claim; Congress sharpens attack | India News - Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/modi-ji-what-is-the-truth-rahul-gandhi-after-donald-trumps-jets-shot-down-claim-congress-sharpens-attack/articleshow/122784351.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "India News: Rahul Gandhi has challenged Prime Minister Narendra <strong>Modi</strong>&#x27;s silence regarding Donald <strong>Trump</strong>&#x27;s renewed assertions about mediating a ceasefire between Ind",
+        "page_age": "2025-07-19T15:32:00",
+        "profile": {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/modi-ji-what-is-the-truth-rahul-gandhi-after-donald-trumps-jets-shot-down-claim-congress-sharpens-attack/articleshow/122784351.cms",
+          "long_name": "timesofindia.indiatimes.com",
+          "img": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timesofindia.indiatimes.com",
+          "hostname": "timesofindia.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+          "path": "  › news  › india news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/jF5wWUsbG5qJgKuPyiIvKcgLwAHpqF0O53irlrfZyrs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9yZXNp/emVtb2RlLTQsd2lk/dGgtMTI4MCxoZWln/aHQtNzIwLG1zaWQt/MTIyNzg0NDI1LzEy/Mjc4NDQyNS5qcGc",
+          "original": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-122784425/122784425.jpg",
+          "logo": false
+        },
+        "age": "1 week ago"
+      },
+      {
+        "title": "Remarks by President Trump at a Namaste Trump Rally – The White House",
+        "url": "https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-namaste-trump-rally/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>PRESIDENT</strong> <strong>TRUMP</strong>: Namaste! Namaste. (Applause.) And hello to India. This is such a great honor. Let me begin by expressing my profound gratitude to an exceptional leader, a great champion of India, a man who works night and day for his country, and a man I am proud to call my true friend: Prime ...",
+        "profile": {
+          "name": "The White House",
+          "url": "https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-namaste-trump-rally/",
+          "long_name": "trumpwhitehouse.archives.gov",
+          "img": "https://imgs.search.brave.com/T5CTUt-O8Vw7dNh7g6gho2GN4-8HoT3wlp-u6TgyqwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGU1OGQxYmI3/NTc1MTI3OTU3OTNl/ZTk3YTQ1ZGEwYWQ2/Y2M2NzFmMDY5YjVj/MDY5OTQ3MjY4NmFj/ZmYzYWJkMi90cnVt/cHdoaXRlaG91c2Uu/YXJjaGl2ZXMuZ292/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "trumpwhitehouse.archives.gov",
+          "hostname": "trumpwhitehouse.archives.gov",
+          "favicon": "https://imgs.search.brave.com/T5CTUt-O8Vw7dNh7g6gho2GN4-8HoT3wlp-u6TgyqwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGU1OGQxYmI3/NTc1MTI3OTU3OTNl/ZTk3YTQ1ZGEwYWQ2/Y2M2NzFmMDY5YjVj/MDY5OTQ3MjY4NmFj/ZmYzYWJkMi90cnVt/cHdoaXRlaG91c2Uu/YXJjaGl2ZXMuZ292/Lw",
+          "path": "  › news  › briefings & statements  › remarks by president trump at a namaste trump rally"
+        }
+      },
+      {
+        "title": "Trump and India's Modi split over U.S. role in Pakistan ceasefire",
+        "url": "https://www.cnbc.com/2025/06/18/modi-trump-india-pakistan-ceasefire.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>President</strong> Donald <strong>Trump</strong> and Indian Prime Minister Narendra <strong>Modi</strong> continue to butt heads over whether or not the U.S. played a part in a ceasefire with Pakistan.",
+        "page_age": "2025-06-18T22:06:27",
+        "profile": {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2025/06/18/modi-trump-india-pakistan-ceasefire.html",
+          "long_name": "Consumer News and Business Channel",
+          "img": "https://imgs.search.brave.com/Y-kiUECkMSGd7lOmrP2aTYHW7-HGeiVhcw9XMTUFn-Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTJhNzM1OTQ2/YTZmNDZiOGM2ZDVk/OTUzOWY3ZThlZmYz/YzNkNDk5MDcyOGI2/MzEzMzNmYjM1ZGRk/YjdhNGVlYy93d3cu/Y25iYy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "cnbc.com",
+          "hostname": "www.cnbc.com",
+          "favicon": "https://imgs.search.brave.com/Y-kiUECkMSGd7lOmrP2aTYHW7-HGeiVhcw9XMTUFn-Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTJhNzM1OTQ2/YTZmNDZiOGM2ZDVk/OTUzOWY3ZThlZmYz/YzNkNDk5MDcyOGI2/MzEzMzNmYjM1ZGRk/YjdhNGVlYy93d3cu/Y25iYy5jb20v",
+          "path": "› 2025  › 06  › 18  › modi-trump-india-pakistan-ceasefire.html"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/kf8DeHXfRbLNnNi0ulROTO9fBxnFuPpcvtTity7FOPo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5jbmJjZm0uY29t/L2FwaS92MS9pbWFn/ZS8xMDgxNjA5OTgt/MTc1MDI1NDkwNjY0/OC1nZXR0eWltYWdl/cy0yMTk4NzU2ODEw/LUFGUF8zNlhSN1FY/LmpwZWc_dj0xNzUw/MzExMjY2",
+          "original": "https://image.cnbcfm.com/api/v1/image/108160998-1750254906648-gettyimages-2198756810-AFP_36XR7QX.jpeg?v=1750311266",
+          "logo": false
+        },
+        "age": "June 18, 2025"
+      }
+    ],
+    "family_friendly": true
+  }
+}

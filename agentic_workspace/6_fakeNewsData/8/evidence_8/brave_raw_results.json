@@ -1,0 +1,876 @@
+{
+  "query": {
+    "original": "Pray for mercy",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "videos",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=MsN612nNjig&pp=0gcJCfwAo7VqN5tD",
+        "title": "Pray with Us: The Chaplet of Divine Mercy",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "fetched_content_timestamp": 1658577857,
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Ctx6axPq7BYD5TSlyIUjTvqv-7kridTeAgnPyek4C5A/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9N/c042MTJuTmppZy9o/cWRlZmF1bHQuanBn",
+          "original": "https://i.ytimg.com/vi/MsN612nNjig/hqdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://m.youtube.com/watch?v=pua6Sv0HMAU&t=202s",
+        "title": "Prayer For God's Mercy and Forgiveness | Prayers For Mercy ...",
+        "description": "Share your videos with friends, family, and the world",
+        "fetched_content_timestamp": 1753516321,
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "m.youtube.com",
+          "hostname": "m.youtube.com",
+          "favicon": "https://imgs.search.brave.com/p0B86IaQr1YuFWzlQTuEltmxPAh7UzF2DpyN8i96T6M/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTExOWJhZDk1/ZTUxZWUwYmE3NTg0/N2QzZjQwZjZhMTE5/ZTc1NWY5MzMwYjll/OTJhNTM3ZjdmZTMw/MzdlM2EwNC9tLnlv/dXR1YmUuY29tLw",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/xzgrmhq9Dxj_kI9HkExco-hWXfocARzeGxZ_RgmLWX0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9w/dWE2U3YwSE1BVS9o/cWRlZmF1bHQuanBn",
+          "original": "https://i.ytimg.com/vi/pua6Sv0HMAU/hqdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=4aoYYRaV-3Q",
+        "title": "A DEEP CRY OF PRAYER TO GOD FOR MERCY AND DIVINE TURN AROUND | ...",
+        "description": "Check Out Our Website: https://overcomingdaily.org/ to download sermons, get powerful interpretations to hard biblical texts and download inspirational messa...",
+        "age": "November 22, 2022",
+        "page_age": "2022-11-22T19:35:40",
+        "fetched_content_timestamp": 1718249995,
+        "video": {
+          "duration": "25:24",
+          "views": 580274,
+          "creator": "OVERCOMING DAILY",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/vRyWL1nRV6eZ6RPEnu1gRM2NfbidyvWe6dY0rsVdGpc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS80/YW9ZWVJhVi0zUS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/4aoYYRaV-3Q/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=synqbJOh4dE",
+        "title": "Prayers for Mercy and Repentance | Pray for God’s Forgiveness ...",
+        "description": "Pray to the Lord for mercy through genuine repentance and confession of sin. May these prayers for mercy help you in seeking forgiveness from God. Find the t...",
+        "age": "March 12, 2021",
+        "page_age": "2021-03-12T00:00:17",
+        "fetched_content_timestamp": 1730237963,
+        "video": {
+          "duration": "07:01",
+          "views": 15439,
+          "creator": "iBelieve",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/dABPQTDCymSwEKeOL4cDPkmkM_2poXfkdHKZpMFCQ-8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9z/eW5xYkpPaDRkRS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/synqbJOh4dE/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=KNZrzRpr6_g",
+        "title": "Prayer For God's Grace, Mercy & Blessings | Abundant Blessing Prayers ...",
+        "description": "Prayer For God's Grace, Mercy & Blessings | Abundant Blessing Prayershttps://linktr.ee/dailyeffectiveprayerBe sure to SUBSCRIBE (click the bell 🔔) to catch",
+        "age": "November 29, 2019",
+        "page_age": "2019-11-29T01:00:00",
+        "fetched_content_timestamp": 1714633144,
+        "video": {
+          "duration": "03:11",
+          "views": 55659,
+          "creator": "DailyEffectivePrayer",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/YWgGcn6hlSq2DdoQu6nm2cVnzOQtVfpE_WdD0BC3PzA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9L/TlpyelJwcjZfZy9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/KNZrzRpr6_g/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=C2_6i0Dfa7A",
+        "title": "Prayer For Divine Mercy | Prayer For Mercy - YouTube",
+        "description": "Prayer For Divine Mercy | Prayer For Mercyhttps://linktr.ee/dailyeffectiveprayerBe sure to SUBSCRIBE (click the bell 🔔) to catch all the latest prayers uplo",
+        "age": "December 22, 2015",
+        "page_age": "2015-12-22T22:33:00",
+        "fetched_content_timestamp": 1738712141,
+        "video": {
+          "duration": "02:21",
+          "views": 300130,
+          "creator": "DailyEffectivePrayer",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/xsP9JvUs7PPAQ2wUHLyO_o36jSjvk535FPmaqgI2oT4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9D/Ml82aTBEZmE3QS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/C2_6i0Dfa7A/maxresdefault.jpg"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "A Cry for Mercy: A Psalm 51 Prayer for Repentance and Restoration",
+        "url": "https://richbitterman.com/2024/01/30/a-cry-for-mercy-a-psalm-51-prayer/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "It’s what you pray when you know you’re guilty, but somehow still believe God is merciful. We often think God wants strength—clean hands, strong words, powerful worship. But <strong>Psalm 51</strong> flips that on its head. God isn’t moved by performance. He’s moved by truth.",
+        "page_age": "2025-05-02T18:01:16",
+        "profile": {
+          "name": "Rich Bitterman",
+          "url": "https://richbitterman.com/2024/01/30/a-cry-for-mercy-a-psalm-51-prayer/",
+          "long_name": "richbitterman.com",
+          "img": "https://imgs.search.brave.com/v-4dHEHPGTrFK5hgga7iCD3dDmy2UPMb5EUwtQ8zVUQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTQ5MTI0Yjg3/ZWZlYjI4ZjllNmUx/MmY2NTk2NmRmZDRi/NGVhNWY5NzY3N2I4/Y2NmYzgzNmUxMTRl/MTExZDMyMS9yaWNo/Yml0dGVybWFuLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "richbitterman.com",
+          "hostname": "richbitterman.com",
+          "favicon": "https://imgs.search.brave.com/v-4dHEHPGTrFK5hgga7iCD3dDmy2UPMb5EUwtQ8zVUQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTQ5MTI0Yjg3/ZWZlYjI4ZjllNmUx/MmY2NTk2NmRmZDRi/NGVhNWY5NzY3N2I4/Y2NmYzgzNmUxMTRl/MTExZDMyMS9yaWNo/Yml0dGVybWFuLmNv/bS8",
+          "path": "  › my bible thoughts with pastor rich  › my prayers  › a cry for mercy: a psalm 51 prayer for repentance and restoration"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/u5BJ5GyfzcVj1lqSRQfK98X6gKewoWg5JOrFXscQkRg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vcmljaGJp/dHRlcm1hbi5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjQv/MDEvVW50aXRsZWQt/MjI4MC14LTEyODIt/cHgtNi5qcGc_Zml0/PTIyODAlMkMxMjgy/JiMwMzg7c3NsPTE",
+          "original": "https://i0.wp.com/richbitterman.com/wp-content/uploads/2024/01/Untitled-2280-x-1282-px-6.jpg?fit=2280%2C1282&#038;ssl=1",
+          "logo": false
+        },
+        "age": "May 2, 2025"
+      },
+      {
+        "title": "Prayers for Mercy",
+        "url": "https://www.xavier.edu/jesuitresource/online-resources/prayer-index/prayers-for-mercy",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Lord I <strong>pray</strong> that if You are taking me down this route, that You would use me as a sanctified vessel, that not only to pour out <strong>mercy</strong> and love without measure on other people, but that You would use me to encourage others to show the same <strong>mercy</strong> and forgiveness to their brothers and sisters in ...",
+        "profile": {
+          "name": "Xavier University",
+          "url": "https://www.xavier.edu/jesuitresource/online-resources/prayer-index/prayers-for-mercy",
+          "long_name": "xavier.edu",
+          "img": "https://imgs.search.brave.com/qSrBWFFslgeaIOQ0MhSB06EvDt0fmRXaV7Qu2O1r624/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDYzMzZiNTFl/MjU0OTQ0YjZjZGM2/ZWQ4OTRlMDU3OTBh/Mzc2MzYzNzQ3NjU5/MmFkZDI3NGEwOTRj/OTJlODhhNi93d3cu/eGF2aWVyLmVkdS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "xavier.edu",
+          "hostname": "www.xavier.edu",
+          "favicon": "https://imgs.search.brave.com/qSrBWFFslgeaIOQ0MhSB06EvDt0fmRXaV7Qu2O1r624/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDYzMzZiNTFl/MjU0OTQ0YjZjZGM2/ZWQ4OTRlMDU3OTBh/Mzc2MzYzNzQ3NjU5/MmFkZDI3NGEwOTRj/OTJlODhhNi93d3cu/eGF2aWVyLmVkdS8",
+          "path": "› jesuitresource  › online-resources  › prayer-index  › prayers-for-mercy"
+        }
+      },
+      {
+        "title": "12 Bible verses to encourage your prayers for mercy",
+        "url": "https://www.fmsc.org/the-feed/news-and-updates/2023/12-bible-verses-to-encourage-your-prayers-for-mercy",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "This year’s FMSC Day of Prayer and Fasting is August 24 with the theme “Loving <strong>Mercy</strong>.” We invite all FMSC supporters to join us in spirit. Pastor Dean Nadasdy, a member of FMSC’s Board of Directors, offers a short scriptural guide for those participating in this year’s Day of Prayer ...",
+        "page_age": "2023-08-22T00:00:00",
+        "profile": {
+          "name": "Feed My Starving Children",
+          "url": "https://www.fmsc.org/the-feed/news-and-updates/2023/12-bible-verses-to-encourage-your-prayers-for-mercy",
+          "long_name": "fmsc.org",
+          "img": "https://imgs.search.brave.com/_Nxeq8xIcXMKToPrwPPfU4oTaxQR2QkNed92zldky-0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGU4OTQzYzk1/YTNjZDZkYzQwOTg2/YzhjZjI3OTJhYzZm/ZWQ0NjBlOWFhYmI4/NThiY2YyOGUxYzIw/OTMzNTIyNS93d3cu/Zm1zYy5vcmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "fmsc.org",
+          "hostname": "www.fmsc.org",
+          "favicon": "https://imgs.search.brave.com/_Nxeq8xIcXMKToPrwPPfU4oTaxQR2QkNed92zldky-0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGU4OTQzYzk1/YTNjZDZkYzQwOTg2/YzhjZjI3OTJhYzZm/ZWQ0NjBlOWFhYmI4/NThiY2YyOGUxYzIw/OTMzNTIyNS93d3cu/Zm1zYy5vcmcv",
+          "path": "› the-feed  › news-and-updates  › 2023  › 12-bible-verses-to-encourage-your-prayers-for-mercy"
+        },
+        "age": "August 22, 2023"
+      },
+      {
+        "title": "Psalm 86: Prayer for God's Mercy and Deliverance - The Teaching Lady",
+        "url": "https://bibleteachinglady.com/psalm-86-prayer-for-gods-mercy-and-deliverance/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "16 <strong>Turn to me and have mercy on me; show your strength in behalf of your servant; save me, because I serve you just as my mother did</strong>. 17 Give me a sign of your goodness, that my enemies may see it and be put to shame, for you, Lord, have helped me and comforted me.",
+        "page_age": "2022-07-10T20:41:11",
+        "profile": {
+          "name": "The Teaching Lady",
+          "url": "https://bibleteachinglady.com/psalm-86-prayer-for-gods-mercy-and-deliverance/",
+          "long_name": "bibleteachinglady.com",
+          "img": "https://imgs.search.brave.com/8GPGeRTjZ-qBUvCX9CRhN055XHh4W606lLPbt73sgDM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzZkMWFjMGQ1/ZDI1ODRiZDM5OWVm/YTU0NjgzNmY2Mjhj/NzBmOGI2YjliNDAw/ODI1NTFiZDE4Mzdh/MDQyMTc4My9iaWJs/ZXRlYWNoaW5nbGFk/eS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "bibleteachinglady.com",
+          "hostname": "bibleteachinglady.com",
+          "favicon": "https://imgs.search.brave.com/8GPGeRTjZ-qBUvCX9CRhN055XHh4W606lLPbt73sgDM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzZkMWFjMGQ1/ZDI1ODRiZDM5OWVm/YTU0NjgzNmY2Mjhj/NzBmOGI2YjliNDAw/ODI1NTFiZDE4Mzdh/MDQyMTc4My9iaWJs/ZXRlYWNoaW5nbGFk/eS5jb20v",
+          "path": "  › home  › prayer  › psalm 86: prayer for god’s mercy and deliverance"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Fdu9fNuKYR-iwZlnQFcIa7WKpAoaXw_V1Meawb2ZEes/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9iaWJs/ZXRlYWNoaW5nbGFk/eS5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjAvMTIvUHJh/eS1mb3ItR29kcy1N/ZXJjeS1hbmQtRGVs/aXZlcmFuY2UucG5n",
+          "original": "https://bibleteachinglady.com/wp-content/uploads/2020/12/Pray-for-Gods-Mercy-and-Deliverance.png",
+          "logo": false
+        },
+        "age": "July 10, 2022"
+      },
+      {
+        "title": "HAVE MERCY ON ME O! LORD | Intercessory Prayer - Friday 7:00 pm | Cornerstone Mountain Assembly",
+        "url": "https://www.cornerstonemountainassembly.com/ministries/intercessory-prayer-friday-7-00-pm/pages/have-mercy-on-me-o-lord",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Overview Prayer Points November ... 2016 II Prayer Points March 5,2016 10 March 2016 June 2016 Fan the Flame HAVE <strong>MERCY</strong> ON ME O! LORD BREAKING GENERATIONAL LIMITATIONS BECAUSE YOU <strong>PRAYED</strong> <strong>FOR</strong> ME FOR ALL THE <strong>PRAYING</strong> MOTHERS AND GRANDMOTHERS I HEAR OPEN IN MY SPIRIT FOR ...",
+        "profile": {
+          "name": "Cornerstonemountainassembly",
+          "url": "https://www.cornerstonemountainassembly.com/ministries/intercessory-prayer-friday-7-00-pm/pages/have-mercy-on-me-o-lord",
+          "long_name": "cornerstonemountainassembly.com",
+          "img": "https://imgs.search.brave.com/7IrHmI4vn5564NXbleRyLLkJ7x0DBt2GArHj1AM2Gqc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmZjMDA4ZDdj/YmZkZWZjZTg4ZDBk/MTVmNDFjYWY2YzZj/Y2UwMmM4MDRlY2Zj/ZjA3MzUyOThkZDEz/MGZjZDFjZS93d3cu/Y29ybmVyc3RvbmVt/b3VudGFpbmFzc2Vt/Ymx5LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "cornerstonemountainassembly.com",
+          "hostname": "www.cornerstonemountainassembly.com",
+          "favicon": "https://imgs.search.brave.com/7IrHmI4vn5564NXbleRyLLkJ7x0DBt2GArHj1AM2Gqc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmZjMDA4ZDdj/YmZkZWZjZTg4ZDBk/MTVmNDFjYWY2YzZj/Y2UwMmM4MDRlY2Zj/ZjA3MzUyOThkZDEz/MGZjZDFjZS93d3cu/Y29ybmVyc3RvbmVt/b3VudGFpbmFzc2Vt/Ymx5LmNvbS8",
+          "path": "› ministries  › intercessory-prayer-friday-7-00-pm  › pages  › have-mercy-on-me-o-lord"
+        }
+      },
+      {
+        "title": "A Prayer for Mercy - Asking God for Help | Crosswalk.com",
+        "url": "https://www.crosswalk.com/faith/prayer/a-beautiful-prayer-for-gods-mercy.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Use this prayer for mercy and Scriptures to help you call upon God. &quot;<strong>God, we cry out to you as our authority and the author of true mercy.</strong> Thank You for being a God of compassion and love. Life is hard enough without constantly being afraid of a God who’s out to get me...&quot;",
+        "page_age": "2019-08-08T08:00:00",
+        "profile": {
+          "name": "Crosswalk",
+          "url": "https://www.crosswalk.com/faith/prayer/a-beautiful-prayer-for-gods-mercy.html",
+          "long_name": "crosswalk.com",
+          "img": "https://imgs.search.brave.com/y5MKMfMjd5K6_lvWfjvIlT4wXtLXPERsVhErQ2M6Pvo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmU4YjQ2NGY1/MDE0YjRiMWE3OWM4/NTI3MTdlMGY1Nzg2/M2E0MjVkMWEyYzE5/YTQ4ZTljZDdmNzQ1/ODhmOTNkYS93d3cu/Y3Jvc3N3YWxrLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "crosswalk.com",
+          "hostname": "www.crosswalk.com",
+          "favicon": "https://imgs.search.brave.com/y5MKMfMjd5K6_lvWfjvIlT4wXtLXPERsVhErQ2M6Pvo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmU4YjQ2NGY1/MDE0YjRiMWE3OWM4/NTI3MTdlMGY1Nzg2/M2E0MjVkMWEyYzE5/YTQ4ZTljZDdmNzQ1/ODhmOTNkYS93d3cu/Y3Jvc3N3YWxrLmNv/bS8",
+          "path": "  › faith  › prayer  › a beautiful prayer for god's mercy"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/QXZJK6dH7lQpxqNOfLZadJAWb8ataNyL702piANW1pU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5zd25jZG4uY29t/L2Ntcy9DVy9mYWl0/aC83MDMyNi1nZXR0/eWltYWdlcy0xMTI4/NTE5MzMzLXN2ZXRh/emkuMTIwMHcudG4u/anBn",
+          "original": "https://media.swncdn.com/cms/CW/faith/70326-gettyimages-1128519333-svetazi.1200w.tn.jpg",
+          "logo": false
+        },
+        "age": "August 8, 2019"
+      },
+      {
+        "title": "r/Christian on Reddit: Please pray for me. I need God’s mercy.",
+        "url": "https://www.reddit.com/r/Christian/comments/180qery/please_pray_for_me_i_need_gods_mercy/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "45 votes, 61 comments. I am struggling with voices and mental images. <strong>I need Jesus Christ mercy and love</strong>. I thank you for all prayers. I do believe…",
+        "page_age": "2023-11-21T20:21:42",
+        "profile": {
+          "name": "Reddit",
+          "url": "https://www.reddit.com/r/Christian/comments/180qery/please_pray_for_me_i_need_gods_mercy/",
+          "long_name": "reddit.com",
+          "img": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "qa",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "reddit.com",
+          "hostname": "www.reddit.com",
+          "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+          "path": "  › r/christian  › please pray for me. i need god’s mercy."
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/A5H_aQiEBuUODR0lNeU8iDfhrWUvO8oEmRGE_mcS_gM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmVkZGl0c3RhdGlj/LmNvbS9pY29uLnBu/Zw",
+          "original": "https://www.redditstatic.com/icon.png",
+          "logo": true
+        },
+        "age": "November 21, 2023"
+      },
+      {
+        "title": "The Importance of Prayer - Mercy Ships",
+        "url": "https://www.mercyships.org/prayer-requests/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Prayer is at the heart of everything we do at <strong>Mercy</strong> Ships. Our floating hospitals provide free, world-class healthcare to some of the poorest regions in the world, and prayer is the foundation that supports and sustains our mission of hope and healing.  · And we would love for you to <strong>pray</strong> with us!",
+        "page_age": "2024-07-11T16:50:35",
+        "profile": {
+          "name": "Mercy Ships",
+          "url": "https://www.mercyships.org/prayer-requests/",
+          "long_name": "mercyships.org",
+          "img": "https://imgs.search.brave.com/Iwi6m1114puEwU0H5KZfrpNH_c7ZXV1uH3mKuKnsNwk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2JmY2JjZmNh/ZGQwMmVlZmI1MDE3/ZDlmNjljOWI0MDgw/NzdlY2JlZWI4NGYx/ZDFiNjA0NTZjMjE2/ZGFkYTIxNi93d3cu/bWVyY3lzaGlwcy5v/cmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "mercyships.org",
+          "hostname": "www.mercyships.org",
+          "favicon": "https://imgs.search.brave.com/Iwi6m1114puEwU0H5KZfrpNH_c7ZXV1uH3mKuKnsNwk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2JmY2JjZmNh/ZGQwMmVlZmI1MDE3/ZDlmNjljOWI0MDgw/NzdlY2JlZWI4NGYx/ZDFiNjA0NTZjMjE2/ZGFkYTIxNi93d3cu/bWVyY3lzaGlwcy5v/cmcv",
+          "path": "  › home  › the importance of prayer"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/aoFzNxNnNKP8Zy8nEYSUtNomxP9vT1a_LvROvc82hI0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bWVyY3lzaGlwcy5v/cmcvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjQvMDcvbWVyY3kt/c2hpcHMtYmxvZy1w/cmF5ZXItcmVxdWVz/dHMtZmVhdHVyZS5q/cGc",
+          "original": "https://www.mercyships.org/wp-content/uploads/2024/07/mercy-ships-blog-prayer-requests-feature.jpg",
+          "logo": false
+        },
+        "age": "July 11, 2024"
+      },
+      {
+        "title": "Prayers of Mercy : St. Patrick Catholic Church",
+        "url": "https://www.stpatrickmalvern.org/jubilee/prayers-of-mercy/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "9. Conclude with Holy God <strong>Holy God, Holy Mighty One, Holy Immortal One, have mercy on us and on the whole world</strong>. ... 10. Optional Closing Prayer Eternal God, in whom mercy is endless and the treasury of compassion — inexhaustible, look kindly upon us and increase Your mercy in us, that in ...",
+        "profile": {
+          "name": "Stpatrickmalvern",
+          "url": "https://www.stpatrickmalvern.org/jubilee/prayers-of-mercy/",
+          "long_name": "stpatrickmalvern.org",
+          "img": "https://imgs.search.brave.com/hy6v_8cnkPedIcMwgfhHK7Kp31raLN-cNPY8O2vIOHM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjg0NTRkN2E0/OTgyNTcwMTY2OGE4/Mjk2NDlmMjhlMDkx/OTA5Mzg2MjlkYzMz/NDQ5ZjliZmI5NDMx/NjIwMGNiNC93d3cu/c3RwYXRyaWNrbWFs/dmVybi5vcmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "stpatrickmalvern.org",
+          "hostname": "www.stpatrickmalvern.org",
+          "favicon": "https://imgs.search.brave.com/hy6v_8cnkPedIcMwgfhHK7Kp31raLN-cNPY8O2vIOHM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjg0NTRkN2E0/OTgyNTcwMTY2OGE4/Mjk2NDlmMjhlMDkx/OTA5Mzg2MjlkYzMz/NDQ5ZjliZmI5NDMx/NjIwMGNiNC93d3cu/c3RwYXRyaWNrbWFs/dmVybi5vcmcv",
+          "path": "› jubilee  › prayers-of-mercy"
+        }
+      },
+      {
+        "title": "Prayer for mercy | PrayerRequest.com",
+        "url": "https://www.prayerrequest.com/threads/prayer-for-mercy.5108651/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Let us pray together: <strong>Almighty God, we come before You in the name of Jesus Christ, lifting up our brother and sister who are in need of Your mercy and grace</strong>. They are caring for their family and preparing for exams, and we ask that You strengthen them in their responsibilities and studies.",
+        "page_age": "2025-03-19T00:00:00",
+        "profile": {
+          "name": "PrayerRequest.com",
+          "url": "https://www.prayerrequest.com/threads/prayer-for-mercy.5108651/",
+          "long_name": "prayerrequest.com",
+          "img": "https://imgs.search.brave.com/4IF1VKzCWFU5ymhOMuKz8Bjw68euhfgMwAV7okWqvwE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjUyZDRlZTNl/ZjdjZjczMTY0ODYw/MTg1ZjIwMDAwNjlm/NGY3ZDJmMDM3ODM2/ZDQ2YWNiMTIxYWE0/NzhjYWFiMC93d3cu/cHJheWVycmVxdWVz/dC5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "prayerrequest.com",
+          "hostname": "www.prayerrequest.com",
+          "favicon": "https://imgs.search.brave.com/4IF1VKzCWFU5ymhOMuKz8Bjw68euhfgMwAV7okWqvwE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjUyZDRlZTNl/ZjdjZjczMTY0ODYw/MTg1ZjIwMDAwNjlm/NGY3ZDJmMDM3ODM2/ZDQ2YWNiMTIxYWE0/NzhjYWFiMC93d3cu/cHJheWVycmVxdWVz/dC5jb20v",
+          "path": "  › home  › prayer requests  › prayer requests over 30 days ago  › 2025"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/400r6fOqsa7vtMyjIm_-gFOB_YHadsuY59UsioLKJJ0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zLnBy/YXllcnJlcXVlc3Qu/Y29tL3N0eWxlcy9k/ZWZhdWx0L3hlbmZv/cm8vcHJsb2dveGVu/aGVhZGVyLnBuZw",
+          "original": "https://s.prayerrequest.com/styles/default/xenforo/prlogoxenheader.png",
+          "logo": true
+        },
+        "age": "March 19, 2025"
+      },
+      {
+        "title": "Divine Mercy 3 O'Clock Prayer - Daily Reflections on Divine Mercy",
+        "url": "https://divinemercy.life/divine-mercy-3-oclock-prayer/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "“I desire that you know more profoundly the love that burns in My Heart for souls, and you will understand this when you meditate upon My Passion. <strong>Call upon My mercy on behalf of sinners; I desire their salvation</strong>. When you say this prayer, with a contrite heart and with faith on behalf of ...",
+        "page_age": "2020-10-05T15:47:03",
+        "profile": {
+          "name": "Divine Mercy",
+          "url": "https://divinemercy.life/divine-mercy-3-oclock-prayer/",
+          "long_name": "divinemercy.life",
+          "img": "https://imgs.search.brave.com/fqpJtQ348hOWEIxenOu0o2XzOjjBqY0gwWQLHpgoRX4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTBiOGQxZWY3/ZWY3ZDJiYjFkMWRl/ZGViOWI4ZTU2MTUy/ZGMwODQ3OTU0NDlh/NWUxODNhYWUyN2Nk/MDE5NWJhMy9kaXZp/bmVtZXJjeS5saWZl/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "divinemercy.life",
+          "hostname": "divinemercy.life",
+          "favicon": "https://imgs.search.brave.com/fqpJtQ348hOWEIxenOu0o2XzOjjBqY0gwWQLHpgoRX4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTBiOGQxZWY3/ZWY3ZDJiYjFkMWRl/ZGViOWI4ZTU2MTUy/ZGMwODQ3OTU0NDlh/NWUxODNhYWUyN2Nk/MDE5NWJhMy9kaXZp/bmVtZXJjeS5saWZl/Lw",
+          "path": "  › home  › divine mercy 3 o’clock prayer"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Xv4oTxUFw6dqtUss9M7nUZV7QAuUaYq2Efbq2sZjGyU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kaXZp/bmVtZXJjeS5saWZl/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE5/LzA0L21lcmNpZnVs/LWplc3VzLXpncm9t/YWR6ZW5pZS1mYXVz/dHluYS5qcGc",
+          "original": "https://divinemercy.life/wp-content/uploads/2019/04/merciful-jesus-zgromadzenie-faustyna.jpg",
+          "logo": false
+        },
+        "age": "October 5, 2020"
+      },
+      {
+        "title": "Chaplet of Divine Mercy | USCCB",
+        "url": "https://www.usccb.org/prayers/chaplet-divine-mercy",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Eternal Father, I offer you the Body and Blood, soul and divinity of your dearly beloved Son, our Lord Jesus Christ, R. in atonement for our sins and those of the whole world. On each of the 10 &quot;Hail Mary&quot; beads, <strong>pray</strong>: V. For the sake of his sorrowful Passion, R. have <strong>mercy</strong> on us and on the ...",
+        "profile": {
+          "name": "USCCB",
+          "url": "https://www.usccb.org/prayers/chaplet-divine-mercy",
+          "long_name": "usccb.org",
+          "img": "https://imgs.search.brave.com/H323ab0WTj8c3120w6d9Ifk1ta8GpcSFHLW3FyZN5YM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ4MDgwZDQw/YWRkMTNlMDYzNjk3/ZjcxZTQ0OTM1MWJk/NjAwNTgxMWIxMTcz/MjFhMjM4ZDc2OTk0/OWVlZTRiNy93d3cu/dXNjY2Iub3JnLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "usccb.org",
+          "hostname": "www.usccb.org",
+          "favicon": "https://imgs.search.brave.com/H323ab0WTj8c3120w6d9Ifk1ta8GpcSFHLW3FyZN5YM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ4MDgwZDQw/YWRkMTNlMDYzNjk3/ZjcxZTQ0OTM1MWJk/NjAwNTgxMWIxMTcz/MjFhMjM4ZDc2OTk0/OWVlZTRiNy93d3cu/dXNjY2Iub3JnLw",
+          "path": "› prayers  › chaplet-divine-mercy"
+        }
+      },
+      {
+        "title": "How to Recite the Chaplet of The Divine Mercy | The Divine Mercy",
+        "url": "https://www.thedivinemercy.org/message/devotions/pray-the-chaplet",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The Chaplet of Divine <strong>Mercy</strong> is recited using ordinary Rosary beads of five decades. The Chaplet is preceded by two opening prayers from the Diary of Saint Maria Faustina Kowalska and followed by a closing prayer. Download instructions. In the name of the Father, and of the Son, and of the Holy Spirit. Amen. St. Faustina’s Prayer for ...",
+        "page_age": "2025-04-07T13:30:36",
+        "profile": {
+          "name": "The Divine Mercy",
+          "url": "https://www.thedivinemercy.org/message/devotions/pray-the-chaplet",
+          "long_name": "thedivinemercy.org",
+          "img": "https://imgs.search.brave.com/ZxhL2A618x54ov6yXHxi-NRHl1GxZ9debhkeTlZA6qY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzNkNDdjMzVh/NThmN2FmMTljZWUx/MWViZDUyZWI3ZTA4/MjQwYzY0ZDdiZjFj/MThhNTYxYWYzMzk1/ZjM4N2I2NC93d3cu/dGhlZGl2aW5lbWVy/Y3kub3JnLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "thedivinemercy.org",
+          "hostname": "www.thedivinemercy.org",
+          "favicon": "https://imgs.search.brave.com/ZxhL2A618x54ov6yXHxi-NRHl1GxZ9debhkeTlZA6qY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzNkNDdjMzVh/NThmN2FmMTljZWUx/MWViZDUyZWI3ZTA4/MjQwYzY0ZDdiZjFj/MThhNTYxYWYzMzk1/ZjM4N2I2NC93d3cu/dGhlZGl2aW5lbWVy/Y3kub3JnLw",
+          "path": "› message  › devotions  › pray-the-chaplet"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/3X_x0xZIPycjmoD0n8HN94fYM0nYzkad54nh23RSkM4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/dGhlZGl2aW5lbWVy/Y3kub3JnL3NpdGVz/L2RlZmF1bHQvZmls/ZXMvaGVhZGVyLWpl/c3VzLWltYWdlLWdv/bGQucG5n",
+          "original": "https://www.thedivinemercy.org/sites/default/files/header-jesus-image-gold.png",
+          "logo": false
+        },
+        "age": "April 7, 2025"
+      },
+      {
+        "title": "r/Christian on Reddit: Prayer request for God’s mercy and grace.",
+        "url": "https://www.reddit.com/r/Christian/comments/16qjq7i/prayer_request_for_gods_mercy_and_grace/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Prayers being lifted for you. I know you’re feeling down, but now is good to remember who the God of the Bible is; the God we serve: “The LORD is <strong>merciful</strong> and gracious, Slow to anger, and abounding in <strong>mercy</strong>. He will not always strive with us, Nor will He keep His anger forever.",
+        "page_age": "2023-09-24T00:25:22",
+        "profile": {
+          "name": "Reddit",
+          "url": "https://www.reddit.com/r/Christian/comments/16qjq7i/prayer_request_for_gods_mercy_and_grace/",
+          "long_name": "reddit.com",
+          "img": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "qa",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "reddit.com",
+          "hostname": "www.reddit.com",
+          "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+          "path": "  › r/christian  › prayer request for god’s mercy and grace."
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/A5H_aQiEBuUODR0lNeU8iDfhrWUvO8oEmRGE_mcS_gM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmVkZGl0c3RhdGlj/LmNvbS9pY29uLnBu/Zw",
+          "original": "https://www.redditstatic.com/icon.png",
+          "logo": true
+        },
+        "age": "September 24, 2023"
+      },
+      {
+        "title": "Prayers for Mercy: Lord Have Mercy On Me | Christianity.com",
+        "url": "https://www.christianity.com/wiki/prayer/prayers-for-mercy-lord-have-mercy-on-me.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "May these <strong>mercy</strong> prayers inspire repentance in your heart and mind to live in union with God. ... <strong>Pray</strong> <strong>for</strong> God&#x27;s <strong>mercy</strong> to cleanse you of the illness of sin. The deadly sins are not only immoral but corrupt our very being, causing eternal death.",
+        "page_age": "2022-03-01T16:22:16",
+        "profile": {
+          "name": "Christianity.com",
+          "url": "https://www.christianity.com/wiki/prayer/prayers-for-mercy-lord-have-mercy-on-me.html",
+          "long_name": "christianity.com",
+          "img": "https://imgs.search.brave.com/lEcCqsEjdfsCHTm-AuXa7EP-bSWA5J5eIg6QN4b0PbQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQ4MTVhZjg1/NmZlYmUyZGRkYjZm/YjdiNDFmYmYxNTQ4/OWFiNDNmOGNhZTZl/YzkzZjcxNGQzNDVj/M2U4NDczNi93d3cu/Y2hyaXN0aWFuaXR5/LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "christianity.com",
+          "hostname": "www.christianity.com",
+          "favicon": "https://imgs.search.brave.com/lEcCqsEjdfsCHTm-AuXa7EP-bSWA5J5eIg6QN4b0PbQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQ4MTVhZjg1/NmZlYmUyZGRkYjZm/YjdiNDFmYmYxNTQ4/OWFiNDNmOGNhZTZl/YzkzZjcxNGQzNDVj/M2U4NDczNi93d3cu/Y2hyaXN0aWFuaXR5/LmNvbS8",
+          "path": "› wiki  › prayer  › prayers-for-mercy-lord-have-mercy-on-me.html"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/O-EarFF8Rb4thHOAF2s0fZvPCGm3gV_Sti3NHTPRPvg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5zd25jZG4uY29t/L3ZpYS8xNzg3OC1n/ZXR0eWltYWdlcy10/aW5uYWtvcm4tam9y/cnVhbmcuanBn",
+          "original": "https://media.swncdn.com/via/17878-gettyimages-tinnakorn-jorruang.jpg",
+          "logo": false
+        },
+        "age": "March 1, 2022"
+      },
+      {
+        "title": "DAY 2: PRAYER OF MERCY PART 1: INDIVIDUALS, ...",
+        "url": "https://www.facebook.com/rccgpublic/posts/day-2-prayer-of-mercypart-1-individuals-families-and-churchbible-texts-roman-323/1058318694711783/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "RCCG Public Relations. 56,424 likes · 52 talking about this. Religious organization",
+        "profile": {
+          "name": "Facebook",
+          "url": "https://www.facebook.com/rccgpublic/posts/day-2-prayer-of-mercypart-1-individuals-families-and-churchbible-texts-roman-323/1058318694711783/",
+          "long_name": "facebook.com",
+          "img": "https://imgs.search.brave.com/UPSLokJBKWPdNzHbqH5o3CgD13zMvR3pUTn8bk7hmPM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWM3NjZkMmE4/MTU1MTk4ZDU5YzU3/NjUxY2ExZTdjNWQx/NjJlNTY1Y2VlODM4/MmRmMDgzZDBiMmI3/YzU4NmU4ZS93d3cu/ZmFjZWJvb2suY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "facebook.com",
+          "hostname": "www.facebook.com",
+          "favicon": "https://imgs.search.brave.com/UPSLokJBKWPdNzHbqH5o3CgD13zMvR3pUTn8bk7hmPM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWM3NjZkMmE4/MTU1MTk4ZDU5YzU3/NjUxY2ExZTdjNWQx/NjJlNTY1Y2VlODM4/MmRmMDgzZDBiMmI3/YzU4NmU4ZS93d3cu/ZmFjZWJvb2suY29t/Lw",
+          "path": "› rccgpublic  › posts  › day-2-prayer-of-mercypart-1-individuals-families-and-churchbible-texts-roman-323  › 1058318694711783"
+        }
+      },
+      {
+        "title": "What It Really Means to Pray ‘Lord Have Mercy’ | Guideposts",
+        "url": "https://guideposts.org/prayer/how-to-pray/what-it-really-means-to-pray-lord-have-mercy/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Prayer is a powerful force for good. At Guideposts, we believe in the strength of prayer to bring comfort, hope, and healing. Your generous donation today will help us continue to share the power of prayer with those in need. Together, through prayer and support, we can make a difference. I <strong>pray</strong> “Lord Have <strong>Mercy</strong>...",
+        "page_age": "2024-07-22T19:48:31",
+        "profile": {
+          "name": "Guideposts",
+          "url": "https://guideposts.org/prayer/how-to-pray/what-it-really-means-to-pray-lord-have-mercy/",
+          "long_name": "guideposts.org",
+          "img": "https://imgs.search.brave.com/4dsvbZme9d4Vd39B7swf1jfJI2iJCfVFy9O04itt6k8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGFlYTg3MDY3/NWU3OTM5MGJmNDE5/NTNhOWVkM2I0ZjMw/ZTBkOTM3Zjg1ZWM3/MWIwNDkzODc2N2Nj/NTlkOGNiNC9ndWlk/ZXBvc3RzLm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "guideposts.org",
+          "hostname": "guideposts.org",
+          "favicon": "https://imgs.search.brave.com/4dsvbZme9d4Vd39B7swf1jfJI2iJCfVFy9O04itt6k8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGFlYTg3MDY3/NWU3OTM5MGJmNDE5/NTNhOWVkM2I0ZjMw/ZTBkOTM3Zjg1ZWM3/MWIwNDkzODc2N2Nj/NTlkOGNiNC9ndWlk/ZXBvc3RzLm9yZy8",
+          "path": "  › home  › blog  › prayer  › how to pray  › what it really means to pray ‘lord have mercy’"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/FDMZmyfClwNnsI4CyxUmQoCgiN8wYc3B2NlyeSwQHfA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ndWlk/ZXBvc3RzLm9yZy93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMC8w/Ny9sb3JkX2hhdmVf/bWVyY3kuanBnLm9w/dGltYWwuanBn",
+          "original": "https://guideposts.org/wp-content/uploads/2020/07/lord_have_mercy.jpg.optimal.jpg",
+          "logo": false
+        },
+        "age": "July 22, 2024"
+      },
+      {
+        "title": "Centre for Divine Mercy :: Prayers of Divine Mercy :: A Global Virtual Centre for Divine Mercy",
+        "url": "https://centrefordivinemercy.org/divine-mercy-prayers",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Want us to <strong>pray</strong> <strong>for</strong> you? Submit a confidential Prayer Request here. ... Jesus, the Divine <strong>Mercy</strong>, I consecrate my entire life, from this day on, to You without reserve. Into Your hands, I abandon my past, my present, and my future. From this day forward, make me a true follower of Your teaching.",
+        "profile": {
+          "name": "Centrefordivinemercy",
+          "url": "https://centrefordivinemercy.org/divine-mercy-prayers",
+          "long_name": "centrefordivinemercy.org",
+          "img": "https://imgs.search.brave.com/8bGZFsRYSy4WCy4FbA0_W6Nnf7g_Tq0OxsdwJdIVUNU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2YwMGQ1ZDU0/YzE4OGE3NzM4MDQy/MzUyNmE0MTQzYWRk/MDg2YjZmMzYxY2Nh/NGQxMmI0ODgzYzM1/MjdiODcwMC9jZW50/cmVmb3JkaXZpbmVt/ZXJjeS5vcmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "centrefordivinemercy.org",
+          "hostname": "centrefordivinemercy.org",
+          "favicon": "https://imgs.search.brave.com/8bGZFsRYSy4WCy4FbA0_W6Nnf7g_Tq0OxsdwJdIVUNU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2YwMGQ1ZDU0/YzE4OGE3NzM4MDQy/MzUyNmE0MTQzYWRk/MDg2YjZmMzYxY2Nh/NGQxMmI0ODgzYzM1/MjdiODcwMC9jZW50/cmVmb3JkaXZpbmVt/ZXJjeS5vcmcv",
+          "path": "› divine-mercy-prayers"
+        }
+      },
+      {
+        "title": "A Prayer for Mercy",
+        "url": "https://www.thegospelcoalition.org/blogs/kevin-deyoung/a-prayer-for-mercy/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "After hearing from several people in my church who asked for a copy of the prayer, I decided to post the video and a transcript of the prayer here on my blog. ... O great God, the God of Abraham, Isaac, and Jacob, the God who created all things, the God above all gods, the God who was, and is, and is to come, the God who never changes, the God who never slumbers nor sleeps, the God and Father of our Lord Jesus Christ, have <strong>mercy</strong> ...",
+        "page_age": "2020-06-02T04:26:00",
+        "profile": {
+          "name": "The Gospel Coalition",
+          "url": "https://www.thegospelcoalition.org/blogs/kevin-deyoung/a-prayer-for-mercy/",
+          "long_name": "thegospelcoalition.org",
+          "img": "https://imgs.search.brave.com/Yq28HoHpcc4CdqT_ojylBQYdDT08BsKMICmeeih8ins/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTE5YTQzZjQ4/N2E1M2FjNDFmMDY2/MWFmODgxMjg4YjBk/YWUzMzQ4OGYyYzlm/ZDUwMmUzMTQyNGY3/MGNhZTA3ZC93d3cu/dGhlZ29zcGVsY29h/bGl0aW9uLm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "thegospelcoalition.org",
+          "hostname": "www.thegospelcoalition.org",
+          "favicon": "https://imgs.search.brave.com/Yq28HoHpcc4CdqT_ojylBQYdDT08BsKMICmeeih8ins/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTE5YTQzZjQ4/N2E1M2FjNDFmMDY2/MWFmODgxMjg4YjBk/YWUzMzQ4OGYyYzlm/ZDUwMmUzMTQyNGY3/MGNhZTA3ZC93d3cu/dGhlZ29zcGVsY29h/bGl0aW9uLm9yZy8",
+          "path": "  › home  › kevin deyoung posts  › a prayer for mercy"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Hy_uONJ-7KgnBeQwJuut935uZtTjpIlQUR1tVnjpD5s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS50aGVnb3NwZWxj/b2FsaXRpb24ub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzA2LzAxMTA0ODQz/L1ByYXllci5qcGVn",
+          "original": "https://media.thegospelcoalition.org/wp-content/uploads/2020/06/01104843/Prayer.jpeg",
+          "logo": false
+        },
+        "age": "June 2, 2020"
+      },
+      {
+        "title": "Prayer of Mercy | PrayerRequest.com",
+        "url": "https://www.prayerrequest.com/threads/prayer-of-mercy.5025788/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Dear heavenly Father of glory and <strong>mercy</strong>, I come to you with my fears but with the assurance that there is rest and peace in you. Lord please answer my prayer over this water in ###&#x27;s Scrotal sac, I have been waiting on you for ### years on this matter. Please Jesus don&#x27;t let me be put to shame ...",
+        "page_age": "2024-10-04T00:00:00",
+        "profile": {
+          "name": "PrayerRequest.com",
+          "url": "https://www.prayerrequest.com/threads/prayer-of-mercy.5025788/",
+          "long_name": "prayerrequest.com",
+          "img": "https://imgs.search.brave.com/4IF1VKzCWFU5ymhOMuKz8Bjw68euhfgMwAV7okWqvwE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjUyZDRlZTNl/ZjdjZjczMTY0ODYw/MTg1ZjIwMDAwNjlm/NGY3ZDJmMDM3ODM2/ZDQ2YWNiMTIxYWE0/NzhjYWFiMC93d3cu/cHJheWVycmVxdWVz/dC5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "prayerrequest.com",
+          "hostname": "www.prayerrequest.com",
+          "favicon": "https://imgs.search.brave.com/4IF1VKzCWFU5ymhOMuKz8Bjw68euhfgMwAV7okWqvwE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjUyZDRlZTNl/ZjdjZjczMTY0ODYw/MTg1ZjIwMDAwNjlm/NGY3ZDJmMDM3ODM2/ZDQ2YWNiMTIxYWE0/NzhjYWFiMC93d3cu/cHJheWVycmVxdWVz/dC5jb20v",
+          "path": "  › home  › prayer requests  › prayer requests over 30 days ago  › 2024"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/400r6fOqsa7vtMyjIm_-gFOB_YHadsuY59UsioLKJJ0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zLnBy/YXllcnJlcXVlc3Qu/Y29tL3N0eWxlcy9k/ZWZhdWx0L3hlbmZv/cm8vcHJsb2dveGVu/aGVhZGVyLnBuZw",
+          "original": "https://s.prayerrequest.com/styles/default/xenforo/prlogoxenheader.png",
+          "logo": true
+        },
+        "age": "October 4, 2024"
+      }
+    ],
+    "family_friendly": true
+  }
+}

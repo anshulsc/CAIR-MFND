@@ -1,0 +1,843 @@
+{
+  "query": {
+    "original": "Modi ji had already predictedThis time Trump government",
+    "show_strict_warning": false,
+    "altered": "modi ji had already predicted this time trump government",
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "videos",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=j7iFcmBkqNk",
+        "title": "Trump Couldn't Handle Covid Properly, PM Modi Saved India: BJP ...",
+        "description": "Prime Minister Narendra Modi has done what US President Donald Trump failed to do and \"saved the country\" from the novel coronavirus, BJP President JP Nadda ...",
+        "age": "November 6, 2020",
+        "page_age": "2020-11-06T03:07:33",
+        "fetched_content_timestamp": 1717177140,
+        "video": {
+          "duration": "00:46",
+          "views": 12570,
+          "creator": "NDTV",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/VPuDCPa-Im5PE78HlY3Na_4W6AHnov6UeWTn3epue6w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9q/N2lGY21Ca3FOay9o/cWRlZmF1bHQuanBn",
+          "original": "https://i.ytimg.com/vi/j7iFcmBkqNk/hqdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=mBraz4BYMhs",
+        "title": "Was Modi's Trip to the US and UN a Success or Failure? - YouTube",
+        "description": "In a spirited discussion with Karan Thapar, Sheshadri Chari, a member of the BJPs National Executive, and Manoj Joshi, Distinguished Fellow of the Observer R...",
+        "age": "September 30, 2019",
+        "page_age": "2019-09-30T17:30:01",
+        "fetched_content_timestamp": 1728773183,
+        "video": {
+          "duration": "38:15",
+          "views": 165650,
+          "creator": "The Wire",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/txXofwKt6z35tb2CzRZiEIUCMBbF7v5-FY_kFLx3Sgg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9t/QnJhejRCWU1ocy9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/mBraz4BYMhs/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=gAibc3e8-Ro",
+        "title": "YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "fetched_content_timestamp": 1658577857,
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/XepDHR8g69g6rdi7OBpgKljEzgcaNLKzznWYgpEIfN4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9n/QWliYzNlOC1Sby9o/cWRlZmF1bHQuanBn",
+          "original": "https://i.ytimg.com/vi/gAibc3e8-Ro/hqdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=9ZzDuEZ3lRA",
+        "title": "Narendra Modi Future 2021 to 2029 | Acharya Salil",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "fetched_content_timestamp": 1721757327,
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/M-LsnbOoFiph9f8D9wTcOUXdYeE2K383F1Rr0ehzP8g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS85/WnpEdUVaM2xSQS9o/cWRlZmF1bHQuanBn",
+          "original": "https://i.ytimg.com/vi/9ZzDuEZ3lRA/hqdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=vINNx7owgbk",
+        "title": "Astrological view on PM Narendra Modi - Future as a Leader and ...",
+        "description": "The Indian Prime Minister Mr. Narendra Modi has gained a huge fan following within the country and internationally over the last decade. We would like to und...",
+        "age": "June 2, 2020",
+        "page_age": "2020-06-02T13:40:57",
+        "fetched_content_timestamp": 1605075100,
+        "video": {
+          "duration": "10:50",
+          "views": 40723,
+          "creator": "Radio Dwarka",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/e7K8moCIBTNpLntAr41Mwymr-bFLTqEkfowdGBvh-ok/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS92/SU5OeDdvd2diay9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/vINNx7owgbk/maxresdefault.jpg"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "‘Trump missile’ fired 24th time, PM Modi must make statement in Parliament: Congress - The Hindu",
+        "url": "https://www.thehindu.com/news/national/trump-missile-fired-24th-time-pm-must-make-statement-in-parliament-congress/article69830457.ece",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Congress demands PM <strong>Modi</strong> address <strong>Trump</strong>&#x27;s claims on India-Pakistan conflict in Parliament",
+        "page_age": "2025-07-19T15:12:44",
+        "profile": {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/trump-missile-fired-24th-time-pm-must-make-statement-in-parliament-congress/article69830457.ece",
+          "long_name": "thehindu.com",
+          "img": "https://imgs.search.brave.com/7nMEtreJNappZ3K0yP6ovEhbEphNWRh8gQdd737CcXU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZThkMTk4NWZl/YjBiYjYzYjQ5MjNm/YmNhNDM2ZDlkZTAz/Y2FiODM5ZjAwNWRi/MmUyY2RmMTIwNDk5/ZWE0YmQ2Yi93d3cu/dGhlaGluZHUuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "thehindu.com",
+          "hostname": "www.thehindu.com",
+          "favicon": "https://imgs.search.brave.com/7nMEtreJNappZ3K0yP6ovEhbEphNWRh8gQdd737CcXU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZThkMTk4NWZl/YjBiYjYzYjQ5MjNm/YmNhNDM2ZDlkZTAz/Y2FiODM5ZjAwNWRi/MmUyY2RmMTIwNDk5/ZWE0YmQ2Yi93d3cu/dGhlaGluZHUuY29t/Lw",
+          "path": "› news  › national  › trump-missile-fired-24th-time-pm-must-make-statement-in-parliament-congress  › article69830457.ece"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/fmXHRrHgfHSUrOEtMa_CtAMHOk0F1acQNOkeC0BZGZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aC1p/LnRoZ2ltLmNvbS9w/dWJsaWMvaW5jb21p/bmcvZWxkbXk5L2Fy/dGljbGU2OTgzMjE3/Mi5lY2UvYWx0ZXJu/YXRlcy9MQU5EU0NB/UEVfMTIwMC8yMDI1/MDcxNjE5NkwuanBn",
+          "original": "https://th-i.thgim.com/public/incoming/eldmy9/article69832172.ece/alternates/LANDSCAPE_1200/20250716196L.jpg",
+          "logo": false
+        },
+        "age": "1 week ago"
+      },
+      {
+        "title": "'Modi ji, what is the truth?': Rahul Gandhi after Donald Trump's 'jets shot down' claim; Congress sharpens attack | India News - Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/modi-ji-what-is-the-truth-rahul-gandhi-after-donald-trumps-jets-shot-down-claim-congress-sharpens-attack/articleshow/122784351.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "India News: Rahul Gandhi has challenged Prime Minister Narendra <strong>Modi</strong>&#x27;s silence regarding Donald <strong>Trump</strong>&#x27;s renewed assertions about mediating a ceasefire between Ind",
+        "page_age": "2025-07-19T15:32:00",
+        "profile": {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/modi-ji-what-is-the-truth-rahul-gandhi-after-donald-trumps-jets-shot-down-claim-congress-sharpens-attack/articleshow/122784351.cms",
+          "long_name": "timesofindia.indiatimes.com",
+          "img": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timesofindia.indiatimes.com",
+          "hostname": "timesofindia.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+          "path": "  › news  › india news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/jF5wWUsbG5qJgKuPyiIvKcgLwAHpqF0O53irlrfZyrs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9yZXNp/emVtb2RlLTQsd2lk/dGgtMTI4MCxoZWln/aHQtNzIwLG1zaWQt/MTIyNzg0NDI1LzEy/Mjc4NDQyNS5qcGc",
+          "original": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-122784425/122784425.jpg",
+          "logo": false
+        },
+        "age": "1 week ago"
+      },
+      {
+        "title": "‘Modi ji should announce a ceasefire’: Internet flooded with memes amid Donald Trump vs Elon Musk war of words | Latest News India - Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/modi-ji-should-announce-a-ceasefire-social-media-swarm-with-ceasefire-memes-amid-trump-musk-war-of-words-101749170144664.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "An account parodying PM Modi posted: “After a long night of talks mediated by India, I am pleased to announce that <strong>Donald Trump &amp; Elon Musk have agreed to a FULL AND IMMEDIATE CEASEFIRE</strong>. Congratulations to both individuals on using Common Sense and Great Intelligence.” · Shiv Sena (UBT) ...",
+        "page_age": "2025-06-06T03:07:49",
+        "profile": {
+          "name": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/modi-ji-should-announce-a-ceasefire-social-media-swarm-with-ceasefire-memes-amid-trump-musk-war-of-words-101749170144664.html",
+          "long_name": "hindustantimes.com",
+          "img": "https://imgs.search.brave.com/6oiSajNB7C3FmHradE3V3z23td9GnbX-OZbVqJO9gzY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY1MjVjODdh/ZjU0MTA4Mjc4NzA0/ODM1MjllODZmNGMy/NTViMTUyNjk2ZTU1/MGZiNDRhZjI1NzRh/N2U2NTA0YS93d3cu/aGluZHVzdGFudGlt/ZXMuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "hindustantimes.com",
+          "hostname": "www.hindustantimes.com",
+          "favicon": "https://imgs.search.brave.com/6oiSajNB7C3FmHradE3V3z23td9GnbX-OZbVqJO9gzY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY1MjVjODdh/ZjU0MTA4Mjc4NzA0/ODM1MjllODZmNGMy/NTViMTUyNjk2ZTU1/MGZiNDRhZjI1NzRh/N2U2NTA0YS93d3cu/aGluZHVzdGFudGlt/ZXMuY29tLw",
+          "path": "  › news  › india news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/T9x_PUNMnEwfJC_xHozq7EHwEE8_wOX3woMgWYC0mTA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aGluZHVzdGFudGlt/ZXMuY29tL2h0LWlt/Zy9pbWcvMjAyNS8w/Ni8wNi8xNjAweDkw/MC9VU0EtVFJVTVAt/TVVTSy1SRUdVTEFU/T1JTLTBfMTc0OTE3/MjM2NTI1OF8xNzQ5/MTcyMzgxNjU0LkpQ/Rw",
+          "original": "https://www.hindustantimes.com/ht-img/img/2025/06/06/1600x900/USA-TRUMP-MUSK-REGULATORS-0_1749172365258_1749172381654.JPG",
+          "logo": false
+        },
+        "age": "June 6, 2025"
+      },
+      {
+        "title": "Kashmir: Modi tells Trump India won't accept 'third-party mediation'",
+        "url": "https://www.bbc.com/news/articles/c89ew9wde3lo",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Indian Prime Minister Narendra Modi has told US President Donald Trump that <strong>Delhi will never accept third-party mediation with Pakistan on the issue of Kashmir</strong>, India&#x27;s senior-most diplomat said.",
+        "page_age": "2025-06-18T07:32:26",
+        "profile": {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c89ew9wde3lo",
+          "long_name": "British Broadcasting Corporation",
+          "img": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "bbc.com",
+          "hostname": "www.bbc.com",
+          "favicon": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8",
+          "path": "› news  › articles  › c89ew9wde3lo"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Vc1fk_shlx8s2FLiPtYSpJDx1te-vmlczQsFteE84eQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L25ld3MvMTAyNC9i/cmFuZGVkX25ld3Mv/MzkxZS9saXZlLzQ0/ZjhmNTEwLTRjMDEt/MTFmMC04MTJhLTNm/ZGJjMjFkZjljMS5q/cGc",
+          "original": "https://ichef.bbci.co.uk/news/1024/branded_news/391e/live/44f8f510-4c01-11f0-812a-3fdbc21df9c1.jpg",
+          "logo": false
+        },
+        "age": "June 18, 2025"
+      },
+      {
+        "title": "Key takeaways from Donald Trump’s meeting with India’s Narendra Modi | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2025/2/14/key-takeaways-from-donald-trumps-meeting-with-indias-narendra-modi",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The Indian prime minister praised <strong>Trump</strong> while angling to avoid the steep ‘reciprocal’ tariffs the US president plans.",
+        "page_age": "2025-02-14T06:33:25",
+        "profile": {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2025/2/14/key-takeaways-from-donald-trumps-meeting-with-indias-narendra-modi",
+          "long_name": "aljazeera.com",
+          "img": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "aljazeera.com",
+          "hostname": "www.aljazeera.com",
+          "favicon": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8",
+          "path": "  › news  › donald trump"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/PvZhr8W7HNYf1s9kyIDxy9O_ebCj119pIfqeryTs1U0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NS8wMi9BUDI1MDQ0/ODU4MTY1MTU1LTE3/Mzk0OTQ4ODUuanBn/P3Jlc2l6ZT0xOTIw/JTJDMTQ0MA",
+          "original": "https://www.aljazeera.com/wp-content/uploads/2025/02/AP25044858165155-1739494885.jpg?resize=1920%2C1440",
+          "logo": false
+        },
+        "age": "February 14, 2025"
+      },
+      {
+        "title": "Indian Prime Minister Narendra Modi contradicts Donald Trump on Pakistan war mediation - Newsweek",
+        "url": "https://www.newsweek.com/indian-prime-minister-contradicts-trump-2087260",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "U.S. President Donald Trump (R) ... · &quot;Prime Minister Modi told President Trump in clear terms that <strong>after April 22, India had conveyed its determination to take action against terrorism to the whole world</strong>......",
+        "page_age": "2025-06-18T11:23:34",
+        "profile": {
+          "name": "Newsweek",
+          "url": "https://www.newsweek.com/indian-prime-minister-contradicts-trump-2087260",
+          "long_name": "newsweek.com",
+          "img": "https://imgs.search.brave.com/PyNRakclvDjMYE-KKrT1jXhVbbvMiBF3N-tfeXW1ziw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmRjZTU0MTBh/MjZiZTAwZDBhMjdi/M2YzZDUzMTY3ZjA1/ZWQwZThlYWNiY2Y3/NzQ0NjZjYjhmZGYy/MTZhMjhjNi93d3cu/bmV3c3dlZWsuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "newsweek.com",
+          "hostname": "www.newsweek.com",
+          "favicon": "https://imgs.search.brave.com/PyNRakclvDjMYE-KKrT1jXhVbbvMiBF3N-tfeXW1ziw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmRjZTU0MTBh/MjZiZTAwZDBhMjdi/M2YzZDUzMTY3ZjA1/ZWQwZThlYWNiY2Y3/NzQ0NjZjYjhmZGYy/MTZhMjhjNi93d3cu/bmV3c3dlZWsuY29t/Lw",
+          "path": "  › u.s."
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/nWZX3Qv0JPyU02GoOE2kDAoCCK_rinpYFsSglytRyn8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kLm5l/d3N3ZWVrLmNvbS9l/bi9mdWxsLzI2NjU2/NDMvaW5kaWFuLXBt/LW1vZGktdHJ1bXAu/anBnP3c9MTYwMCZo/PTkwMCZxPTg4JmY9/Mjk4YmNkMzlhOGQ5/ZWU1MTQ5YjFjNjI3/OGZjM2Q4MWI",
+          "original": "https://d.newsweek.com/en/full/2665643/indian-pm-modi-trump.jpg?w=1600&h=900&q=88&f=298bcd39a8d9ee5149b1c6278fc3d81b",
+          "logo": false
+        },
+        "age": "June 18, 2025"
+      },
+      {
+        "title": "Fact Check: Did PM Modi ‘Predict’ Trump’s Win In US Presidential Polls? Here’s The Truth Behind Viral Video",
+        "url": "https://newschecker.in/fact-check/did-pm-modi-predict-trumps-win-in-us-presidential-polls-heres-the-truth",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Democrat Joe Biden had won the ... Biden had secured 306 electoral votes, while Trump had won 232. ... <strong>Trump had earlier announced that PM Modi will meet him during his US visit in September this year</strong>....",
+        "profile": {
+          "name": "Newschecker",
+          "url": "https://newschecker.in/fact-check/did-pm-modi-predict-trumps-win-in-us-presidential-polls-heres-the-truth",
+          "long_name": "newschecker.in",
+          "img": "https://imgs.search.brave.com/p_MHAjYPKMAb9_jV52zUzW5DylP8hUTu4RlQyfIoO88/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGE4MGEzZDE5/Nzc5OTk1OGVjOWY0/MjBhMzFjNGVkMDgw/NjcxMzc0NjNiMzM0/YmIyZjVmMzI5NzVm/Njk0NDVjMS9uZXdz/Y2hlY2tlci5pbi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "newschecker.in",
+          "hostname": "newschecker.in",
+          "favicon": "https://imgs.search.brave.com/p_MHAjYPKMAb9_jV52zUzW5DylP8hUTu4RlQyfIoO88/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGE4MGEzZDE5/Nzc5OTk1OGVjOWY0/MjBhMzFjNGVkMDgw/NjcxMzc0NjNiMzM0/YmIyZjVmMzI5NzVm/Njk0NDVjMS9uZXdz/Y2hlY2tlci5pbi8",
+          "path": "› fact-check  › did-pm-modi-predict-trumps-win-in-us-presidential-polls-heres-the-truth"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/hXFUdt7Fmcp-i5uGRFm5MmYkoLV6LsS6AgbGeyBvxGg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/Y2hlY2tlci5pbi93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNC8x/MS9SYXRpbmctMjAy/NC0xMS0wN1QxNTUy/NTMuMjAwLmpwZw",
+          "original": "https://newschecker.in/wp-content/uploads/2024/11/Rating-2024-11-07T155253.200.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "What's the truth Modi ji? Rahul Gandhi after Trump claims 5 jets shot down",
+        "url": "https://www.indiatoday.in/india/story/rahul-gandhi-pm-modi-donald-trump-india-pak-conflict-ceasefire-claim-op-sindoor-2758313-2025-07-19",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A day after US President Donald <strong>Trump</strong> claimed that &quot;five jets were shot down&quot; during India&#x27;s Operation Sindoor, Congress MP Rahul Gandhi slammed PM Narendra <strong>Modi</strong>, saying the country had a right to know the truth.",
+        "page_age": "2025-07-19T13:37:21",
+        "profile": {
+          "name": "India Today",
+          "url": "https://www.indiatoday.in/india/story/rahul-gandhi-pm-modi-donald-trump-india-pak-conflict-ceasefire-claim-op-sindoor-2758313-2025-07-19",
+          "long_name": "indiatoday.in",
+          "img": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "indiatoday.in",
+          "hostname": "www.indiatoday.in",
+          "favicon": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8",
+          "path": "  › news  › what's the truth modi ji? rahul gandhi after trump claims 5 jets shot down"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/gATqGq2h8ur6AMXsOzaq0PLYwSAH50a_3yYwrTU0My8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ha20t/aW1nLWEtaW4udG9z/c2h1Yi5jb20vaW5k/aWF0b2RheS9pbWFn/ZXMvc3RvcnkvMjAy/NTA3L3BtLW1vZGkt/LXJhaHVsLWdhbmRo/aS1hbmQtZG9uYWxk/LXRydW1wLTE5Mzcx/MDIxNy0xNng5XzAu/anBnP1ZlcnNpb25J/ZD1pUTRfQTl3SU1S/Tzk1emVWMWo5eWRo/Q241UEQxOXJxOT9z/aXplPTEyODA6NzIw",
+          "original": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202507/pm-modi--rahul-gandhi-and-donald-trump-193710217-16x9_0.jpg?VersionId=iQ4_A9wIMRO95zeV1j9ydhCn5PD19rq9?size=1280:720",
+          "logo": false
+        },
+        "age": "1 week ago"
+      },
+      {
+        "title": "India's Modi likely to find comfort in Trump's return and a shared worldview | AP News",
+        "url": "https://apnews.com/article/india-us-election-2024-trump-modi-a291df0d68d76d88da353e1e12ad1934",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Donald <strong>Trump</strong>’s return to the White House has made many countries anxious and recalculating where they stand with the U.S., but India appears to be welcoming the change that may embolden nationalist leaders like Prime Minister Narendra <strong>Modi</strong>.",
+        "page_age": "2024-11-14T14:39:06",
+        "profile": {
+          "name": "AP News",
+          "url": "https://apnews.com/article/india-us-election-2024-trump-modi-a291df0d68d76d88da353e1e12ad1934",
+          "long_name": "apnews.com",
+          "img": "https://imgs.search.brave.com/-_32qKbk4nzvzQ3RP6w9el0V0iswWgQP6EG3HIKvQ2s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWJlOGE2ODEz/ZDcxYzRjZDBjMzMw/OTZiMWM3ZDUwNjJk/ZTMyZDY3N2U5NTg4/ZDZhNDk3NzFiZjdh/OGQ0YTFmNi9hcG5l/d3MuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "apnews.com",
+          "hostname": "apnews.com",
+          "favicon": "https://imgs.search.brave.com/-_32qKbk4nzvzQ3RP6w9el0V0iswWgQP6EG3HIKvQ2s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWJlOGE2ODEz/ZDcxYzRjZDBjMzMw/OTZiMWM3ZDUwNjJk/ZTMyZDY3N2U5NTg4/ZDZhNDk3NzFiZjdh/OGQ0YTFmNi9hcG5l/d3MuY29tLw",
+          "path": "› article  › india-us-election-2024-trump-modi-a291df0d68d76d88da353e1e12ad1934"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/1Alrac6GbbFEhP6PCX8DX1PfYoe3ChKrzMiWtKg1o9A/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kaW1z/LmFwbmV3cy5jb20v/ZGltczQvZGVmYXVs/dC9lYTA4NzAxLzIx/NDc0ODM2NDcvc3Ry/aXAvZmFsc2UvY3Jv/cC81Mjg2eDM1MjQr/MCswL3Jlc2l6ZS8x/NDg2eDk5MSEvcXVh/bGl0eS85MC8_dXJs/PWh0dHBzJTNBJTJG/JTJGYXNzZXRzLmFw/bmV3cy5jb20lMkYx/ZiUyRmQyJTJGOGE3/OGFlMzk2ZjIyYWU4/NjE1YzFiMjEyNjJh/OCUyRmI2MTI5NTlk/ZjEyOTQyZGU5MDVh/ODJjNDE3MzdlMjQ1",
+          "original": "https://dims.apnews.com/dims4/default/ea08701/2147483647/strip/false/crop/5286x3524+0+0/resize/1486x991!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1f%2Fd2%2F8a78ae396f22ae8615c1b21262a8%2Fb612959df12942de905a82c41737e245",
+          "logo": false
+        },
+        "age": "November 14, 2024"
+      },
+      {
+        "title": "Readout of President Donald J. Trump’s Call with Prime Minister Modi of India",
+        "url": "https://www.whitehouse.gov/briefings-statements/2025/01/readout-of-president-donald-j-trumps-call-with-prime-minister-modi-of-india/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Today, President Donald J. Trump held a productive call with Prime Minister Narendra Modi of India. The two leaders discussed <strong>expanding and deepening cooperation</strong>. They also discussed a range of regional issues, including security in the Indo-Pacific, the Middle East, and Europe.",
+        "page_age": "2025-01-27T22:31:16",
+        "profile": {
+          "name": "White House",
+          "url": "https://www.whitehouse.gov/briefings-statements/2025/01/readout-of-president-donald-j-trumps-call-with-prime-minister-modi-of-india/",
+          "long_name": "whitehouse.gov",
+          "img": "https://imgs.search.brave.com/e6eMgBSwnkEjsAE_qoI9Vl4260waVBTKICayLay6wn8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjlkYzVmY2Nm/NjUxMWYyNWVjMzg5/N2JhMjYxNGQ2NzQ4/NjFiYWRkOWZlZjQ4/MjQ5MjIxNGVlMWYz/YmNmMjZhNC93d3cu/d2hpdGVob3VzZS5n/b3Yv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "whitehouse.gov",
+          "hostname": "www.whitehouse.gov",
+          "favicon": "https://imgs.search.brave.com/e6eMgBSwnkEjsAE_qoI9Vl4260waVBTKICayLay6wn8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjlkYzVmY2Nm/NjUxMWYyNWVjMzg5/N2JhMjYxNGQ2NzQ4/NjFiYWRkOWZlZjQ4/MjQ5MjIxNGVlMWYz/YmNmMjZhNC93d3cu/d2hpdGVob3VzZS5n/b3Yv",
+          "path": "  › home  › news  › briefings & statements  › readout of president donald j. trump’s call with prime minister modi of india"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/AmWHgi1AOAPuzRMHi-JBq-oDuiEpoHF2Zxi1yid--rg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/d2hpdGVob3VzZS5n/b3Yvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMDMvV0g0Ny1T/b2NpYWwtU2hhcmUt/Q2FyZC5qcGc",
+          "original": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
+          "logo": false
+        },
+        "age": "January 27, 2025"
+      },
+      {
+        "title": "India's Narendra Modi likely to find comfort in Trump's return and a shared worldview - Washington Times",
+        "url": "https://www.washingtontimes.com/news/2024/nov/14/india-narendra-modi-likely-find-comfort-trump-retu/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Donald <strong>Trump</strong>&#x27;s return to the White House has made many countries anxious and recalculating where they stand with the U.S., but India appears to be welcoming the change that may embolden nationalist leaders like Prime Minister Narendra <strong>Modi</strong>.",
+        "page_age": "2024-11-14T14:11:22",
+        "profile": {
+          "name": "Washington Times",
+          "url": "https://www.washingtontimes.com/news/2024/nov/14/india-narendra-modi-likely-find-comfort-trump-retu/",
+          "long_name": "washingtontimes.com",
+          "img": "https://imgs.search.brave.com/GBTxfup90fU4z_6AMeTHA6tFvaQvyw85G7-7Oh7q4nI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ0MWFhMmRh/OGZlNGU4OTg0OGFj/N2RhMmFkOTk2YzA0/ZDU2YTM2NzNjNDIz/NTcxMzA4OThmN2Qz/N2ExYzg0Yi93d3cu/d2FzaGluZ3RvbnRp/bWVzLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "washingtontimes.com",
+          "hostname": "www.washingtontimes.com",
+          "favicon": "https://imgs.search.brave.com/GBTxfup90fU4z_6AMeTHA6tFvaQvyw85G7-7Oh7q4nI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ0MWFhMmRh/OGZlNGU4OTg0OGFj/N2RhMmFkOTk2YzA0/ZDU2YTM2NzNjNDIz/NTcxMzA4OThmN2Qz/N2ExYzg0Yi93d3cu/d2FzaGluZ3RvbnRp/bWVzLmNvbS8",
+          "path": "› news  › 2024  › nov  › 14  › india-narendra-modi-likely-find-comfort-trump-retu"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/IqM8glfBwnM5Efj4MfP8ABRpb2jm8DiqAEy4E_8gHvk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS53YXNodGltZXMu/Y29tL21lZGlhL2lt/YWdlLzIwMjQvMTEv/MTMvVVNfRWxlY3Rp/b25fMjAyNF9JbmRp/YV84MDkwNi5qcGc",
+          "original": "https://media.washtimes.com/media/image/2024/11/13/US_Election_2024_India_80906.jpg",
+          "logo": false
+        },
+        "age": "November 14, 2024"
+      },
+      {
+        "title": "PM Narendra Modi On Why He Declined Donald Trump Invite To Visit Washington DC",
+        "url": "https://www.ndtv.com/india-news/pm-narendra-modi-on-why-he-rejected-donald-trump-invite-to-visit-washington-dc-8718287",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Prime Minister Narendra <strong>Modi</strong> said he declined US President Donald <strong>Trump</strong>&#x27;s invitation to visit Washington DC as he had to return to the &quot;holy land of Lord Jagannath&quot;.",
+        "profile": {
+          "name": "NDTV",
+          "url": "https://www.ndtv.com/india-news/pm-narendra-modi-on-why-he-rejected-donald-trump-invite-to-visit-washington-dc-8718287",
+          "long_name": "ndtv.com",
+          "img": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ndtv.com",
+          "hostname": "www.ndtv.com",
+          "favicon": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v",
+          "path": "  › home  › india news  › pm modi on why he declined trump's invite to visit us"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/fD5o67Qw8ShJmtLvob3y_zWAV-ilZj-dkw4r4AAQW-A/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjUtMDYvM3MxMG8x/ZmNfbmFyZW5kcmEt/bW9kaV82MjV4MzAw/XzIwX0p1bmVfMjUu/anBlZw",
+          "original": "https://c.ndtvimg.com/2025-06/3s10o1fc_narendra-modi_625x300_20_June_25.jpeg",
+          "logo": false
+        }
+      },
+      {
+        "title": "WATCH: Trump and India’s Modi hold joint news conference at the White House | PBS News",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-trump-and-indias-modi-hold-joint-news-conference-at-the-white-house",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "President Donald <strong>Trump</strong> met Thursday with Indian Prime Minister Narendra <strong>Modi</strong>, who has heaped praise on him in hopes of avoiding the additional tariffs that the new administration has slapped on other countries in its opening weeks.",
+        "page_age": "2025-02-13T20:46:41",
+        "profile": {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/watch-live-trump-and-indias-modi-hold-joint-news-conference-at-the-white-house",
+          "long_name": "pbs.org",
+          "img": "https://imgs.search.brave.com/5IchnCgOSKQjG_xWeylgRE8v0GvszZCmPHDYfQFf8EU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmEyM2UyZmM5/ZTBkNTVjZGIyY2Y5/NzIzNjcwM2EyMzM3/ODIzMzEwZWNmNzhi/ZDNjZTIwNTU5YTU4/ZjNmYWE2NC93d3cu/cGJzLm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pbs.org",
+          "hostname": "www.pbs.org",
+          "favicon": "https://imgs.search.brave.com/5IchnCgOSKQjG_xWeylgRE8v0GvszZCmPHDYfQFf8EU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmEyM2UyZmM5/ZTBkNTVjZGIyY2Y5/NzIzNjcwM2EyMzM3/ODIzMzEwZWNmNzhi/ZDNjZTIwNTU5YTU4/ZjNmYWE2NC93d3cu/cGJzLm9yZy8",
+          "path": "› newshour  › politics  › watch-live-trump-and-indias-modi-hold-joint-news-conference-at-the-white-house"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/6mL1wOZ72Z7WKIm3MutyMDThQwYKForXzWVcYsBrZcQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kM2k2/Zmg4M2VsdjM1dC5j/bG91ZGZyb250Lm5l/dC9zdGF0aWMvMjAy/NS8wMi8yMDI1LTAy/LTEzVDIzMTk1MFpf/MjA2NDM3NjY4X1JD/MlpUQ0FCWFBZMV9S/VFJNQURQXzNfVVNB/LUlORElBLTEwMjR4/NjgzLmpwZw",
+          "original": "https://d3i6fh83elv35t.cloudfront.net/static/2025/02/2025-02-13T231950Z_206437668_RC2ZTCABXPY1_RTRMADP_3_USA-INDIA-1024x683.jpg",
+          "logo": false
+        },
+        "age": "February 13, 2025"
+      },
+      {
+        "title": "Narendra Modi finally dumps Trump but the damage may have already been done",
+        "url": "https://www.nationalheraldindia.com/international/narendra-modi-finally-dumps-trump-but-the-damage-may-have-already-been-done",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "At least two Indian flags were waved by members of the <strong>Trump</strong>-instigated mob at the US capitol. This followed the Indian PM’s famous endorsement for ‘Ab Ki Baar <strong>Trump</strong> Sarkar’.",
+        "page_age": "2021-01-08T08:30:00",
+        "profile": {
+          "name": "National Herald",
+          "url": "https://www.nationalheraldindia.com/international/narendra-modi-finally-dumps-trump-but-the-damage-may-have-already-been-done",
+          "long_name": "nationalheraldindia.com",
+          "img": "https://imgs.search.brave.com/9e4slj5SP-oZUJurk7TgxJMBSxh9MScjtNnIA6Kd9j4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjM2ZmJkMWYy/ZmIyYWI2YmU1NDlj/OTBiN2ZlOGI3N2U5/YzlmOTlhZDJmMWVi/YzI4YWQ3NjgzMTIz/YWRhYThjNi93d3cu/bmF0aW9uYWxoZXJh/bGRpbmRpYS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "nationalheraldindia.com",
+          "hostname": "www.nationalheraldindia.com",
+          "favicon": "https://imgs.search.brave.com/9e4slj5SP-oZUJurk7TgxJMBSxh9MScjtNnIA6Kd9j4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjM2ZmJkMWYy/ZmIyYWI2YmU1NDlj/OTBiN2ZlOGI3N2U5/YzlmOTlhZDJmMWVi/YzI4YWQ3NjgzMTIz/YWRhYThjNi93d3cu/bmF0aW9uYWxoZXJh/bGRpbmRpYS5jb20v",
+          "path": "  › home  › news  › world  › narendra modi finally dumps trump but the damage may have already been done"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/SYB_6iF_08utaRMtLBUSZuQUVtqigqaxQ9TFKL8CP2U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL25hdGlvbmFs/aGVyYWxkLzIwMjEt/MDEvN2E2MTU0YTUt/ZTA5Ny00YTVhLWIw/MGYtYzAzZDQ3YTBl/NDdhL1RydW1wbW9k/aS5wbmc_dz0xMjAw/Jmg9Njc1JmF1dG89/Zm9ybWF0JTJDY29t/cHJlc3MmZml0PW1h/eCZlbmxhcmdlPXRy/dWU",
+          "original": "https://media.assettype.com/nationalherald/2021-01/7a6154a5-e097-4a5a-b00f-c03d47a0e47a/Trumpmodi.png?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+          "logo": false
+        },
+        "age": "January 8, 2021"
+      },
+      {
+        "title": "narendramodi Ji",
+        "url": "https://twitter.com/narendramodi",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "narendramodi <strong>Ji</strong>",
+        "profile": {
+          "name": "Twitter",
+          "url": "https://twitter.com/narendramodi",
+          "long_name": "twitter.com",
+          "img": "https://imgs.search.brave.com/wWeP6Pa-JGi7cDBqMPkc4Ckai-nUQl4uFSKrw0evyx4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2MxOTUxNzhj/OTY1ZTQ3N2I0MjJk/MTY5NGM0MTRlYWVi/MjU1YWE2NDUwYmQ2/YTA2MDFhMDlkZDEx/NTAzZGNiNi90d2l0/dGVyLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "twitter.com",
+          "hostname": "twitter.com",
+          "favicon": "https://imgs.search.brave.com/wWeP6Pa-JGi7cDBqMPkc4Ckai-nUQl4uFSKrw0evyx4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2MxOTUxNzhj/OTY1ZTQ3N2I0MjJk/MTY5NGM0MTRlYWVi/MjU1YWE2NDUwYmQ2/YTA2MDFhMDlkZDEx/NTAzZGNiNi90d2l0/dGVyLmNvbS8",
+          "path": "› narendramodi"
+        }
+      },
+      {
+        "title": "Trump-Modi Reality Show Could Be Rough On India’s Economy",
+        "url": "https://www.forbes.com/sites/williampesek/2025/02/11/trump-modi-reality-show-could-be-rough-on-indias-economy/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Narendra <strong>Modi</strong>’s visit to the White House this week feels suspiciously like a victory lap for an Indian leader whose economy hasn’t had a great deal to celebrate of late.",
+        "page_age": "2025-02-11T19:10:08",
+        "profile": {
+          "name": "Forbes",
+          "url": "https://www.forbes.com/sites/williampesek/2025/02/11/trump-modi-reality-show-could-be-rough-on-indias-economy/",
+          "long_name": "forbes.com",
+          "img": "https://imgs.search.brave.com/qg6-E4bARcUpS7pHuJ2FXSeQ2YI51iPfbI8wpUBx9tg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "forbes.com",
+          "hostname": "www.forbes.com",
+          "favicon": "https://imgs.search.brave.com/qg6-E4bARcUpS7pHuJ2FXSeQ2YI51iPfbI8wpUBx9tg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8",
+          "path": "› sites  › williampesek  › 2025  › 02  › 11  › trump-modi-reality-show-could-be-rough-on-indias-economy"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/x-fw4wepL-0tKnEjAtllUiCoGDOIGUsA8CnGpzfWqDA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZWlvLmZvcmJlcy5j/b20vc3BlY2lhbHMt/aW1hZ2VzL2ltYWdl/c2VydmUvNjdhYjkz/ZjRjMThmNmZmZTEw/ZmYxOTU0LzB4MC5q/cGc_Zm9ybWF0PWpw/ZyZhbXA7aGVpZ2h0/PTkwMCZhbXA7d2lk/dGg9MTYwMCZhbXA7/Zml0PWJvdW5kcw",
+          "original": "https://imageio.forbes.com/specials-images/imageserve/67ab93f4c18f6ffe10ff1954/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds",
+          "logo": false
+        },
+        "age": "February 11, 2025"
+      },
+      {
+        "title": "Nostradamus: Did he really predict Modi's victories, Hindutva's rise and Sonia Gandhi's fall? – Firstpost",
+        "url": "https://www.firstpost.com/india/nostradamus-predicted-modis-victories-hindutvas-rise-sonia-gandhis-fall-3357952.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "French 16th century astrologer Nostradamus said Narendra <strong>Modi</strong> will defeat a &#x27;white woman&#x27;, who&#x27;d have ruled India and ensured dishonesty spread for years",
+        "page_age": "2017-03-30T06:01:08",
+        "profile": {
+          "name": "Firstpost",
+          "url": "https://www.firstpost.com/india/nostradamus-predicted-modis-victories-hindutvas-rise-sonia-gandhis-fall-3357952.html",
+          "long_name": "firstpost.com",
+          "img": "https://imgs.search.brave.com/lKGZOEbB3_wVTdD-YtH4dwi64AWq6oIlEsH19MGL698/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiZjczNGFj/MGE2Zjc4MWY0NTcy/NWJjODFiMGY1MDVh/MGYyNmViMzMyNWZl/NGIzYTZhYzhhMTE4/NzI4NzQxYS93d3cu/Zmlyc3Rwb3N0LmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "firstpost.com",
+          "hostname": "www.firstpost.com",
+          "favicon": "https://imgs.search.brave.com/lKGZOEbB3_wVTdD-YtH4dwi64AWq6oIlEsH19MGL698/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiZjczNGFj/MGE2Zjc4MWY0NTcy/NWJjODFiMGY1MDVh/MGYyNmViMzMyNWZl/NGIzYTZhYzhhMTE4/NzI4NzQxYS93d3cu/Zmlyc3Rwb3N0LmNv/bS8",
+          "path": "  › home  › india  › nostradamus: did he really predict modi's victories, hindutva's rise and sonia gandhi's fall?"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/owM6em73svfqrj2DEuFfiBRO8K9cTiturjZyjV_7Yyo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZmlyc3Rwb3N0/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxNS8xMS9Nb2Rp/X1NvbmlhLmpwZz9p/bT1GaXRBbmRGaWxs/PSgxMjAwLDY3NSk",
+          "original": "https://images.firstpost.com/wp-content/uploads/2015/11/Modi_Sonia.jpg?im=FitAndFill=(1200,675)",
+          "logo": false
+        },
+        "age": "March 30, 2017"
+      },
+      {
+        "title": "India's Modi says Trump has 'clear roadmap' in second term | Reuters",
+        "url": "https://www.reuters.com/world/india/indias-modi-says-trump-has-clear-roadmap-second-term-2025-03-17/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Indian Prime Minister Narendra <strong>Modi</strong> said U.S. President Donald <strong>Trump</strong> was &#x27;far more prepared&#x27; for his second term, furnished with a clear roadmap, speaking in a podcast interview weeks ahead of reciprocal tariffs planned by Washington.",
+        "page_age": "2025-03-17T13:26:01",
+        "profile": {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/india/indias-modi-says-trump-has-clear-roadmap-second-term-2025-03-17/",
+          "long_name": "reuters.com",
+          "img": "https://imgs.search.brave.com/g-LRPAPxrx_Eqo7F4IKC-Guqa4ONApD9n_VKZlqfqWo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzE0MWM3N2Ji/ZjQ3ZDhmYzI3NjMz/ODNjYTRiMGI4MjM4/OTExMzRkM2E1ODI4/MjI4YzA0ZWQ0OTRk/YWY5YTQwMy93d3cu/cmV1dGVycy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "reuters.com",
+          "hostname": "www.reuters.com",
+          "favicon": "https://imgs.search.brave.com/g-LRPAPxrx_Eqo7F4IKC-Guqa4ONApD9n_VKZlqfqWo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzE0MWM3N2Ji/ZjQ3ZDhmYzI3NjMz/ODNjYTRiMGI4MjM4/OTExMzRkM2E1ODI4/MjI4YzA0ZWQ0OTRk/YWY5YTQwMy93d3cu/cmV1dGVycy5jb20v",
+          "path": "› world  › india  › indias-modi-says-trump-has-clear-roadmap-second-term-2025-03-17"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/0m7uJb8j6ECfdP4mGzVZX06Kh8nuVYQEzvNtrL8k89E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmV1dGVycy5jb20v/cmVzaXplci92Mi9N/VFhLQVZRNzRWTzMz/TjZURENUS081QkdL/QS5qcGc_YXV0aD03/NGMyMDk3YTgzYTdk/YzZlYTdlYThmM2Q0/OGYwN2ZhOTM4MmE3/YWY1NTU2YmU1NTk5/OWJhNTRjZjQ1ODg3/ZDFkJmhlaWdodD0x/MDA1JndpZHRoPTE5/MjAmcXVhbGl0eT04/MCZzbWFydD10cnVl",
+          "original": "https://www.reuters.com/resizer/v2/MTXKAVQ74VO33N6TDCTKO5BGKA.jpg?auth=74c2097a83a7dc6ea7ea8f3d48f07fa9382a7af5556be55999ba54cf45887d1d&height=1005&width=1920&quality=80&smart=true",
+          "logo": false
+        },
+        "age": "March 17, 2025"
+      },
+      {
+        "title": "Narendra Modi on X",
+        "url": "https://x.com/narendramodi/status/1812315611940176344",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "We cannot provide a description for this page right now",
+        "profile": {
+          "name": "X",
+          "url": "https://x.com/narendramodi/status/1812315611940176344",
+          "long_name": "x.com",
+          "img": "https://imgs.search.brave.com/VpOsyUaQQGp5MT_drqEzgpxdO8o12jax0jeq0Vojuto/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmQzM2JiZDhi/OWVhNGYxZmRkNDli/NzAxODUzMzFhYTNm/ODcxNmE4ZGQ5OTE3/MWU4OGZjNDQyZDdh/NzQ4MWE4YS94LmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "x.com",
+          "hostname": "x.com",
+          "favicon": "https://imgs.search.brave.com/VpOsyUaQQGp5MT_drqEzgpxdO8o12jax0jeq0Vojuto/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmQzM2JiZDhi/OWVhNGYxZmRkNDli/NzAxODUzMzFhYTNm/ODcxNmE4ZGQ5OTE3/MWU4OGZjNDQyZDdh/NzQ4MWE4YS94LmNv/bS8",
+          "path": "› narendramodi  › status  › 1812315611940176344"
+        }
+      }
+    ],
+    "family_friendly": true
+  }
+}

@@ -1,0 +1,688 @@
+{
+  "query": {
+    "original": "If a dog starts barking more than necessary, it deserves a beating. So Trump did thatTrump did not leave any scope for Rahul to even drown in a handful of water.",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "US election: Full transcript of Donald Trump's obscene videotape - BBC News",
+        "url": "https://www.bbc.com/news/election-us-2016-37595321",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The full transcript of the conversation between Donald <strong>Trump</strong> and a TV host in 2005 in which the US presidential candidate made obscene comments about women.",
+        "page_age": "2016-10-09T06:28:34",
+        "profile": {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/election-us-2016-37595321",
+          "long_name": "British Broadcasting Corporation",
+          "img": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "bbc.com",
+          "hostname": "www.bbc.com",
+          "favicon": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8",
+          "path": "› news  › election-us-2016-37595321"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Id9a3U41vU_1NmMwbinbfUBJV4byaPqXAem-PiRQ_XU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L2FjZS9icmFuZGVk/X25ld3MvMTIwMC9j/cHNwcm9kcGIvOTVG/OC9wcm9kdWN0aW9u/L185MTYyOTM4M19n/ZXR0eWltYWdlcy01/OTk3MjQzMTguanBn",
+          "original": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95F8/production/_91629383_gettyimages-599724318.jpg",
+          "logo": false
+        },
+        "age": "October 9, 2016"
+      },
+      {
+        "title": "For the third time, India pushes back against Trump’s dubious boasts",
+        "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/third-time-india-pushes-back-trumps-dubious-boasts-rcna213931",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Though Trump seemed quite pleased with himself, India wasted little time in pushing back. As NBC News reported, the Indian government said the American president’s version of events simply wasn’t true, and <strong>the conversation that Trump publicly described never actually occurred</strong>.",
+        "page_age": "2025-06-19T13:21:57",
+        "profile": {
+          "name": "MSNBC",
+          "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/third-time-india-pushes-back-trumps-dubious-boasts-rcna213931",
+          "long_name": "msnbc.com",
+          "img": "https://imgs.search.brave.com/cxONXe2rqNqHMUln0JH_zwHwwh5z_RmhLMUbBdWV4EE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY0ODMyODk3/ODU5YTkyMjVjZWZm/ZjYwYjdlMDQwY2Y2/ZjgxODRlYTYyOWEz/ODY1ZDI1ZThjMGIx/YzE1NTY3YS93d3cu/bXNuYmMuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "msnbc.com",
+          "hostname": "www.msnbc.com",
+          "favicon": "https://imgs.search.brave.com/cxONXe2rqNqHMUln0JH_zwHwwh5z_RmhLMUbBdWV4EE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY0ODMyODk3/ODU5YTkyMjVjZWZm/ZjYwYjdlMDQwY2Y2/ZjgxODRlYTYyOWEz/ODY1ZDI1ZThjMGIx/YzE1NTY3YS93d3cu/bXNuYmMuY29tLw",
+          "path": "› rachel-maddow-show  › maddowblog  › third-time-india-pushes-back-trumps-dubious-boasts-rcna213931"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/pgKTZpJyLAnFLh0hq7IBuZuxZNr60A0jE-zkKl-HxBM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS1jbGRucnkucy1u/YmNuZXdzLmNvbS9p/bWFnZS91cGxvYWQv/dF9maXQtMTUwMHcs/Zl9hdXRvLHFfYXV0/bzpiZXN0L3JvY2tj/bXMvMjAyNS0wMi8y/NTAyMTEtdHJ1bXAt/bW9kaS1tYi0wOTAz/LTVlMWM0My5qcGc",
+          "original": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2025-02/250211-trump-modi-mb-0903-5e1c43.jpg",
+          "logo": false
+        },
+        "age": "June 19, 2025"
+      },
+      {
+        "title": "Donald Trump hates dogs. Here's what that tells us about him",
+        "url": "https://www.gq-magazine.co.uk/politics/article/donald-trump-dogs",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Of all his changes at the White House, Donald <strong>Trump</strong>’s lack of canine companions goes against the grain",
+        "page_age": "2020-03-28T06:00:00",
+        "profile": {
+          "name": "GQ",
+          "url": "https://www.gq-magazine.co.uk/politics/article/donald-trump-dogs",
+          "long_name": "gq-magazine.co.uk",
+          "img": "https://imgs.search.brave.com/-yz4f_JgaN1XsYYcn5U7l6CBpiTl-_7irtMylIhFxw4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2EzY2NlZWM2/YjI4NjViMTNlNzMx/Mjg4N2YxODkzMTk4/YWIxZjNmNzA1ZDQw/OGM5MThmMjFjODRi/NTI3NjYzOC93d3cu/Z3EtbWFnYXppbmUu/Y28udWsv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "gq-magazine.co.uk",
+          "hostname": "www.gq-magazine.co.uk",
+          "favicon": "https://imgs.search.brave.com/-yz4f_JgaN1XsYYcn5U7l6CBpiTl-_7irtMylIhFxw4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2EzY2NlZWM2/YjI4NjViMTNlNzMx/Mjg4N2YxODkzMTk4/YWIxZjNmNzA1ZDQw/OGM5MThmMjFjODRi/NTI3NjYzOC93d3cu/Z3EtbWFnYXppbmUu/Y28udWsv",
+          "path": "  › politics  › politics  › donald trump hates dogs. here's what that tells us about him"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/D_52l7nDh5bwWbXn7qJ9rtqSchiZU2QzzfLT7cxK7UI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5ncS1tYWdhemlu/ZS5jby51ay9waG90/b3MvNWU3ZTA2ZDFh/MzYzMDIwMDA4Njlm/NDMyLzE2Ojkvd18x/OTIwLGhfMTA4MCxj/X2xpbWl0LzIwMjAw/MzI2LXBhcnNvbnMu/anBn",
+          "original": "https://media.gq-magazine.co.uk/photos/5e7e06d1a36302000869f432/16:9/w_1920,h_1080,c_limit/20200326-parsons.jpg",
+          "logo": false
+        },
+        "age": "March 28, 2020"
+      },
+      {
+        "title": "Read the full text of Trump’s speech to a joint session of Congress | PBS News",
+        "url": "https://www.pbs.org/newshour/politics/read-the-full-text-of-trumps-speech-to-a-joint-session-of-congress",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A transcript of President Donald <strong>Trump</strong>&#x27;s speech to a joint session of Congress on Tuesday, May 4, 2025, as transcribed by The Associated Press.",
+        "page_age": "2025-03-05T14:53:11",
+        "profile": {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/read-the-full-text-of-trumps-speech-to-a-joint-session-of-congress",
+          "long_name": "pbs.org",
+          "img": "https://imgs.search.brave.com/5IchnCgOSKQjG_xWeylgRE8v0GvszZCmPHDYfQFf8EU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmEyM2UyZmM5/ZTBkNTVjZGIyY2Y5/NzIzNjcwM2EyMzM3/ODIzMzEwZWNmNzhi/ZDNjZTIwNTU5YTU4/ZjNmYWE2NC93d3cu/cGJzLm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pbs.org",
+          "hostname": "www.pbs.org",
+          "favicon": "https://imgs.search.brave.com/5IchnCgOSKQjG_xWeylgRE8v0GvszZCmPHDYfQFf8EU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmEyM2UyZmM5/ZTBkNTVjZGIyY2Y5/NzIzNjcwM2EyMzM3/ODIzMzEwZWNmNzhi/ZDNjZTIwNTU5YTU4/ZjNmYWE2NC93d3cu/cGJzLm9yZy8",
+          "path": "› newshour  › politics  › read-the-full-text-of-trumps-speech-to-a-joint-session-of-congress"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/fJltbesicsITk-Blof_8IExJ0o77eZSzwQu1CSss6Y8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kM2k2/Zmg4M2VsdjM1dC5j/bG91ZGZyb250Lm5l/dC9zdGF0aWMvMjAy/NS8wMy8yMDI1LTAz/LTA1VDA0NDIzOFpf/NTcyOTk3NTA3X1JD/MlI2REE3OFQ1TV9S/VFJNQURQXzNfVVNB/LVRSVU1QLUNPTkdS/RVNTLTEwMjR4NzQx/LmpwZw",
+          "original": "https://d3i6fh83elv35t.cloudfront.net/static/2025/03/2025-03-05T044238Z_572997507_RC2R6DA78T5M_RTRMADP_3_USA-TRUMP-CONGRESS-1024x741.jpg",
+          "logo": false
+        },
+        "age": "March 5, 2025"
+      },
+      {
+        "title": "Trump VP contender Kristi Noem writes of killing dog – and goat – in new book | Books | The Guardian",
+        "url": "https://www.theguardian.com/books/2024/apr/26/trump-kristi-noem-shot-dog-and-goat-book",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "South Dakota governor includes bloody tale in campaign volume – and admits ‘a better politician … wouldn’t tell the story here’",
+        "page_age": "2024-05-15T17:39:06",
+        "profile": {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/books/2024/apr/26/trump-kristi-noem-shot-dog-and-goat-book",
+          "long_name": "theguardian.com",
+          "img": "https://imgs.search.brave.com/rC70n-17a9InstnH-PH4YuXbWwFkdbesPtRJKvIQAwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "theguardian.com",
+          "hostname": "www.theguardian.com",
+          "favicon": "https://imgs.search.brave.com/rC70n-17a9InstnH-PH4YuXbWwFkdbesPtRJKvIQAwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw",
+          "path": "› books  › 2024  › apr  › 26  › trump-kristi-noem-shot-dog-and-goat-book"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/VgE5ps-cL3BEMLkKSfSRStruFaMY0KYhgLomx4A7YA0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhLzc5YTZk/YTZlMTQ2MTk5M2M0/OGEwOGIzYjc4MGY5/ZDY5YzY3N2UyYWEv/MjUyXzM0Nl8zNjA2/XzIxNjQvbWFzdGVy/LzM2MDYuanBnP3dp/ZHRoPTEyMDAmaGVp/Z2h0PTYzMCZxdWFs/aXR5PTg1JmF1dG89/Zm9ybWF0JmZpdD1j/cm9wJnByZWNyb3A9/NDA6MjEsb2Zmc2V0/LXg1MCxvZmZzZXQt/eTAmb3ZlcmxheS1h/bGlnbj1ib3R0b20l/MkNsZWZ0Jm92ZXJs/YXktd2lkdGg9MTAw/cCZvdmVybGF5LWJh/c2U2ND1MMmx0Wnk5/emRHRjBhV012YjNa/bGNteGhlWE12ZEdj/dFlXZGxMVEl3TWpR/dWNHNW4mZW5hYmxl/PXVwc2NhbGUmcz1i/ZTg1NGVjYzYzM2Vi/ZTdkMjIyOGU4MTY3/ZGE2MmIxOA",
+          "original": "https://i.guim.co.uk/img/media/79a6da6e1461993c48a08b3b780f9d69c677e2aa/252_346_3606_2164/master/3606.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjQucG5n&enable=upscale&s=be854ecc633ebe7d2228e8167da62b18",
+          "logo": false
+        },
+        "age": "May 15, 2024"
+      },
+      {
+        "title": "White House Report Card: Trump lets the dogs out, and both sides are barking - Washington Examiner",
+        "url": "https://www.washingtonexaminer.com/news/washington-secrets/2371816/white-house-report-card-trump-lets-the-dogs-out-and-both-sides-are-barking/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "This week’s White House Report Card reveals the classic split over President <strong>Trump</strong> <strong>in</strong> the nation.Conservatives like our analyst and grader Jed Babbin said <strong>Trump</strong> had a great week, in fact a grade “A” week.Liberals like our grader and pollster John Zogby said <strong>Trump</strong> was at his worst, an ...",
+        "page_age": "2019-05-25T12:49:40",
+        "profile": {
+          "name": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/news/washington-secrets/2371816/white-house-report-card-trump-lets-the-dogs-out-and-both-sides-are-barking/",
+          "long_name": "washingtonexaminer.com",
+          "img": "https://imgs.search.brave.com/CzJ48ZXq7lSiwo6mt3N1EnfP9ROxF2SmVFNdY8OpFEo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDM5YjE3ODgz/Y2QwNjlmNmY1ZGFh/NmJiOGU5OWFiYmVk/MGQwOWM4MmEyY2Vj/ODBkMDNlNzg1YjAx/ZThmYmFlMi93d3cu/d2FzaGluZ3RvbmV4/YW1pbmVyLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "washingtonexaminer.com",
+          "hostname": "www.washingtonexaminer.com",
+          "favicon": "https://imgs.search.brave.com/CzJ48ZXq7lSiwo6mt3N1EnfP9ROxF2SmVFNdY8OpFEo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDM5YjE3ODgz/Y2QwNjlmNmY1ZGFh/NmJiOGU5OWFiYmVk/MGQwOWM4MmEyY2Vj/ODBkMDNlNzg1YjAx/ZThmYmFlMi93d3cu/d2FzaGluZ3RvbmV4/YW1pbmVyLmNvbS8",
+          "path": "  › home  › white house report card: trump lets the dogs out, and both sides are barking"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/sPax7mTJNJ8aA4gYs2imbXhsTg83Vqub5_xDPaznK9U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/d2FzaGluZ3RvbmV4/YW1pbmVyLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMy8x/MC9mZDQyYmQ0YWU2/NTA1OGQwN2YwZjYx/ZDBkN2M1MDI0ZC0x/MDI0eDc2MS5qcGc",
+          "original": "https://www.washingtonexaminer.com/wp-content/uploads/2023/10/fd42bd4ae65058d07f0f61d0d7c5024d-1024x761.jpg",
+          "logo": false
+        },
+        "age": "May 25, 2019"
+      },
+      {
+        "title": "r/TikTokCringe on Reddit: Crowd reaction to Trump’s ‘in Springfield they’re eating the dogs’",
+        "url": "https://www.reddit.com/r/TikTokCringe/comments/1fex0o5/crowd_reaction_to_trumps_in_springfield_theyre/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Most Trumpers are too lazy to have even watched the debate</strong>. ... Because that&#x27;s not actually the reason. Those ones are just self-aware enough to know that admitting they agree with the racism and misogyny will get them dogpiled and branded as maga freaks.",
+        "page_age": "2024-09-12T07:45:11",
+        "profile": {
+          "name": "Reddit",
+          "url": "https://www.reddit.com/r/TikTokCringe/comments/1fex0o5/crowd_reaction_to_trumps_in_springfield_theyre/",
+          "long_name": "reddit.com",
+          "img": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "reddit.com",
+          "hostname": "www.reddit.com",
+          "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+          "path": "  › r/tiktokcringe  › crowd reaction to trump’s ‘in springfield they’re eating the dogs’"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/K7d8aOMTaCpoQhKkfXZflzWmM7qPgpOnKj-Qus3IPbA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9leHRl/cm5hbC1wcmV2aWV3/LnJlZGQuaXQvY3Jv/d2QtcmVhY3Rpb24t/dG8tdHJ1bXBzLWlu/LXNwcmluZ2ZpZWxk/LXRoZXlyZS1lYXRp/bmctdGhlLXYwLWR6/SmhhelJvZHpNeVky/OWtNYlFqWTRYczRZ/RXRSWTRCQk1KZVNR/OTRVUTQzTkhLYkNV/R3gyVGxMMEk2Ni5w/bmc_Zm9ybWF0PXBq/cGcmYXV0bz13ZWJw/JnM9OTkxYTc4ZDc1/NGMzNWE2YTM1MjRl/OTQ5OTUyYzY5Njlh/MjFmNzk4MQ",
+          "original": "https://external-preview.redd.it/crowd-reaction-to-trumps-in-springfield-theyre-eating-the-v0-dzJhazRodzMyY29kMbQjY4Xs4YEtRY4BBMJeSQ94UQ43NHKbCUGx2TlL0I66.png?format=pjpg&auto=webp&s=991a78d754c35a6a3524e949952c6969a21f7981",
+          "logo": false
+        },
+        "age": "September 12, 2024"
+      },
+      {
+        "title": "Remarks by President Trump on the Death of ISIS Leader Abu Bakr al-Baghdadi – The White House",
+        "url": "https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-death-isis-leader-abu-bakr-al-baghdadi/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "National Security &amp; Defense · Issued on: October 27, 2019",
+        "profile": {
+          "name": "The White House",
+          "url": "https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-death-isis-leader-abu-bakr-al-baghdadi/",
+          "long_name": "trumpwhitehouse.archives.gov",
+          "img": "https://imgs.search.brave.com/T5CTUt-O8Vw7dNh7g6gho2GN4-8HoT3wlp-u6TgyqwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGU1OGQxYmI3/NTc1MTI3OTU3OTNl/ZTk3YTQ1ZGEwYWQ2/Y2M2NzFmMDY5YjVj/MDY5OTQ3MjY4NmFj/ZmYzYWJkMi90cnVt/cHdoaXRlaG91c2Uu/YXJjaGl2ZXMuZ292/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "trumpwhitehouse.archives.gov",
+          "hostname": "trumpwhitehouse.archives.gov",
+          "favicon": "https://imgs.search.brave.com/T5CTUt-O8Vw7dNh7g6gho2GN4-8HoT3wlp-u6TgyqwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGU1OGQxYmI3/NTc1MTI3OTU3OTNl/ZTk3YTQ1ZGEwYWQ2/Y2M2NzFmMDY5YjVj/MDY5OTQ3MjY4NmFj/ZmYzYWJkMi90cnVt/cHdoaXRlaG91c2Uu/YXJjaGl2ZXMuZ292/Lw",
+          "path": "  › news  › briefings & statements  › remarks by president trump on the death of isis leader abu bakr al-baghdadi"
+        }
+      },
+      {
+        "title": "A Week for the Ages in the Annals of Trump Suck-Uppery | The New Yorker",
+        "url": "https://www.newyorker.com/news/letter-from-trumps-washington/a-week-for-the-ages-in-the-annals-of-trump-suckuppery",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The NATO secretary-general Mark Rutte goes all in on strategic self-abasement while meeting with his American “Daddy,” Susan B. Glasser writes.",
+        "page_age": "2025-06-26T23:47:20",
+        "profile": {
+          "name": "The New Yorker",
+          "url": "https://www.newyorker.com/news/letter-from-trumps-washington/a-week-for-the-ages-in-the-annals-of-trump-suckuppery",
+          "long_name": "newyorker.com",
+          "img": "https://imgs.search.brave.com/tkitLMg3J1vY-5YZpaJGRPVOaBY3q2e4gqlsrnEaKJs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2Q1NGM2MWZk/MTdhOTRjYzJlOWNj/NzM5Mjc5MmQ2ZTFl/N2MxOTg2NDYxYjI5/NjZkNjdmNTViMDY0/OTExMDI0ZS93d3cu/bmV3eW9ya2VyLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "newyorker.com",
+          "hostname": "www.newyorker.com",
+          "favicon": "https://imgs.search.brave.com/tkitLMg3J1vY-5YZpaJGRPVOaBY3q2e4gqlsrnEaKJs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2Q1NGM2MWZk/MTdhOTRjYzJlOWNj/NzM5Mjc5MmQ2ZTFl/N2MxOTg2NDYxYjI5/NjZkNjdmNTViMDY0/OTExMDI0ZS93d3cu/bmV3eW9ya2VyLmNv/bS8",
+          "path": "  › news  › nato  › a week for the ages in the annals of trump suck-uppery"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/zk8BKfQbN79lZnTPjjgn6sJrnDjUYmDOTKBDNpoxm4w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5uZXd5b3JrZXIu/Y29tL3Bob3Rvcy82/ODVkYjg3MzBlZjUy/YzYzYzk0NzUxNTUv/MTY6OS93XzI1NjAs/aF8xNDQwLGNfbGlt/aXQvR2xhc3Nlci1O/QVRPLmpwZw",
+          "original": "https://media.newyorker.com/photos/685db8730ef52c63c9475155/16:9/w_2560,h_1440,c_limit/Glasser-NATO.jpg",
+          "logo": false
+        },
+        "age": "1 month ago"
+      },
+      {
+        "title": "‘They’re eating the cats’: Trump rambles falsely about immigrants in debate | US elections 2024 | The Guardian",
+        "url": "https://www.theguardian.com/us-news/article/2024/sep/10/trump-springfield-pets-false-claims",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Ex-president’s repetition of unsubstantiated claims prompts moderator to fact-check him on air",
+        "page_age": "2024-09-11T23:45:14",
+        "profile": {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/article/2024/sep/10/trump-springfield-pets-false-claims",
+          "long_name": "theguardian.com",
+          "img": "https://imgs.search.brave.com/rC70n-17a9InstnH-PH4YuXbWwFkdbesPtRJKvIQAwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "theguardian.com",
+          "hostname": "www.theguardian.com",
+          "favicon": "https://imgs.search.brave.com/rC70n-17a9InstnH-PH4YuXbWwFkdbesPtRJKvIQAwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw",
+          "path": "› us-news  › article  › 2024  › sep  › 10  › trump-springfield-pets-false-claims"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/3Nccp0ocAPTcKlBhOAmI707IOfjwMGlvaXxd3Ovvk0Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhL2ZkOWQ1/MjhkOWU1MmIwYjIx/Y2JkYWZmOWVmMTg2/ODYxZWQ3YjYyNTkv/MF8xNzJfNjMzMl8z/ODAwL21hc3Rlci82/MzMyLmpwZz93aWR0/aD0xMjAwJmhlaWdo/dD02MzAmcXVhbGl0/eT04NSZhdXRvPWZv/cm1hdCZmaXQ9Y3Jv/cCZwcmVjcm9wPTQw/OjIxLG9mZnNldC14/NTAsb2Zmc2V0LXkw/Jm92ZXJsYXktYWxp/Z249Ym90dG9tJTJD/bGVmdCZvdmVybGF5/LXdpZHRoPTEwMHAm/b3ZlcmxheS1iYXNl/NjQ9TDJsdFp5OXpk/R0YwYVdNdmIzWmxj/bXhoZVhNdmRHY3Ra/R1ZtWVhWc2RDNXdi/bWMmZW5hYmxlPXVw/c2NhbGUmcz1mNThk/YjY1ODQyNDNlNTVi/MWYwNjBhZWM5Mzhh/NjZjZg",
+          "original": "https://i.guim.co.uk/img/media/fd9d528d9e52b0b21cbdaff9ef186861ed7b6259/0_172_6332_3800/master/6332.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f58db6584243e55b1f060aec938a66cf",
+          "logo": false
+        },
+        "age": "September 11, 2024"
+      },
+      {
+        "title": "Witerati: Not to let slandering dogs lie, Trump style | Hindustan Times",
+        "url": "https://www.hindustantimes.com/punjab/witerati-not-to-let-slandering-dogs-lie-trump-style/story-UkDOZqrAsWub0bB01o2ySL.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "In delivering <strong>dog</strong>-hood as the new metaphor for womanhood, <strong>Trump</strong> may have beaten <strong>even</strong> Indian politicians at the vocabulary <strong>of</strong> <strong>dog</strong> insults.",
+        "page_age": "2018-08-19T09:34:24",
+        "profile": {
+          "name": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/punjab/witerati-not-to-let-slandering-dogs-lie-trump-style/story-UkDOZqrAsWub0bB01o2ySL.html",
+          "long_name": "hindustantimes.com",
+          "img": "https://imgs.search.brave.com/6oiSajNB7C3FmHradE3V3z23td9GnbX-OZbVqJO9gzY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY1MjVjODdh/ZjU0MTA4Mjc4NzA0/ODM1MjllODZmNGMy/NTViMTUyNjk2ZTU1/MGZiNDRhZjI1NzRh/N2U2NTA0YS93d3cu/aGluZHVzdGFudGlt/ZXMuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "hindustantimes.com",
+          "hostname": "www.hindustantimes.com",
+          "favicon": "https://imgs.search.brave.com/6oiSajNB7C3FmHradE3V3z23td9GnbX-OZbVqJO9gzY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY1MjVjODdh/ZjU0MTA4Mjc4NzA0/ODM1MjllODZmNGMy/NTViMTUyNjk2ZTU1/MGZiNDRhZjI1NzRh/N2U2NTA0YS93d3cu/aGluZHVzdGFudGlt/ZXMuY29tLw",
+          "path": "  › home  › cities  › others"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/GahR5wkkCug9dhDjTCzjJ0G_4_z5BWdtK0krWK4yJl0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaGluZHVzdGFu/dGltZXMuY29tL2Rl/ZmF1bHQvMTYwMHg5/MDAuanBn",
+          "original": "https://images.hindustantimes.com/default/1600x900.jpg",
+          "logo": false
+        },
+        "age": "August 19, 2018"
+      },
+      {
+        "title": "Trump eating dogs got us to laugh at him. But it's not funny",
+        "url": "https://www.azcentral.com/story/opinion/op-ed/elviadiaz/2024/09/11/trump-eating-dogs-who-won-debate/75170281007/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Trump</strong>&#x27;s debate performance may be laughable, but he really does mean to Make America White Again. That&#x27;s not funny.",
+        "page_age": "2024-09-11T14:59:28",
+        "profile": {
+          "name": "AZCentral",
+          "url": "https://www.azcentral.com/story/opinion/op-ed/elviadiaz/2024/09/11/trump-eating-dogs-who-won-debate/75170281007/",
+          "long_name": "azcentral.com",
+          "img": "https://imgs.search.brave.com/Q02DrZcgxfIKDlpR4VSjaS_JpSzq0nEsWzHSSsHN2ZQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjU2MTNkZWRi/NzZlMDY3NGI4OWQ2/MTQ5OTRmYTIwMDFi/NGUxMTE4OTk5MzY0/MjNkOTdkZWMwMGY4/MmFlMDZlYS93d3cu/YXpjZW50cmFsLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "azcentral.com",
+          "hostname": "www.azcentral.com",
+          "favicon": "https://imgs.search.brave.com/Q02DrZcgxfIKDlpR4VSjaS_JpSzq0nEsWzHSSsHN2ZQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjU2MTNkZWRi/NzZlMDY3NGI4OWQ2/MTQ5OTRmYTIwMDFi/NGUxMTE4OTk5MzY0/MjNkOTdkZWMwMGY4/MmFlMDZlYS93d3cu/YXpjZW50cmFsLmNv/bS8",
+          "path": "› story  › opinion  › op-ed  › elviadiaz  › 2024  › 09  › 11  › trump-eating-dogs-who-won-debate  › 75170281007"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/I5vGFiUKKDlm3Q8OmaOTMmWqP8knINczej2jGmgzUAE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Z2FubmV0dC1jZG4u/Y29tL2F1dGhvcmlu/Zy9hdXRob3Jpbmct/aW1hZ2VzLzIwMjQv/MDkvMTEvVVNBVC83/NTE2ODE1MzAwNy0y/MTcxMjU1MjA1Lmpw/Zz9hdXRvPXdlYnAm/Y3JvcD00NTc2LDI1/NzUseDIseTI2NyZm/b3JtYXQ9cGpwZyZ3/aWR0aD0xMjAw",
+          "original": "https://www.gannett-cdn.com/authoring/authoring-images/2024/09/11/USAT/75168153007-2171255205.jpg?auto=webp&crop=4576,2575,x2,y267&format=pjpg&width=1200",
+          "logo": false
+        },
+        "age": "September 11, 2024"
+      },
+      {
+        "title": "Fact-checking Donald Trump's speech to Congress",
+        "url": "https://www.bbc.com/news/articles/cp3ylpd2n9no",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "BBC Verify has looked into several claims made by <strong>Trump</strong> during his speech to Congress.",
+        "page_age": "2025-03-05T10:14:01",
+        "profile": {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cp3ylpd2n9no",
+          "long_name": "British Broadcasting Corporation",
+          "img": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "bbc.com",
+          "hostname": "www.bbc.com",
+          "favicon": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8",
+          "path": "› news  › articles  › cp3ylpd2n9no"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/eOQTiAwOvFFzC3oRPANUjT1rXqjvJ78vEH0b1U-mGbk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L25ld3MvMTAyNC9i/cmFuZGVkX25ld3Mv/OWM2NS9saXZlLzYz/MzgyMGIwLWY5OTkt/MTFlZi05ZTYxLTcx/ZWU3MWYyNmViMS5q/cGc",
+          "original": "https://ichef.bbci.co.uk/news/1024/branded_news/9c65/live/633820b0-f999-11ef-9e61-71ee71f26eb1.jpg",
+          "logo": false
+        },
+        "age": "March 5, 2025"
+      },
+      {
+        "title": "Kristi Noem ‘had a shot’ at Trump VP slot before dog-killing boast, sources say | US elections 2024 | The Guardian",
+        "url": "https://www.theguardian.com/us-news/2024/apr/30/kristi-noem-puppy-trump-vp-candidate",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "No <strong>dog</strong> person himself, apparently <strong>even</strong> <strong>Trump</strong> sees the bad optics in having a ‘puppy killer’ as a running mate",
+        "page_age": "2024-05-15T17:39:06",
+        "profile": {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2024/apr/30/kristi-noem-puppy-trump-vp-candidate",
+          "long_name": "theguardian.com",
+          "img": "https://imgs.search.brave.com/rC70n-17a9InstnH-PH4YuXbWwFkdbesPtRJKvIQAwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "theguardian.com",
+          "hostname": "www.theguardian.com",
+          "favicon": "https://imgs.search.brave.com/rC70n-17a9InstnH-PH4YuXbWwFkdbesPtRJKvIQAwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw",
+          "path": "› us-news  › 2024  › apr  › 30  › kristi-noem-puppy-trump-vp-candidate"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/znMtSq8XeKzmj5nHLRLVRIn_t3SBeggQVDcRXG9ZD58/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhLzliYWNj/MTZmMGQ3ZGUwYjJk/OGE3NDE0YmQ5MmY3/ZTMyNjM2ZWViZDEv/MzAyXzY5XzE5NDZf/MTE2Ny9tYXN0ZXIv/MTk0Ni5qcGc_d2lk/dGg9MTIwMCZoZWln/aHQ9NjMwJnF1YWxp/dHk9ODUmYXV0bz1m/b3JtYXQmZml0PWNy/b3Amb3ZlcmxheS1h/bGlnbj1ib3R0b20l/MkNsZWZ0Jm92ZXJs/YXktd2lkdGg9MTAw/cCZvdmVybGF5LWJh/c2U2ND1MMmx0Wnk5/emRHRjBhV012YjNa/bGNteGhlWE12ZEdj/dFlXZGxMVEl3TWpR/dWNHNW4mZW5hYmxl/PXVwc2NhbGUmcz02/ZjZlM2IxNGU4YWUy/ZGJiM2JiYjE1M2Zj/MDJmZjEyOQ",
+          "original": "https://i.guim.co.uk/img/media/9bacc16f0d7de0b2d8a7414bd92f7e32636eebd1/302_69_1946_1167/master/1946.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjQucG5n&enable=upscale&s=6f6e3b14e8ae2dbb3bbb153fc02ff129",
+          "logo": false
+        },
+        "age": "May 15, 2024"
+      },
+      {
+        "title": "Donald Trump: Garbage Row: 15 times Donald Trump used dehumanising language | World News - Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/us/garbage-row-15-times-donald-trump-used-dehumanising-language/articleshow/114816892.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "US News: Explore an extensive list of Donald <strong>Trump</strong>&#x27;s most offensive and dehumanizing comments aimed at political opponents and marginalized groups. This article contrasts <strong>Trump</strong>&#x27;s rhetoric with Joe Biden&#x27;s remarks and highlights key phrases used by <strong>Trump</strong> throughout his political career.",
+        "page_age": "2024-10-31T11:42:00",
+        "profile": {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/us/garbage-row-15-times-donald-trump-used-dehumanising-language/articleshow/114816892.cms",
+          "long_name": "timesofindia.indiatimes.com",
+          "img": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timesofindia.indiatimes.com",
+          "hostname": "timesofindia.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+          "path": "  › news  › world news  › us news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/bqIRQFez0NTje7cStcp5SmPqtX2LbCNpM-RknU_cMe4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9yZXNp/emVtb2RlLTQsd2lk/dGgtMTI4MCxoZWln/aHQtNzIwLG1zaWQt/MTE0ODE3MjI3LzEx/NDgxNzIyNy5qcGc",
+          "original": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-114817227/114817227.jpg",
+          "logo": false
+        },
+        "age": "October 31, 2024"
+      },
+      {
+        "title": "Trump campaign falsely accuses immigrants in Ohio of eating pets | AP News",
+        "url": "https://apnews.com/article/haitian-immigrants-vance-trump-ohio-6e4a47c52b23ae2c802d216369512ca5",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Former President Donald <strong>Trump</strong> has amplified false rumors that Haitian immigrants in Ohio are abducting and eating pets.",
+        "page_age": "2024-09-12T14:48:53",
+        "profile": {
+          "name": "AP News",
+          "url": "https://apnews.com/article/haitian-immigrants-vance-trump-ohio-6e4a47c52b23ae2c802d216369512ca5",
+          "long_name": "apnews.com",
+          "img": "https://imgs.search.brave.com/-_32qKbk4nzvzQ3RP6w9el0V0iswWgQP6EG3HIKvQ2s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWJlOGE2ODEz/ZDcxYzRjZDBjMzMw/OTZiMWM3ZDUwNjJk/ZTMyZDY3N2U5NTg4/ZDZhNDk3NzFiZjdh/OGQ0YTFmNi9hcG5l/d3MuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "apnews.com",
+          "hostname": "apnews.com",
+          "favicon": "https://imgs.search.brave.com/-_32qKbk4nzvzQ3RP6w9el0V0iswWgQP6EG3HIKvQ2s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWJlOGE2ODEz/ZDcxYzRjZDBjMzMw/OTZiMWM3ZDUwNjJk/ZTMyZDY3N2U5NTg4/ZDZhNDk3NzFiZjdh/OGQ0YTFmNi9hcG5l/d3MuY29tLw",
+          "path": "› article  › haitian-immigrants-vance-trump-ohio-6e4a47c52b23ae2c802d216369512ca5"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/E0Ca2dT6pizQUT7xtXL1yjtEwejp-tZ5Ov4ZQBjq12c/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kaW1z/LmFwbmV3cy5jb20v/ZGltczQvZGVmYXVs/dC84ZTY3OTI5LzIx/NDc0ODM2NDcvc3Ry/aXAvZmFsc2UvY3Jv/cC80MjA4eDI4MTAr/MCswL3Jlc2l6ZS8x/NDg2eDk5MiEvcXVh/bGl0eS85MC8_dXJs/PWh0dHBzJTNBJTJG/JTJGYXNzZXRzLmFw/bmV3cy5jb20lMkZm/NSUyRjUxJTJGZTU2/MmJjNjhmMzc5Yzc4/ZmM5YWZkNDQ3OTcz/ZCUyRjEzNThhMDMy/N2RiMTQ1YWY5ZGNm/ZmM5ODAzOGI2ZWUy",
+          "original": "https://dims.apnews.com/dims4/default/8e67929/2147483647/strip/false/crop/4208x2810+0+0/resize/1486x992!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff5%2F51%2Fe562bc68f379c78fc9afd447973d%2F1358a0327db145af9dcffc98038b6ee2",
+          "logo": false
+        },
+        "age": "September 12, 2024"
+      },
+      {
+        "title": "When Trump calls someone a dog, he’s tapping into ugly history",
+        "url": "https://theconversation.com/when-trump-calls-someone-a-dog-hes-tapping-into-ugly-history-128589",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Trump</strong>’s recent comments echo a troubled history of the use <strong>of</strong> <strong>dogs</strong> against people of color, as well as pejorative depictions of people of color as animals.",
+        "page_age": "2025-04-22T14:07:09",
+        "profile": {
+          "name": "The Conversation",
+          "url": "https://theconversation.com/when-trump-calls-someone-a-dog-hes-tapping-into-ugly-history-128589",
+          "long_name": "theconversation.com",
+          "img": "https://imgs.search.brave.com/HLzEVIDPYPCYB0taygkeGnfLwITnzrl1_J9i2ZUbLho/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjRkODFmMjM4/YTM5YTJhMGY4MWNk/NjU3NTBlMmM5ZDM1/NTQ5YjNmNzI4N2Ex/MTdlNjViODAyM2Nj/YTNkMTY3ZS90aGVj/b252ZXJzYXRpb24u/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "theconversation.com",
+          "hostname": "theconversation.com",
+          "favicon": "https://imgs.search.brave.com/HLzEVIDPYPCYB0taygkeGnfLwITnzrl1_J9i2ZUbLho/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjRkODFmMjM4/YTM5YTJhMGY4MWNk/NjU3NTBlMmM5ZDM1/NTQ5YjNmNzI4N2Ex/MTdlNjViODAyM2Nj/YTNkMTY3ZS90aGVj/b252ZXJzYXRpb24u/Y29tLw",
+          "path": "› when-trump-calls-someone-a-dog-hes-tapping-into-ugly-history-128589"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/kAQeOjo1OOHRmeiH775VMxk9hvujz6Vi70Lj-jvEcDs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudGhlY29udmVy/c2F0aW9uLmNvbS9m/aWxlcy8zMDY0MzEv/b3JpZ2luYWwvZmls/ZS0yMDE5MTIxMS05/NTE2NS11dDQ5MmIu/anBnP2l4bGliPXJi/LTQuMS4wJmFtcDtx/PTQ1JmFtcDthdXRv/PWZvcm1hdCZhbXA7/dz05MjYmYW1wO2Zp/dD1jbGlw",
+          "original": "https://images.theconversation.com/files/306431/original/file-20191211-95165-ut492b.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=926&amp;fit=clip",
+          "logo": false
+        },
+        "age": "April 22, 2025"
+      },
+      {
+        "title": "Column: Trump — the dog - Shelter Island Reporter Archives",
+        "url": "https://shelterislandreporter.timesreview.com/2016/09/17/column-trump-the-dog",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "CHARITY ROBEY This election year has been strange and unsettling and not just because some members of my family are considering self-deportation in the event of a Republican victory. I got a...",
+        "profile": {
+          "name": "Timesreview",
+          "url": "https://shelterislandreporter.timesreview.com/2016/09/17/column-trump-the-dog",
+          "long_name": "shelterislandreporter.timesreview.com",
+          "img": "https://imgs.search.brave.com/xZ_CjXlcqq7vggVSZbP0yT5GElPoKzwpzBpUJ2wA2z8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTU1NDBjNDI2/YjRhYTEzNTJlZDI1/NmZiZDY2YTE0OTI1/OWU4NDdhYmY5MDQ1/YzZkODAxOTdiZDU2/ZjEzYTY2OS9zaGVs/dGVyaXNsYW5kcmVw/b3J0ZXIudGltZXNy/ZXZpZXcuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "shelterislandreporter.timesreview.com",
+          "hostname": "shelterislandreporter.timesreview.com",
+          "favicon": "https://imgs.search.brave.com/xZ_CjXlcqq7vggVSZbP0yT5GElPoKzwpzBpUJ2wA2z8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTU1NDBjNDI2/YjRhYTEzNTJlZDI1/NmZiZDY2YTE0OTI1/OWU4NDdhYmY5MDQ1/YzZkODAxOTdiZDU2/ZjEzYTY2OS9zaGVs/dGVyaXNsYW5kcmVw/b3J0ZXIudGltZXNy/ZXZpZXcuY29tLw",
+          "path": "› 2016  › 09  › 17  › column-trump-the-dog"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/x91wRytIkqqMIZ2abIed_5qpxGRyTpyR17BJYNL5YBI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aW1l/c3Jldmlldy1pbWFn/ZXMuczMuYW1hem9u/YXdzLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvc2l0ZXMvNS8y/MDIwLzAxLzEyMDc0/MTE0L1NJUl9sb2dv/X2Nyb3BwZWQtMS1l/MTU3ODA4NzE1Mzc4/Ni5wbmc",
+          "original": "https://timesreview-images.s3.amazonaws.com/wp-content/uploads/sites/5/2020/01/12074114/SIR_logo_cropped-1-e1578087153786.png",
+          "logo": true
+        }
+      }
+    ],
+    "family_friendly": true
+  }
+}

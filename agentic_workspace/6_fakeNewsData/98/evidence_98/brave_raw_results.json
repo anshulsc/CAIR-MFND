@@ -1,0 +1,864 @@
+{
+  "query": {
+    "original": "home remedies",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "videos",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=r3kjBD8hnYM",
+        "title": "Health expert shares at-home remedies for sickness",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "fetched_content_timestamp": 1658577857,
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/NuB6zqmXH2WHmR2ma0tv1YPw6yHlSUcE4nu99YwC1Qw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9y/M2tqQkQ4aG5ZTS9o/cWRlZmF1bHQuanBn",
+          "original": "https://i.ytimg.com/vi/r3kjBD8hnYM/hqdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=G70OzZBjWgc",
+        "title": "Home Remedies - Mayo Clinic - YouTube",
+        "description": "Chicken soup for a cold. Gargling with salt water to soothe a sore throat. Or a raw steak on a black eye. All are classic home remedies that thousands use. B...",
+        "age": "March 23, 2011",
+        "page_age": "2011-03-23T13:01:10",
+        "fetched_content_timestamp": 1718175506,
+        "video": {
+          "duration": "01:58",
+          "views": 24488,
+          "creator": "Mayo Clinic",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ogwr4YEtfh0MUA_TSLEIhvGmCfP6yGBohkzOuXW7N9c/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9H/NzBPelpCaldnYy9o/cWRlZmF1bHQuanBn",
+          "original": "https://i.ytimg.com/vi/G70OzZBjWgc/hqdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=op9Ljh4KZzk",
+        "title": "How to Stop Acidity & Bloating Naturally | Best Home Remedies | ...",
+        "description": "Acidity is a common digestive problem, but it doesn’t have to be a daily struggle. With the rightapproach, you can reduce heartburn, bloating, and discomfort...",
+        "age": "1 week ago",
+        "page_age": "2025-07-16T13:30:51",
+        "fetched_content_timestamp": 1752781013,
+        "video": {
+          "duration": "05:06",
+          "creator": "The Yoga Institute",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/jLgJzGU9KA4r5fVuK4nVIv7QY7ubGz42j7dwpqPXNXU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9v/cDlMamg0S1p6ay9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/op9Ljh4KZzk/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=dOjxVBT8T9c",
+        "title": "Effective home remedies for allergies | Ohio State Medical ...",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "fetched_content_timestamp": 1658577857,
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/7pxDeVC9e2hRJF2OirhkayEF_6SX0C7pFo6qsbF3jV4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9k/T2p4VkJUOFQ5Yy9o/cWRlZmF1bHQuanBn",
+          "original": "https://i.ytimg.com/vi/dOjxVBT8T9c/hqdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=uMQyIQ2-Z4g",
+        "title": "Top 6 Natural Remedies for Cold & Flu at Home | 🍯 No More ...",
+        "description": "Home Remedy for Flu: https://hebbarskitchen.com/home-remedy-for-flu-best-home-remedies/Ajwain Leaves Benefits & Uses: https://hebbarskitchen.com/ajwain-leave...",
+        "age": "May 25, 2025",
+        "page_age": "2025-05-25T09:01:11",
+        "fetched_content_timestamp": 1748304209,
+        "video": {
+          "duration": "12:55",
+          "creator": "Hebbars Kitchen",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/-hYjpF2t5BeGykO1UpPOzCV0By2MqTog-9CsV6CQe50/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS91/TVF5SVEyLVo0Zy9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/uMQyIQ2-Z4g/maxresdefault.jpg"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Home Remedies: What Works?",
+        "url": "https://www.webmd.com/balance/ss/slideshow-home-remedies",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Click through the WebMD slide show to find out about <strong>home</strong> <strong>remedies</strong>: Some that work, some that don’t, and some that you should avoid at all costs.",
+        "page_age": "2025-06-24T00:00:00",
+        "profile": {
+          "name": "WebMD",
+          "url": "https://www.webmd.com/balance/ss/slideshow-home-remedies",
+          "long_name": "webmd.com",
+          "img": "https://imgs.search.brave.com/WaQ-XvKRsobiZoPtkO8nlIoIYQoMtmXhUVrFU0PIBMI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTczMmJjNDk4/N2QzMDNiNWZhZmJm/NzNiOWI5OGRiM2U3/MGY2OTQ2Mjk5MDU5/MjFhMDRlMTk2MjQz/NmY3YTJhNi93d3cu/d2VibWQuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "webmd.com",
+          "hostname": "www.webmd.com",
+          "favicon": "https://imgs.search.brave.com/WaQ-XvKRsobiZoPtkO8nlIoIYQoMtmXhUVrFU0PIBMI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTczMmJjNDk4/N2QzMDNiNWZhZmJm/NzNiOWI5OGRiM2U3/MGY2OTQ2Mjk5MDU5/MjFhMDRlMTk2MjQz/NmY3YTJhNi93d3cu/d2VibWQuY29tLw",
+          "path": "  › health & balance  › slideshows"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/jkojmCjSnsndNdZA2kBzVmLUSB26bVrwLKd6pAp6fNU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bGIud2JtZHN0YXRp/Yy5jb20vdmltL2xp/dmUvd2VibWQvY29u/c3VtZXJfYXNzZXRz/L3NpdGVfaW1hZ2Vz/L2FydGljbGVfdGh1/bWJuYWlscy9zbGlk/ZXNob3dzL2hvbWVf/cmVtZWRpZXNfd2hh/dF93b3Jrc19zbGlk/ZXNob3cvNjUweDM1/MF9ob21lX3JlbWVk/aWVzX3doYXRfd29y/a3Nfc2xpZGVzaG93/LmpwZw",
+          "original": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/home_remedies_what_works_slideshow/650x350_home_remedies_what_works_slideshow.jpg",
+          "logo": false
+        },
+        "age": "June 24, 2025"
+      },
+      {
+        "title": "9 Home Remedies Backed by Science",
+        "url": "https://www.healthline.com/health/home-remedies",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "It’s not clear exactly what makes a <strong>home</strong> <strong>remedy</strong> do the trick. Is it an actual physiological change in the body or more of a placebo effect? Thankfully, in recent decades, scientists have been asking the same questions in a lab, and are finding that some of our plant-based <strong>remedies</strong> aren’t ...",
+        "page_age": "2023-06-01T10:06:56",
+        "profile": {
+          "name": "Healthline",
+          "url": "https://www.healthline.com/health/home-remedies",
+          "long_name": "healthline.com",
+          "img": "https://imgs.search.brave.com/4uIi1Fz170gbE2B9GATZydoRHSxF5aPT8nDN0a674oQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFkYzhjMDEw/NWYyYWI3NjExYmI5/N2JlMmI5ZTY2OWY1/ZjFkZWYzNGYwY2Qw/YWM0ZmNjNzhjMjYz/ZTg5N2VhNy93d3cu/aGVhbHRobGluZS5j/b20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "healthline.com",
+          "hostname": "www.healthline.com",
+          "favicon": "https://imgs.search.brave.com/4uIi1Fz170gbE2B9GATZydoRHSxF5aPT8nDN0a674oQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFkYzhjMDEw/NWYyYWI3NjExYmI5/N2JlMmI5ZTY2OWY1/ZjFkZWYzNGYwY2Qw/YWM0ZmNjNzhjMjYz/ZTg5N2VhNy93d3cu/aGVhbHRobGluZS5j/b20v",
+          "path": "› health  › home-remedies"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Zc4U9v9ylkvYSYdM3BNYdY3NIiwJFBCV0k50GnUGzzs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5wb3N0LnJ2b2hl/YWx0aC5pby93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMC8wNC9T/cG9vbnNfU3BpY2Vz/XzczMng1NDktdGh1/bWJuYWlsLmpwZw",
+          "original": "https://media.post.rvohealth.io/wp-content/uploads/2020/04/Spoons_Spices_732x549-thumbnail.jpg",
+          "logo": false
+        },
+        "age": "June 1, 2023"
+      },
+      {
+        "title": "Home Remedies Backed By Science with Dr. Elizabeth Kightlinger | Cleveland Clinic",
+        "url": "https://my.clevelandclinic.org/podcasts/health-essentials/home-remedies-backed-by-science-with-dr-elizabeth-kightlinger",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Internal medicine physician Elizabeth Kightlinger, MD, shares scientific insight into some of the most popular <strong>home</strong> <strong>remedies</strong>",
+        "profile": {
+          "name": "Cleveland Clinic",
+          "url": "https://my.clevelandclinic.org/podcasts/health-essentials/home-remedies-backed-by-science-with-dr-elizabeth-kightlinger",
+          "long_name": "my.clevelandclinic.org",
+          "img": "https://imgs.search.brave.com/CNrrQ47AWGpz_n5OYJHUWAd6agpKoeGp5kM1J0wDOl8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQ3MjMwMDE4/MzFjOWFlMmU3ZGYz/Yzc3ZDYyNDhkNDUy/ZDNkOGFiZTE5NTEx/MTY0Y2FiZDM0MTVm/M2Q1NWE5Ny9teS5j/bGV2ZWxhbmRjbGlu/aWMub3JnLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "my.clevelandclinic.org",
+          "hostname": "my.clevelandclinic.org",
+          "favicon": "https://imgs.search.brave.com/CNrrQ47AWGpz_n5OYJHUWAd6agpKoeGp5kM1J0wDOl8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQ3MjMwMDE4/MzFjOWFlMmU3ZGYz/Yzc3ZDYyNDhkNDUy/ZDNkOGFiZTE5NTEx/MTY0Y2FiZDM0MTVm/M2Q1NWE5Ny9teS5j/bGV2ZWxhbmRjbGlu/aWMub3JnLw",
+          "path": "› podcasts  › health-essentials  › home-remedies-backed-by-science-with-dr-elizabeth-kightlinger"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/49FoJC4IX1RRcf3N8zfpCnGpXxtB-tnszg55HTFRL9c/rs:fit:200:200:1:0/g:ce/aHR0cDovL215LmNs/ZXZlbGFuZGNsaW5p/Yy5vcmcvLS9zY2Fz/c2V0cy9pbWFnZXMv/b3JnL3BvZGNhc3Qt/aW1hZ2VzL2hlLWRl/ZmF1bHQuanBn",
+          "original": "http://my.clevelandclinic.org/-/scassets/images/org/podcast-images/he-default.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Natural Remedies for Illness | Natural Cures | Allina Health",
+        "url": "https://www.allinahealth.org/healthysetgo/heal/natural-remedies-for-everyday-illnesses",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Spend a few minutes after work to prepare for the transition <strong>home</strong>. Put to rest the unresolved issues at work and shift your focus to your family.  · A note about safety: Tell your doctor about any herbal <strong>remedies</strong> or supplements you are taking.",
+        "profile": {
+          "name": "Allina Health",
+          "url": "https://www.allinahealth.org/healthysetgo/heal/natural-remedies-for-everyday-illnesses",
+          "long_name": "allinahealth.org",
+          "img": "https://imgs.search.brave.com/hg_Waeqa90nSYz8_oxaRxR_hXiDNrAfQR4VoD3vvgQY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDc0MDY2YWY0/YzNkMGJhODM3NWY4/YzViYzA2MTc3NDQ4/OTRiZTZlZTNlMmQ4/OWI3YjIzOGYwMjlh/NDA2YmViYi93d3cu/YWxsaW5haGVhbHRo/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "allinahealth.org",
+          "hostname": "www.allinahealth.org",
+          "favicon": "https://imgs.search.brave.com/hg_Waeqa90nSYz8_oxaRxR_hXiDNrAfQR4VoD3vvgQY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDc0MDY2YWY0/YzNkMGJhODM3NWY4/YzViYzA2MTc3NDQ4/OTRiZTZlZTNlMmQ4/OWI3YjIzOGYwMjlh/NDA2YmViYi93d3cu/YWxsaW5haGVhbHRo/Lm9yZy8",
+          "path": "› healthysetgo  › heal  › natural-remedies-for-everyday-illnesses"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/nzK-UtWHGwLcufRweBEBc1nXyAqCsA1y8pQ3hf8MSvg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxsaW5haGVhbHRo/Lm9yZy8tL21lZGlh/L2FsbGluYS1oZWFs/dGgvY29udGVudC9o/ZWFsdGh5LXNldC1n/by9uYXR1cmFscmVt/ZWR5LTUzNjc0NzI1/NS02ODJ4NDA4Lmpw/Zw",
+          "original": "https://www.allinahealth.org/-/media/allina-health/content/healthy-set-go/naturalremedy-536747255-682x408.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Forgotten Home Apothecary : 250 Powerful Remedies at Your Fingertips: Dr. Nicole Apelian: 9798988024095: Amazon.com: Books",
+        "url": "https://www.amazon.com/Forgotten-Home-Apothecary-Powerful-Fingertips/dp/B0DJQVYV99",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Forgotten <strong>Home</strong> Apothecary : 250 Powerful <strong>Remedies</strong> at Your Fingertips [Dr. Nicole Apelian] on Amazon.com. *FREE* shipping on qualifying offers. Forgotten <strong>Home</strong> Apothecary : 250 Powerful <strong>Remedies</strong> at Your Fingertips",
+        "profile": {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Forgotten-Home-Apothecary-Powerful-Fingertips/dp/B0DJQVYV99",
+          "long_name": "amazon.com",
+          "img": "https://imgs.search.brave.com/1SmDks4CPsuEM1txgXrUz2cuSfM8XLjvrvTIacq4V2s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODYwYzA4NzE1/OTE2NzM1YTQ1OWNj/Zjg0MmI0Y2U2YzI2/ODE5NmZhNGZjODA4/N2Y0NmI1ZmU4ZWQy/ZmM2MjdmMS93d3cu/YW1hem9uLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "product",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "amazon.com",
+          "hostname": "www.amazon.com",
+          "favicon": "https://imgs.search.brave.com/1SmDks4CPsuEM1txgXrUz2cuSfM8XLjvrvTIacq4V2s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODYwYzA4NzE1/OTE2NzM1YTQ1OWNj/Zjg0MmI0Y2U2YzI2/ODE5NmZhNGZjODA4/N2Y0NmI1ZmU4ZWQy/ZmM2MjdmMS93d3cu/YW1hem9uLmNvbS8",
+          "path": "› Forgotten-Home-Apothecary-Powerful-Fingertips  › dp  › B0DJQVYV99"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/-bcxfobeeN2cLKN29PcNXNpWcgzdTVCHxrmi-rjImy0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODErZWZNWU45d0wu/anBn",
+          "original": "https://m.media-amazon.com/images/I/81+efMYN9wL.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Rosemary oil for hair growth: How a simple Rosemary hair oil massage can help regrow your hair | - Times of India",
+        "url": "https://timesofindia.indiatimes.com/life-style/fashion/buzz/rosemary-oil-for-hair-growth-how-a-simple-rosemary-hair-oil-massage-can-help-regrow-your-hair/articleshow/122826345.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Rosemary essential oil, derived from the common herb, is gaining recognition as a natural <strong>remedy</strong> for hair loss. Research suggests it can stimulate sca",
+        "page_age": "2025-07-24T09:07:22",
+        "profile": {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/life-style/fashion/buzz/rosemary-oil-for-hair-growth-how-a-simple-rosemary-hair-oil-massage-can-help-regrow-your-hair/articleshow/122826345.cms",
+          "long_name": "timesofindia.indiatimes.com",
+          "img": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timesofindia.indiatimes.com",
+          "hostname": "timesofindia.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+          "path": "  › news  › lifestyle  › fashion  › buzz"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/11MPtg6FaK8TE4wCEUB1G3C22arRdH8fpQLhkkjDxGk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9yZXNp/emVtb2RlLTQsd2lk/dGgtMTI4MCxoZWln/aHQtNzIwLG1zaWQt/MTIyODI2MzQ1LzEy/MjgyNjM0NS5qcGc",
+          "original": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-122826345/122826345.jpg",
+          "logo": false
+        },
+        "age": "2 days ago"
+      },
+      {
+        "title": "Cold remedies: What works, what doesn't, what can't hurt - Mayo Clinic",
+        "url": "https://www.mayoclinic.org/diseases-conditions/common-cold/in-depth/cold-remedies/art-20046403",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Cold <strong>remedies</strong>: Some help, some don&#x27;t. Learn how to tell the difference.",
+        "page_age": "2024-07-12T13:47:48",
+        "profile": {
+          "name": "Mayo Clinic",
+          "url": "https://www.mayoclinic.org/diseases-conditions/common-cold/in-depth/cold-remedies/art-20046403",
+          "long_name": "mayoclinic.org",
+          "img": "https://imgs.search.brave.com/F1QZCikCU1Xq3h2jnFO_jszJNtkzLyankDCOWtGJmSQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGRiNzRkYTUy/ODQ5Y2IyY2EyNzU1/NjU1NWQ5NTZmNzY2/NjMxMGQyMzNjMjlm/NTc4NDk4Njg0M2Ix/M2I5ZGMzNC93d3cu/bWF5b2NsaW5pYy5v/cmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "mayoclinic.org",
+          "hostname": "www.mayoclinic.org",
+          "favicon": "https://imgs.search.brave.com/F1QZCikCU1Xq3h2jnFO_jszJNtkzLyankDCOWtGJmSQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGRiNzRkYTUy/ODQ5Y2IyY2EyNzU1/NjU1NWQ5NTZmNzY2/NjMxMGQyMzNjMjlm/NTc4NDk4Njg0M2Ix/M2I5ZGMzNC93d3cu/bWF5b2NsaW5pYy5v/cmcv",
+          "path": "› diseases-conditions  › common-cold  › in-depth  › cold-remedies  › art-20046403"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/2T_bQO3wqSOEXZLfeckZkYH_RFyjQeiigt_305h-Mmg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bWF5b2NsaW5pYy5v/cmcvLS9tZWRpYS93/ZWIvZ2JzL3NoYXJl/ZC9pbWFnZXMvc29j/aWFsbWVkaWEtbWV0/YWRhdGEvbWNfb3Bl/bmdyYXBoXzYwMHgz/MTUuanBn",
+          "original": "https://www.mayoclinic.org/-/media/web/gbs/shared/images/socialmedia-metadata/mc_opengraph_600x315.jpg",
+          "logo": false
+        },
+        "age": "July 12, 2024"
+      },
+      {
+        "title": "Natural Relief: Home remedies for your cold",
+        "url": "https://intermountainhealthcare.org/blogs/natural-relief-home-remedies-for-your-cold",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "10 simple and safe <strong>home</strong> solutions to help you feel better fast.",
+        "page_age": "2025-01-09T00:00:00",
+        "profile": {
+          "name": "Intermountain Healthcare",
+          "url": "https://intermountainhealthcare.org/blogs/natural-relief-home-remedies-for-your-cold",
+          "long_name": "intermountainhealthcare.org",
+          "img": "https://imgs.search.brave.com/CKM_I0fmNMGVfBABzzhpzUTnA8tKhDV_06v_AGzkvvs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjc3YWZmZTU4/Njc1OWIwNzE1NzE3/ODc4YmU4ODk4NDVj/OWJhM2JlMTRmYjA5/OGQ5MDk0YzdiMGI0/MmVkMmQwNy9pbnRl/cm1vdW50YWluaGVh/bHRoY2FyZS5vcmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "intermountainhealthcare.org",
+          "hostname": "intermountainhealthcare.org",
+          "favicon": "https://imgs.search.brave.com/CKM_I0fmNMGVfBABzzhpzUTnA8tKhDV_06v_AGzkvvs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjc3YWZmZTU4/Njc1OWIwNzE1NzE3/ODc4YmU4ODk4NDVj/OWJhM2JlMTRmYjA5/OGQ5MDk0YzdiMGI0/MmVkMmQwNy9pbnRl/cm1vdW50YWluaGVh/bHRoY2FyZS5vcmcv",
+          "path": "› blogs  › natural-relief-home-remedies-for-your-cold"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/hZwemI_LJr0mioljQCKiYxauTpQZLRaCBKqiK2ygHrU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbnRl/cm1vdW50YWluaGVh/bHRoY2FyZS5vcmcv/LS9tZWRpYS9pbWFn/ZXMvaW50ZXJtb3Vu/dGFpbi1oZWFsdGgv/YmxvZ3MvaG9tZS1y/ZW1lZGllcy1mb3It/Y29sZC5hc2h4P2g9/MTQxNCZhbXA7aWFy/PTAmYW1wO3c9MjEx/OSZhbXA7aGFzaD00/MEJERDA0N0ZGRUJC/RjE0QTBBMkNEQTkz/OEY3RjFCRQ",
+          "original": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/home-remedies-for-cold.ashx?h=1414&amp;iar=0&amp;w=2119&amp;hash=40BDD047FFEBBF14A0A2CDA938F7F1BE",
+          "logo": false
+        },
+        "age": "January 9, 2025"
+      },
+      {
+        "title": "20 Home Remedies Everyone Should Know - SVT Health & Wellness",
+        "url": "https://svthw.org/20-home-remedies-everyone-should-know/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The healthcare teams at CureJoy, an online health and wellness advice platform that uses advice based on natural and proven alternative medicine disciplines, gave their twenty <strong>remedies</strong> you can do at <strong>home</strong> to get and stay healthy. Here are what everyone should know: Having pomegranate’s...",
+        "page_age": "2019-03-27T18:57:24",
+        "profile": {
+          "name": "Svthw",
+          "url": "https://svthw.org/20-home-remedies-everyone-should-know/",
+          "long_name": "svthw.org",
+          "img": "https://imgs.search.brave.com/jdCN46IZrULx1Tr4ArKRKJT9T_8yh3BNDZrISi_37bw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMWQyYjA1/ODdiMTJlMDMxZDM4/ODU0NWE3ZDBmOTE4/MzczMjYyY2ZlMmFm/YTdhZDM5NDcwZWU5/MmUxZDY0MS9zdnRo/dy5vcmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "svthw.org",
+          "hostname": "svthw.org",
+          "favicon": "https://imgs.search.brave.com/jdCN46IZrULx1Tr4ArKRKJT9T_8yh3BNDZrISi_37bw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMWQyYjA1/ODdiMTJlMDMxZDM4/ODU0NWE3ZDBmOTE4/MzczMjYyY2ZlMmFm/YTdhZDM5NDcwZWU5/MmUxZDY0MS9zdnRo/dy5vcmcv",
+          "path": "  › home  › 20 home remedies everyone should know"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/BMcxGa8wMjXbMuCQOGM33Z_8rWhk0rCb5fI4Rn3kpnw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdnRo/dy5vcmcvd3AtY29u/dGVudC91cGxvYWRz/L3NpdGVzLzMvMjAx/OC8xMi9wb20tanVp/Y2UtMTYuanBn",
+          "original": "https://svthw.org/wp-content/uploads/sites/3/2018/12/pom-juice-16.jpg",
+          "logo": false
+        },
+        "age": "March 27, 2019"
+      },
+      {
+        "title": "Natural Sleep Aids: Home Remedies to Help You Sleep | Johns Hopkins Medicine",
+        "url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/natural-sleep-aids-home-remedies-to-help-you-sleep",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Are you having trouble drifting into a peaceful, nourishing slumber? A Johns Hopkins expert says there are easy, natural fixes that can improve your sleep.",
+        "page_age": "2024-06-20T13:47:48",
+        "profile": {
+          "name": "Johns Hopkins Medicine",
+          "url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/natural-sleep-aids-home-remedies-to-help-you-sleep",
+          "long_name": "hopkinsmedicine.org",
+          "img": "https://imgs.search.brave.com/gqzPsxLrZGxopKhm8NRd8H2x2MDbfKkhdDvgQ85_20A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjcxYjExNTBj/MDRmYmEzNzAzZmI2/ZjdlNjRlMzFiNDU4/ZDQ2MWE3ODE1MTAy/NzI0YzQzYmIzMDQz/YzJmZDRhYi93d3cu/aG9wa2luc21lZGlj/aW5lLm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "hopkinsmedicine.org",
+          "hostname": "www.hopkinsmedicine.org",
+          "favicon": "https://imgs.search.brave.com/gqzPsxLrZGxopKhm8NRd8H2x2MDbfKkhdDvgQ85_20A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjcxYjExNTBj/MDRmYmEzNzAzZmI2/ZjdlNjRlMzFiNDU4/ZDQ2MWE3ODE1MTAy/NzI0YzQzYmIzMDQz/YzJmZDRhYi93d3cu/aG9wa2luc21lZGlj/aW5lLm9yZy8",
+          "path": "› health  › wellness-and-prevention  › natural-sleep-aids-home-remedies-to-help-you-sleep"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/OoLis6ZJVIvjEUyRgLir-C-eJ_B09HHz_INDhfHHkaA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aG9wa2luc21lZGlj/aW5lLm9yZy8tL21l/ZGlhL2ltYWdlcy9o/ZWFsdGgvXy1pbWFn/ZXMtdG8tYmUtZmls/ZWQvaXN0b2NrODI3/MjE1NzI0LmpwZw",
+          "original": "https://www.hopkinsmedicine.org/-/media/images/health/_-images-to-be-filed/istock827215724.jpg",
+          "logo": false
+        },
+        "age": "June 20, 2024"
+      },
+      {
+        "title": "13 Home and Natural Remedies for Toothache Pain",
+        "url": "https://www.colgate.com/en-ph/oral-health/cavities/four-homemade-toothache-remedies-1116",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Discover the <strong>home</strong> <strong>remedies</strong> for toothache, the tooth pain preventive tips, and the significance of professional dental care in managing tooth pain.",
+        "page_age": "2024-08-05T22:18:43",
+        "profile": {
+          "name": "Colgate PH",
+          "url": "https://www.colgate.com/en-ph/oral-health/cavities/four-homemade-toothache-remedies-1116",
+          "long_name": "colgate.com",
+          "img": "https://imgs.search.brave.com/9lX3CbD0pJYBWy8t4HcdiEODbxlIcOHoSG53uyLZpNw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDQ2YmU2NDRl/MzQ4ZDU0MmVkNzI1/NjAzYjVkMDRlOTJm/NzEyZjZkMWUyYWEx/MWZkNTRkMmY1ZmNl/YmM1M2FmOC93d3cu/Y29sZ2F0ZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "colgate.com",
+          "hostname": "www.colgate.com",
+          "favicon": "https://imgs.search.brave.com/9lX3CbD0pJYBWy8t4HcdiEODbxlIcOHoSG53uyLZpNw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDQ2YmU2NDRl/MzQ4ZDU0MmVkNzI1/NjAzYjVkMDRlOTJm/NzEyZjZkMWUyYWEx/MWZkNTRkMmY1ZmNl/YmM1M2FmOC93d3cu/Y29sZ2F0ZS5jb20v",
+          "path": "  › home  › oral health  › cavities"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/IoIeHnViyxMzjbP-eQ7cx9olnq5BoA02ke_Uq4CtLko/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y29sZ2F0ZS5jb20v/Y29udGVudC9kYW0v/Y3Atc2l0ZXMvb3Jh/bC1jYXJlL29yYWwt/Y2FyZS1jZW50ZXIv/Z2xvYmFsL2FydGlj/bGUvOTE5MzEwLmpw/Zw",
+          "original": "https://www.colgate.com/content/dam/cp-sites/oral-care/oral-care-center/global/article/919310.jpg",
+          "logo": false
+        },
+        "age": "August 5, 2024"
+      },
+      {
+        "title": "Use of home remedies: a cross-sectional survey of patients in Germany - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4062891/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Reliable information regarding patient knowledge of <strong>home</strong> <strong>remedies</strong> and the types of health problems patients use them for is scarce. Nevertheless, anecdotal evidence indicates that <strong>home</strong> <strong>remedies</strong> are used by patients for managing minor health problems ...",
+        "profile": {
+          "name": "PubMed Central",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4062891/",
+          "long_name": "pmc.ncbi.nlm.nih.gov",
+          "img": "https://imgs.search.brave.com/ijTTilvQEc3Szfx0cXONsFmJ4lXSgpFslJywgJ4L93Q/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWE2NGUwNWIy/YjA3YTM4MjEwOWU5/MWUxNzY2NjVjOTdk/YWQ2YTFiNTgxYTcz/YTIxMTVjNzQzMWNi/ZWE2NmZhNC9wbWMu/bmNiaS5ubG0ubmlo/Lmdvdi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pmc.ncbi.nlm.nih.gov",
+          "hostname": "pmc.ncbi.nlm.nih.gov",
+          "favicon": "https://imgs.search.brave.com/ijTTilvQEc3Szfx0cXONsFmJ4lXSgpFslJywgJ4L93Q/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWE2NGUwNWIy/YjA3YTM4MjEwOWU5/MWUxNzY2NjVjOTdk/YWQ2YTFiNTgxYTcz/YTIxMTVjNzQzMWNi/ZWE2NmZhNC9wbWMu/bmNiaS5ubG0ubmlo/Lmdvdi8",
+          "path": "› articles  › PMC4062891"
+        }
+      },
+      {
+        "title": "Nine Of The Best Natural Cold And Flu Remedies | Piedmont Healthcare",
+        "url": "https://www.piedmont.org/living-real-change/9-natural-cold-and-flu-remedies",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Do natural cold and flu <strong>remedies</strong> really work? Barbara Austin, RN, MN, a nurse and complex case manager at Piedmont Sixty Plus, separates fact from fiction.",
+        "profile": {
+          "name": "Piedmont Healthcare",
+          "url": "https://www.piedmont.org/living-real-change/9-natural-cold-and-flu-remedies",
+          "long_name": "piedmont.org",
+          "img": "https://imgs.search.brave.com/FkJL3iMi8TnNQCVv5dT1W7NurAZT60NHLVe0uIAHj_Q/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTM1MjllMDZm/MzYyMzYwNTU0NDA2/Y2M3MjM5ODY5YWUx/ZTM1MjIyZjRhNmU2/YWJiYTIyYzU3MDI2/MzBiOTkwOS93d3cu/cGllZG1vbnQub3Jn/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "piedmont.org",
+          "hostname": "www.piedmont.org",
+          "favicon": "https://imgs.search.brave.com/FkJL3iMi8TnNQCVv5dT1W7NurAZT60NHLVe0uIAHj_Q/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTM1MjllMDZm/MzYyMzYwNTU0NDA2/Y2M3MjM5ODY5YWUx/ZTM1MjIyZjRhNmU2/YWJiYTIyYzU3MDI2/MzBiOTkwOS93d3cu/cGllZG1vbnQub3Jn/Lw",
+          "path": "› living-real-change  › 9-natural-cold-and-flu-remedies"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/5K-hNgM_pjzhvLPabNu_bFSTWzRV6p5g1fA9_U1hFak/rs:fit:200:200:1:0/g:ce/aHR0cDovL3d3dy5w/aWVkbW9udC5vcmcv/bWVkaWEvQmxvZ0lt/YWdlcy9uYXR1cmFs/LXJlbWVkaWVzLmpw/Zw",
+          "original": "http://www.piedmont.org/media/BlogImages/natural-remedies.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "MyPharma | 10 Classic Home Remedies Trusted By Filipino Moms",
+        "url": "https://mypharma.ph/articles/10-classic-home-remedies-trusted-by-filipino-moms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Here is a list of herbal <strong>remedies</strong> and liniments that have gained the trust of Filipino moms.",
+        "page_age": "2021-07-06T14:02:03",
+        "profile": {
+          "name": "MyPharma",
+          "url": "https://mypharma.ph/articles/10-classic-home-remedies-trusted-by-filipino-moms",
+          "long_name": "mypharma.ph",
+          "img": "https://imgs.search.brave.com/uFwRVpRMnctyj92fvVyM806oOTwyj6rmjSs0kRi3Mic/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjJjYTRjNWRi/ZjIyZGU5NTA2YjNm/MTg0YWRlMjY4Y2Fj/YmVkNzk0NjYwNTRj/NzkwMDEwZmM4ZjAz/NGI1MzI3Zi9teXBo/YXJtYS5waC8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "location",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "mypharma.ph",
+          "hostname": "mypharma.ph",
+          "favicon": "https://imgs.search.brave.com/uFwRVpRMnctyj92fvVyM806oOTwyj6rmjSs0kRi3Mic/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjJjYTRjNWRi/ZjIyZGU5NTA2YjNm/MTg0YWRlMjY4Y2Fj/YmVkNzk0NjYwNTRj/NzkwMDEwZmM4ZjAz/NGI1MzI3Zi9teXBo/YXJtYS5waC8",
+          "path": "  › health care that knows you  › articles index  › 10 classic home remedies trusted by filipino moms"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/FI3Lhmy6Nj6dPy1iUhNp40fiGX6Q6pzKZCVjeYaSSko/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9teXBo/YXJtYS5pbWdpeC5u/ZXQvYXNzZXRzL3Np/dGUvMTAtQ2xhc3Np/Yy1Ib21lLVJlbWVk/aWVzLVRydXN0ZWQt/QnktRmlsaXBpbm8t/TW9tcy1fU1FVQVJF/LVNFTy5wbmc_YXV0/bz1mb3JtYXQmYW1w/O2Nyb3A9Zm9jYWxw/b2ludCZhbXA7ZG9t/YWluPW15cGhhcm1h/LmltZ2l4Lm5ldCZh/bXA7Zml0PWNyb3Am/YW1wO2ZwLXg9MC41/JmFtcDtmcC15PTAu/NSZhbXA7aD02MzAm/YW1wO2l4bGliPXBo/cC0zLjMuMSZhbXA7/cT04MiZhbXA7dz0x/MjAwJmFtcDtzPTk3/ODNjYjMwMDlhZWEy/Y2Y4Y2M5YTRjOWYz/ZmJhMmNh",
+          "original": "https://mypharma.imgix.net/assets/site/10-Classic-Home-Remedies-Trusted-By-Filipino-Moms-_SQUARE-SEO.png?auto=format&amp;crop=focalpoint&amp;domain=mypharma.imgix.net&amp;fit=crop&amp;fp-x=0.5&amp;fp-y=0.5&amp;h=630&amp;ixlib=php-3.3.1&amp;q=82&amp;w=1200&amp;s=9783cb3009aea2cf8cc9a4c9f3fba2ca",
+          "logo": false
+        },
+        "age": "July 6, 2021"
+      },
+      {
+        "title": "Cold and Flu: Home Remedies, Natural Treatments, & When to Seek Help from VirtualER :: Elliot Hospital",
+        "url": "https://www.elliothospital.org/about-us/newsroom/news/cold-and-flu-home-remedies-natural-treatments-and-when-seek-help-virtualer",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Dr. Kevin Rankins of Elliot Hospital offers a guide to effective <strong>home</strong> <strong>remedies</strong>, natural treatments, and the signs that indicate it’s time to schedule a visit with Elliot VirtualER.",
+        "profile": {
+          "name": "Elliot Hospital",
+          "url": "https://www.elliothospital.org/about-us/newsroom/news/cold-and-flu-home-remedies-natural-treatments-and-when-seek-help-virtualer",
+          "long_name": "elliothospital.org",
+          "img": "https://imgs.search.brave.com/zSSHXAcOmvktFk4UfJuGcbekc-5tqU9hEakvLVy06XM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWUxZTYwMGY5/YzAzNzliZDJhMjg5/NzdkMGQwYTFjZTVm/M2E5OTc0NmYwYjcx/OTI5NDlkMDIwYTM0/YWU1Njg1My93d3cu/ZWxsaW90aG9zcGl0/YWwub3JnLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "elliothospital.org",
+          "hostname": "www.elliothospital.org",
+          "favicon": "https://imgs.search.brave.com/zSSHXAcOmvktFk4UfJuGcbekc-5tqU9hEakvLVy06XM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWUxZTYwMGY5/YzAzNzliZDJhMjg5/NzdkMGQwYTFjZTVm/M2E5OTc0NmYwYjcx/OTI5NDlkMDIwYTM0/YWU1Njg1My93d3cu/ZWxsaW90aG9zcGl0/YWwub3JnLw",
+          "path": "› about-us  › newsroom  › news  › cold-and-flu-home-remedies-natural-treatments-and-when-seek-help-virtualer"
+        }
+      },
+      {
+        "title": "Mayo Clinic Guide to Home Remedies - Mayo Clinic Press",
+        "url": "https://mcpress.mayoclinic.org/product/mayo-clinic-guide-to-home-remedies/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The information is straightforward, easy to understand and easy to find, with topics arranged in alphabetical order. The book doesn’t replace the advice of a healthcare professional but it can help you manage problems safely at <strong>home</strong> and it may even prevent disease or injury.",
+        "page_age": "2025-07-23T20:00:15",
+        "profile": {
+          "name": "Mayo Clinic Press",
+          "url": "https://mcpress.mayoclinic.org/product/mayo-clinic-guide-to-home-remedies/",
+          "long_name": "mcpress.mayoclinic.org",
+          "img": "https://imgs.search.brave.com/wfs8Z6K4fNtQPs6hQHPUGvTkihMnPlssObFHBxmILWE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWJmNDI2ODY5/Y2E5MmI0NGVmZjVl/NzkzZGVhNmFkNzg4/MWY5NjJkNmE2MmEy/ZGNlZGE4MjU3NjYx/OTMzNDhmYi9tY3By/ZXNzLm1heW9jbGlu/aWMub3JnLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "product",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "mcpress.mayoclinic.org",
+          "hostname": "mcpress.mayoclinic.org",
+          "favicon": "https://imgs.search.brave.com/wfs8Z6K4fNtQPs6hQHPUGvTkihMnPlssObFHBxmILWE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWJmNDI2ODY5/Y2E5MmI0NGVmZjVl/NzkzZGVhNmFkNzg4/MWY5NjJkNmE2MmEy/ZGNlZGE4MjU3NjYx/OTMzNDhmYi9tY3By/ZXNzLm1heW9jbGlu/aWMub3JnLw",
+          "path": "  › home  › books  › living well  › mayo clinic guide to home remedies"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/n7fptLTYbmXRukmaYz3sGaMSCS3vJcPlLMLVeRWzgvA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tY3By/ZXNzLm1heW9jbGlu/aWMub3JnL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI0LzA1L0Nv/dmVyXzE0MDB4MTQw/MC5qcGc",
+          "original": "https://mcpress.mayoclinic.org/wp-content/uploads/2024/05/Cover_1400x1400.jpg",
+          "logo": false
+        },
+        "age": "3 days ago"
+      },
+      {
+        "title": "Home Remedies For A Fever | Henry Ford Health - Detroit, MI",
+        "url": "https://www.henryford.com/blog/2024/01/home-remedies-for-a-fever",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Forehead feeling warm? Before dashing to the doctor’s office, try these at-<strong>home</strong> <strong>remedies</strong> for fever relief.",
+        "page_age": "2024-01-25T00:00:00",
+        "profile": {
+          "name": "Henry Ford Health",
+          "url": "https://www.henryford.com/blog/2024/01/home-remedies-for-a-fever",
+          "long_name": "henryford.com",
+          "img": "https://imgs.search.brave.com/zY5BKrLFIL_p3fbPzN73o3xrJ-exMVAVjFBABVlzhr8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDU4N2Q2NzQw/NzAwYjljM2Y1NGRm/MzlkODgxMzc0Mzhm/OTZjNDIwMWM4NjE2/YmUzYTI0NGFkMWMx/Zjc2NTNkMi93d3cu/aGVucnlmb3JkLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "henryford.com",
+          "hostname": "www.henryford.com",
+          "favicon": "https://imgs.search.brave.com/zY5BKrLFIL_p3fbPzN73o3xrJ-exMVAVjFBABVlzhr8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDU4N2Q2NzQw/NzAwYjljM2Y1NGRm/MzlkODgxMzc0Mzhm/OTZjNDIwMWM4NjE2/YmUzYTI0NGFkMWMx/Zjc2NTNkMi93d3cu/aGVucnlmb3JkLmNv/bS8",
+          "path": "› blog  › 2024  › 01  › home-remedies-for-a-fever"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Cw2E7ArbCKIMXFQ5kdSUtBnop2sBAM58LRYtxrMdg0g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aGVucnlmb3JkLmNv/bS8tL21lZGlhL3By/b2plY3QvaGZocy9o/ZW5yeWZvcmQvaGVu/cnktZm9yZC1ibG9n/L2ltYWdlcy9pbnRl/cmlvci1iYW5uZXIt/aW1hZ2VzLzIwMjQv/MDEvY2FyaW5nLWZv/ci1mZXZlci1hdC1o/b21lLmpwZw",
+          "original": "https://www.henryford.com/-/media/project/hfhs/henryford/henry-ford-blog/images/interior-banner-images/2024/01/caring-for-fever-at-home.jpg",
+          "logo": false
+        },
+        "age": "January 25, 2024"
+      },
+      {
+        "title": "Home Remedies Backed by Science - YouTube",
+        "url": "https://www.youtube.com/watch?v=DEuXMWLEu7A",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "For more <strong>home</strong> <strong>remedies</strong>, please visit https://cle.clinic/33rNuApWho doesn’t love a good <strong>home</strong> <strong>remedy</strong>? But not all <strong>home</strong> <strong>remedies</strong> are created equal. Some are sup...",
+        "page_age": "2021-05-07T20:00:46",
+        "profile": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/watch?v=DEuXMWLEu7A",
+          "long_name": "youtube.com",
+          "img": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "  › cleveland clinic"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/340O3nyF2hqxqYJGu083aaANh5KBqT2DGavz4nECtuQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9E/RXVYTVdMRXU3QS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/DEuXMWLEu7A/maxresdefault.jpg",
+          "logo": false
+        },
+        "age": "May 7, 2021"
+      },
+      {
+        "title": "National Geographic Complete Guide to Natural Home Remedies: 1,025 Easy Ways to Live Longer, Feel Better, and Enrich Your Life: National Geographic, Graedon, Joe, Graedon, Terry: 9781426212604: Amazon.com: Books",
+        "url": "https://www.amazon.com/National-Geographic-Complete-Natural-Remedies/dp/1426212607",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "National Geographic Complete Guide to Natural <strong>Home</strong> <strong>Remedies</strong>: 1,025 Easy Ways to Live Longer, Feel Better, and Enrich Your Life [National Geographic, Graedon, Joe, Graedon, Terry] on Amazon.com. *FREE* shipping on qualifying offers. National Geographic Complete Guide to Natural <strong>Home</strong> <strong>Remedies</strong>: ...",
+        "profile": {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/National-Geographic-Complete-Natural-Remedies/dp/1426212607",
+          "long_name": "amazon.com",
+          "img": "https://imgs.search.brave.com/1SmDks4CPsuEM1txgXrUz2cuSfM8XLjvrvTIacq4V2s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODYwYzA4NzE1/OTE2NzM1YTQ1OWNj/Zjg0MmI0Y2U2YzI2/ODE5NmZhNGZjODA4/N2Y0NmI1ZmU4ZWQy/ZmM2MjdmMS93d3cu/YW1hem9uLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "amazon.com",
+          "hostname": "www.amazon.com",
+          "favicon": "https://imgs.search.brave.com/1SmDks4CPsuEM1txgXrUz2cuSfM8XLjvrvTIacq4V2s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODYwYzA4NzE1/OTE2NzM1YTQ1OWNj/Zjg0MmI0Y2U2YzI2/ODE5NmZhNGZjODA4/N2Y0NmI1ZmU4ZWQy/ZmM2MjdmMS93d3cu/YW1hem9uLmNvbS8",
+          "path": "› National-Geographic-Complete-Natural-Remedies  › dp  › 1426212607"
+        }
+      },
+      {
+        "title": "Home Remedies | Portland, ME | Furniture and Home Décor Store",
+        "url": "https://www.homeremediesmaine.com/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Home</strong> <strong>Remedies</strong> is a local furniture and <strong>home</strong> décor store serving residents across the greater Portland, ME area. Call us to start your project or stop in today!",
+        "profile": {
+          "name": "Home Remedies",
+          "url": "https://www.homeremediesmaine.com/",
+          "long_name": "homeremediesmaine.com",
+          "img": "https://imgs.search.brave.com/RFZf2St55V54uH_G_XoH9EzvIn8qESGdzfe-EHUUkIo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjAwMzc0MmVh/ZjcyNmRiMGJkMTU5/ZjRmMzg3NTYwNGU5/OTM5ODcyYTY0YjU4/NjhkOTcwMWZlYTUy/YTUwZWEwYy93d3cu/aG9tZXJlbWVkaWVz/bWFpbmUuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "location",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "homeremediesmaine.com",
+          "hostname": "www.homeremediesmaine.com",
+          "favicon": "https://imgs.search.brave.com/RFZf2St55V54uH_G_XoH9EzvIn8qESGdzfe-EHUUkIo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjAwMzc0MmVh/ZjcyNmRiMGJkMTU5/ZjRmMzg3NTYwNGU5/OTM5ODcyYTY0YjU4/NjhkOTcwMWZlYTUy/YTUwZWEwYy93d3cu/aG9tZXJlbWVkaWVz/bWFpbmUuY29tLw",
+          "path": ""
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Sc6q7YrdOKXob7ndyaQ-4Wau0z2MEsKkDnDb2qAqpJk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3F1YXJlc3Bh/Y2UtY2RuLmNvbS9j/b250ZW50L3YxLzYz/MGZiODAxNGIyNjhm/N2ZmOTI1NTEyYS8w/ZGUyMjkxZi00NDY1/LTQ4ZmItYjFjMC02/ZjM5MzFmZjdjYjMv/aG9tZStyZW1lZGll/cytsb2dvK3doaXRl/LnBuZz9mb3JtYXQ9/MTUwMHc",
+          "original": "https://images.squarespace-cdn.com/content/v1/630fb8014b268f7ff925512a/0de2291f-4465-48fb-b1c0-6f3931ff7cb3/home+remedies+logo+white.png?format=1500w",
+          "logo": true
+        }
+      }
+    ],
+    "family_friendly": true
+  }
+}

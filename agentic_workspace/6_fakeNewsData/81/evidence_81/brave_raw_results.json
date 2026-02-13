@@ -1,0 +1,892 @@
+{
+  "query": {
+    "original": "Donald Trump responded to Rahul Gandhi in a twitter",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "videos",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=OGlNAhbY738",
+        "title": "Rahul Gandhi's First Reaction After Conviction; Rahul Gandhi Quotes ...",
+        "description": "A court in Gujarat's Surat city, on Thursday, convicted Congress MP Rahul Gandhi in a criminal defamation case against him over his alleged \"Modi surname\" re...",
+        "age": "March 23, 2023",
+        "page_age": "2023-03-23T13:41:55",
+        "fetched_content_timestamp": 1679667622,
+        "video": {
+          "duration": "07:10",
+          "views": 3051,
+          "creator": "India Today",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/uz_IXpyVsK6rChZAbNM_uy1MQU7eEY_7DrpwKnNZLbc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9P/R2xOQWhiWTczOC9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/OGlNAhbY738/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=MyIAouoTJGc",
+        "title": "INC Tweet On Rahul Gandhi MP Disqualification | V6 News - YouTube",
+        "description": "INC Tweet On Rahul Gandhi MP Disqualification | V6 News ఆ ఇద్దరికి KTR నోటీసులు https://www.youtube.com/watch?v=8G4-j_WEOpgసీఎం వస్తుండని ఆపిస్తే.. https://w",
+        "age": "March 24, 2023",
+        "page_age": "2023-03-24T13:41:55",
+        "fetched_content_timestamp": 1679675197,
+        "video": {
+          "duration": "00:29",
+          "views": 840,
+          "creator": "V6 News Telugu",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/0bPaM8pdIPEwgpprIxhJmWmq2EpaX273KWupU7V61qQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9N/eUlBb3VvVEpHYy9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/MyIAouoTJGc/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=AeyRmogTtNo",
+        "title": "Rahul Gandhi Tweets Another Cryptic Message After Being Convicted ...",
+        "description": "A court in Gujarat's Surat city, on Thursday, convicted Congress MP Rahul Gandhi in a criminal defamation case against him over his alleged \"Modi surname\" re...",
+        "age": "March 23, 2023",
+        "page_age": "2023-03-23T09:22:26",
+        "fetched_content_timestamp": 1717265503,
+        "video": {
+          "duration": "01:48",
+          "views": 8870,
+          "creator": "India Today",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lZAUZ4FtB9gJw9_nBKNPjIdxKu6SWiPJxm2wiHqD8MU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9B/ZXlSbW9nVHROby9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/AeyRmogTtNo/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://zeenews.india.com/video/news/what-did-rahul-gandhi-say-about-the-modi-government-in-americas-stanford-university-2616605.html",
+        "title": "What did Rahul Gandhi say about the Modi government in America's ...",
+        "description": "Targeting the Modi government, former Congress President Rahul Gandhi at Stanford University in America said that we are fighting the war of democracy. Watch video on Zee News",
+        "age": "June 1, 2023",
+        "page_age": "2023-06-01T18:42:01",
+        "fetched_content_timestamp": 1752269543,
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "zeenews.india.com",
+          "hostname": "zeenews.india.com",
+          "favicon": "https://imgs.search.brave.com/reMZO3pHcMwF7empIo5VmXh11dgzLcdK-Lf17WWTDQo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTNjMTQ0Mjk3/ZmNjMDIwYzNmZWY0/MDI3NGIzMWQ1YTg2/ZmMxNGMyNjZlYmEy/OWVkMTMwNTJiNjIy/ODAwNjgzMC96ZWVu/ZXdzLmluZGlhLmNv/bS8",
+          "path": "› video  › news  › what-did-rahul-gandhi-say-about-the-modi-government-in-americas-stanford-university-2616605.html"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/jRd4YpNCiS3uxILa1fM_QkoYMzf9_2sKvX8Gy2rsLu8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9lbmds/aXNoLmNkbi56ZWVu/ZXdzLmNvbS9zaXRl/cy9kZWZhdWx0L2Zp/bGVzLzIwMjMvMDYv/MDIvMDAwMDAwMDNf/MS5qcGc",
+          "original": "https://english.cdn.zeenews.com/sites/default/files/2023/06/02/00000003_1.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=e-GMwVYqbx0",
+        "title": "'Joe Biden & Rahul Gandhi Equally Silly': Nupur Sharma On Why There's ...",
+        "description": "'Joe Biden & Rahul Gandhi Equally Silly': Nupur Sharma On Why There's No Need To Take US Seriously#RahulGandhi #Congress #USA #India #PMModi #JoeBiden #BJP #...",
+        "age": "March 28, 2023",
+        "page_age": "2023-03-28T18:00:13",
+        "fetched_content_timestamp": 1718177656,
+        "video": {
+          "duration": "03:47",
+          "views": 28063,
+          "creator": "Republic World",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/QtituUr59_pzhZnZTod3uJkhn0Bqxl2ZDXK9032iuus/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9l/LUdNd1ZZcWJ4MC9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/e-GMwVYqbx0/maxresdefault.jpg"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Fact-check | Parody X Account of Donald Trump Calling Rahul Gandhi a 'Soros Agent' Goes Vira;",
+        "url": "https://www.thequint.com/news/webqoof/rahul-gandhi-wishing-donald-trump-insulting-post-on-x-parody-account-fact-check",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Fact-check | Parody X Account of Donald Trump Calling Rahul Gandhi a &#x27;Soros Agent&#x27; Goes Viral.<strong>This response given to Gandhi&#x27;s tweet is not authenticate, it is a parody account</strong>.",
+        "page_age": "2024-11-11T11:47:14",
+        "profile": {
+          "name": "TheQuint",
+          "url": "https://www.thequint.com/news/webqoof/rahul-gandhi-wishing-donald-trump-insulting-post-on-x-parody-account-fact-check",
+          "long_name": "thequint.com",
+          "img": "https://imgs.search.brave.com/Wzd9ozElk5V8CgU9kbDcBKImqCyUM_5cZ6kt1oNRdxU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjc3YmI5YzU3/ZmRjZmViMGQ4OTZj/ZmNlMGQ1OGE1NDlh/NzdjMTU2NTkzNTgz/YzEzYmMxN2UzYzMy/Njc2NjllMS93d3cu/dGhlcXVpbnQuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "thequint.com",
+          "hostname": "www.thequint.com",
+          "favicon": "https://imgs.search.brave.com/Wzd9ozElk5V8CgU9kbDcBKImqCyUM_5cZ6kt1oNRdxU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjc3YmI5YzU3/ZmRjZmViMGQ4OTZj/ZmNlMGQ1OGE1NDlh/NzdjMTU2NTkzNTgz/YzEzYmMxN2UzYzMy/Njc2NjllMS93d3cu/dGhlcXVpbnQuY29t/Lw",
+          "path": "  › home  › news  › webqoof"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/mluuMG9KkWhI8u_1XXOcydZA3vmxdz8LAhnc5SGGKk4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL3RoZXF1aW50/LzIwMjQtMTEtMTEv/ZDUwbXhlNzgvUnVq/dXRhV1EyMS5qcGc_/ICAgICAgICAgICAg/ICBhdXRvPWZvcm1h/dCxjb21wcmVzcyZm/bXQ9d2VicCZmb3Jt/YXQ9d2VicCZ3PTEy/MDAmaD05MDAmZHBy/PTEuMA",
+          "original": "https://media.assettype.com/thequint/2024-11-11/d50mxe78/RujutaWQ21.jpg?              auto=format,compress&fmt=webp&format=webp&w=1200&h=900&dpr=1.0",
+          "logo": false
+        },
+        "age": "November 11, 2024"
+      },
+      {
+        "title": "Fact Check: Did Donald Trump Call Rahul Gandhi A Soros Agent? Here’s The Truth Behind Viral Claim",
+        "url": "https://newschecker.in/fact-check/did-donald-trump-call-rahul-gandhi-a-soros-agent-heres-the-truth",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Several social media users claimed that US President-elect <strong>Donald</strong> <strong>Trump</strong> called Congress leader <strong>Rahul</strong> <strong>Gandhi</strong> <strong>a</strong> Soros agent. Newschecker, however, found that t...",
+        "profile": {
+          "name": "Newschecker",
+          "url": "https://newschecker.in/fact-check/did-donald-trump-call-rahul-gandhi-a-soros-agent-heres-the-truth",
+          "long_name": "newschecker.in",
+          "img": "https://imgs.search.brave.com/p_MHAjYPKMAb9_jV52zUzW5DylP8hUTu4RlQyfIoO88/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGE4MGEzZDE5/Nzc5OTk1OGVjOWY0/MjBhMzFjNGVkMDgw/NjcxMzc0NjNiMzM0/YmIyZjVmMzI5NzVm/Njk0NDVjMS9uZXdz/Y2hlY2tlci5pbi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "newschecker.in",
+          "hostname": "newschecker.in",
+          "favicon": "https://imgs.search.brave.com/p_MHAjYPKMAb9_jV52zUzW5DylP8hUTu4RlQyfIoO88/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGE4MGEzZDE5/Nzc5OTk1OGVjOWY0/MjBhMzFjNGVkMDgw/NjcxMzc0NjNiMzM0/YmIyZjVmMzI5NzVm/Njk0NDVjMS9uZXdz/Y2hlY2tlci5pbi8",
+          "path": "› fact-check  › did-donald-trump-call-rahul-gandhi-a-soros-agent-heres-the-truth"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/OCV99z0Qb_UUT8LoYM2rWiCBHCfsmtgAV4VtLzSvrKQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/Y2hlY2tlci5pbi93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNC8x/MS9SYXRpbmctMjAy/NC0xMS0wOVQxNTEx/NDYuOTI0LmpwZw",
+          "original": "https://newschecker.in/wp-content/uploads/2024/11/Rating-2024-11-09T151146.924.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "'Confident our nations will deepen cooperation': Rahul Gandhi's message for Donald Trump, Kamala Harris after US election results | India News - Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/confident-our-nations-will-deepen-cooperation-rahul-gandhis-message-for-donald-trump-kamala-harris-after-us-election-results/articleshow/115071893.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "&#x27;<strong>Confident our nations will deepen cooperation</strong>&#x27;: Rahul Gandhi&#x27;s message for Donald Trump, Kamala Harris after US election results",
+        "page_age": "2024-11-08T05:15:00",
+        "profile": {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/confident-our-nations-will-deepen-cooperation-rahul-gandhis-message-for-donald-trump-kamala-harris-after-us-election-results/articleshow/115071893.cms",
+          "long_name": "timesofindia.indiatimes.com",
+          "img": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timesofindia.indiatimes.com",
+          "hostname": "timesofindia.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+          "path": "  › news  › india news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/SiuzzOmzB_OFQviDLsdrWwVpzOFt5N2O2JH_I-gNQ0s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9yZXNp/emVtb2RlLTQsd2lk/dGgtMTI4MCxoZWln/aHQtNzIwLG1zaWQt/MTE1MDcyMTMxLzEx/NTA3MjEzMS5qcGc",
+          "original": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-115072131/115072131.jpg",
+          "logo": false
+        },
+        "age": "November 8, 2024"
+      },
+      {
+        "title": "Donald J. Trump Parody on X: \"Thank you Indian soros agent @RahulGandhi, but let’s be clear- someone who betrays their own country, aligning with anti-India elements like @georgesoros to undermine his homeland, cannot truly support America or my vision. Best to focus on your own affairs, Rahul.\" / X",
+        "url": "https://x.com/thedonaldtrumph/status/1854173359895941604",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using x.com. You can see a list of supported browsers in our Help Center · <strong>Congratulations on your victory, @realDonaldTrump!</strong> Wishing you success in your second ...",
+        "profile": {
+          "name": "X",
+          "url": "https://x.com/thedonaldtrumph/status/1854173359895941604",
+          "long_name": "x.com",
+          "img": "https://imgs.search.brave.com/VpOsyUaQQGp5MT_drqEzgpxdO8o12jax0jeq0Vojuto/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmQzM2JiZDhi/OWVhNGYxZmRkNDli/NzAxODUzMzFhYTNm/ODcxNmE4ZGQ5OTE3/MWU4OGZjNDQyZDdh/NzQ4MWE4YS94LmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "x.com",
+          "hostname": "x.com",
+          "favicon": "https://imgs.search.brave.com/VpOsyUaQQGp5MT_drqEzgpxdO8o12jax0jeq0Vojuto/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmQzM2JiZDhi/OWVhNGYxZmRkNDli/NzAxODUzMzFhYTNm/ODcxNmE4ZGQ5OTE3/MWU4OGZjNDQyZDdh/NzQ4MWE4YS94LmNv/bS8",
+          "path": "› thedonaldtrumph  › status  › 1854173359895941604"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/pVDxYoffXtFCjRu0JYkIgEiLNIff4uorHH9p5FTS3iQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hYnMu/dHdpbWcuY29tL3Jl/c3BvbnNpdmUtd2Vi/L2NsaWVudC13ZWIv/aWNvbi1pb3MuNzdk/MjVlYmEucG5n",
+          "original": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+          "logo": true
+        }
+      },
+      {
+        "title": "Rahul Gandhi writes to Donald Trump, Kamala Harris after US elections",
+        "url": "https://www.deccanherald.com/india/rahul-gandhi-writes-to-donald-trump-kamala-harris-after-us-elections-3267749",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Congratulating <strong>Trump</strong> on his victory, <strong>Rahul</strong> said people have placed their trust in your vision for the future.",
+        "page_age": "2024-11-08T04:29:55",
+        "profile": {
+          "name": "Deccan Herald",
+          "url": "https://www.deccanherald.com/india/rahul-gandhi-writes-to-donald-trump-kamala-harris-after-us-elections-3267749",
+          "long_name": "deccanherald.com",
+          "img": "https://imgs.search.brave.com/KtLjkvB8_OIderB4BULJRh9gBjqSpRDmsuSLUvsrNWY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTI2NjdhODJh/YzUwZmNjZTUwY2Zm/MDhhMTM5YjhlMzk1/MzIyNTg0ZDlmNzIz/NDIzNmI2MGFiMmIz/ZjkwNzhlMS93d3cu/ZGVjY2FuaGVyYWxk/LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "deccanherald.com",
+          "hostname": "www.deccanherald.com",
+          "favicon": "https://imgs.search.brave.com/KtLjkvB8_OIderB4BULJRh9gBjqSpRDmsuSLUvsrNWY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTI2NjdhODJh/YzUwZmNjZTUwY2Zm/MDhhMTM5YjhlMzk1/MzIyNTg0ZDlmNzIz/NDIzNmI2MGFiMmIz/ZjkwNzhlMS93d3cu/ZGVjY2FuaGVyYWxk/LmNvbS8",
+          "path": "  › home  › india  › rahul gandhi writes to donald trump, kamala harris after us elections"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/yxWgCRlqVTUVcWHzZEvGnSd0SmfuUMF8sINBRhie-e4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZGVjY2FuaGVy/YWxkLmNvbS9kZWNj/YW5oZXJhbGQvMjAy/NC0xMS0wOC95c2cx/NG5qeS9maWxlN3h3/djJvazkyY3dscmk5/bDFucS5qcGc_dz0x/MjAwJmg9Njc1JmF1/dG89Zm9ybWF0JTJD/Y29tcHJlc3MmZml0/PW1heCZlbmxhcmdl/PXRydWU",
+          "original": "https://images.deccanherald.com/deccanherald/2024-11-08/ysg14njy/file7xwv2ok92cwlri9l1nq.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+          "logo": false
+        },
+        "age": "November 8, 2024"
+      },
+      {
+        "title": "Rahul Gandhi wishes Donald Trump success, lauds Kamala Harris’ ‘spirited campaign’ - The Hindu",
+        "url": "https://www.thehindu.com/news/national/rahul-gandhi-wishes-donald-trump-success-lauds-kamala-harris-spirited-campaign/article68846184.ece",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Rahul</strong> <strong>Gandhi</strong> congratulates <strong>Donald</strong> <strong>Trump</strong> on victory, expresses confidence in deepening India-U.S. cooperation, praises Kamala Harris&#x27; campaign.",
+        "page_age": "2024-11-08T16:17:52",
+        "profile": {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/rahul-gandhi-wishes-donald-trump-success-lauds-kamala-harris-spirited-campaign/article68846184.ece",
+          "long_name": "thehindu.com",
+          "img": "https://imgs.search.brave.com/7nMEtreJNappZ3K0yP6ovEhbEphNWRh8gQdd737CcXU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZThkMTk4NWZl/YjBiYjYzYjQ5MjNm/YmNhNDM2ZDlkZTAz/Y2FiODM5ZjAwNWRi/MmUyY2RmMTIwNDk5/ZWE0YmQ2Yi93d3cu/dGhlaGluZHUuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "thehindu.com",
+          "hostname": "www.thehindu.com",
+          "favicon": "https://imgs.search.brave.com/7nMEtreJNappZ3K0yP6ovEhbEphNWRh8gQdd737CcXU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZThkMTk4NWZl/YjBiYjYzYjQ5MjNm/YmNhNDM2ZDlkZTAz/Y2FiODM5ZjAwNWRi/MmUyY2RmMTIwNDk5/ZWE0YmQ2Yi93d3cu/dGhlaGluZHUuY29t/Lw",
+          "path": "› news  › national  › rahul-gandhi-wishes-donald-trump-success-lauds-kamala-harris-spirited-campaign  › article68846184.ece"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ygSz4UeGbFcd3buiH_TEIcHYYgs3Bkhyq1PsDNLRyuQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aC1p/LnRoZ2ltLmNvbS9w/dWJsaWMvbmV3cy9u/YXRpb25hbC9wenZi/M24vYXJ0aWNsZTY4/ODQ2NDk3LmVjZS9h/bHRlcm5hdGVzL0xB/TkRTQ0FQRV8xMjAw/LzIwMjQtMTEtMDVU/MTEwMjU0Wl8xMzI1/NDYxOTY3X1JDMldE/QUE4RDdCUl9SVFJN/QURQXzNfR0xPQkFM/LU1BUktFVFMtVklF/Vy1VU0EuSlBH",
+          "original": "https://th-i.thgim.com/public/news/national/pzvb3n/article68846497.ece/alternates/LANDSCAPE_1200/2024-11-05T110254Z_1325461967_RC2WDAA8D7BR_RTRMADP_3_GLOBAL-MARKETS-VIEW-USA.JPG",
+          "logo": false
+        },
+        "age": "November 8, 2024"
+      },
+      {
+        "title": "An X post from a parody account shared with a false claim that Donald Trump called Rahul Gandhi a 'Soros Agent' in response to his congratulatory tweet - FACTLY",
+        "url": "https://factly.in/an-x-post-from-a-parody-account-was-falsely-shared-claiming-that-donald-trump-called-rahul-gandhi-a-soros-agent-in-response-to-his-congratulatory-tweet/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "We searched for the X profile ... by user @AshwiniSahaya. We found the X post (archive link) claiming that <strong>Trump called Rahul Gandhi a “Soros agent” on the parody account from 06 November 2024</strong>....",
+        "page_age": "2024-11-13T04:18:59",
+        "profile": {
+          "name": "FACTLY",
+          "url": "https://factly.in/an-x-post-from-a-parody-account-was-falsely-shared-claiming-that-donald-trump-called-rahul-gandhi-a-soros-agent-in-response-to-his-congratulatory-tweet/",
+          "long_name": "factly.in",
+          "img": "https://imgs.search.brave.com/pBhb37Jeriz1FsklOAjRQQDSIIn6ZhuMenuEX5Fm-dw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2Y5OTdkYjA5/NjRhOTlhMmU4ZWQ5/YzM3MmQ4NzM1Yjg4/MDZlNzM0N2Y4NjRi/OTAyNWRhY2QyM2Y3/YjBhMzA3Zi9mYWN0/bHkuaW4v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "factly.in",
+          "hostname": "factly.in",
+          "favicon": "https://imgs.search.brave.com/pBhb37Jeriz1FsklOAjRQQDSIIn6ZhuMenuEX5Fm-dw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2Y5OTdkYjA5/NjRhOTlhMmU4ZWQ5/YzM3MmQ4NzM1Yjg4/MDZlNzM0N2Y4NjRi/OTAyNWRhY2QyM2Y3/YjBhMzA3Zi9mYWN0/bHkuaW4v",
+          "path": "› an-x-post-from-a-parody-account-was-falsely-shared-claiming-that-donald-trump-called-rahul-gandhi-a-soros-agent-in-response-to-his-congratulatory-tweet"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/9AjYueKo5-QqeJwrPwEPX4-VmIG9ASqG_LJzA_MiM0o/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mYWN0/bHkuaW4vd3AtY29u/dGVudC91cGxvYWRz/Ly8yMDI0LzExL0Rv/bmFsZC1UcnVtcOKA/mXMtdHdlZXQtY2Fs/bGluZy1SYWh1bC1H/YW5kaGktYS1Tb3Jv/cy1hZ2VudC1UaHVt/Ym5haWwtNzAyeDMz/Ni5qcGc",
+          "original": "https://factly.in/wp-content/uploads//2024/11/Donald-Trump’s-tweet-calling-Rahul-Gandhi-a-Soros-agent-Thumbnail-702x336.jpg",
+          "logo": false
+        },
+        "age": "November 13, 2024"
+      },
+      {
+        "title": "Rahul Gandhi wishes Donald Trump, congratulates Harris on ‘spirited Presidential campaign’ | India News - The Indian Express",
+        "url": "https://indianexpress.com/article/india/rahul-gandhi-wishes-donald-trump-9659588/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Gandhi</strong> said India and the US share a historic friendship rooted in their commitment to democratic values.wished Kamala Harris the best.",
+        "page_age": "2024-11-08T06:09:37",
+        "profile": {
+          "name": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/rahul-gandhi-wishes-donald-trump-9659588/",
+          "long_name": "indianexpress.com",
+          "img": "https://imgs.search.brave.com/4SjuU0Nl8aLEWO4BDayJHVXWCRSuG_vGZkIWx7VpdeA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2QwNGY1YWRi/MjNhNmY1YjgxYTJl/MzNjOWMyMDlkY2Iw/MmYxMGNiMmFmODcx/MDg3ZDgxMTFiZmMz/NjlkNDBkZi9pbmRp/YW5leHByZXNzLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "indianexpress.com",
+          "hostname": "indianexpress.com",
+          "favicon": "https://imgs.search.brave.com/4SjuU0Nl8aLEWO4BDayJHVXWCRSuG_vGZkIWx7VpdeA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2QwNGY1YWRi/MjNhNmY1YjgxYTJl/MzNjOWMyMDlkY2Iw/MmYxMGNiMmFmODcx/MDg3ZDgxMTFiZmMz/NjlkNDBkZi9pbmRp/YW5leHByZXNzLmNv/bS8",
+          "path": "  › news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/4AyF4qKUD109RFswfQXMdLmXiQ-LLL-I3ssMhezkaCI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaW5kaWFuZXhw/cmVzcy5jb20vMjAy/NC8xMS90cnVtcF82/ZTk1OTguanBn",
+          "original": "https://images.indianexpress.com/2024/11/trump_6e9598.jpg",
+          "logo": false
+        },
+        "age": "November 8, 2024"
+      },
+      {
+        "title": "'Modi ji, what is the truth?': Rahul Gandhi after Donald Trump's 'jets shot down' claim; Congress sharpens attack | India News - Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/modi-ji-what-is-the-truth-rahul-gandhi-after-donald-trumps-jets-shot-down-claim-congress-sharpens-attack/articleshow/122784351.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "India News: <strong>Rahul</strong> <strong>Gandhi</strong> has challenged Prime Minister Narendra Modi&#x27;s silence regarding <strong>Donald</strong> <strong>Trump</strong>&#x27;s renewed assertions about mediating a ceasefire between Ind",
+        "page_age": "2025-07-19T15:32:00",
+        "profile": {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/modi-ji-what-is-the-truth-rahul-gandhi-after-donald-trumps-jets-shot-down-claim-congress-sharpens-attack/articleshow/122784351.cms",
+          "long_name": "timesofindia.indiatimes.com",
+          "img": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timesofindia.indiatimes.com",
+          "hostname": "timesofindia.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+          "path": "  › news  › india news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/jF5wWUsbG5qJgKuPyiIvKcgLwAHpqF0O53irlrfZyrs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9yZXNp/emVtb2RlLTQsd2lk/dGgtMTI4MCxoZWln/aHQtNzIwLG1zaWQt/MTIyNzg0NDI1LzEy/Mjc4NDQyNS5qcGc",
+          "original": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-122784425/122784425.jpg",
+          "logo": false
+        },
+        "age": "1 week ago"
+      },
+      {
+        "title": "Operation Sindoor: Rahul Gandhi Seeks Explanation After Trump Jets Remark, BJP Hits Back",
+        "url": "https://www.ndtv.com/india-news/operation-sindoor-rahul-gandhi-seeks-explanation-after-trump-jets-remark-bjp-hits-back-8907499",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "&quot;<strong>The truth is that Pakistan has not yet recovered from Operation Sindoor</strong>... but Rahul Gandhi is in pain! Whenever the country&#x27;s army teaches a lesson to the enemy, Congress gets irritated. Anti-India sentiment is no longer a habit of Congress, it has become its identity.",
+        "profile": {
+          "name": "NDTV",
+          "url": "https://www.ndtv.com/india-news/operation-sindoor-rahul-gandhi-seeks-explanation-after-trump-jets-remark-bjp-hits-back-8907499",
+          "long_name": "ndtv.com",
+          "img": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ndtv.com",
+          "hostname": "www.ndtv.com",
+          "favicon": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v",
+          "path": "  › home  › india news  › rahul gandhi seeks explanation after trump jets remark, bjp hits back"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/vl6C5cgapWadeGY302Hj0WueorwJmCUFSDJ5P-Vdb1w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjUtMDUvdHQzcWE4/bGtfcmFodWwtZ2Fu/ZGhpXzYyNXgzMDBf/MjRfTWF5XzI1Lmpw/ZWc_aW09RmVhdHVy/ZUNyb3AsYWxnb3Jp/dGhtPWRubix3aWR0/aD0xMjAwLGhlaWdo/dD03Mzg",
+          "original": "https://c.ndtvimg.com/2025-05/tt3qa8lk_rahul-gandhi_625x300_24_May_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+          "logo": false
+        }
+      },
+      {
+        "title": "rahul gandhi narendar surrender, donald trump, bjp hits back, self proclaimed self styled supreme leader",
+        "url": "https://www.ndtv.com/india-news/rahul-gandhi-narendar-surrender-donald-trump-bjp-hits-back-self-proclaimed-self-styled-supreme-leader-8584017",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "#WATCH | Delhi | On Lok Sabha LoP ... pic.twitter.com/GQmjiRGk7P— ANI (@ANI) June 4, 2025 · <strong>On Tuesday Mr Gandhi, during a party event in Bhopal, declared the PM had &#x27;surrendered&#x27; after a call from US President Donald Trump</strong>....",
+        "profile": {
+          "name": "NDTV",
+          "url": "https://www.ndtv.com/india-news/rahul-gandhi-narendar-surrender-donald-trump-bjp-hits-back-self-proclaimed-self-styled-supreme-leader-8584017",
+          "long_name": "ndtv.com",
+          "img": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ndtv.com",
+          "hostname": "www.ndtv.com",
+          "favicon": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v",
+          "path": "  › home  › india news  › bjp's \"supreme leader\" jibe to rahul gandhi's \"narender, surrender\" swipe"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/PFt-NaU7utsVgB5lyxdHbf2CaEnnlR3tf_g_ojiTeeU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjUtMDUvZmV1Yzc3/amdfbmFyZW5kcmEt/bW9kaS1yYWh1bC1n/YW5kaGlfNjI1eDMw/MF8xMV9NYXlfMjUu/anBnP2ltPUZlYXR1/cmVDcm9wLGFsZ29y/aXRobT1kbm4sd2lk/dGg9MTIwMCxoZWln/aHQ9NzM4",
+          "original": "https://c.ndtvimg.com/2025-05/feuc77jg_narendra-modi-rahul-gandhi_625x300_11_May_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+          "logo": false
+        }
+      },
+      {
+        "title": "Rahul Gandhi congratulates Donald Trump, wishes Kamala Harris on ‘spirited campaign’",
+        "url": "https://www.businesstoday.in/world/us/story/rahul-gandhi-congratulates-donald-trump-wishes-kamala-harris-on-spirited-campaign-453032-2024-11-08",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "US election 2024: <strong>Rahul</strong> <strong>Gandhi</strong> wrote to both <strong>Donald</strong> <strong>Trump</strong>, who won the US presidential elections, and Vice President Kamala Harris, who conceded, to wish them on the outcome of the polls.",
+        "page_age": "2024-11-08T08:04:49",
+        "profile": {
+          "name": "Business Today",
+          "url": "https://www.businesstoday.in/world/us/story/rahul-gandhi-congratulates-donald-trump-wishes-kamala-harris-on-spirited-campaign-453032-2024-11-08",
+          "long_name": "businesstoday.in",
+          "img": "https://imgs.search.brave.com/hL3yPUsDIobpuwbd2NjeY78jsB6EHqQmsM7a7twpK_Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGUwNDZhZmYw/NzI0ZjNhZTk3NzQz/YzZlMmJhOWM3M2Iz/NDhjZjA4M2NhOWI3/MjFiODI2ZjIxMjBk/NDFmYWZiNS93d3cu/YnVzaW5lc3N0b2Rh/eS5pbi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "businesstoday.in",
+          "hostname": "www.businesstoday.in",
+          "favicon": "https://imgs.search.brave.com/hL3yPUsDIobpuwbd2NjeY78jsB6EHqQmsM7a7twpK_Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGUwNDZhZmYw/NzI0ZjNhZTk3NzQz/YzZlMmJhOWM3M2Iz/NDhjZjA4M2NhOWI3/MjFiODI2ZjIxMjBk/NDFmYWZiNS93d3cu/YnVzaW5lc3N0b2Rh/eS5pbi8",
+          "path": "  › news  › world news  › us news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/oWWF9P9F9J5E5P6ciEMGjiSsfXOtU6aGItqtbwecQ1g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ha20t/aW1nLWEtaW4udG9z/c2h1Yi5jb20vYnVz/aW5lc3N0b2RheS9p/bWFnZXMvc3Rvcnkv/MjAyNDExLzY3MmRj/NjAxODA5YTItcmFo/dWwtZ2FuZGhpLXdy/aXRlcy10by1ib3Ro/LWRvbmFsZC10cnVt/cC1hbmQta2FtYWxh/LWhhcnJpcy1vdmVy/LXVzLWVsZWN0aW9u/LW91dGNvbWUtMDgw/NDExOTk2LTE2eDku/anBnP3NpemU9MTI4/MDo3MjA",
+          "original": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202411/672dc601809a2-rahul-gandhi-writes-to-both-donald-trump-and-kamala-harris-over-us-election-outcome-080411996-16x9.jpg?size=1280:720",
+          "logo": false
+        },
+        "age": "November 8, 2024"
+      },
+      {
+        "title": "Rahul Gandhi Writes To Donald Trump, Congratulates Him On Landmark Victory",
+        "url": "https://www.ndtv.com/india-news/us-election-result-rahul-gandhi-writes-to-donald-trump-congratulates-him-on-landmark-victory-6970390",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "In a letter <strong>to</strong> <strong>Donald</strong> <strong>Trump</strong>, Congress&#x27; <strong>Rahul</strong> <strong>Gandhi</strong> expressed confidence that under his leadership, the two nations will further deepen cooperation in areas of mutual interest.",
+        "profile": {
+          "name": "NDTV",
+          "url": "https://www.ndtv.com/india-news/us-election-result-rahul-gandhi-writes-to-donald-trump-congratulates-him-on-landmark-victory-6970390",
+          "long_name": "ndtv.com",
+          "img": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ndtv.com",
+          "hostname": "www.ndtv.com",
+          "favicon": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v",
+          "path": "  › home  › india news  › rahul gandhi writes to donald trump, congratulates him on landmark victory"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/t5hYjCRppMv3T2GMaqlkIpUIt1aCXwdkhWvBgSKoPrs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjQtMTEvZ3JuZXRr/MWdfcmFodWwtZ2Fu/ZGhpLWRvbmFsZC10/cnVtcF82MjV4MzAw/XzA4X05vdmVtYmVy/XzI0LmpwZz9pbT1G/ZWF0dXJlQ3JvcCxh/bGdvcml0aG09ZG5u/LHdpZHRoPTEyMDAs/aGVpZ2h0PTczOA",
+          "original": "https://c.ndtvimg.com/2024-11/grnetk1g_rahul-gandhi-donald-trump_625x300_08_November_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+          "logo": false
+        }
+      },
+      {
+        "title": "Rahul Gandhi responds to Donald Trump’s warning to India: ‘Friendship isn’t about retaliation’ - India News | The Financial Express",
+        "url": "https://www.financialexpress.com/india-news/rahul-gandhi-responds-to-donald-trumps-warning-to-india-friendship-isnt-about-retaliation/1921190/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "President <strong>Donald</strong> <strong>Trump</strong> had warned India of retaliation if it did not allow the supply of anti-malaria drug hydroxychloroquine to the US. The country has the highest number of COVID-19 cases in the world",
+        "page_age": "2020-04-07T07:52:53",
+        "profile": {
+          "name": "The Financial Express",
+          "url": "https://www.financialexpress.com/india-news/rahul-gandhi-responds-to-donald-trumps-warning-to-india-friendship-isnt-about-retaliation/1921190/",
+          "long_name": "financialexpress.com",
+          "img": "https://imgs.search.brave.com/4hWpwetFzglrlmkqB7jYp7EocTHqMq-8f1OkPJ4Z0IY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOThkNjBkZGQ5/ODkxOTk5MTM2Nzhj/ODQwYmIyNjU2ODJm/MTJlZDIzM2RlOTcw/ZjA3YzIyNzJjMWNi/ZTA3YThiZC93d3cu/ZmluYW5jaWFsZXhw/cmVzcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "financialexpress.com",
+          "hostname": "www.financialexpress.com",
+          "favicon": "https://imgs.search.brave.com/4hWpwetFzglrlmkqB7jYp7EocTHqMq-8f1OkPJ4Z0IY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOThkNjBkZGQ5/ODkxOTk5MTM2Nzhj/ODQwYmIyNjU2ODJm/MTJlZDIzM2RlOTcw/ZjA3YzIyNzJjMWNi/ZTA3YThiZC93d3cu/ZmluYW5jaWFsZXhw/cmVzcy5jb20v",
+          "path": "  › business news  › india news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ABRMskH0P_pfaSmnY-yJ_q1iDqsIgCv-O8k85atEByI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/ZmluYW5jaWFsZXhw/cmVzcy5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjAvMDQv/UmFodWxHYW5kaGlD/b3JvbmEuanBn",
+          "original": "https://www.financialexpress.com/wp-content/uploads/2020/04/RahulGandhiCorona.jpg",
+          "logo": false
+        },
+        "age": "April 7, 2020"
+      },
+      {
+        "title": "Rahul Gandhi Writes To Donald Trump After Election Win, Here's What He Wrote",
+        "url": "https://news.abplive.com/news/india/rahul-gandhi-write-letter-to-donald-trump-kamala-harris-after-us-elections-2024-1729842",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Leader of Opposition in Lok Sabha, <strong>Rahul</strong> <strong>Gandhi</strong>, congratulated US President-elect <strong>Donald</strong> <strong>Trump</strong> on his victory.",
+        "page_age": "2024-11-08T05:09:14",
+        "profile": {
+          "name": "ABPLive",
+          "url": "https://news.abplive.com/news/india/rahul-gandhi-write-letter-to-donald-trump-kamala-harris-after-us-elections-2024-1729842",
+          "long_name": "news.abplive.com",
+          "img": "https://imgs.search.brave.com/HdsHdb_1WRqWPpLpGsFE-97Q_QpiwumGsfyuhN686hk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjZkNjU5MGZm/OGQ1ZmUyNTMwY2Ey/MjdlMzAwOTc1MzEz/MzE5YmU2YTAzYWE3/NGI0NWMwYTM5ODIy/NGZiZTIwNy9uZXdz/LmFicGxpdmUuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "news.abplive.com",
+          "hostname": "news.abplive.com",
+          "favicon": "https://imgs.search.brave.com/HdsHdb_1WRqWPpLpGsFE-97Q_QpiwumGsfyuhN686hk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjZkNjU5MGZm/OGQ1ZmUyNTMwY2Ey/MjdlMzAwOTc1MzEz/MzE5YmU2YTAzYWE3/NGI0NWMwYTM5ODIy/NGZiZTIwNy9uZXdz/LmFicGxpdmUuY29t/Lw",
+          "path": "  › home  › india"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/SseU9zWjTn7AGttn7knytQfoL9igu8jX5bayyTenD6U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/LmFicGxpdmUuY29t/L29uZWNtcy9pbWFn/ZXMvYXV0aG9yLzRm/ZmQ4MWIyY2RiYjBj/MjA3NzBiNDMxMDQz/YjcwNWViLmpwZWc",
+          "original": "https://news.abplive.com/onecms/images/author/4ffd81b2cdbb0c20770b431043b705eb.jpeg",
+          "logo": false
+        },
+        "age": "November 8, 2024"
+      },
+      {
+        "title": "Rahul Gandhi congratulates Donald Trump on election win, wishes Kamala Harris 'all the best' | India News - Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/rahul-gandhi-congratulates-donald-trump-on-election-win-wishes-kamala-harris-all-the-best/articleshow/115021199.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "India News: India&#x27;s Congress party congratulated <strong>Donald</strong> <strong>Trump</strong> on winning the US presidential election. Party leader Mallikarjun Kharge expressed hope for collabor",
+        "page_age": "2024-11-06T13:29:00",
+        "profile": {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/rahul-gandhi-congratulates-donald-trump-on-election-win-wishes-kamala-harris-all-the-best/articleshow/115021199.cms",
+          "long_name": "timesofindia.indiatimes.com",
+          "img": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timesofindia.indiatimes.com",
+          "hostname": "timesofindia.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+          "path": "  › news  › india news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/fse3Lqy6mSsfD-g1JEzQQy63hXwrcgGxdzBYGYCPInw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9yZXNp/emVtb2RlLTQsd2lk/dGgtMTI4MCxoZWln/aHQtNzIwLG1zaWQt/MTE1MDIxNTA1LzEx/NTAyMTUwNS5qcGc",
+          "original": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-115021505/115021505.jpg",
+          "logo": false
+        },
+        "age": "November 6, 2024"
+      },
+      {
+        "title": "‘Only Saying What Trump Has Said 11 Times’, Says Rahul As He Repeats Claim of Modi’s ‘Surrender’",
+        "url": "https://m.thewire.in/article/politics/only-saying-what-trump-said-11-times-rahul-gandhi",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The prime minister is unable to say that <strong>Trump</strong> is lying because the latter has spoken the truth, <strong>Gandhi</strong> claimed on Friday.",
+        "page_age": "2025-06-06T17:58:07",
+        "profile": {
+          "name": "The Wire",
+          "url": "https://m.thewire.in/article/politics/only-saying-what-trump-said-11-times-rahul-gandhi",
+          "long_name": "m.thewire.in",
+          "img": "https://imgs.search.brave.com/xPQ_UCjTij3_Lr5esIAd2Rxv8-RYtR31rPv4gsvMEoI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmE2ZjJjYjRk/YzE2ZDZmMDhjNTI0/NjQ4MDQyZjIyYmNl/NTNjZDVhZTE1ODll/YjljMDk3NDkwOTdk/MDkyZDQ1Ni9tLnRo/ZXdpcmUuaW4v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "m.thewire.in",
+          "hostname": "m.thewire.in",
+          "favicon": "https://imgs.search.brave.com/xPQ_UCjTij3_Lr5esIAd2Rxv8-RYtR31rPv4gsvMEoI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmE2ZjJjYjRk/YzE2ZDZmMDhjNTI0/NjQ4MDQyZjIyYmNl/NTNjZDVhZTE1ODll/YjljMDk3NDkwOTdk/MDkyZDQ1Ni9tLnRo/ZXdpcmUuaW4v",
+          "path": "› article  › politics  › only-saying-what-trump-said-11-times-rahul-gandhi"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/gmqfenH6sJPkRv7ggy34ic2-p3Cw_SVBkuBc02LbVkk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tYy13/ZWJwY2FjaGUucmVh/ZHdoZXJlLmluL2Rp/c2NvdmVyLnBocD9p/bj1odHRwczovL21j/bXNjYWNoZS5lcGFw/ci5pbi9wb3N0X2lt/YWdlcy93ZWJzaXRl/XzM1MC9wb3N0XzQ2/MDQxODQzL2Z1bGwu/anBn",
+          "original": "https://mc-webpcache.readwhere.in/discover.php?in=https://mcmscache.epapr.in/post_images/website_350/post_46041843/full.jpg",
+          "logo": false
+        },
+        "age": "June 6, 2025"
+      },
+      {
+        "title": "Coronavirus, India: Rahul Gandhi Reacts To Trump Remark - Friendship Isn't About Retaliation",
+        "url": "https://www.ndtv.com/india-news/coronavirus-india-rahul-gandhi-reacts-to-trump-remark-friendship-isnt-about-retaliation-2207502",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Lifesaving medicines should be first made available to Indians before help is offered to other nations &quot;in their hour of need&quot;, Congress leader <strong>Rahul</strong> <strong>Gandhi</strong> said this morning, hours after US President <strong>Donald</strong> <strong>Trump</strong> warned of &quot;retaliation&quot; over New Delhi&#x27;s ban on export of a key anti-malaria ...",
+        "profile": {
+          "name": "NDTV",
+          "url": "https://www.ndtv.com/india-news/coronavirus-india-rahul-gandhi-reacts-to-trump-remark-friendship-isnt-about-retaliation-2207502",
+          "long_name": "ndtv.com",
+          "img": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ndtv.com",
+          "hostname": "www.ndtv.com",
+          "favicon": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v",
+          "path": "› india-news  › coronavirus-india-rahul-gandhi-reacts-to-trump-remark-friendship-isnt-about-retaliation-2207502"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/vyXDCzGnD2VVzXz6tRDT-wMafv6FiT8EcORi7F98CnY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjAtMDIvdW50cjk0/bGdfcmFodWwtZ2Fu/ZGhpLWFmcC02NTBf/NjI1eDMwMF8wN19G/ZWJydWFyeV8yMC5q/cGc",
+          "original": "https://c.ndtvimg.com/2020-02/untr94lg_rahul-gandhi-afp-650_625x300_07_February_20.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Rahul Gandhi slams PM Modi after Trump claims 5 jets downed during Operation Sindoor, says country has right to know truth - India Today",
+        "url": "https://www.indiatoday.in/india/story/rahul-gandhi-pm-modi-donald-trump-india-pak-conflict-ceasefire-claim-op-sindoor-2758313-2025-07-19",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A day after US President <strong>Donald</strong> <strong>Trump</strong> claimed that &quot;five jets were shot down&quot; during India&#x27;s Operation Sindoor, Congress MP <strong>Rahul</strong> <strong>Gandhi</strong> slammed PM Narendra Modi, saying the country had a right to know the truth.",
+        "page_age": "2025-07-19T13:37:21",
+        "profile": {
+          "name": "India Today",
+          "url": "https://www.indiatoday.in/india/story/rahul-gandhi-pm-modi-donald-trump-india-pak-conflict-ceasefire-claim-op-sindoor-2758313-2025-07-19",
+          "long_name": "indiatoday.in",
+          "img": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "indiatoday.in",
+          "hostname": "www.indiatoday.in",
+          "favicon": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8",
+          "path": "  › news  › what's the truth modi ji? rahul gandhi after trump claims 5 jets shot down"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/gATqGq2h8ur6AMXsOzaq0PLYwSAH50a_3yYwrTU0My8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ha20t/aW1nLWEtaW4udG9z/c2h1Yi5jb20vaW5k/aWF0b2RheS9pbWFn/ZXMvc3RvcnkvMjAy/NTA3L3BtLW1vZGkt/LXJhaHVsLWdhbmRo/aS1hbmQtZG9uYWxk/LXRydW1wLTE5Mzcx/MDIxNy0xNng5XzAu/anBnP1ZlcnNpb25J/ZD1pUTRfQTl3SU1S/Tzk1emVWMWo5eWRo/Q241UEQxOXJxOT9z/aXplPTEyODA6NzIw",
+          "original": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202507/pm-modi--rahul-gandhi-and-donald-trump-193710217-16x9_0.jpg?VersionId=iQ4_A9wIMRO95zeV1j9ydhCn5PD19rq9?size=1280:720",
+          "logo": false
+        },
+        "age": "1 week ago"
+      },
+      {
+        "title": "Twitter",
+        "url": "https://twitter.com/rahulgandhi/status/1153567191511384064",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Twitter</strong>",
+        "profile": {
+          "name": "Twitter",
+          "url": "https://twitter.com/rahulgandhi/status/1153567191511384064",
+          "long_name": "twitter.com",
+          "img": "https://imgs.search.brave.com/wWeP6Pa-JGi7cDBqMPkc4Ckai-nUQl4uFSKrw0evyx4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2MxOTUxNzhj/OTY1ZTQ3N2I0MjJk/MTY5NGM0MTRlYWVi/MjU1YWE2NDUwYmQ2/YTA2MDFhMDlkZDEx/NTAzZGNiNi90d2l0/dGVyLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "twitter.com",
+          "hostname": "twitter.com",
+          "favicon": "https://imgs.search.brave.com/wWeP6Pa-JGi7cDBqMPkc4Ckai-nUQl4uFSKrw0evyx4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2MxOTUxNzhj/OTY1ZTQ3N2I0MjJk/MTY5NGM0MTRlYWVi/MjU1YWE2NDUwYmQ2/YTA2MDFhMDlkZDEx/NTAzZGNiNi90d2l0/dGVyLmNvbS8",
+          "path": "› rahulgandhi  › status  › 1153567191511384064"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/EcUHylgHbfc2KYmYDVXiCBVMLh8qBhH13q3OmwVgFOU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9wYnMu/dHdpbWcuY29tL3By/b2ZpbGVfaW1hZ2Vz/Lzk3NDg1MTg3ODg2/MDMxMjU4Mi9PLVpu/MmI3Ml80MDB4NDAw/LmpwZw",
+          "original": "https://pbs.twimg.com/profile_images/974851878860312582/O-Zn2b72_400x400.jpg",
+          "logo": false
+        }
+      }
+    ],
+    "family_friendly": true
+  }
+}

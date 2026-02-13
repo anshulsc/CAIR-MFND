@@ -1,0 +1,959 @@
+{
+  "query": {
+    "original": "Bal Thackeray’s son says he is the brother of Aurangzeb.",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "videos",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=ZAA-SwZp2us",
+        "title": "Is Thackeray family comes from Bihar? - YouTube",
+        "description": "For more info log on to: http://www.youtube.com/abpnewsTV 🔴Watch ABP News Live 24/7 https://www.youtube.com/watch?v=nyd-xznCpJc",
+        "age": "September 8, 2012",
+        "page_age": "2012-09-08T16:47:59",
+        "fetched_content_timestamp": 1719970657,
+        "video": {
+          "duration": "19:34",
+          "views": 342253,
+          "creator": "ABP NEWS",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/OL0T2xF86hs_EON-VwxpbPvn1puSMS96eO7nlwetacQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9a/QUEtU3dacDJ1cy9o/cWRlZmF1bHQuanBn",
+          "original": "https://i.ytimg.com/vi/ZAA-SwZp2us/hqdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=cRFPrjJhzvQ",
+        "title": "Uddhav Thackeray Pays Tribute To His Father Balasaheb Thackeray ...",
+        "description": "Balasaheb Thackeray died on 17 November 2012. Today seven years have passed since his death. Uddhav Thackeray with his wife Rashmi Thackeray reached Shivaji ...",
+        "age": "November 17, 2019",
+        "page_age": "2019-11-17T07:57:57",
+        "fetched_content_timestamp": 1731939889,
+        "video": {
+          "duration": "01:31",
+          "views": 18948,
+          "creator": "ABP NEWS",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/z3V8tcLBPXhkkhNW566-V431mK0It3EkikBZQkNYnJk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9j/UkZQcmpKaHp2US9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/cRFPrjJhzvQ/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=U5NcfGZxwpQ",
+        "title": "Jan Man: Jaidev Thackeray challenges father Bal Thackeray's will ...",
+        "description": "Jaidev Thackeray challenges father Bal Thackeray's will.For latest breaking news, other top stories log on to: http://www.abplive.in & http://www.youtube.com",
+        "age": "July 21, 2016",
+        "page_age": "2016-07-21T17:23:29",
+        "fetched_content_timestamp": 1717806840,
+        "video": {
+          "duration": "05:57",
+          "views": 831609,
+          "creator": "ABP NEWS",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/pMMpwU0lN7AO3PqiMU0MWR6ghDPBsUPPkR55AEiyHbk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9V/NU5jZkdaeHdwUS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/U5NcfGZxwpQ/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=EDRip0Vw3vQ",
+        "title": "I am the father of Marathi politics : Bal Thackeray 2 of 4 - YouTube",
+        "description": "Shiv Sena chief Bal Thackeray lashes out at his nephew Raj Thackeray, who is MNS chief. Bal Thackeray says he is the father of Marathi politics.",
+        "age": "October 12, 2009",
+        "page_age": "2009-10-12T06:12:17",
+        "fetched_content_timestamp": 1719765510,
+        "video": {
+          "duration": "03:16",
+          "views": 257358,
+          "creator": "Aaj Tak",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/wkv4NtwTM6rTK6IF7L5TxUFi-QMOkqh9TL8buIxYwkQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9F/RFJpcDBWdzN2US9o/cWRlZmF1bHQuanBn/P3NxcD0tb2F5bXdF/bUNPQURFT2dDOHF1/S3FRTWE4QUVCLUFI/LUJJQUM0QU9LQWd3/SUFCQUJHR1VnV2lo/VU1BOD0mYW1wO3Jz/PUFPbjRDTERFZ2tR/OGxlRlVzbWF6Ykkt/SmtRazVkWmkwbEE",
+          "original": "https://i.ytimg.com/vi/EDRip0Vw3vQ/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgWihUMA8=&amp;rs=AOn4CLDEgkQ8leFUsmazbI-JkQk5dZi0lA"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=lmx81E34D3Y",
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "fetched_content_timestamp": 1717211947,
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/axuMS1E3ceB58niKGzOrjoM4ZGoHgkP91Dm2s-KT470/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9s/bXg4MUUzNEQzWS9o/cWRlZmF1bHQuanBn",
+          "original": "https://i.ytimg.com/vi/lmx81E34D3Y/hqdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=JtycxO4pM_Y",
+        "title": "Raj Thackeray Gets Emotional, Speaks on Relations with Bal Thackeray ...",
+        "description": "Raj Thackeray gets emotional, speaks on relations with Bal Thackeray in Aap Ki Adalat. Watch MNS chief Raj Thackeray grilled by India TV's editor-in-chief Ra...",
+        "age": "April 20, 2014",
+        "page_age": "2014-04-20T06:57:04",
+        "fetched_content_timestamp": 1731497530,
+        "video": {
+          "duration": "03:04",
+          "views": 1056111,
+          "creator": "IndiaTV",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/HKT6WSCpLaud9GOTdszjZGZvTm7qXj6RW8TZgtI0mLI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9K/dHljeE80cE1fWS9o/cWRlZmF1bHQuanBn/P3NxcD0tb2F5bXdF/bUNPQURFT2dDOHF1/S3FRTWE4QUVCLUFH/LUFvQUM4QUdLQWd3/SUFCQUJHSElnU3ln/LU1BOD0mYW1wO3Jz/PUFPbjRDTEFBWW1o/OHRoNGtnQ3VmYUZM/VzRab1ZKOFpKYVE",
+          "original": "https://i.ytimg.com/vi/JtycxO4pM_Y/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG-AoAC8AGKAgwIABABGHIgSyg-MA8=&amp;rs=AOn4CLAAYmh8th4kgCufaFLW4ZoVJ8ZJaQ"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Fact Check: Uddhav Thackeray Referred to Martyred Indian Soldier as His Brother, Not Mughal Ruler Aurangzeb - Vishvas News",
+        "url": "https://www.vishvasnews.com/english/politics/fact-check-uddhav-thackeray-referred-to-martyred-indian-soldier-as-his-brother-not-mughal-ruler-aurangzeb/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Claim Review : <strong>Uddhav Thackeray</strong> called Mughal ruler Aurangzeb his brother",
+        "page_age": "2024-11-08T10:34:10",
+        "profile": {
+          "name": "Vishvas News",
+          "url": "https://www.vishvasnews.com/english/politics/fact-check-uddhav-thackeray-referred-to-martyred-indian-soldier-as-his-brother-not-mughal-ruler-aurangzeb/",
+          "long_name": "vishvasnews.com",
+          "img": "https://imgs.search.brave.com/e_1r-tprJXkTjWT3VhGHhVnuFJ_Td58IyxO_GHFsly8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzFlMDBmZTQ5/ZDdiYmIyZjIwYjVm/ZmM0NDI3NzljNTk0/MTg0ZjAyNTA4NzIy/Y2ZlNGZkMjIyMWIw/YzMzZmVkNi93d3cu/dmlzaHZhc25ld3Mu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "vishvasnews.com",
+          "hostname": "www.vishvasnews.com",
+          "favicon": "https://imgs.search.brave.com/e_1r-tprJXkTjWT3VhGHhVnuFJ_Td58IyxO_GHFsly8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzFlMDBmZTQ5/ZDdiYmIyZjIwYjVm/ZmM0NDI3NzljNTk0/MTg0ZjAyNTA4NzIy/Y2ZlNGZkMjIyMWIw/YzMzZmVkNi93d3cu/dmlzaHZhc25ld3Mu/Y29tLw",
+          "path": "  › home  › fact check: uddhav thackeray referred to martyred indian soldier as his brother, not mughal ruler aurangzeb"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/t3Q32_WmyxUjrrjqdZIFOfdzbUoObbRUXcI0UgSmz1E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/dmlzaHZhc25ld3Mu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI0LzExL3Zpc2h2/YXNuZXdzLTEtODQu/anBn",
+          "original": "https://www.vishvasnews.com/wp-content/uploads/2024/11/vishvasnews-1-84.jpg",
+          "logo": false
+        },
+        "age": "November 8, 2024"
+      },
+      {
+        "title": "Bal Thackeray - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bal_Thackeray",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "This proved to be highly influential in shaping <strong>Bal</strong> <strong>Thackeray</strong>&#x27;<strong>s</strong> political views. <strong>Bal</strong> was the eldest of eight siblings, with <strong>brothers</strong> Shrikant <strong>Thackeray</strong> (father of Raj <strong>Thackeray</strong>) and Ramesh <strong>Thackeray</strong>, and five sisters (Sanjeevani Karandikar, Prabhavati (Pama) Tipnis, Malati (Sudha) Sule, Sarla ...",
+        "page_age": "2025-07-19T19:01:40",
+        "profile": {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bal_Thackeray",
+          "long_name": "en.wikipedia.org",
+          "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "deep_results": {
+          "buttons": [
+            {
+              "type": "button_result",
+              "title": "Early life",
+              "url": "https://en.wikipedia.org/wiki/Bal_Thackeray#Early_life"
+            },
+            {
+              "type": "button_result",
+              "title": "Cartoonist career",
+              "url": "https://en.wikipedia.org/wiki/Bal_Thackeray#Cartoonist_career"
+            },
+            {
+              "type": "button_result",
+              "title": "Politics",
+              "url": "https://en.wikipedia.org/wiki/Bal_Thackeray#Politics"
+            },
+            {
+              "type": "button_result",
+              "title": "Views",
+              "url": "https://en.wikipedia.org/wiki/Bal_Thackeray#Views"
+            },
+            {
+              "type": "button_result",
+              "title": "Personal life",
+              "url": "https://en.wikipedia.org/wiki/Bal_Thackeray#Personal_life"
+            },
+            {
+              "type": "button_result",
+              "title": "Death",
+              "url": "https://en.wikipedia.org/wiki/Bal_Thackeray#Death"
+            },
+            {
+              "type": "button_result",
+              "title": "Legacy",
+              "url": "https://en.wikipedia.org/wiki/Bal_Thackeray#Legacy"
+            },
+            {
+              "type": "button_result",
+              "title": "In popular culture",
+              "url": "https://en.wikipedia.org/wiki/Bal_Thackeray#In_popular_culture"
+            },
+            {
+              "type": "button_result",
+              "title": "Further reading",
+              "url": "https://en.wikipedia.org/wiki/Bal_Thackeray#Further_reading"
+            }
+          ]
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "en.wikipedia.org",
+          "hostname": "en.wikipedia.org",
+          "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+          "path": "› wiki  › Bal_Thackeray"
+        },
+        "age": "1 week ago"
+      },
+      {
+        "title": "Bal Thackeray | Biography, Facts, Son, & Family | Britannica",
+        "url": "https://www.britannica.com/biography/Bal-Thackeray",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Bal</strong> <strong>Thackeray</strong> was an Indian journalist and politician, founder of the Shiv Sena political party, and advocate of a strong pro-Hindu policy in India. He was regarded as the most powerful man in Maharashtra but was accused of inciting anti-Muslim violence. His supporters destroyed the Babri Masjid ...",
+        "page_age": "2009-10-15T00:00:00",
+        "profile": {
+          "name": "Encyclopedia Britannica",
+          "url": "https://www.britannica.com/biography/Bal-Thackeray",
+          "long_name": "britannica.com",
+          "img": "https://imgs.search.brave.com/jMDHLEzOKBVbwQ7-d4wBSobNay75CY4fiZkxDsHYBkA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJmYzgxOWRk/Y2FhNWI2MzQzMjQ4/MWVhZDZhNGY3ZjY0/MDgxZTM3YWU5MzYz/NGU2MzM3Y2Y2YTYz/M2IyM2Y0NC93d3cu/YnJpdGFubmljYS5j/b20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "britannica.com",
+          "hostname": "www.britannica.com",
+          "favicon": "https://imgs.search.brave.com/jMDHLEzOKBVbwQ7-d4wBSobNay75CY4fiZkxDsHYBkA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJmYzgxOWRk/Y2FhNWI2MzQzMjQ4/MWVhZDZhNGY3ZjY0/MDgxZTM3YWU5MzYz/NGU2MzM3Y2Y2YTYz/M2IyM2Y0NC93d3cu/YnJpdGFubmljYS5j/b20v",
+          "path": "  › literature  › journalism"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/aUfoZCRkpPqXsf5dLtXoN33vWnbvu5JE_7fAKIAmDaY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/YnJpdGFubmljYS5j/b20vNzIvOTEyNzIt/MDUwLTJBN0QzMjgz/L0JhbC1UaGFja2Vy/YXktYXVkaWVuY2Ut/MjAwNS5qcGc",
+          "original": "https://cdn.britannica.com/72/91272-050-2A7D3283/Bal-Thackeray-audience-2005.jpg",
+          "logo": false
+        },
+        "age": "October 15, 2009"
+      },
+      {
+        "title": "What is the difference between Bal Thackeray and his sons? - Quora",
+        "url": "https://www.quora.com/What-is-the-difference-between-Bal-Thackeray-and-his-sons",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Answer (1 of 6): There is a big difference between the Bala Saheb Thackeray and his son <strong>Uddhav Thackeray</strong>. * In the above picture, the big one is the real image of Bala Saheb, whereas the small one is reflecting the actual image of <strong>Uddhav Thackeray</strong>. I can say <strong>Uddhav Thackeray</strong> isn&#x27;t even 0.5 of ...",
+        "profile": {
+          "name": "Quora",
+          "url": "https://www.quora.com/What-is-the-difference-between-Bal-Thackeray-and-his-sons",
+          "long_name": "quora.com",
+          "img": "https://imgs.search.brave.com/jGre8FRmkjFxQij3rGpjeFOF-u1NLnEoE4FiyrJhNLI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjg3ZTk4MDVm/ZTE3YzUxZTc4Yjc3/YTE2MGI3MGVhNmQ2/MGE0Yjc4NzRhMmM1/ODMxYTIwNzI1ZjI0/NDkyZDI2Yy93d3cu/cXVvcmEuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "quora.com",
+          "hostname": "www.quora.com",
+          "favicon": "https://imgs.search.brave.com/jGre8FRmkjFxQij3rGpjeFOF-u1NLnEoE4FiyrJhNLI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjg3ZTk4MDVm/ZTE3YzUxZTc4Yjc3/YTE2MGI3MGVhNmQ2/MGE0Yjc4NzRhMmM1/ODMxYTIwNzI1ZjI0/NDkyZDI2Yy93d3cu/cXVvcmEuY29tLw",
+          "path": "› What-is-the-difference-between-Bal-Thackeray-and-his-sons"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/jH4Ieu2CEF7-tJOVLZO1f-9Qtr02parRc-DSbtSG024/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xc2Yu/Y2YyLnF1b3JhY2Ru/Lm5ldC8tNC1pbWFn/ZXMuc2hhcmVfZGVm/YXVsdF9pbWFnZS5w/bmctMjYtMmYxMjY2/MGUxMjViMjE4Zi5w/bmc",
+          "original": "https://qsf.cf2.quoracdn.net/-4-images.share_default_image.png-26-2f12660e125b218f.png",
+          "logo": false
+        }
+      },
+      {
+        "title": "Meet Bal Thackeray's Grandson, Aaishvary, Who Left Family's Political Empire To Become An Actor",
+        "url": "https://www.bollywoodshaadis.com/articles/bal-thackeray-grandson-aaishvary-father-jaidev-smita-disowned-not-my-biological-son-53265",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A look into the life of <strong>Aaishvary Thackeray</strong>, who is the grandson of Shiv Sena&#x27;s founder, Balasaheb Thackeray. Here&#x27;s everything you need to know about the",
+        "page_age": "2024-06-17T11:53:35",
+        "profile": {
+          "name": "BollywoodShaadis",
+          "url": "https://www.bollywoodshaadis.com/articles/bal-thackeray-grandson-aaishvary-father-jaidev-smita-disowned-not-my-biological-son-53265",
+          "long_name": "bollywoodshaadis.com",
+          "img": "https://imgs.search.brave.com/7Hzn2AsFBvc0jfaxt_LbpMJHyjtj-gcgmeR4ScTnf-8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQwZjJmMjNj/OWY2NjgyYjZhZGQ5/ZjVhNjkwZGM4ODU2/OTZkMTg5NjljZDA2/NjAyZmMzMzE1N2Qz/Y2MwN2NjNS93d3cu/Ym9sbHl3b29kc2hh/YWRpcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "bollywoodshaadis.com",
+          "hostname": "www.bollywoodshaadis.com",
+          "favicon": "https://imgs.search.brave.com/7Hzn2AsFBvc0jfaxt_LbpMJHyjtj-gcgmeR4ScTnf-8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQwZjJmMjNj/OWY2NjgyYjZhZGQ5/ZjVhNjkwZGM4ODU2/OTZkMTg5NjljZDA2/NjAyZmMzMzE1N2Qz/Y2MwN2NjNS93d3cu/Ym9sbHl3b29kc2hh/YWRpcy5jb20v",
+          "path": "  › home"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/YrpWj2_oUKWMNEhyJqNip3DGn5t7-hnLXH-QtDO4nqc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Ym9sbHl3b29kc2hh/YWRpcy5jb20vaW1n/L2FydGljbGUtbC0y/MDI0NTE0ODE3NDAy/ODYzNjI4MDAwLndl/YnA",
+          "original": "https://www.bollywoodshaadis.com/img/article-l-2024514817402863628000.webp",
+          "logo": false
+        },
+        "age": "June 17, 2024"
+      },
+      {
+        "title": "Bal Thackeray saw me as political heir, says elder son Jaidev, blaming brother Uddhav for estrangement – Firstpost",
+        "url": "https://www.firstpost.com/politics/bal-thackeray-saw-me-as-political-heir-says-elder-son-jaidev-blaming-brother-uddhav-for-estrangement-2903132.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Jaidev Thackeray</strong>, son of late Shiv Sena supremo Bal Thackeray, has claimed before the Bombay high court that his father wanted him to be his political heir, but he himself was not keen",
+        "page_age": "2016-07-19T15:25:28",
+        "profile": {
+          "name": "Firstpost",
+          "url": "https://www.firstpost.com/politics/bal-thackeray-saw-me-as-political-heir-says-elder-son-jaidev-blaming-brother-uddhav-for-estrangement-2903132.html",
+          "long_name": "firstpost.com",
+          "img": "https://imgs.search.brave.com/lKGZOEbB3_wVTdD-YtH4dwi64AWq6oIlEsH19MGL698/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiZjczNGFj/MGE2Zjc4MWY0NTcy/NWJjODFiMGY1MDVh/MGYyNmViMzMyNWZl/NGIzYTZhYzhhMTE4/NzI4NzQxYS93d3cu/Zmlyc3Rwb3N0LmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "firstpost.com",
+          "hostname": "www.firstpost.com",
+          "favicon": "https://imgs.search.brave.com/lKGZOEbB3_wVTdD-YtH4dwi64AWq6oIlEsH19MGL698/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiZjczNGFj/MGE2Zjc4MWY0NTcy/NWJjODFiMGY1MDVh/MGYyNmViMzMyNWZl/NGIzYTZhYzhhMTE4/NzI4NzQxYS93d3cu/Zmlyc3Rwb3N0LmNv/bS8",
+          "path": "  › home  › politics  › bal thackeray saw me as political heir, says elder son jaidev, blaming brother uddhav for estrangement"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/CUDO3Ya7jt83r4SbgoJnoP9AvPMyHc-nXawbyuBWLEc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZmlyc3Rwb3N0/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxNi8wNy9CYWwt/VGhhY2tlcmF5LVBU/SS5qcGc_aW09Rml0/QW5kRmlsbD0oMTIw/MCw2NzUp",
+          "original": "https://images.firstpost.com/wp-content/uploads/2016/07/Bal-Thackeray-PTI.jpg?im=FitAndFill=(1200,675)",
+          "logo": false
+        },
+        "age": "July 19, 2016"
+      },
+      {
+        "title": "Press Trust Of India",
+        "url": "https://www.ptinews.com/factcheck/524779-Uddhav-Thackeray-didn-t-call-Mughal-emperor-Aurangzeb-his-brother-during-his-speech--Claim-shared-in-social-media-misleading.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "We cannot provide a description for this page <strong>right</strong> now",
+        "profile": {
+          "name": "Press Trust Of India",
+          "url": "https://www.ptinews.com/factcheck/524779-Uddhav-Thackeray-didn-t-call-Mughal-emperor-Aurangzeb-his-brother-during-his-speech--Claim-shared-in-social-media-misleading.html",
+          "long_name": "ptinews.com",
+          "img": "https://imgs.search.brave.com/G4JmLGYz3bPBGYlJhaAZflMk4E67h8E1lg_2Nt_KngY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTc0ODA2ZGFh/NThkM2ZkMThiMmUz/NzQ1NjczYmI1MmJm/ZjAyMGMxYjBkNTM0/NDc1NWM3ZDU0NTY2/NTg3NzUyOC93d3cu/cHRpbmV3cy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ptinews.com",
+          "hostname": "www.ptinews.com",
+          "favicon": "https://imgs.search.brave.com/G4JmLGYz3bPBGYlJhaAZflMk4E67h8E1lg_2Nt_KngY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTc0ODA2ZGFh/NThkM2ZkMThiMmUz/NzQ1NjczYmI1MmJm/ZjAyMGMxYjBkNTM0/NDc1NWM3ZDU0NTY2/NTg3NzUyOC93d3cu/cHRpbmV3cy5jb20v",
+          "path": "› factcheck  › 524779-Uddhav-Thackeray-didn-t-call-Mughal-emperor-Aurangzeb-his-brother-during-his-speech--Claim-shared-in-social-media-misleading.html"
+        }
+      },
+      {
+        "title": "Bal Thackeray's Grandson Nihar Thackeray Says He Is With Sena's Shinde Camp, Ready To Campaign",
+        "url": "https://www.ndtv.com/india-news/bal-thackerays-grandson-nihar-thackeray-says-he-is-with-senas-shinde-camp-ready-to-campaign-3435790",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Nihar Thackeray</strong>, the grandson of Shiv Sena founder late Bal Thackeray, has said that he supports the Eknath Shinde faction of the party and is ready to campaign for the upcoming Andheri East Assembly by-election as well as the Mumbai civic body polls.",
+        "profile": {
+          "name": "NDTV",
+          "url": "https://www.ndtv.com/india-news/bal-thackerays-grandson-nihar-thackeray-says-he-is-with-senas-shinde-camp-ready-to-campaign-3435790",
+          "long_name": "ndtv.com",
+          "img": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ndtv.com",
+          "hostname": "www.ndtv.com",
+          "favicon": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v",
+          "path": "  › home  › india news  › bal thackeray's grandson says he is with sena's shinde camp, ready to campaign"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/vJx2ZAmusSshL_Ft58Wu8AFn_CY6LgXckb66OLfEDfI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjItMDcvNzQzam8y/aG9fbmloYXItdGhh/Y2tlcmF5LWVrbmF0/aC1zaGluZGUtNjUw/XzYyNXgzMDBfMjlf/SnVseV8yMi5qcGc",
+          "original": "https://c.ndtvimg.com/2022-07/743jo2ho_nihar-thackeray-eknath-shinde-650_625x300_29_July_22.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Jaidev Thackeray says Bal Thackeray wanted him to be his political heir | India News - The Indian Express",
+        "url": "https://indianexpress.com/article/india/india-news-india/jaidev-thackeray-says-bal-thackeray-wanted-him-to-be-his-political-heir-shiv-sena-uddhav-thackeray-2924273/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Uddhav Thackeray’s brother <strong>Jaidev Thackeray</strong> outside High Court in Mumbai. (Source: PTI) <strong>Jaidev Thackeray</strong>, the son of the late Shiv Sena supremo Bal Thackeray, on Tuesday claimed before the Bombay High Court that his father wanted him to be his political heir, but he himself was not keen, ...",
+        "page_age": "2016-07-19T15:27:49",
+        "profile": {
+          "name": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/india-news-india/jaidev-thackeray-says-bal-thackeray-wanted-him-to-be-his-political-heir-shiv-sena-uddhav-thackeray-2924273/",
+          "long_name": "indianexpress.com",
+          "img": "https://imgs.search.brave.com/4SjuU0Nl8aLEWO4BDayJHVXWCRSuG_vGZkIWx7VpdeA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2QwNGY1YWRi/MjNhNmY1YjgxYTJl/MzNjOWMyMDlkY2Iw/MmYxMGNiMmFmODcx/MDg3ZDgxMTFiZmMz/NjlkNDBkZi9pbmRp/YW5leHByZXNzLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "indianexpress.com",
+          "hostname": "indianexpress.com",
+          "favicon": "https://imgs.search.brave.com/4SjuU0Nl8aLEWO4BDayJHVXWCRSuG_vGZkIWx7VpdeA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2QwNGY1YWRi/MjNhNmY1YjgxYTJl/MzNjOWMyMDlkY2Iw/MmYxMGNiMmFmODcx/MDg3ZDgxMTFiZmMz/NjlkNDBkZi9pbmRp/YW5leHByZXNzLmNv/bS8",
+          "path": "  › news  › india news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/MDiDFgyCpHbEvlnpyku9g8BfJbemveXUiXvFIZAg3WE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaW5kaWFuZXhw/cmVzcy5jb20vMjAx/Ni8wNy9qYWlkZXYt/dGhhY2tlcmF5XzQ4/MC5qcGc",
+          "original": "https://images.indianexpress.com/2016/07/jaidev-thackeray_480.jpg",
+          "logo": false
+        },
+        "age": "July 19, 2016"
+      },
+      {
+        "title": "Fact Check: Did Uddhav Thackeray Call Emperor Aurangzeb His Brother? No, The Viral Clip’s Edited | News Mobile",
+        "url": "https://www.newsmobile.in/nm-fact-checker/fact-check-did-uddhav-thackeray-call-emperor-aurangzeb-his-brother-no-the-viral-clips-edited/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A video of former Maharashtra CM and Shiv Sena chief Uddhav Thackeray is extensively circulating on social media. <strong>Many users claim that former CM Thackeray refers to Mughal ruler Aurangzeb as his “brother” and calls him a “martyr”.</strong> Thackeray has been criticised for allegedly praising ...",
+        "page_age": "2025-07-21T13:47:00",
+        "profile": {
+          "name": "NewsMobile",
+          "url": "https://www.newsmobile.in/nm-fact-checker/fact-check-did-uddhav-thackeray-call-emperor-aurangzeb-his-brother-no-the-viral-clips-edited/",
+          "long_name": "newsmobile.in",
+          "img": "https://imgs.search.brave.com/mKugaQIu3azn8rrfxVtlFzfmJLCdK6bbzX6zywmKde4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmQ5NmQwM2Y1/NTk3MzYwNTVkYjA3/YjkzOTc2Y2QyNjM3/YTYxZTM5NjliOGI3/MjNkMWQ0ZmMyYmMz/NGVhMTRmOC93d3cu/bmV3c21vYmlsZS5p/bi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "newsmobile.in",
+          "hostname": "www.newsmobile.in",
+          "favicon": "https://imgs.search.brave.com/mKugaQIu3azn8rrfxVtlFzfmJLCdK6bbzX6zywmKde4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmQ5NmQwM2Y1/NTk3MzYwNTVkYjA3/YjkzOTc2Y2QyNjM3/YTYxZTM5NjliOGI3/MjNkMWQ0ZmMyYmMz/NGVhMTRmOC93d3cu/bmV3c21vYmlsZS5p/bi8",
+          "path": "› nm-fact-checker  › fact-check-did-uddhav-thackeray-call-emperor-aurangzeb-his-brother-no-the-viral-clips-edited"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/YYxSOYhPRDZ7C-IVNz_WJHGlfarZMGD8AbIn0Nozqqo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bmV3c21vYmlsZS5p/bi93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NS8wNy9ETy1OT1Qt/Q0hBTkdFLTI5LnBu/Zw",
+          "original": "https://www.newsmobile.in/wp-content/uploads/2025/07/DO-NOT-CHANGE-29.png",
+          "logo": false
+        },
+        "age": "5 days ago"
+      },
+      {
+        "title": "CLIPPED VIDEO: Why Did Uddhav Thackeray refer Aurangzeb as Brother? - Fact Crescendo | The leading fact-checking website in India",
+        "url": "https://english.factcrescendo.com/2023/03/01/clipped-video-of-uddhav-thackeray-referring-to-aurangzeb-as-his-brother-going-viral/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Social media users are sharing a video that appears to show Uddhav Thackeray referring to one Aurangzeb as his brother</strong>. It has been claimed that Thackeray praised Mughal emperor Aurangzeb by calling him a patriot and martyr. Fact Crescendo received the viral video on our WhatsApp Tipline ...",
+        "page_age": "2023-03-01T13:07:42",
+        "profile": {
+          "name": "Fact Crescendo",
+          "url": "https://english.factcrescendo.com/2023/03/01/clipped-video-of-uddhav-thackeray-referring-to-aurangzeb-as-his-brother-going-viral/",
+          "long_name": "english.factcrescendo.com",
+          "img": "https://imgs.search.brave.com/q19LrtaWNlFfNx1CaOAU4KFlHaabAWliOwnQZ2EV_CQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTg0ZTM3ODUz/NjE5ZmI5YzcwNWI5/YjU5YWI3MGY2OWFi/NTE1YzRjNjdjYTM3/ZGRmMGJlYjU0NzY1/YWUwYTUxMy9lbmds/aXNoLmZhY3RjcmVz/Y2VuZG8uY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "english.factcrescendo.com",
+          "hostname": "english.factcrescendo.com",
+          "favicon": "https://imgs.search.brave.com/q19LrtaWNlFfNx1CaOAU4KFlHaabAWliOwnQZ2EV_CQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTg0ZTM3ODUz/NjE5ZmI5YzcwNWI5/YjU5YWI3MGY2OWFi/NTE1YzRjNjdjYTM3/ZGRmMGJlYjU0NzY1/YWUwYTUxMy9lbmds/aXNoLmZhY3RjcmVz/Y2VuZG8uY29tLw",
+          "path": "  › home  › clipped video: why did uddhav thackeray refer aurangzeb as brother?"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/SXqPiMWh5eknRGf-eRsx6JKMWSEAnX7_zxAP6VoiyFY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9lbmds/aXNoLmZhY3RjcmVz/Y2VuZG8uY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIzLzAz/L1Bvc3QtTm8tMDYt/bWF5dXIucG5n",
+          "original": "https://english.factcrescendo.com/wp-content/uploads/2023/03/Post-No-06-mayur.png",
+          "logo": false
+        },
+        "age": "March 1, 2023"
+      },
+      {
+        "title": "Fact Check | False claim that Uddhav Thackeray called Mughal ruler Aurangzeb his brother",
+        "url": "https://www.deccanherald.com/elections/maharashtra/fact-check-false-claim-that-uddhav-thackeray-called-mughal-ruler-aurangzeb-his-brother-3282667",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Thackeray</strong> was speaking about a soldier named <strong>Aurangzeb</strong> who was killed by terror forces in Kashmir in 2018.",
+        "page_age": "2024-11-19T10:47:05",
+        "profile": {
+          "name": "Deccan Herald",
+          "url": "https://www.deccanherald.com/elections/maharashtra/fact-check-false-claim-that-uddhav-thackeray-called-mughal-ruler-aurangzeb-his-brother-3282667",
+          "long_name": "deccanherald.com",
+          "img": "https://imgs.search.brave.com/KtLjkvB8_OIderB4BULJRh9gBjqSpRDmsuSLUvsrNWY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTI2NjdhODJh/YzUwZmNjZTUwY2Zm/MDhhMTM5YjhlMzk1/MzIyNTg0ZDlmNzIz/NDIzNmI2MGFiMmIz/ZjkwNzhlMS93d3cu/ZGVjY2FuaGVyYWxk/LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "deccanherald.com",
+          "hostname": "www.deccanherald.com",
+          "favicon": "https://imgs.search.brave.com/KtLjkvB8_OIderB4BULJRh9gBjqSpRDmsuSLUvsrNWY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTI2NjdhODJh/YzUwZmNjZTUwY2Zm/MDhhMTM5YjhlMzk1/MzIyNTg0ZDlmNzIz/NDIzNmI2MGFiMmIz/ZjkwNzhlMS93d3cu/ZGVjY2FuaGVyYWxk/LmNvbS8",
+          "path": "  › home  › elections  › maharashtra  › fact check | false claim that uddhav thackeray called mughal ruler aurangzeb his brother"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/G1NxqehE11Ehv_Y9xtOZzXH3_gLoNOD3PrWJ_6IYaeQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZGVjY2FuaGVy/YWxkLmNvbS9kZWNj/YW5oZXJhbGQvMjAy/NC0xMS0xOS9rZmMy/Y3d3Ni90aGVxdWlu/dDIwMjQtMTEtMTlo/NmJjbHg1aUtIVVNI/SS1XUS1ORVctNTMu/YXZpZj93PTEyMDAm/aD02NzUmYXV0bz1m/b3JtYXQlMkNjb21w/cmVzcyZmaXQ9bWF4/JmVubGFyZ2U9dHJ1/ZQ",
+          "original": "https://images.deccanherald.com/deccanherald/2024-11-19/kfc2cww6/thequint2024-11-19h6bclx5iKHUSHI-WQ-NEW-53.avif?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+          "logo": false
+        },
+        "age": "November 19, 2024"
+      },
+      {
+        "title": "Fact Check: Uddhav Thackeray Video Praising Mughal Emperor Aurangzeb Is Edited",
+        "url": "https://news.abplive.com/fact-check/uddhav-thackeray-video-praising-mughal-emperor-aurangzeb-is-edited-misleading-out-of-context-1732217",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Fact Check: A viral video clip claims Uddhav <strong>Thackeray</strong> referred to Mughal emperor <strong>Aurangzeb</strong> as his <strong>brother</strong> and a martyr. However, the video is edited and taken out of context.",
+        "page_age": "2024-11-19T17:50:35",
+        "profile": {
+          "name": "ABPLive",
+          "url": "https://news.abplive.com/fact-check/uddhav-thackeray-video-praising-mughal-emperor-aurangzeb-is-edited-misleading-out-of-context-1732217",
+          "long_name": "news.abplive.com",
+          "img": "https://imgs.search.brave.com/HdsHdb_1WRqWPpLpGsFE-97Q_QpiwumGsfyuhN686hk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjZkNjU5MGZm/OGQ1ZmUyNTMwY2Ey/MjdlMzAwOTc1MzEz/MzE5YmU2YTAzYWE3/NGI0NWMwYTM5ODIy/NGZiZTIwNy9uZXdz/LmFicGxpdmUuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "news.abplive.com",
+          "hostname": "news.abplive.com",
+          "favicon": "https://imgs.search.brave.com/HdsHdb_1WRqWPpLpGsFE-97Q_QpiwumGsfyuhN686hk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjZkNjU5MGZm/OGQ1ZmUyNTMwY2Ey/MjdlMzAwOTc1MzEz/MzE5YmU2YTAzYWE3/NGI0NWMwYTM5ODIy/NGZiZTIwNy9uZXdz/LmFicGxpdmUuY29t/Lw",
+          "path": "  › home  › fact check"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/upedO0xWgvrrfeum4RU4wf10sEftDKJ4oQKbXXEDlUg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mZWVk/cy5hYnBsaXZlLmNv/bS9vbmVjbXMvaW1h/Z2VzL3VwbG9hZGVk/LWltYWdlcy8yMDI0/LzExLzE5LzdlYzJl/NTFmYTNkNDAwYjAz/NDk4YzU0NzgxMjdk/MTVhMTczMjAzODQ1/MzAzNzIzNl9vcmln/aW5hbC5qcGc_aW1w/b2xpY3k9YWJwX2Nk/biZpbXdpZHRoPTEy/MDA",
+          "original": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/11/19/7ec2e51fa3d400b03498c5478127d15a1732038453037236_original.jpg?impolicy=abp_cdn&imwidth=1200",
+          "logo": false
+        },
+        "age": "November 19, 2024"
+      },
+      {
+        "title": "Aishwarya is not my son: Jayadev Thackeray | Mumbai News - Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/mumbai/aishwarya-is-not-my-son-jayadev-thackeray/articleshow/53306164.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "On the third day of his testimony, late Shiv Sena supremo <strong>Bal</strong> Thakeray’<strong>s</strong> second born <strong>son</strong> Jayadev who has challenged the validity of his father’<strong>s</strong> 2011",
+        "page_age": "2016-07-20T15:48:00",
+        "profile": {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/city/mumbai/aishwarya-is-not-my-son-jayadev-thackeray/articleshow/53306164.cms",
+          "long_name": "timesofindia.indiatimes.com",
+          "img": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timesofindia.indiatimes.com",
+          "hostname": "timesofindia.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+          "path": "  › news  › city news  › mumbai news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ncddHbiZ6lXY6FHHelP4T_xWtaFNhg2LBalGPyfcu5Q/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9yZXNp/emVtb2RlLTQsd2lk/dGgtMTI4MCxoZWln/aHQtNzIwLG1zaWQt/NTMzMDYyNDYvNTMz/MDYyNDYuanBn",
+          "original": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-53306246/53306246.jpg",
+          "logo": false
+        },
+        "age": "July 20, 2016"
+      },
+      {
+        "title": "Thackeray family traces origin to Bihar, says new book - The Hindu",
+        "url": "https://www.thehindu.com/news/national/thackeray-family-traces-origin-to-bihar-says-new-book/article29424604.ece",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Differences in the style and approach of rival cousins Raj and Uddhav are detailed",
+        "page_age": "2020-09-13T06:54:22",
+        "profile": {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/thackeray-family-traces-origin-to-bihar-says-new-book/article29424604.ece",
+          "long_name": "thehindu.com",
+          "img": "https://imgs.search.brave.com/7nMEtreJNappZ3K0yP6ovEhbEphNWRh8gQdd737CcXU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZThkMTk4NWZl/YjBiYjYzYjQ5MjNm/YmNhNDM2ZDlkZTAz/Y2FiODM5ZjAwNWRi/MmUyY2RmMTIwNDk5/ZWE0YmQ2Yi93d3cu/dGhlaGluZHUuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "thehindu.com",
+          "hostname": "www.thehindu.com",
+          "favicon": "https://imgs.search.brave.com/7nMEtreJNappZ3K0yP6ovEhbEphNWRh8gQdd737CcXU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZThkMTk4NWZl/YjBiYjYzYjQ5MjNm/YmNhNDM2ZDlkZTAz/Y2FiODM5ZjAwNWRi/MmUyY2RmMTIwNDk5/ZWE0YmQ2Yi93d3cu/dGhlaGluZHUuY29t/Lw",
+          "path": "› news  › national  › thackeray-family-traces-origin-to-bihar-says-new-book  › article29424604.ece"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/dOT39kvQEiWBrn3K5a97oNTwjGkmA4AHCgudj_tSOrc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aC1p/LnRoZ2ltLmNvbS9w/dWJsaWMvbmV3cy9u/YXRpb25hbC9sOXp4/dm8vYXJ0aWNsZTI5/NDI1MTY0LmVjZS9h/bHRlcm5hdGVzL0xB/TkRTQ0FQRV8xMjAw/L1RIMTZUSEFDS0VS/QVlT",
+          "original": "https://th-i.thgim.com/public/news/national/l9zxvo/article29425164.ece/alternates/LANDSCAPE_1200/TH16THACKERAYS",
+          "logo": false
+        },
+        "age": "September 13, 2020"
+      },
+      {
+        "title": "Bal Thackeray's estranged brother signals end to three-decade-old feud",
+        "url": "https://www.indiatoday.in/magazine/indiascope/story/19970609-bal-thackerays-estranged-brother-signals-end-to-three-decade-old-feud-831494-1997-06-08",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Bal</strong> <strong>Thackeray</strong> and his estranged younger <strong>brother</strong> ends their three-decade-old feud.",
+        "page_age": "2013-05-02T05:01:35",
+        "profile": {
+          "name": "India Today",
+          "url": "https://www.indiatoday.in/magazine/indiascope/story/19970609-bal-thackerays-estranged-brother-signals-end-to-three-decade-old-feud-831494-1997-06-08",
+          "long_name": "indiatoday.in",
+          "img": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "indiatoday.in",
+          "hostname": "www.indiatoday.in",
+          "favicon": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8",
+          "path": "  › news  › indiascope  › brotherly love"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/f6QUwIhkhb5i9DyjynaYYPXk-wC_LfcfDPYRoqQFlbA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ha20t/aW1nLWEtaW4udG9z/c2h1Yi5jb20vc2l0/ZXMvaW5kaWF0b2Rh/eS9yZXNvdXJjZXMv/aW1nL2RlZmF1bHQt/NjkweDQxMy5wbmc_/c2l6ZT0xMjAwOjY3/NQ",
+          "original": "https://akm-img-a-in.tosshub.com/sites/indiatoday/resources/img/default-690x413.png?size=1200:675",
+          "logo": false
+        },
+        "age": "May 2, 2013"
+      },
+      {
+        "title": "Fact-Check | Did Uddhav Thackeray Call Mughal Emperor Aurangzeb His Brother And a Martyr? No!",
+        "url": "https://www.thequint.com/news/webqoof/uddhav-thackeray-calling-aurangzeb-his-brother-fact-check",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Fact-Check | Uddhav <strong>Thackeray</strong>, called <strong>Aurangzeb</strong>, <strong>the</strong> Indian soldier, who was killed in 2018, a martyr and his <strong>brother</strong>. <strong>He</strong> was not talking about the Mughal Emperor.",
+        "page_age": "2023-03-01T08:03:02",
+        "profile": {
+          "name": "TheQuint",
+          "url": "https://www.thequint.com/news/webqoof/uddhav-thackeray-calling-aurangzeb-his-brother-fact-check",
+          "long_name": "thequint.com",
+          "img": "https://imgs.search.brave.com/Wzd9ozElk5V8CgU9kbDcBKImqCyUM_5cZ6kt1oNRdxU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjc3YmI5YzU3/ZmRjZmViMGQ4OTZj/ZmNlMGQ1OGE1NDlh/NzdjMTU2NTkzNTgz/YzEzYmMxN2UzYzMy/Njc2NjllMS93d3cu/dGhlcXVpbnQuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "thequint.com",
+          "hostname": "www.thequint.com",
+          "favicon": "https://imgs.search.brave.com/Wzd9ozElk5V8CgU9kbDcBKImqCyUM_5cZ6kt1oNRdxU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjc3YmI5YzU3/ZmRjZmViMGQ4OTZj/ZmNlMGQ1OGE1NDlh/NzdjMTU2NTkzNTgz/YzEzYmMxN2UzYzMy/Njc2NjllMS93d3cu/dGhlcXVpbnQuY29t/Lw",
+          "path": "  › home  › news  › webqoof"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/2-1VrpqMStP3zbK8Nymd4OCkit1cf6cRFBHzalf1iRs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL3RoZXF1aW50/LzIwMjMtMDMvYmQx/ZDBlMmMtM2Q1YS00/NDc4LThhMTYtMmNj/YWZlOTM5Mzk4L3V0/LnBuZz8gICAgICAg/ICAgICAgIGF1dG89/Zm9ybWF0LGNvbXBy/ZXNzJmZtdD13ZWJw/JmZvcm1hdD13ZWJw/Jnc9MTIwMCZoPTkw/MCZkcHI9MS4w",
+          "original": "https://media.assettype.com/thequint/2023-03/bd1d0e2c-3d5a-4478-8a16-2ccafe939398/ut.png?              auto=format,compress&fmt=webp&format=webp&w=1200&h=900&dpr=1.0",
+          "logo": false
+        },
+        "age": "March 1, 2023"
+      },
+      {
+        "title": "Bal Keshav Thackeray Biography - About family, political life, awards won, history",
+        "url": "https://www.elections.in/political-leaders/bal-keshav-thackeray.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Bal</strong> Keshav <strong>Thackeray</strong> Biography - Read about Family, Age, Caste, Married Life, Political Career, Early Political Life, Religion, Net Worth and many key facts.",
+        "profile": {
+          "name": "India Elections",
+          "url": "https://www.elections.in/political-leaders/bal-keshav-thackeray.html",
+          "long_name": "elections.in",
+          "img": "https://imgs.search.brave.com/D8Z3SNiYr-sEVapkjKYEQArRKciR3lxuCi7gxsXyqDw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjBhODQ3NGZk/ZDQzNDdlNjYzZTEw/MmE5MjQ4NmExZWQ4/MDI2NDM2MjA4YzY5/NzFkNzZjNTY4YmQ1/MzY2OTAxZC93d3cu/ZWxlY3Rpb25zLmlu/Lw"
+        },
+        "language": "hi",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "elections.in",
+          "hostname": "www.elections.in",
+          "favicon": "https://imgs.search.brave.com/D8Z3SNiYr-sEVapkjKYEQArRKciR3lxuCi7gxsXyqDw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjBhODQ3NGZk/ZDQzNDdlNjYzZTEw/MmE5MjQ4NmExZWQ4/MDI2NDM2MjA4YzY5/NzFkNzZjNTY4YmQ1/MzY2OTAxZC93d3cu/ZWxlY3Rpb25zLmlu/Lw",
+          "path": "› political-leaders  › bal-keshav-thackeray.html"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/F8OHTyk5AhKIoLSr5nJsP11h_Ro8XNbBinF5jOrox_w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/ZWxlY3Rpb25zLmlu/L2RlbGhpL2ltYWdl/cy9iYW5uZXItc29j/aWFsLW1lZGlhLmpw/Zw",
+          "original": "https://www.elections.in/delhi/images/banner-social-media.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Uddhav Thackeray says no to settlement with brother in property dispute - The Economic Times",
+        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/Uddhav-Thackeray-says-no-to-settlement-with-brother-in-property-dispute/articleshow/45780308.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The dispute has originated from the Will of his father, Shiv Sena founder <strong>Bal</strong> <strong>Thackeray</strong>, in which he has not left anything for his estranged <strong>son</strong> Jaidev.",
+        "profile": {
+          "name": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/politics-and-nation/Uddhav-Thackeray-says-no-to-settlement-with-brother-in-property-dispute/articleshow/45780308.cms",
+          "long_name": "economictimes.indiatimes.com",
+          "img": "https://imgs.search.brave.com/BzLL9gUyCudT2hTGbRoZCuJw-81LG_UxK3mZR71yXss/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTBkNWExNTY2/YmU0YWQxMDZlZGI5/ZjY5ZWE2ODlhMWI0/YmM5MDZhYzVlYmUz/M2UwNjI3YWQzZDNm/N2RmZmIyYy9lY29u/b21pY3RpbWVzLmlu/ZGlhdGltZXMuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "economictimes.indiatimes.com",
+          "hostname": "economictimes.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/BzLL9gUyCudT2hTGbRoZCuJw-81LG_UxK3mZR71yXss/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTBkNWExNTY2/YmU0YWQxMDZlZGI5/ZjY5ZWE2ODlhMWI0/YmM5MDZhYzVlYmUz/M2UwNjI3YWQzZDNm/N2RmZmIyYy9lY29u/b21pY3RpbWVzLmlu/ZGlhdGltZXMuY29t/Lw",
+          "path": "  › business news  › news  › politics"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/zauffNeocRPpQzVdZjA1pmSnScqEvpLP7vY2Z63Ikt0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZXRpbWcuY29tL3Ro/dW1iL21zaWQtNDU3/ODAzMDgsd2lkdGgt/MTIwMCxoZWlnaHQt/NjMwLGltZ3NpemUt/MTA0NDU1LG92ZXJs/YXktZWNvbm9taWN0/aW1lcy9waG90by5q/cGc",
+          "original": "https://img.etimg.com/thumb/msid-45780308,width-1200,height-630,imgsize-104455,overlay-economictimes/photo.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Who is Jaidev Thackeray, Uddhav’s brother who pledged support to Eknath Shinde at the Dussehra rally?",
+        "url": "https://www.firstpost.com/explainers/who-is-jaidev-thackeray-uddhav-brother-eknath-shinde-dussehra-rally-shiv-sena-11394881.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Uddhav <strong>Thackeray</strong> suffered yet another blow in the fight for Shiv Sena’<strong>s</strong> legacy when his estranged <strong>brother</strong> Jaidev endorsed Eknath Shinde at the Dussehra rally. The middle <strong>son</strong> <strong>of</strong> <strong>Bal</strong> <strong>Thackeray</strong>, Jaidev’<strong>s</strong> rift with the family grew after the death of his mother and separation from his wife Smita",
+        "page_age": "2022-10-06T06:58:39",
+        "profile": {
+          "name": "Firstpost",
+          "url": "https://www.firstpost.com/explainers/who-is-jaidev-thackeray-uddhav-brother-eknath-shinde-dussehra-rally-shiv-sena-11394881.html",
+          "long_name": "firstpost.com",
+          "img": "https://imgs.search.brave.com/lKGZOEbB3_wVTdD-YtH4dwi64AWq6oIlEsH19MGL698/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiZjczNGFj/MGE2Zjc4MWY0NTcy/NWJjODFiMGY1MDVh/MGYyNmViMzMyNWZl/NGIzYTZhYzhhMTE4/NzI4NzQxYS93d3cu/Zmlyc3Rwb3N0LmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "firstpost.com",
+          "hostname": "www.firstpost.com",
+          "favicon": "https://imgs.search.brave.com/lKGZOEbB3_wVTdD-YtH4dwi64AWq6oIlEsH19MGL698/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiZjczNGFj/MGE2Zjc4MWY0NTcy/NWJjODFiMGY1MDVh/MGYyNmViMzMyNWZl/NGIzYTZhYzhhMTE4/NzI4NzQxYS93d3cu/Zmlyc3Rwb3N0LmNv/bS8",
+          "path": "  › home  › politics  › who is jaidev thackeray, uddhav’s brother who pledged support to eknath shinde at the dussehra rally?"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/fKfiDUGwPBqxMP9IzkRm5c-P8ogVuk_GgP_wwjMBdrE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZmlyc3Rwb3N0/LmNvbS91cGxvYWRz/LzIwMjIvMTAvamFp/ZGV2LWVrbmF0aC5q/cGc_aW09Rml0QW5k/RmlsbD0oMTIwMCw2/NzUp",
+          "original": "https://images.firstpost.com/uploads/2022/10/jaidev-eknath.jpg?im=FitAndFill=(1200,675)",
+          "logo": false
+        },
+        "age": "October 6, 2022"
+      }
+    ],
+    "family_friendly": true
+  }
+}

@@ -1,0 +1,789 @@
+{
+  "query": {
+    "original": "Bikaner Train Accident where a train coach raises over another trains coach under high velocity.'",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Fact Check: Viral Video of Train Accident Near Bikaner is Actually a Mock Drill - Alt News",
+        "url": "https://www.altnews.in/fact-check-viral-video-of-train-accident-near-bikaner-is-actually-a-mock-drill/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "TV 13 Gujarati, a news media outlet, posted about the alleged incident on its Instagram page. The translated caption, in English, reads: “<strong>Two trains collided head on near Bikaner Lalgarh railway station</strong>. Rescue is in progress.",
+        "page_age": "2024-11-18T14:18:55",
+        "profile": {
+          "name": "Alt News",
+          "url": "https://www.altnews.in/fact-check-viral-video-of-train-accident-near-bikaner-is-actually-a-mock-drill/",
+          "long_name": "altnews.in",
+          "img": "https://imgs.search.brave.com/N1HFYAQbPIM71wV5xFews3ahVZ_2withLKHna1DzXEI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDQyZDFhOTE1/YThlYjhmZmM2Zjc0/NDdkNDcxYWQ3ODAw/ZjU0NDExNjRjZjU3/ZGY3MjkzNjhlZmQx/YTI2ODBiZC93d3cu/YWx0bmV3cy5pbi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "altnews.in",
+          "hostname": "www.altnews.in",
+          "favicon": "https://imgs.search.brave.com/N1HFYAQbPIM71wV5xFews3ahVZ_2withLKHna1DzXEI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDQyZDFhOTE1/YThlYjhmZmM2Zjc0/NDdkNDcxYWQ3ODAw/ZjU0NDExNjRjZjU3/ZGY3MjkzNjhlZmQx/YTI2ODBiZC93d3cu/YWx0bmV3cy5pbi8",
+          "path": "  › home  › politics  › fact check: viral video of train accident near bikaner is actually a mock drill"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/XBHGOY6sXzK9Sl-UJsd5dmHZMduaphnVtJFYssDvqRo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWx0bmV3cy5pbi93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNC8x/MS9tb2NrLWRyaWxs/LmpwZw",
+          "original": "https://www.altnews.in/wp-content/uploads/2024/11/mock-drill.jpg",
+          "logo": false
+        },
+        "age": "November 18, 2024"
+      },
+      {
+        "title": "Video of a mock drill mistaken for real footage of train accident in Bikaner. - Fact Crescendo",
+        "url": "https://english.factcrescendo.com/2024/11/17/a-mock-drill-video-viral-as-visuals-of-recent-bikaner-train-accident/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Sharing the video, a social media user wrote, “Bikaner Train Accident where a train coach raises over another trains coach under high velocity. <strong>This is now probably just another news and makes not an interesting feed for neither the Govt nor the people of India.</strong>",
+        "page_age": "2024-11-17T11:26:24",
+        "profile": {
+          "name": "Fact Crescendo",
+          "url": "https://english.factcrescendo.com/2024/11/17/a-mock-drill-video-viral-as-visuals-of-recent-bikaner-train-accident/",
+          "long_name": "english.factcrescendo.com",
+          "img": "https://imgs.search.brave.com/q19LrtaWNlFfNx1CaOAU4KFlHaabAWliOwnQZ2EV_CQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTg0ZTM3ODUz/NjE5ZmI5YzcwNWI5/YjU5YWI3MGY2OWFi/NTE1YzRjNjdjYTM3/ZGRmMGJlYjU0NzY1/YWUwYTUxMy9lbmds/aXNoLmZhY3RjcmVz/Y2VuZG8uY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "english.factcrescendo.com",
+          "hostname": "english.factcrescendo.com",
+          "favicon": "https://imgs.search.brave.com/q19LrtaWNlFfNx1CaOAU4KFlHaabAWliOwnQZ2EV_CQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTg0ZTM3ODUz/NjE5ZmI5YzcwNWI5/YjU5YWI3MGY2OWFi/NTE1YzRjNjdjYTM3/ZGRmMGJlYjU0NzY1/YWUwYTUxMy9lbmds/aXNoLmZhY3RjcmVz/Y2VuZG8uY29tLw",
+          "path": "  › home  › video of a mock drill mistaken for real footage of train accident in bikaner."
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/xqgiv50SFSMoYfnoKyk_7dkm46ZLgJ-XJ9qNGqJHtZI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9lbmds/aXNoLmZhY3RjcmVz/Y2VuZG8uY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI0LzEx/L1Bvc3QtTm8tMDEt/MS0yLnBuZw",
+          "original": "https://english.factcrescendo.com/wp-content/uploads/2024/11/Post-No-01-1-2.png",
+          "logo": false
+        },
+        "age": "November 17, 2024"
+      },
+      {
+        "title": "Video showing collision of two trains in Bikaner as part of a mock drill is shared as a real accident - FACTLY",
+        "url": "https://factly.in/video-showing-two-trains-colliding-in-bikaner-as-part-of-a-mock-drill-is-shared-as-a-real-accident/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Fact: <strong>The video shows a mock drill, not a real accident</strong>. On 14 November 2024, a joint disaster management exercise was conducted at Lalgarh station yard, Bikaner division, to test rescue preparedness. The drill simulated a collision during shunting, with one coach climbing over another, and ...",
+        "page_age": "2024-11-20T04:13:19",
+        "profile": {
+          "name": "FACTLY",
+          "url": "https://factly.in/video-showing-two-trains-colliding-in-bikaner-as-part-of-a-mock-drill-is-shared-as-a-real-accident/",
+          "long_name": "factly.in",
+          "img": "https://imgs.search.brave.com/pBhb37Jeriz1FsklOAjRQQDSIIn6ZhuMenuEX5Fm-dw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2Y5OTdkYjA5/NjRhOTlhMmU4ZWQ5/YzM3MmQ4NzM1Yjg4/MDZlNzM0N2Y4NjRi/OTAyNWRhY2QyM2Y3/YjBhMzA3Zi9mYWN0/bHkuaW4v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "factly.in",
+          "hostname": "factly.in",
+          "favicon": "https://imgs.search.brave.com/pBhb37Jeriz1FsklOAjRQQDSIIn6ZhuMenuEX5Fm-dw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2Y5OTdkYjA5/NjRhOTlhMmU4ZWQ5/YzM3MmQ4NzM1Yjg4/MDZlNzM0N2Y4NjRi/OTAyNWRhY2QyM2Y3/YjBhMzA3Zi9mYWN0/bHkuaW4v",
+          "path": "› video-showing-two-trains-colliding-in-bikaner-as-part-of-a-mock-drill-is-shared-as-a-real-accident"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/RZqD8bX4mzvBFBqIf-v8WUmoHdimtIZOezvqnFDmS5Q/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mYWN0/bHkuaW4vd3AtY29u/dGVudC91cGxvYWRz/Ly8yMDI0LzExL1R3/by10cmFpbnMtY29s/bGlkZWQtbmVhci1C/aWthbmVyLVRodW1i/bmFpbC03MDJ4MzM2/LmpwZw",
+          "original": "https://factly.in/wp-content/uploads//2024/11/Two-trains-collided-near-Bikaner-Thumbnail-702x336.jpg",
+          "logo": false
+        },
+        "age": "November 20, 2024"
+      },
+      {
+        "title": "Fact Check: Train collision near Bikaner Lalgarh railway station? No, viral claim is misleading",
+        "url": "https://newsmeter.in/fact-check/train-collision-near-rajasthans-lalgarh-railway-station-no-it-was-a-mock-drill-739066",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A viral video claiming two <strong>trains</strong> collided near <strong>Bikaner</strong> Lalgarh railway station is viral on social media.",
+        "page_age": "2024-11-16T06:28:32",
+        "profile": {
+          "name": "NewsMeter",
+          "url": "https://newsmeter.in/fact-check/train-collision-near-rajasthans-lalgarh-railway-station-no-it-was-a-mock-drill-739066",
+          "long_name": "newsmeter.in",
+          "img": "https://imgs.search.brave.com/F2oeIuzU-TFcFrPpuR9yValqiqARJWTzQHtB_jmvZ7Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWRmZTdhMzdk/MDc2ZjUwNDlhMzgw/Mzk3YTNhMGJlNzA2/NDhjMTRmNzMxNGZi/Y2YxMzU4Nzg5YTI1/ZDc0ZmMwNC9uZXdz/bWV0ZXIuaW4v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "newsmeter.in",
+          "hostname": "newsmeter.in",
+          "favicon": "https://imgs.search.brave.com/F2oeIuzU-TFcFrPpuR9yValqiqARJWTzQHtB_jmvZ7Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWRmZTdhMzdk/MDc2ZjUwNDlhMzgw/Mzk3YTNhMGJlNzA2/NDhjMTRmNzMxNGZi/Y2YxMzU4Nzg5YTI1/ZDc0ZmMwNC9uZXdz/bWV0ZXIuaW4v",
+          "path": "  › home  › fact check  › fact check english  › fact check: train collision near bikaner lalgarh railway station? no, viral claim is misleading"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/OJy2teht5S0_wxGlmAVjFWUoQytiAE4648gOJtpKiFg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/bWV0ZXIuaW4vaC11/cGxvYWQvMjAyNC8x/MS8xNi8zODY5MzIt/bmV3LXByb2plY3Qt/MS53ZWJw",
+          "original": "https://newsmeter.in/h-upload/2024/11/16/386932-new-project-1.webp",
+          "logo": false
+        },
+        "age": "November 16, 2024"
+      },
+      {
+        "title": "Fact Check: Viral claim of train collision near Bikaner Lalgarh Station misleading | Fact News – India TV",
+        "url": "https://www.indiatvnews.com/fact-check/fact-check-train-collision-lalgarh-video-misleading-lalgarh-station-bikaner-rajasthan-2024-11-17-961990",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The North Western Railway’s official social media account clarified that the drill took place on <strong>November 14, 2024</strong>, and involved two train coaches stacked on top of each other.",
+        "page_age": "2024-11-20T13:00:36",
+        "profile": {
+          "name": "India TV News",
+          "url": "https://www.indiatvnews.com/fact-check/fact-check-train-collision-lalgarh-video-misleading-lalgarh-station-bikaner-rajasthan-2024-11-17-961990",
+          "long_name": "indiatvnews.com",
+          "img": "https://imgs.search.brave.com/PLXaiSgik56vjJO2UpLs6UMI60lSX7_zRWLMzPhMQr8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTYyMTRkOGVl/ZTE5MzQzY2ZkYjE0/NWQ3NmVkNmI4OTk4/MmU5MDJiNWNmMjcz/MmQ1OGI0MGNmMGQ1/NjRiMzFhMS93d3cu/aW5kaWF0dm5ld3Mu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "indiatvnews.com",
+          "hostname": "www.indiatvnews.com",
+          "favicon": "https://imgs.search.brave.com/PLXaiSgik56vjJO2UpLs6UMI60lSX7_zRWLMzPhMQr8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTYyMTRkOGVl/ZTE5MzQzY2ZkYjE0/NWQ3NmVkNmI4OTk4/MmU5MDJiNWNmMjcz/MmQ1OGI0MGNmMGQ1/NjRiMzFhMS93d3cu/aW5kaWF0dm5ld3Mu/Y29tLw",
+          "path": "  › fact check  › fact check: viral claim of train collision near bikaner lalgarh station misleading"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/LHYx5WCuSW-2zoPQek8nfbglqRALZGJZE-5wadqiZmE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXNp/emUuaW5kaWF0dm5l/d3MuY29tL2VuL2Nl/bnRlcmVkL25ld2J1/Y2tldC8xMjAwXzY3/NS8yMDI0LzExL2Zj/LTYtMTczMjEwNzUx/NC53ZWJw",
+          "original": "https://resize.indiatvnews.com/en/centered/newbucket/1200_675/2024/11/fc-6-1732107514.webp",
+          "logo": false
+        },
+        "age": "November 20, 2024"
+      },
+      {
+        "title": "bikaner guwahati express accident: Latest News & Videos, Photos about bikaner guwahati express accident | The Economic Times - Page 1",
+        "url": "https://economictimes.indiatimes.com/topic/bikaner-guwahati-express-accident",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>The accident occurred at 9:53 pm, with two AC III Tier coaches toppling over and four other coaches jumping the tracks</strong>. The injured have been shifted to local hospitals, with serious cases being rushed to AIIMS in Patna. Rescue operations have been completed, and the cause of the derailment ...",
+        "profile": {
+          "name": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/topic/bikaner-guwahati-express-accident",
+          "long_name": "economictimes.indiatimes.com",
+          "img": "https://imgs.search.brave.com/BzLL9gUyCudT2hTGbRoZCuJw-81LG_UxK3mZR71yXss/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTBkNWExNTY2/YmU0YWQxMDZlZGI5/ZjY5ZWE2ODlhMWI0/YmM5MDZhYzVlYmUz/M2UwNjI3YWQzZDNm/N2RmZmIyYy9lY29u/b21pY3RpbWVzLmlu/ZGlhdGltZXMuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "economictimes.indiatimes.com",
+          "hostname": "economictimes.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/BzLL9gUyCudT2hTGbRoZCuJw-81LG_UxK3mZR71yXss/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTBkNWExNTY2/YmU0YWQxMDZlZGI5/ZjY5ZWE2ODlhMWI0/YmM5MDZhYzVlYmUz/M2UwNjI3YWQzZDNm/N2RmZmIyYy9lY29u/b21pY3RpbWVzLmlu/ZGlhdGltZXMuY29t/Lw",
+          "path": "  › business news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/xvAlRSirHahDHQGa7Vqc-P_9FFZvj_HzO9OBb6jyVEo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZXRpbWcuY29tL3Ro/dW1iL21zaWQtNjU0/OTgwMjksd2lkdGgt/NjcyLHJlc2l6ZW1v/ZGUtNC9ldC1sb2dv/LmpwZw",
+          "original": "https://img.etimg.com/thumb/msid-65498029,width-672,resizemode-4/et-logo.jpg",
+          "logo": true
+        }
+      },
+      {
+        "title": "bikaner train derailment: Latest News & Videos, Photos about bikaner train derailment | The Economic Times - Page 1",
+        "url": "https://economictimes.indiatimes.com/topic/bikaner-train-derailment",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>bikaner</strong> <strong>train</strong> derailment Latest Breaking News, Pictures, Videos, and Special Reports from The Economic Times. <strong>bikaner</strong> <strong>train</strong> derailment Blogs, Comments and Archive News on Economictimes.com",
+        "profile": {
+          "name": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/topic/bikaner-train-derailment",
+          "long_name": "economictimes.indiatimes.com",
+          "img": "https://imgs.search.brave.com/BzLL9gUyCudT2hTGbRoZCuJw-81LG_UxK3mZR71yXss/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTBkNWExNTY2/YmU0YWQxMDZlZGI5/ZjY5ZWE2ODlhMWI0/YmM5MDZhYzVlYmUz/M2UwNjI3YWQzZDNm/N2RmZmIyYy9lY29u/b21pY3RpbWVzLmlu/ZGlhdGltZXMuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "economictimes.indiatimes.com",
+          "hostname": "economictimes.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/BzLL9gUyCudT2hTGbRoZCuJw-81LG_UxK3mZR71yXss/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTBkNWExNTY2/YmU0YWQxMDZlZGI5/ZjY5ZWE2ODlhMWI0/YmM5MDZhYzVlYmUz/M2UwNjI3YWQzZDNm/N2RmZmIyYy9lY29u/b21pY3RpbWVzLmlu/ZGlhdGltZXMuY29t/Lw",
+          "path": "  › business news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/xvAlRSirHahDHQGa7Vqc-P_9FFZvj_HzO9OBb6jyVEo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZXRpbWcuY29tL3Ro/dW1iL21zaWQtNjU0/OTgwMjksd2lkdGgt/NjcyLHJlc2l6ZW1v/ZGUtNC9ldC1sb2dv/LmpwZw",
+          "original": "https://img.etimg.com/thumb/msid-65498029,width-672,resizemode-4/et-logo.jpg",
+          "logo": true
+        }
+      },
+      {
+        "title": "List of railway accidents and incidents in India - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_railway_accidents_and_incidents_in_India",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "25 August – <strong>Four coaches of the Saraighat Express derailed near Chaygaon near Guwahati in Assam and no casualties were reported</strong>. 13 January – Mainaguri train accident: Nine people were killed after the Bikaner–Guwahati Express derailed near New Domohani railway station in Mainaguri of ...",
+        "page_age": "2025-07-12T05:47:03",
+        "profile": {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_railway_accidents_and_incidents_in_India",
+          "long_name": "en.wikipedia.org",
+          "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "en.wikipedia.org",
+          "hostname": "en.wikipedia.org",
+          "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+          "path": "› wiki  › List_of_railway_accidents_and_incidents_in_India"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/cEIu1wZgdlRp5Zgo1ZAdn_JQilmL5x7MA1NWs0LRpsM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2QxL1RoZV93cmVj/a2FnZV9vZl90aGVf/dGhyZWVfY29tcGFy/dG1lbnRzX29mX3Ro/ZV9Db3JvbWFuZGVs/X0V4cHJlc3NfbGll/c19iZXNpZGVfdGhl/X2xpbmUuanBn",
+          "original": "https://upload.wikimedia.org/wikipedia/commons/d/d1/The_wreckage_of_the_three_compartments_of_the_Coromandel_Express_lies_beside_the_line.jpg",
+          "logo": false
+        },
+        "age": "2 weeks ago"
+      },
+      {
+        "title": "Fact Check: Viral video of mock drill falsely claimed as recent railway accident near Bikaner | lighthousejournalism",
+        "url": "https://www.lighthousejournalism.com/viral/fact-check-viral-video-of-mock-drill-falsely-claimed-as-recent-railway-accident-near-bikaner-3239/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Lighthouse Journalism found a video being widely shared on social media platforms. The claim stated that the two trains suffered a head-on collision near Bikaner. During investigation we found that <strong>the video is actually from a mock drill and not of the real accident</strong>.",
+        "page_age": "2024-11-15T12:52:35",
+        "profile": {
+          "name": "Lighthouse Journalism",
+          "url": "https://www.lighthousejournalism.com/viral/fact-check-viral-video-of-mock-drill-falsely-claimed-as-recent-railway-accident-near-bikaner-3239/",
+          "long_name": "lighthousejournalism.com",
+          "img": "https://imgs.search.brave.com/LqsYzAKCNWhVKMqYArn-t14KZuQKRJSotyR-4WOu5Sg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzNmYWJiNWI4/ZTNhNzcyMTQ2YzRk/NWI3YzY5ODc3OGNk/MTc4YjljNDNmZmFh/YWIxNmNmYzRmZGZi/MmU4NzdkOC93d3cu/bGlnaHRob3VzZWpv/dXJuYWxpc20uY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "lighthousejournalism.com",
+          "hostname": "www.lighthousejournalism.com",
+          "favicon": "https://imgs.search.brave.com/LqsYzAKCNWhVKMqYArn-t14KZuQKRJSotyR-4WOu5Sg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzNmYWJiNWI4/ZTNhNzcyMTQ2YzRk/NWI3YzY5ODc3OGNk/MTc4YjljNDNmZmFh/YWIxNmNmYzRmZGZi/MmU4NzdkOC93d3cu/bGlnaHRob3VzZWpv/dXJuYWxpc20uY29t/Lw",
+          "path": "  › news  › viral"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/prAwRlUzim3fuFIXU-nUfku3JTJq9yIMS8bbr42FCs4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bGlnaHRob3VzZWpv/dXJuYWxpc20uY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI0/LzExL05ldy1Qcm9q/ZWN0LTIwMjQtMTEt/MTVUMTQ1NTUzLjEz/NS5qcGc",
+          "original": "https://www.lighthousejournalism.com/wp-content/uploads/2024/11/New-Project-2024-11-15T145553.135.jpg",
+          "logo": false
+        },
+        "age": "November 15, 2024"
+      },
+      {
+        "title": "bikaner guwahati train accident: Latest News & Videos, Photos about bikaner guwahati train accident | The Economic Times - Page 1",
+        "url": "https://economictimes.indiatimes.com/topic/bikaner-guwahati-train-accident",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>bikaner</strong> guwahati <strong>train</strong> <strong>accident</strong> Latest Breaking News, Pictures, Videos, and Special Reports from The Economic Times. <strong>bikaner</strong> guwahati <strong>train</strong> <strong>accident</strong> Blogs, Comments and Archive News on Economictimes.com",
+        "profile": {
+          "name": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/topic/bikaner-guwahati-train-accident",
+          "long_name": "economictimes.indiatimes.com",
+          "img": "https://imgs.search.brave.com/BzLL9gUyCudT2hTGbRoZCuJw-81LG_UxK3mZR71yXss/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTBkNWExNTY2/YmU0YWQxMDZlZGI5/ZjY5ZWE2ODlhMWI0/YmM5MDZhYzVlYmUz/M2UwNjI3YWQzZDNm/N2RmZmIyYy9lY29u/b21pY3RpbWVzLmlu/ZGlhdGltZXMuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "economictimes.indiatimes.com",
+          "hostname": "economictimes.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/BzLL9gUyCudT2hTGbRoZCuJw-81LG_UxK3mZR71yXss/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTBkNWExNTY2/YmU0YWQxMDZlZGI5/ZjY5ZWE2ODlhMWI0/YmM5MDZhYzVlYmUz/M2UwNjI3YWQzZDNm/N2RmZmIyYy9lY29u/b21pY3RpbWVzLmlu/ZGlhdGltZXMuY29t/Lw",
+          "path": "  › business news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/xvAlRSirHahDHQGa7Vqc-P_9FFZvj_HzO9OBb6jyVEo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZXRpbWcuY29tL3Ro/dW1iL21zaWQtNjU0/OTgwMjksd2lkdGgt/NjcyLHJlc2l6ZW1v/ZGUtNC9ldC1sb2dv/LmpwZw",
+          "original": "https://img.etimg.com/thumb/msid-65498029,width-672,resizemode-4/et-logo.jpg",
+          "logo": true
+        }
+      },
+      {
+        "title": "Mumbra train accident: Scratch on coach being probed by 5-member panel | Mumbai news - Hindustan Times",
+        "url": "https://www.hindustantimes.com/cities/mumbai-news/mumbra-train-accident-scratch-on-coach-being-probed-by-5-member-panel-101749583314151.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Officials said the committee has begun studying various possible reasons that could have led to people falling off the two <strong>trains</strong>",
+        "page_age": "2025-06-11T02:38:00",
+        "profile": {
+          "name": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/cities/mumbai-news/mumbra-train-accident-scratch-on-coach-being-probed-by-5-member-panel-101749583314151.html",
+          "long_name": "hindustantimes.com",
+          "img": "https://imgs.search.brave.com/6oiSajNB7C3FmHradE3V3z23td9GnbX-OZbVqJO9gzY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY1MjVjODdh/ZjU0MTA4Mjc4NzA0/ODM1MjllODZmNGMy/NTViMTUyNjk2ZTU1/MGZiNDRhZjI1NzRh/N2U2NTA0YS93d3cu/aGluZHVzdGFudGlt/ZXMuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "hindustantimes.com",
+          "hostname": "www.hindustantimes.com",
+          "favicon": "https://imgs.search.brave.com/6oiSajNB7C3FmHradE3V3z23td9GnbX-OZbVqJO9gzY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY1MjVjODdh/ZjU0MTA4Mjc4NzA0/ODM1MjllODZmNGMy/NTViMTUyNjk2ZTU1/MGZiNDRhZjI1NzRh/N2U2NTA0YS93d3cu/aGluZHVzdGFudGlt/ZXMuY29tLw",
+          "path": "  › news  › cities  › mumbai news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/awnrj9lgU6vKGSZvMmo2Rvg8tBKhoGZrF7Bxc1UPc2U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aGluZHVzdGFudGlt/ZXMuY29tL2h0LWlt/Zy9pbWcvMjAyNS8w/Ni8xMC8xNjAweDkw/MC9UaGFuZS0tSW5k/aWEtLUp1bmUtMTAt/LTIwMjUtLUxvY2Fs/LXRyYWlucy1jcm9z/cy1uZV8xNzQ5NTgz/MzExODk2LmpwZw",
+          "original": "https://www.hindustantimes.com/ht-img/img/2025/06/10/1600x900/Thane--India--June-10--2025--Local-trains-cross-ne_1749583311896.jpg",
+          "logo": false
+        },
+        "age": "June 11, 2025"
+      },
+      {
+        "title": "Wenzhou train collision - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Wenzhou_train_collision",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The Wenzhou <strong>train</strong> collision was a railway <strong>accident</strong> that occurred on 23 July 2011, when <strong>a</strong> <strong>high</strong>-speed <strong>train</strong> travelling on the Yong-Tai-Wen railway line collided into the rear of <strong>another</strong> stationary <strong>train</strong> on a viaduct in Lucheng District, Wenzhou, Zhejiang province, China.",
+        "page_age": "2025-07-14T09:08:51",
+        "profile": {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Wenzhou_train_collision",
+          "long_name": "en.wikipedia.org",
+          "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "deep_results": {
+          "buttons": [
+            {
+              "type": "button_result",
+              "title": "Background",
+              "url": "https://en.wikipedia.org/wiki/Wenzhou_train_collision#Background"
+            },
+            {
+              "type": "button_result",
+              "title": "Accident chronology",
+              "url": "https://en.wikipedia.org/wiki/Wenzhou_train_collision#Accident_chronology"
+            },
+            {
+              "type": "button_result",
+              "title": "Government response",
+              "url": "https://en.wikipedia.org/wiki/Wenzhou_train_collision#Government_response"
+            },
+            {
+              "type": "button_result",
+              "title": "Investigation",
+              "url": "https://en.wikipedia.org/wiki/Wenzhou_train_collision#Investigation"
+            },
+            {
+              "type": "button_result",
+              "title": "Reaction",
+              "url": "https://en.wikipedia.org/wiki/Wenzhou_train_collision#Reaction"
+            }
+          ]
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "en.wikipedia.org",
+          "hostname": "en.wikipedia.org",
+          "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+          "path": "› wiki  › Wenzhou_train_collision"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/r-IFpEKkzEoAkfe5hDmNpfmdv0gepsy-dUK7DPhUG9k/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vMC8wZC9X/ZW56aG91X1BETF93/cmVja19hdF9uaWdo/dC5qcGc",
+          "original": "https://upload.wikimedia.org/wikipedia/en/0/0d/Wenzhou_PDL_wreck_at_night.jpg",
+          "logo": false
+        },
+        "age": "2 weeks ago"
+      },
+      {
+        "title": "7 killed, over 40 injured as train to Guwahati derails in north Bengal",
+        "url": "https://indianexpress.com/article/cities/kolkata/guwahati-bikaner-express-derails-domohani-7721542/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Three bodies have been recovered but more casualties are likely, officials fear.",
+        "page_age": "2022-01-14T02:57:54",
+        "profile": {
+          "name": "The Indian Express",
+          "url": "https://indianexpress.com/article/cities/kolkata/guwahati-bikaner-express-derails-domohani-7721542/",
+          "long_name": "indianexpress.com",
+          "img": "https://imgs.search.brave.com/4SjuU0Nl8aLEWO4BDayJHVXWCRSuG_vGZkIWx7VpdeA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2QwNGY1YWRi/MjNhNmY1YjgxYTJl/MzNjOWMyMDlkY2Iw/MmYxMGNiMmFmODcx/MDg3ZDgxMTFiZmMz/NjlkNDBkZi9pbmRp/YW5leHByZXNzLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "indianexpress.com",
+          "hostname": "indianexpress.com",
+          "favicon": "https://imgs.search.brave.com/4SjuU0Nl8aLEWO4BDayJHVXWCRSuG_vGZkIWx7VpdeA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2QwNGY1YWRi/MjNhNmY1YjgxYTJl/MzNjOWMyMDlkY2Iw/MmYxMGNiMmFmODcx/MDg3ZDgxMTFiZmMz/NjlkNDBkZi9pbmRp/YW5leHByZXNzLmNv/bS8",
+          "path": "  › news  › cities  › kolkata"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/h1djFN8DEjhYJvTCY3SvdSXuDty6PixQ_hleoFOfQmM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaW5kaWFuZXhw/cmVzcy5jb20vMjAy/Mi8wMS9CaWthbmVy/LUV4cHJlc3MuanBn",
+          "original": "https://images.indianexpress.com/2022/01/Bikaner-Express.jpg",
+          "logo": false
+        },
+        "age": "January 14, 2022"
+      },
+      {
+        "title": "Bikaner-Guwahati train accident: 'A loud sound, a jerk and everything went blank,' Train accident survivors recount experience",
+        "url": "https://www.cnbctv18.com/india/bikaner-guwahati-train-accident-a-loud-sound-a-jerk-and-everything-went-blank-train-accident-survivors-recount-experience-12120392.htm",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "At least five people died and more than 45 sustained injuries when a dozen <strong>coaches</strong> of the 15633 <strong>Bikaner</strong>-Guwahati Express <strong>train</strong> derailed and overturned in West Bengal on Thursday. A partially mangled <strong>coach</strong> got perched atop <strong>another</strong> <strong>under</strong> the impact, while a few bogies had hurtled down the slope ...",
+        "page_age": "2022-01-14T03:09:44",
+        "profile": {
+          "name": "CNBCTV18",
+          "url": "https://www.cnbctv18.com/india/bikaner-guwahati-train-accident-a-loud-sound-a-jerk-and-everything-went-blank-train-accident-survivors-recount-experience-12120392.htm",
+          "long_name": "cnbctv18.com",
+          "img": "https://imgs.search.brave.com/9Van6wwaW9ly316AAEtpt1MfK1K4QnD1cTYnvnrE9IU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODhjZWJjMDEx/NmVmODM1MGI2MzJh/ODg3MmFhMzYyNDRh/YzI0OWU0N2EyM2Zm/YWY0Y2IwMTA1NTcz/ZjA5NzIxZi93d3cu/Y25iY3R2MTguY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "cnbctv18.com",
+          "hostname": "www.cnbctv18.com",
+          "favicon": "https://imgs.search.brave.com/9Van6wwaW9ly316AAEtpt1MfK1K4QnD1cTYnvnrE9IU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODhjZWJjMDEx/NmVmODM1MGI2MzJh/ODg3MmFhMzYyNDRh/YzI0OWU0N2EyM2Zm/YWY0Y2IwMTA1NTcz/ZjA5NzIxZi93d3cu/Y25iY3R2MTguY29t/Lw",
+          "path": "  › home  › india"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/BZ90zbzTNAsmZbSACD221CKhW0xSAc3hwQWhYjuz558/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY25iY3R2MTgu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIxLzEyL1lFX1Rv/cF9QaG90b3NfMjAy/MV8yMTMzNDU2NjE0/MjAxOS0xMDE5eDU3/My5qcGc_aW1wb2xp/Y3k9d2Vic2l0ZSZ3/aWR0aD01MDAmaGVp/Z2h0PTMwMA",
+          "original": "https://images.cnbctv18.com/wp-content/uploads/2021/12/YE_Top_Photos_2021_21334566142019-1019x573.jpg?impolicy=website&width=500&height=300",
+          "logo": false
+        },
+        "age": "January 14, 2022"
+      },
+      {
+        "title": "'A loud sound, a jerk and everything went blank': Bikaner-Guwahati Express accident survivors recount experience",
+        "url": "https://www.newindianexpress.com/nation/2022/jan/13/a-loud-sound-a-jerk-and-everything-went-blank-bikaner-guwahati-express-accident-survivors-2406515.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A partially mangled <strong>coach</strong> got perched atop <strong>another</strong> <strong>under</strong> the impact, while a few bogies had hurtled down the slope and overturned.",
+        "page_age": "2022-01-13T17:12:00",
+        "profile": {
+          "name": "New Indian Express",
+          "url": "https://www.newindianexpress.com/nation/2022/jan/13/a-loud-sound-a-jerk-and-everything-went-blank-bikaner-guwahati-express-accident-survivors-2406515.html",
+          "long_name": "newindianexpress.com",
+          "img": "https://imgs.search.brave.com/WR6DMhEjhesX73_QXeK0gsGtcLEjvFxIJGZ8_Yre724/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFkNzJjNzNm/MTRkMTE3NGNkNDlh/OTMxMzYzYTZhNTU3/NGZlOGY2NTY1OTkw/YjQwOGRlZmYyNzUx/MjA2YTYwZC93d3cu/bmV3aW5kaWFuZXhw/cmVzcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "newindianexpress.com",
+          "hostname": "www.newindianexpress.com",
+          "favicon": "https://imgs.search.brave.com/WR6DMhEjhesX73_QXeK0gsGtcLEjvFxIJGZ8_Yre724/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFkNzJjNzNm/MTRkMTE3NGNkNDlh/OTMxMzYzYTZhNTU3/NGZlOGY2NTY1OTkw/YjQwOGRlZmYyNzUx/MjA2YTYwZC93d3cu/bmV3aW5kaWFuZXhw/cmVzcy5jb20v",
+          "path": "  › home  › nation  › 'a loud sound, a jerk and everything went blank': bikaner-guwahati express accident survivors recount experience"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/rPD1uV_7bNRfj2f_J_phcqxbsoEXTXuYg0vBoRQB7VY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL1ROSUUvaW1w/b3J0LzIwMjIvMS8x/My9vcmlnaW5hbC9C/aWthbmVyX0d1d2Fo/YXRpX0V4cHJlc3Nf/VHJhaW5fQWNjaWRl/bnRfRVBTLmpwZz93/PTEyMDAmaD02NzUm/YXV0bz1mb3JtYXQl/MkNjb21wcmVzcyZm/aXQ9bWF4JmVubGFy/Z2U9dHJ1ZQ",
+          "original": "https://media.assettype.com/TNIE/import/2022/1/13/original/Bikaner_Guwahati_Express_Train_Accident_EPS.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+          "logo": false
+        },
+        "age": "January 13, 2022"
+      },
+      {
+        "title": "Bikaner-Guwahati Express Train Accident: Toll Rises To 8; Everything We Know About The Tragedy",
+        "url": "https://www.indiatimes.com/news/india/bikaner-guwahati-express-train-accident-death-toll-559313.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "According to officials at the spot, some <strong>coaches</strong> toppled from the track and one <strong>coach</strong> was found on top of <strong>another</strong>. Several of the dead and injured were found lying on both sides of the track, while others were found stuck inside a mangled <strong>coach</strong>, they said.",
+        "page_age": "2022-01-14T06:08:54",
+        "profile": {
+          "name": "Indiatimes",
+          "url": "https://www.indiatimes.com/news/india/bikaner-guwahati-express-train-accident-death-toll-559313.html",
+          "long_name": "indiatimes.com",
+          "img": "https://imgs.search.brave.com/IQHo3Fz6bM6_eWkcZZEGWp7oS4nau8RN4W2DmlFnDWs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWViMDNmZGVk/NzY3Nzc3YWQ3M2Q1/NDRkNzYzYmU0N2E2/YmYxY2QwMWQ4MWUx/MDFkZTVmMWFiNDU1/ZmM0MDhmZC93d3cu/aW5kaWF0aW1lcy5j/b20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "indiatimes.com",
+          "hostname": "www.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/IQHo3Fz6bM6_eWkcZZEGWp7oS4nau8RN4W2DmlFnDWs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWViMDNmZGVk/NzY3Nzc3YWQ3M2Q1/NDRkNzYzYmU0N2E2/YmYxY2QwMWQ4MWUx/MDFkZTVmMWFiNDU1/ZmM0MDhmZC93d3cu/aW5kaWF0aW1lcy5j/b20v",
+          "path": "  › home  › news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/mZwF1y5qz0QLAczUol0VAsjhSpIr1A9oFgcqGf2utK4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbS5p/bmRpYXRpbWVzLmlu/L2NvbnRlbnQvMjAy/Mi9KYW4vdHJhaW4t/MV82MWUxMGQ0NGNi/MTQyLlBORz93PTEy/MDAmaD05MDAmY2M9/MSZ3ZWJwPTEmcT03/NQ",
+          "original": "https://im.indiatimes.in/content/2022/Jan/train-1_61e10d44cb142.PNG?w=1200&h=900&cc=1&webp=1&q=75",
+          "logo": false
+        },
+        "age": "January 14, 2022"
+      },
+      {
+        "title": "Train Accidents: Causes, Impact, And Advancements",
+        "url": "https://morrisdewett.com/train-accidents/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Explore the causes of <strong>train</strong> <strong>accidents</strong>, their impact on the rail industry, and the latest technologies aimed at preventing future incidents.",
+        "page_age": "2025-02-23T15:44:04",
+        "profile": {
+          "name": "Morris & Dewett",
+          "url": "https://morrisdewett.com/train-accidents/",
+          "long_name": "morrisdewett.com",
+          "img": "https://imgs.search.brave.com/-rKM3qRF_yOGrhOKvCm6ShTsY0fILcLFl4A3j9GPCCE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWMzNDFlMTdh/YjM3MTk3NzhmZGIx/MzY2YmUwZDYyMTUw/NWM0NGIyYTViYTM1/OWE4OWZjOGI5YTll/NmYwMzExZi9tb3Jy/aXNkZXdldHQuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "location",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "morrisdewett.com",
+          "hostname": "morrisdewett.com",
+          "favicon": "https://imgs.search.brave.com/-rKM3qRF_yOGrhOKvCm6ShTsY0fILcLFl4A3j9GPCCE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWMzNDFlMTdh/YjM3MTk3NzhmZGIx/MzY2YmUwZDYyMTUw/NWM0NGIyYTViYTM1/OWE4OWZjOGI5YTll/NmYwMzExZi9tb3Jy/aXNkZXdldHQuY29t/Lw",
+          "path": "  › home  › answers  › train accidents: causes, impact, and advancements in safety prevention"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/RCvyJo0LRxdIHMUL8TgB4n5NswbxaRhg0kXfXt0xx5E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tb3Jy/aXNkZXdldHQuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI1/LzAyL3NodXR0ZXJz/dG9ja18yNDg0OTcy/Mzg5LXNjYWxlZC0x/LndlYnA",
+          "original": "https://morrisdewett.com/wp-content/uploads/2025/02/shutterstock_2484972389-scaled-1.webp",
+          "logo": false
+        },
+        "age": "February 23, 2025"
+      },
+      {
+        "title": "Odisha train crash: Why derailments are a problem for Indian Railways",
+        "url": "https://www.bbc.com/news/world-asia-india-65795960",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "There are many unanswered questions on what exactly led to a deadly multiple <strong>train</strong> collision in India.",
+        "page_age": "2023-06-04T06:40:05",
+        "profile": {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/world-asia-india-65795960",
+          "long_name": "British Broadcasting Corporation",
+          "img": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "bbc.com",
+          "hostname": "www.bbc.com",
+          "favicon": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8",
+          "path": "› news  › world-asia-india-65795960"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/eqe6I8SQ2oTt0-mW0RtxqPGvspmU1X88mfKaHchin2g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L25ld3MvMTAyNC9i/cmFuZGVkX25ld3Mv/OTUyMS9wcm9kdWN0/aW9uL18xMjk5Nzcx/ODNfZ2V0dHlpbWFn/ZXMtMTI1ODM5MTc1/OS01OTR4NTk0Lmpw/Zw",
+          "original": "https://ichef.bbci.co.uk/news/1024/branded_news/9521/production/_129977183_gettyimages-1258391759-594x594.jpg",
+          "logo": false
+        },
+        "age": "June 4, 2023"
+      },
+      {
+        "title": "List of rail accidents (2020–present) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_rail_accidents_(2020–present)",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "This is a list of rail <strong>accidents</strong> from 2020 onward. This list does not contain incidents with singular fatalities of pedestrians who were not in a vehicle. Entries that involve no injuries/deaths and no spilled hazardous materials may be deleted. Entries must be sourced.",
+        "page_age": "2025-07-08T20:46:26",
+        "profile": {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_rail_accidents_(2020–present)",
+          "long_name": "en.wikipedia.org",
+          "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "en.wikipedia.org",
+          "hostname": "en.wikipedia.org",
+          "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+          "path": "› wiki  › List_of_rail_accidents_(2020–present)"
+        },
+        "age": "3 weeks ago"
+      },
+      {
+        "title": "Bikaner-Guwahati train derailment: ‘Stuck with body for 3 hours in coach’: Passengers recall horror | Kolkata News - The Indian Express",
+        "url": "https://indianexpress.com/article/cities/kolkata/bikaner-guwahati-train-derailment-stuck-with-body-for-3-hours-in-coach-passengers-recall-horror-7723953/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Trapped with the body of a fellow passenger for over three hours, the daily wage labourer didn&#x27;t have much hope left in him until he was rescued by BSF and RPF personnel.",
+        "page_age": "2022-01-14T22:45:23",
+        "profile": {
+          "name": "The Indian Express",
+          "url": "https://indianexpress.com/article/cities/kolkata/bikaner-guwahati-train-derailment-stuck-with-body-for-3-hours-in-coach-passengers-recall-horror-7723953/",
+          "long_name": "indianexpress.com",
+          "img": "https://imgs.search.brave.com/4SjuU0Nl8aLEWO4BDayJHVXWCRSuG_vGZkIWx7VpdeA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2QwNGY1YWRi/MjNhNmY1YjgxYTJl/MzNjOWMyMDlkY2Iw/MmYxMGNiMmFmODcx/MDg3ZDgxMTFiZmMz/NjlkNDBkZi9pbmRp/YW5leHByZXNzLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "indianexpress.com",
+          "hostname": "indianexpress.com",
+          "favicon": "https://imgs.search.brave.com/4SjuU0Nl8aLEWO4BDayJHVXWCRSuG_vGZkIWx7VpdeA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2QwNGY1YWRi/MjNhNmY1YjgxYTJl/MzNjOWMyMDlkY2Iw/MmYxMGNiMmFmODcx/MDg3ZDgxMTFiZmMz/NjlkNDBkZi9pbmRp/YW5leHByZXNzLmNv/bS8",
+          "path": "  › news  › cities  › kolkata"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/qliTuPWUM6qtI0-uuqzzEnb1st_zcZ__pr__8EUossQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaW5kaWFuZXhw/cmVzcy5jb20vMjAy/Mi8wMS90cmFpbi1h/Y2NpZGVudC0xMjAw/LmpwZw",
+          "original": "https://images.indianexpress.com/2022/01/train-accident-1200.jpg",
+          "logo": false
+        },
+        "age": "January 14, 2022"
+      }
+    ],
+    "family_friendly": true
+  }
+}

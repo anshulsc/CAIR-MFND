@@ -1,0 +1,712 @@
+{
+  "query": {
+    "original": "Should Trump win tonight, I'll move to India where I'll run for Prime Minister.",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "What if Trump wins? The bottom line for India will be favourable - The Economic Times",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/what-if-trump-wins-the-bottom-line-for-india-will-be-favourable/articleshow/113297516.cms?from=mdr",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Donald Trump has pledged a 100% tariff on goods from countries moving away from the dollar in trade. Despite past trade tensions, <strong>a report suggests his presidency could benefit India due to shared strategic interests and supply chain shifts from China</strong>. However, tighter immigration policies ...",
+        "profile": {
+          "name": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/what-if-trump-wins-the-bottom-line-for-india-will-be-favourable/articleshow/113297516.cms?from=mdr",
+          "long_name": "economictimes.indiatimes.com",
+          "img": "https://imgs.search.brave.com/BzLL9gUyCudT2hTGbRoZCuJw-81LG_UxK3mZR71yXss/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTBkNWExNTY2/YmU0YWQxMDZlZGI5/ZjY5ZWE2ODlhMWI0/YmM5MDZhYzVlYmUz/M2UwNjI3YWQzZDNm/N2RmZmIyYy9lY29u/b21pY3RpbWVzLmlu/ZGlhdGltZXMuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "economictimes.indiatimes.com",
+          "hostname": "economictimes.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/BzLL9gUyCudT2hTGbRoZCuJw-81LG_UxK3mZR71yXss/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTBkNWExNTY2/YmU0YWQxMDZlZGI5/ZjY5ZWE2ODlhMWI0/YmM5MDZhYzVlYmUz/M2UwNjI3YWQzZDNm/N2RmZmIyYy9lY29u/b21pY3RpbWVzLmlu/ZGlhdGltZXMuY29t/Lw",
+          "path": "  › business news  › news  › international  › world news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/qRowFpOniSYIFIJheuLYKQFzhZ4ks7eEwgZMr0sMixk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZXRpbWcuY29tL3Ro/dW1iL21zaWQtMTEz/Mjk3NTM3LHJlc2l6/ZW1vZGUtNCx3aWR0/aC0xMjAwLGhlaWdo/dC05MDAsaW1nc2l6/ZS0xNTgwNjAsb3Zl/cmxheS1lY29ub21p/Y3RpbWVzL2FydGlj/bGVzaG93LmpwZw",
+          "original": "https://img.etimg.com/thumb/msid-113297537,resizemode-4,width-1200,height-900,imgsize-158060,overlay-economictimes/articleshow.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "What does Donald Trump's US election win mean for India?",
+        "url": "https://www.dw.com/en/india-us-ties-donald-trump-narendra-modi-relationship-china-trade-immigration/a-70723661",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>India</strong>&#x27;s Narendra Modi called Donald <strong>Trump</strong> &quot;my friend&quot; when congratulating him on his US election <strong>win</strong>. However, <strong>Trump</strong>&#x27;s return to the White House presents a complex landscape <strong>for</strong> <strong>India</strong>-US ties.",
+        "page_age": "2024-11-09T14:04:52",
+        "profile": {
+          "name": "DW",
+          "url": "https://www.dw.com/en/india-us-ties-donald-trump-narendra-modi-relationship-china-trade-immigration/a-70723661",
+          "long_name": "dw.com",
+          "img": "https://imgs.search.brave.com/xZhYJPqD9Ntb1goXRmIlGPu4JZBR3TUSZD8b4LyKCZU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODgzYTI5YzRh/ZGVkZTlkYWMzZjI5/MGY0OGQwOGQ2OGI0/NWQyZWVmYzFkOWJh/MjM4NWNkYTE1NTNl/MjI5MWY2Ny93d3cu/ZHcuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "dw.com",
+          "hostname": "www.dw.com",
+          "favicon": "https://imgs.search.brave.com/xZhYJPqD9Ntb1goXRmIlGPu4JZBR3TUSZD8b4LyKCZU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODgzYTI5YzRh/ZGVkZTlkYWMzZjI5/MGY0OGQwOGQ2OGI0/NWQyZWVmYzFkOWJh/MjM4NWNkYTE1NTNl/MjI5MWY2Ny93d3cu/ZHcuY29tLw",
+          "path": "› en  › india-us-ties-donald-trump-narendra-modi-relationship-china-trade-immigration  › a-70723661"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/LfHvbkmxVq_2xeqd0eE_CV8VXilBNx_IGuzFtjD56Hs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuZHcuY29tL2lt/YWdlLzcwMjY5Mjc1/XzgwNC5qcGc",
+          "original": "https://static.dw.com/image/70269275_804.jpg",
+          "logo": false
+        },
+        "age": "November 9, 2024"
+      },
+      {
+        "title": "Readout of President Donald J. Trump’s Call with Prime Minister Modi of India",
+        "url": "https://www.whitehouse.gov/briefings-statements/2025/01/readout-of-president-donald-j-trumps-call-with-prime-minister-modi-of-india/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Today, President Donald J. <strong>Trump</strong> held a productive call with <strong>Prime</strong> <strong>Minister</strong> Narendra Modi of <strong>India</strong>. The two leaders discussed expanding and deepening",
+        "page_age": "2025-01-27T22:31:16",
+        "profile": {
+          "name": "White House",
+          "url": "https://www.whitehouse.gov/briefings-statements/2025/01/readout-of-president-donald-j-trumps-call-with-prime-minister-modi-of-india/",
+          "long_name": "whitehouse.gov",
+          "img": "https://imgs.search.brave.com/e6eMgBSwnkEjsAE_qoI9Vl4260waVBTKICayLay6wn8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjlkYzVmY2Nm/NjUxMWYyNWVjMzg5/N2JhMjYxNGQ2NzQ4/NjFiYWRkOWZlZjQ4/MjQ5MjIxNGVlMWYz/YmNmMjZhNC93d3cu/d2hpdGVob3VzZS5n/b3Yv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "whitehouse.gov",
+          "hostname": "www.whitehouse.gov",
+          "favicon": "https://imgs.search.brave.com/e6eMgBSwnkEjsAE_qoI9Vl4260waVBTKICayLay6wn8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjlkYzVmY2Nm/NjUxMWYyNWVjMzg5/N2JhMjYxNGQ2NzQ4/NjFiYWRkOWZlZjQ4/MjQ5MjIxNGVlMWYz/YmNmMjZhNC93d3cu/d2hpdGVob3VzZS5n/b3Yv",
+          "path": "  › home  › news  › briefings & statements  › readout of president donald j. trump’s call with prime minister modi of india"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/AmWHgi1AOAPuzRMHi-JBq-oDuiEpoHF2Zxi1yid--rg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/d2hpdGVob3VzZS5n/b3Yvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMDMvV0g0Ny1T/b2NpYWwtU2hhcmUt/Q2FyZC5qcGc",
+          "original": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
+          "logo": false
+        },
+        "age": "January 27, 2025"
+      },
+      {
+        "title": "What Donald Trump's second term as US President could mean for India – trade, strategy, and geopolitics | Mint",
+        "url": "https://www.livemint.com/news/us-election-what-a-donald-trump-win-could-mean-for-india-trade-strategy-and-geopolitics-11729123526818.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The US-<strong>India</strong> relationship remains robust, with Modi supporting <strong>Trump</strong>&#x27;s presidency. <strong>Trump</strong>&#x27;s past term strengthened defence ties and regional initiatives. Analysts predict benefits <strong>for</strong> <strong>India</strong> despite potential trade frictions, emphasising the importance of supply chain dynamics and domestic growth.",
+        "page_age": "2024-11-06T08:44:14",
+        "profile": {
+          "name": "Livemint",
+          "url": "https://www.livemint.com/news/us-election-what-a-donald-trump-win-could-mean-for-india-trade-strategy-and-geopolitics-11729123526818.html",
+          "long_name": "livemint.com",
+          "img": "https://imgs.search.brave.com/4_SjXmOVg6ghTUrR-Jfkp_jUfFnA69V15ZVSoZgGLaM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2I4ZTJlOGVi/MTNmYmU4OGNhZGE1/NDQ0NmQyNDVjZTA0/YTAyYzNmYTdmZGU5/YmYxOWI2OTk1NmFm/NDY2NTJkMi93d3cu/bGl2ZW1pbnQuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "livemint.com",
+          "hostname": "www.livemint.com",
+          "favicon": "https://imgs.search.brave.com/4_SjXmOVg6ghTUrR-Jfkp_jUfFnA69V15ZVSoZgGLaM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2I4ZTJlOGVi/MTNmYmU4OGNhZGE1/NDQ0NmQyNDVjZTA0/YTAyYzNmYTdmZGU5/YmYxOWI2OTk1NmFm/NDY2NTJkMi93d3cu/bGl2ZW1pbnQuY29t/Lw",
+          "path": "  › business news  › elections"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/4k8QfXuk2cJh7zHXHRQvz5RMzpMgoEjyQu3RL1mnuy4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bGl2ZW1pbnQuY29t/L2xtLWltZy9pbWcv/MjAyNC8xMS8wNi8x/NjAweDkwMC9tb2Rp/XzE3MzA4ODE4NDI2/NjZfMTczMDg4MTg0/Nzk5OS5qcGc",
+          "original": "https://www.livemint.com/lm-img/img/2024/11/06/1600x900/modi_1730881842666_1730881847999.jpg",
+          "logo": false
+        },
+        "age": "November 6, 2024"
+      },
+      {
+        "title": "What Donald Trump's win in US election 2024 could mean for India? His trade, H-1B visa, defence policies and geopolitics | Latest News India - Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/what-donald-trumps-win-in-us-election-2024-could-mean-for-india-his-trade-h-1b-visa-defence-policies-and-geopolitics-101730649101093.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "US presidential election 2024: Donald <strong>Trump</strong>’s foreign policy promises to directly impact <strong>India</strong>’s economic and defence landscape.",
+        "page_age": "2024-11-04T05:39:12",
+        "profile": {
+          "name": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/what-donald-trumps-win-in-us-election-2024-could-mean-for-india-his-trade-h-1b-visa-defence-policies-and-geopolitics-101730649101093.html",
+          "long_name": "hindustantimes.com",
+          "img": "https://imgs.search.brave.com/6oiSajNB7C3FmHradE3V3z23td9GnbX-OZbVqJO9gzY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY1MjVjODdh/ZjU0MTA4Mjc4NzA0/ODM1MjllODZmNGMy/NTViMTUyNjk2ZTU1/MGZiNDRhZjI1NzRh/N2U2NTA0YS93d3cu/aGluZHVzdGFudGlt/ZXMuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "hindustantimes.com",
+          "hostname": "www.hindustantimes.com",
+          "favicon": "https://imgs.search.brave.com/6oiSajNB7C3FmHradE3V3z23td9GnbX-OZbVqJO9gzY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY1MjVjODdh/ZjU0MTA4Mjc4NzA0/ODM1MjllODZmNGMy/NTViMTUyNjk2ZTU1/MGZiNDRhZjI1NzRh/N2U2NTA0YS93d3cu/aGluZHVzdGFudGlt/ZXMuY29tLw",
+          "path": "  › news  › india news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Flt3u9_6Y7ug2kS7B-AGP1kpPBSqW3GqvokAQMK9ztA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aGluZHVzdGFudGlt/ZXMuY29tL2h0LWlt/Zy9pbWcvMjAyNC8x/MS8wMy8xNjAweDkw/MC9nNy1zdW1taXQt/aW4tYmlhcnJpdHpf/YTQ4NTAyN2UtYzgy/OS0xMWU5LWI3Mjgt/MTMyNjk3OTc4MGE2/XzE3MzA2NTQwMTMz/NjAuanBn",
+          "original": "https://www.hindustantimes.com/ht-img/img/2024/11/03/1600x900/g7-summit-in-biarritz_a485027e-c829-11e9-b728-1326979780a6_1730654013360.jpg",
+          "logo": false
+        },
+        "age": "November 4, 2024"
+      },
+      {
+        "title": "India's Modi likely to find comfort in Trump's return and a shared worldview | AP News",
+        "url": "https://apnews.com/article/india-us-election-2024-trump-modi-a291df0d68d76d88da353e1e12ad1934",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Donald <strong>Trump</strong>’s return to the White House has made many countries anxious and recalculating where they stand with the U.S., but <strong>India</strong> appears to be welcoming the change that may embolden nationalist leaders like <strong>Prime</strong> <strong>Minister</strong> Narendra Modi.",
+        "page_age": "2024-11-14T14:39:06",
+        "profile": {
+          "name": "AP News",
+          "url": "https://apnews.com/article/india-us-election-2024-trump-modi-a291df0d68d76d88da353e1e12ad1934",
+          "long_name": "apnews.com",
+          "img": "https://imgs.search.brave.com/-_32qKbk4nzvzQ3RP6w9el0V0iswWgQP6EG3HIKvQ2s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWJlOGE2ODEz/ZDcxYzRjZDBjMzMw/OTZiMWM3ZDUwNjJk/ZTMyZDY3N2U5NTg4/ZDZhNDk3NzFiZjdh/OGQ0YTFmNi9hcG5l/d3MuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "apnews.com",
+          "hostname": "apnews.com",
+          "favicon": "https://imgs.search.brave.com/-_32qKbk4nzvzQ3RP6w9el0V0iswWgQP6EG3HIKvQ2s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWJlOGE2ODEz/ZDcxYzRjZDBjMzMw/OTZiMWM3ZDUwNjJk/ZTMyZDY3N2U5NTg4/ZDZhNDk3NzFiZjdh/OGQ0YTFmNi9hcG5l/d3MuY29tLw",
+          "path": "› article  › india-us-election-2024-trump-modi-a291df0d68d76d88da353e1e12ad1934"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/1Alrac6GbbFEhP6PCX8DX1PfYoe3ChKrzMiWtKg1o9A/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kaW1z/LmFwbmV3cy5jb20v/ZGltczQvZGVmYXVs/dC9lYTA4NzAxLzIx/NDc0ODM2NDcvc3Ry/aXAvZmFsc2UvY3Jv/cC81Mjg2eDM1MjQr/MCswL3Jlc2l6ZS8x/NDg2eDk5MSEvcXVh/bGl0eS85MC8_dXJs/PWh0dHBzJTNBJTJG/JTJGYXNzZXRzLmFw/bmV3cy5jb20lMkYx/ZiUyRmQyJTJGOGE3/OGFlMzk2ZjIyYWU4/NjE1YzFiMjEyNjJh/OCUyRmI2MTI5NTlk/ZjEyOTQyZGU5MDVh/ODJjNDE3MzdlMjQ1",
+          "original": "https://dims.apnews.com/dims4/default/ea08701/2147483647/strip/false/crop/5286x3524+0+0/resize/1486x991!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1f%2Fd2%2F8a78ae396f22ae8615c1b21262a8%2Fb612959df12942de905a82c41737e245",
+          "logo": false
+        },
+        "age": "November 14, 2024"
+      },
+      {
+        "title": "Remarks by President Trump and Prime Minister Modi of India at “Howdy, Modi: Shared Dreams, Bright Futures” Event – The White House",
+        "url": "https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-prime-minister-modi-india-howdy-modi-shared-dreams-bright-futures-event/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>PRIME MINISTER MODI</strong>: Thank you, President Trump. Thanks a lot. Howdy, my friends.",
+        "profile": {
+          "name": "The White House",
+          "url": "https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-prime-minister-modi-india-howdy-modi-shared-dreams-bright-futures-event/",
+          "long_name": "trumpwhitehouse.archives.gov",
+          "img": "https://imgs.search.brave.com/T5CTUt-O8Vw7dNh7g6gho2GN4-8HoT3wlp-u6TgyqwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGU1OGQxYmI3/NTc1MTI3OTU3OTNl/ZTk3YTQ1ZGEwYWQ2/Y2M2NzFmMDY5YjVj/MDY5OTQ3MjY4NmFj/ZmYzYWJkMi90cnVt/cHdoaXRlaG91c2Uu/YXJjaGl2ZXMuZ292/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "trumpwhitehouse.archives.gov",
+          "hostname": "trumpwhitehouse.archives.gov",
+          "favicon": "https://imgs.search.brave.com/T5CTUt-O8Vw7dNh7g6gho2GN4-8HoT3wlp-u6TgyqwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGU1OGQxYmI3/NTc1MTI3OTU3OTNl/ZTk3YTQ1ZGEwYWQ2/Y2M2NzFmMDY5YjVj/MDY5OTQ3MjY4NmFj/ZmYzYWJkMi90cnVt/cHdoaXRlaG91c2Uu/YXJjaGl2ZXMuZ292/Lw",
+          "path": "  › news  › briefings & statements  › remarks by president trump and prime minister modi of india at “howdy, modi: shared dreams, bright futures” event"
+        }
+      },
+      {
+        "title": "Kashmir: Modi tells Trump India won't accept 'third-party mediation'",
+        "url": "https://www.bbc.com/news/articles/c89ew9wde3lo",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>India</strong>&#x27;s statement followed a phone call between Modi and <strong>Trump</strong> after the US president left the G7 summit.",
+        "page_age": "2025-06-18T07:32:26",
+        "profile": {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c89ew9wde3lo",
+          "long_name": "British Broadcasting Corporation",
+          "img": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "bbc.com",
+          "hostname": "www.bbc.com",
+          "favicon": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8",
+          "path": "› news  › articles  › c89ew9wde3lo"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Vc1fk_shlx8s2FLiPtYSpJDx1te-vmlczQsFteE84eQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L25ld3MvMTAyNC9i/cmFuZGVkX25ld3Mv/MzkxZS9saXZlLzQ0/ZjhmNTEwLTRjMDEt/MTFmMC04MTJhLTNm/ZGJjMjFkZjljMS5q/cGc",
+          "original": "https://ichef.bbci.co.uk/news/1024/branded_news/391e/live/44f8f510-4c01-11f0-812a-3fdbc21df9c1.jpg",
+          "logo": false
+        },
+        "age": "June 18, 2025"
+      },
+      {
+        "title": "India and US very close to finalising trade deal, says Trump",
+        "url": "https://www.bbc.com/news/articles/c2ley8pe5qlo",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>India</strong> and the US have been locked in intense trade negotiations, aiming to reach an agreement before steep tariffs kick in.",
+        "page_age": "2025-07-17T07:18:21",
+        "profile": {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c2ley8pe5qlo",
+          "long_name": "British Broadcasting Corporation",
+          "img": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "bbc.com",
+          "hostname": "www.bbc.com",
+          "favicon": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8",
+          "path": "› news  › articles  › c2ley8pe5qlo"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/n0RnmRYGKgWrCCAXXF0fNeTZsEVKDibGhY3vjitKnMo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L25ld3MvMTAyNC9i/cmFuZGVkX25ld3Mv/NmM0Ny9saXZlLzYz/ZjBhODMwLTYyYzkt/MTFmMC04M2FjLWM1/YTIwNzRjYWJjZC5q/cGc",
+          "original": "https://ichef.bbci.co.uk/news/1024/branded_news/6c47/live/63f0a830-62c9-11f0-83ac-c5a2074cabcd.jpg",
+          "logo": false
+        },
+        "age": "1 week ago"
+      },
+      {
+        "title": "Trump kicks off India trip with rally of more than 100,000 people - ABC News",
+        "url": "https://abcnews.go.com/amp/Politics/trump-kicks-off-india-trip-rally-100000-people/story?id=69175356",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "President <strong>Trump</strong> began a two-day visit <strong>to</strong> <strong>India</strong> with an appearance with <strong>Prime</strong> <strong>Minister</strong> Modi before a crowd of more than 100,000 at the world&#x27;s largest cricket stadium.",
+        "page_age": "2020-02-29T02:20:29",
+        "profile": {
+          "name": "ABC News",
+          "url": "https://abcnews.go.com/amp/Politics/trump-kicks-off-india-trip-rally-100000-people/story?id=69175356",
+          "long_name": "abcnews.go.com",
+          "img": "https://imgs.search.brave.com/V4WjUfk3IhIYmswGzuEsyBVYub9r-iOc9PnxIbD3iL8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWYwZjE1YzA0/YzFlMDJjNWIwMTcy/Yzg2YzNjMjVlNjA2/OTE4NWU3YTEyMjAw/ZDBhMjU4Y2VlMTZh/NjZjYjBjOS9hYmNu/ZXdzLmdvLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "abcnews.go.com",
+          "hostname": "abcnews.go.com",
+          "favicon": "https://imgs.search.brave.com/V4WjUfk3IhIYmswGzuEsyBVYub9r-iOc9PnxIbD3iL8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWYwZjE1YzA0/YzFlMDJjNWIwMTcy/Yzg2YzNjMjVlNjA2/OTE4NWU3YTEyMjAw/ZDBhMjU4Y2VlMTZh/NjZjYjBjOS9hYmNu/ZXdzLmdvLmNvbS8",
+          "path": "› amp  › Politics  › trump-kicks-off-india-trip-rally-100000-people  › story"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/U9VlDoEeuCrFZfyJE8w4G_vGj-3O1fb30f1UdLm4qxA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zLmFi/Y25ld3MuY29tL2lt/YWdlcy9Qb2xpdGlj/cy90cnVtcC1pbmRp/YS1ndHktYWEtMjAw/MjI0X2hwTWFpbl8x/Nng5XzE2MDAuanBn",
+          "original": "https://s.abcnews.com/images/Politics/trump-india-gty-aa-200224_hpMain_16x9_1600.jpg",
+          "logo": false
+        },
+        "age": "February 29, 2020"
+      },
+      {
+        "title": "DCPD202500262",
+        "url": "https://www.govinfo.gov/content/pkg/DCPD-202500262/html/DCPD-202500262.htm",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "President <strong>Trump</strong>. No, I&#x27;m okay. [Laughter] <strong>Prime</strong> <strong>Minister</strong> Modi. Your Excellency, I am delighted to see you back in the White House and to meet with you today in this room. On behalf of 1.4 billion people of <strong>India</strong>, let me convey my heartiest congratulations to you on your grand and historic victory.",
+        "profile": {
+          "name": "GovInfo",
+          "url": "https://www.govinfo.gov/content/pkg/DCPD-202500262/html/DCPD-202500262.htm",
+          "long_name": "govinfo.gov",
+          "img": "https://imgs.search.brave.com/Iphd9KmsTFiL4JOZtnifUBDHzdp2RMOwtQ3Ew_x_exk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjQyNTRlMDYx/MWRjMDc1MWNmZDBl/NjEwMzBlZDEwYTdj/Y2FjNGE0YTMwNjc3/MzI5MGUyOGFmM2Zh/OWEyMzdlNC93d3cu/Z292aW5mby5nb3Yv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "govinfo.gov",
+          "hostname": "www.govinfo.gov",
+          "favicon": "https://imgs.search.brave.com/Iphd9KmsTFiL4JOZtnifUBDHzdp2RMOwtQ3Ew_x_exk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjQyNTRlMDYx/MWRjMDc1MWNmZDBl/NjEwMzBlZDEwYTdj/Y2FjNGE0YTMwNjc3/MzI5MGUyOGFmM2Zh/OWEyMzdlNC93d3cu/Z292aW5mby5nb3Yv",
+          "path": "› content  › pkg  › DCPD-202500262  › html  › DCPD-202500262.htm"
+        }
+      },
+      {
+        "title": "Indian Americans would be voting for me, says Donald Trump - The Economic Times",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/indian-americans-would-be-voting-for-me-says-donald-trump/articleshow/77951878.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Five big bangs that shook the corporate world in 2024 &quot;We have great support from India. We have great support from Prime Minister Modi. <strong>I would think that the Indian (American) people would be voting for Trump</strong>,&quot; the president told reporters at a White House news conference.",
+        "profile": {
+          "name": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/indian-americans-would-be-voting-for-me-says-donald-trump/articleshow/77951878.cms",
+          "long_name": "economictimes.indiatimes.com",
+          "img": "https://imgs.search.brave.com/BzLL9gUyCudT2hTGbRoZCuJw-81LG_UxK3mZR71yXss/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTBkNWExNTY2/YmU0YWQxMDZlZGI5/ZjY5ZWE2ODlhMWI0/YmM5MDZhYzVlYmUz/M2UwNjI3YWQzZDNm/N2RmZmIyYy9lY29u/b21pY3RpbWVzLmlu/ZGlhdGltZXMuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "economictimes.indiatimes.com",
+          "hostname": "economictimes.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/BzLL9gUyCudT2hTGbRoZCuJw-81LG_UxK3mZR71yXss/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTBkNWExNTY2/YmU0YWQxMDZlZGI5/ZjY5ZWE2ODlhMWI0/YmM5MDZhYzVlYmUz/M2UwNjI3YWQzZDNm/N2RmZmIyYy9lY29u/b21pY3RpbWVzLmlu/ZGlhdGltZXMuY29t/Lw",
+          "path": "  › business news  › news  › international  › world news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/POeKNf2cfRIKsdeDsMHhX5Mnu3gCAJPQ5URCMb2kuUQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZXRpbWcuY29tL3Ro/dW1iL21zaWQtNzc5/NTE5MTIscmVzaXpl/bW9kZS00LHdpZHRo/LTEyMDAsaGVpZ2h0/LTkwMCxpbWdzaXpl/LTc4MTk0LG92ZXJs/YXktZWNvbm9taWN0/aW1lcy9hcnRpY2xl/c2hvdy5qcGc",
+          "original": "https://img.etimg.com/thumb/msid-77951912,resizemode-4,width-1200,height-900,imgsize-78194,overlay-economictimes/articleshow.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Remarks by President Trump and Prime Minister Modi of India in Joint Press Statement - U.S. Embassy & Consulates in India",
+        "url": "https://in.usembassy.gov/remarks-by-president-trump-and-prime-minister-modi-of-india-in-joint-press-statement/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>PRIME</strong> <strong>MINISTER</strong> MODI: My friend and President of the United States, Donald <strong>Trump</strong>; respected members of the American delegation; ladies and gentlemen, good",
+        "page_age": "2020-02-25T13:45:44",
+        "profile": {
+          "name": "U.S. Embassy &amp; Consulates in India",
+          "url": "https://in.usembassy.gov/remarks-by-president-trump-and-prime-minister-modi-of-india-in-joint-press-statement/",
+          "long_name": "in.usembassy.gov",
+          "img": "https://imgs.search.brave.com/z_OBqy3vemfEBagEPUF8Y5yxmyIewkDT8GQCXC2MFcE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWViZjI3NTA2/M2U0MWYzMGIwOTk2/NDhlMTYyOWNmMWEz/MjJiNjFiZTgwMzJj/MjIxZjdjMGFjZTA3/ZDJhZDZkYi9pbi51/c2VtYmFzc3kuZ292/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "in.usembassy.gov",
+          "hostname": "in.usembassy.gov",
+          "favicon": "https://imgs.search.brave.com/z_OBqy3vemfEBagEPUF8Y5yxmyIewkDT8GQCXC2MFcE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWViZjI3NTA2/M2U0MWYzMGIwOTk2/NDhlMTYyOWNmMWEz/MjJiNjFiZTgwMzJj/MjIxZjdjMGFjZTA3/ZDJhZDZkYi9pbi51/c2VtYmFzc3kuZ292/Lw",
+          "path": "  › मुखपृष्ठ  › news & events  › remarks by president trump and prime minister modi of india in joint press statement"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/jHwr2C9x7f1_DUHaaW7Z_f9X2uAwq7iju13KC2oaSMk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbi51/c2VtYmFzc3kuZ292/L3dwLWNvbnRlbnQv/dXBsb2Fkcy9zaXRl/cy83MS8xLTUuanBn",
+          "original": "https://in.usembassy.gov/wp-content/uploads/sites/71/1-5.jpg",
+          "logo": false
+        },
+        "age": "February 25, 2020"
+      },
+      {
+        "title": "Trump’s tariffs on India: Modi will have to step back to move ahead | Lowy Institute",
+        "url": "https://www.lowyinstitute.org/the-interpreter/trump-s-tariffs-india-modi-will-have-step-back-move-ahead",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "US efforts to pry open <strong>India</strong>’s markets will leave Modi in a difficult position with domestic business interests.",
+        "profile": {
+          "name": "The Interpreter",
+          "url": "https://www.lowyinstitute.org/the-interpreter/trump-s-tariffs-india-modi-will-have-step-back-move-ahead",
+          "long_name": "lowyinstitute.org",
+          "img": "https://imgs.search.brave.com/4LVLLR8_BL4qcJ3KlQcoidJLvumHF-bsvtAwcJmz6T0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjA1NDgyMGRj/MTEzMzk1MTg2NmQ2/MDNhNzRmZjBkZWEy/ZDhiNzZlMjg4MDUw/YWM1NmZhZWE4OTY5/ZWMzNzk0NC93d3cu/bG93eWluc3RpdHV0/ZS5vcmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "lowyinstitute.org",
+          "hostname": "www.lowyinstitute.org",
+          "favicon": "https://imgs.search.brave.com/4LVLLR8_BL4qcJ3KlQcoidJLvumHF-bsvtAwcJmz6T0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjA1NDgyMGRj/MTEzMzk1MTg2NmQ2/MDNhNzRmZjBkZWEy/ZDhiNzZlMjg4MDUw/YWM1NmZhZWE4OTY5/ZWMzNzk0NC93d3cu/bG93eWluc3RpdHV0/ZS5vcmcv",
+          "path": "› the-interpreter  › trump-s-tariffs-india-modi-will-have-step-back-move-ahead"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/rjHP8mUgFRrlJx5QALah2yDadsGtGW0QzP_zFrXceI0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bG93eWluc3RpdHV0/ZS5vcmcyMDI1JnF1/b3Q7IHR5cGVvZj0m/cXVvdDtmb2FmOklt/YWdlJnF1b3Q7IC8m/Z3Q",
+          "original": "https://www.lowyinstitute.org2025&quot; typeof=&quot;foaf:Image&quot; /&gt",
+          "logo": false
+        }
+      },
+      {
+        "title": "While India seems to love Trump, the reality isn't so simple | AP News",
+        "url": "https://apnews.com/5f18ed35da8e5eb812b25beda603891d",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Looking out over the world’s largest cricket stadium, the seats jammed with more than 100,000 people, <strong>India</strong>’<strong>s</strong> <strong>prime</strong> <strong>minister</strong> heaped praise on his American visitor.",
+        "page_age": "2021-04-20T19:07:05",
+        "profile": {
+          "name": "AP News",
+          "url": "https://apnews.com/5f18ed35da8e5eb812b25beda603891d",
+          "long_name": "apnews.com",
+          "img": "https://imgs.search.brave.com/-_32qKbk4nzvzQ3RP6w9el0V0iswWgQP6EG3HIKvQ2s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWJlOGE2ODEz/ZDcxYzRjZDBjMzMw/OTZiMWM3ZDUwNjJk/ZTMyZDY3N2U5NTg4/ZDZhNDk3NzFiZjdh/OGQ0YTFmNi9hcG5l/d3MuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "apnews.com",
+          "hostname": "apnews.com",
+          "favicon": "https://imgs.search.brave.com/-_32qKbk4nzvzQ3RP6w9el0V0iswWgQP6EG3HIKvQ2s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWJlOGE2ODEz/ZDcxYzRjZDBjMzMw/OTZiMWM3ZDUwNjJk/ZTMyZDY3N2U5NTg4/ZDZhNDk3NzFiZjdh/OGQ0YTFmNi9hcG5l/d3MuY29tLw",
+          "path": "› 5f18ed35da8e5eb812b25beda603891d"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/GE45CCtJpaLkNFOTuKXUYhuce_HP2-uwPNAqbi1_Io8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kaW1z/LmFwbmV3cy5jb20v/ZGltczQvZGVmYXVs/dC9hNTRlMDA1LzIx/NDc0ODM2NDcvc3Ry/aXAvZmFsc2UvY3Jv/cC8zMDAweDIwNTQr/MCswL3Jlc2l6ZS8x/NDg2eDEwMTchL3F1/YWxpdHkvOTAvP3Vy/bD1odHRwcyUzQSUy/RiUyRnN0b3JhZ2Uu/Z29vZ2xlYXBpcy5j/b20lMkZhZnMtcHJv/ZCUyRm1lZGlhJTJG/YjQ0ZjUzNTYyNTAy/NDExMDliYjIzNDgz/NjA1YmYyNTUlMkYz/MDAwLmpwZWc",
+          "original": "https://dims.apnews.com/dims4/default/a54e005/2147483647/strip/false/crop/3000x2054+0+0/resize/1486x1017!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fb44f5356250241109bb23483605bf255%2F3000.jpeg",
+          "logo": false
+        },
+        "age": "April 20, 2021"
+      },
+      {
+        "title": "Donald Trump’s return as US President will spell big change for India - The Economic Times",
+        "url": "https://m.economictimes.com/news/economy/policy/us-election-result-trump-modi-india-us-relation-donald-trumps-return-as-us-president-will-spell-big-change-for-india/amp_articleshow/115013044.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Donald <strong>Trump</strong>, leading in key states, declared victory in the US presidential election, urging national unity. While his potential <strong>win</strong> sparks celebrations in <strong>India</strong>, experts advise caution, highlighting potential unpredictability in bilateral relations despite <strong>Trump</strong>&#x27;s positive overtures towards ...",
+        "profile": {
+          "name": "The Economic Times",
+          "url": "https://m.economictimes.com/news/economy/policy/us-election-result-trump-modi-india-us-relation-donald-trumps-return-as-us-president-will-spell-big-change-for-india/amp_articleshow/115013044.cms",
+          "long_name": "m.economictimes.com",
+          "img": "https://imgs.search.brave.com/qsZakkLeSCD_amLhuaHPVgxGRUM30NhI54y3Q3Pkru4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjhhOWJhM2Qx/OGVkZTQyZTI5MDYw/MDY2NWMxMzQxNzll/MzQ1OTc2YWE4M2Iz/ZjhjOGQ1NTZlNjYy/ZmQzYWRjMC9tLmVj/b25vbWljdGltZXMu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "m.economictimes.com",
+          "hostname": "m.economictimes.com",
+          "favicon": "https://imgs.search.brave.com/qsZakkLeSCD_amLhuaHPVgxGRUM30NhI54y3Q3Pkru4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjhhOWJhM2Qx/OGVkZTQyZTI5MDYw/MDY2NWMxMzQxNzll/MzQ1OTc2YWE4M2Iz/ZjhjOGQ1NTZlNjYy/ZmQzYWRjMC9tLmVj/b25vbWljdGltZXMu/Y29tLw",
+          "path": "  › business news  › news  › economy  › policy"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/97uTUugKgGXLqZytoRE1ZnPpTmBI9zV-gBQ6So1rXdk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tLmVj/b25vbWljdGltZXMu/Y29tL3RodW1iL21z/aWQtMTE1MDEzMTc5/LHdpZHRoLTEyMDAs/aGVpZ2h0LTkwMCxy/ZXNpemVtb2RlLTQs/aW1nc2l6ZS0xNDIw/NTg5L21vZGktY29u/Z3JhdHVsYXRlcy10/cnVtcC1vbi1wcm9q/ZWN0ZWQtd2luLmpw/Zw",
+          "original": "https://m.economictimes.com/thumb/msid-115013179,width-1200,height-900,resizemode-4,imgsize-1420589/modi-congratulates-trump-on-projected-win.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Opinion | Donald Trump Is Going to India to Find Himself - The New York Times",
+        "url": "https://www.nytimes.com/2020/02/21/opinion/trump-india.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Under <strong>Prime</strong> <strong>Minister</strong> Narendra Modi, <strong>India</strong> is the American president’s spiritual home: an inferno of systemic cruelty.",
+        "page_age": "2020-02-24T15:16:06",
+        "profile": {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2020/02/21/opinion/trump-india.html",
+          "long_name": "The New York Times",
+          "img": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "nytimes.com",
+          "hostname": "www.nytimes.com",
+          "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
+          "path": "› 2020  › 02  › 21  › opinion  › trump-india.html"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/HtSyBB17VQxdxAsHVzdtO7NUh-Oup5eMZ36SVI5Z2y8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDIw/LzAyLzI0L29waW5p/b24vMjFtaXNocmEv/MjFtaXNocmEtdmlk/ZW9TaXh0ZWVuQnlO/aW5lSnVtYm8xNjAw/LmpwZw",
+          "original": "https://static01.nyt.com/images/2020/02/24/opinion/21mishra/21mishra-videoSixteenByNineJumbo1600.jpg",
+          "logo": false
+        },
+        "age": "February 24, 2020"
+      },
+      {
+        "title": "Indian Americans would be voting for me, says Trump - Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/us/indian-americans-would-be-voting-for-me-says-trump/articleshow/77943326.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "US News: Highlighting the great relationship that he has developed with Indian Americans and <strong>Prime</strong> <strong>Minister</strong> Narendra Modi, US President Donald <strong>Trump</strong> said that",
+        "page_age": "2020-09-05T05:02:00",
+        "profile": {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/us/indian-americans-would-be-voting-for-me-says-trump/articleshow/77943326.cms",
+          "long_name": "timesofindia.indiatimes.com",
+          "img": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timesofindia.indiatimes.com",
+          "hostname": "timesofindia.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+          "path": "  › news  › world news  › us news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/62uIMbWrxbXUYLQq7wuC-rO2Sj8XG5Vxku-smkRzBVc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9yZXNp/emVtb2RlLTQsd2lk/dGgtMTI4MCxoZWln/aHQtNzIwLG1zaWQt/Nzc5NDMzMjMvNzc5/NDMzMjMuanBn",
+          "original": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-77943323/77943323.jpg",
+          "logo": false
+        },
+        "age": "September 5, 2020"
+      },
+      {
+        "title": "The continent-spanning win Trump can secure with Modi - Atlantic Council",
+        "url": "https://www.atlanticcouncil.org/blogs/new-atlanticist/the-continent-spanning-win-trump-can-secure-with-modi/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "When the Indian <strong>prime</strong> <strong>minister</strong> visits the White House this week, high on the agenda should be the <strong>India</strong>-Middle East-Europe Economic Corridor (IMEC).",
+        "page_age": "2025-02-10T22:35:01",
+        "profile": {
+          "name": "Atlantic Council",
+          "url": "https://www.atlanticcouncil.org/blogs/new-atlanticist/the-continent-spanning-win-trump-can-secure-with-modi/",
+          "long_name": "atlanticcouncil.org",
+          "img": "https://imgs.search.brave.com/FuRQkWfzCIJmCCQX3Cw06k2J3WrLGvJct7sSDdzE5hk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTgwNzgyNGNl/MTViNmYxNDcwYTQ4/YzcyYzFkN2NjOWRm/NGEwZDBjNWM3OTQw/YTE3NzYyMzMzOWNj/YTdjNjEwNi93d3cu/YXRsYW50aWNjb3Vu/Y2lsLm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "atlanticcouncil.org",
+          "hostname": "www.atlanticcouncil.org",
+          "favicon": "https://imgs.search.brave.com/FuRQkWfzCIJmCCQX3Cw06k2J3WrLGvJct7sSDdzE5hk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTgwNzgyNGNl/MTViNmYxNDcwYTQ4/YzcyYzFkN2NjOWRm/NGEwZDBjNWM3OTQw/YTE3NzYyMzMzOWNj/YTdjNjEwNi93d3cu/YXRsYW50aWNjb3Vu/Y2lsLm9yZy8",
+          "path": "  › home  › the continent-spanning win trump can secure with modi"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/p-th-4S7CZYMdaCPtb0pDS-mrE0wzUTe-ijgBfZKW8w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YXRsYW50aWNjb3Vu/Y2lsLm9yZy93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyNS8wMi8y/MDI1LTAyLTA3VDE0/MDI1NVpfMTY4MTQw/ODU3Nl9SQzJQUENB/OVJVQkxfUlRSTUFE/UF8zX1VTQS1JTkRJ/QS1NT0RJLXNjYWxl/ZC5qcGc",
+          "original": "https://www.atlanticcouncil.org/wp-content/uploads/2025/02/2025-02-07T140255Z_1681408576_RC2PPCA9RUBL_RTRMADP_3_USA-INDIA-MODI-scaled.jpg",
+          "logo": false
+        },
+        "age": "February 10, 2025"
+      }
+    ],
+    "family_friendly": true
+  }
+}

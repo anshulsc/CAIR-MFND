@@ -1,0 +1,820 @@
+{
+  "query": {
+    "original": "Chhatrapati Shivaji Maharaj was insulted by Rahul Gandhi in Maharashtra.",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "videos",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=MADg5ldlGKg",
+        "title": "rahul gandhi On chhatrapati shivaji maharaj",
+        "description": "#abpmajha #abpमाझा #chhatrapatishivajimaharajjayanti #santoshdeshmukhcase #beed #dhananjaymunde #sureshdhas #santoshdehmukh #thackerayvsshinde #sharadpawar #...",
+        "age": "February 19, 2025",
+        "page_age": "2025-02-19T13:57:09",
+        "fetched_content_timestamp": 1739977199,
+        "video": {
+          "duration": "06:11",
+          "views": 4516,
+          "creator": "ABP MAJHA",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/my7DO3x6qNu1ay7JiIlRfYLB2dBn0aOx-Ih1IKlQyYw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9N/QURnNWxkbEdLZy9t/YXhyZXNkZWZhdWx0/LmpwZz9zcXA9LW9h/eW13RW1DSUFLRU5B/RjhxdUtxUU1hOEFF/Qi1BSC1DWUFDMEFX/S0Fnd0lBQkFCR0Jz/Z1l5aHlNQTg9JmFt/cDtycz1BT240Q0xE/WXdKNkdmcUJ0eThi/ZEhaOGZSRHEyb2pv/U1Jn",
+          "original": "https://i.ytimg.com/vi/MADg5ldlGKg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBsgYyhyMA8=&amp;rs=AOn4CLDYwJ6GfqBty8bdHZ8fRDq2ojoSRg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=SLJ2VNdKy9s",
+        "title": "Rahul Gandhi Shiv Jayanti Tweet । शिवरायणावर ...",
+        "description": "Congress leader Rahul Gandhi has made an unforgivable mistake on the birth anniversary of Chhatrapati Shivaji Maharaj ... Rahul Gandhi paid tribute to Shivaj...",
+        "age": "February 19, 2025",
+        "page_age": "2025-02-19T08:40:59",
+        "fetched_content_timestamp": 1739977199,
+        "video": {
+          "duration": "05:04",
+          "views": 5204,
+          "creator": "News18 Lokmat",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/CvXXYH_w62z9Z6y-KLbVqjIOlhf5_1H2mxoaYh9ArgI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9T/TEoyVk5kS3k5cy9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/SLJ2VNdKy9s/maxresdefault.jpg"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Fact Check: Rahul Gandhi Insulted Chhatrapati Shivaji Maharaj? Here’s The Truth Behind Viral Video",
+        "url": "https://newschecker.in/fact-check/rahul-gandhi-insulted-chhatrapati-shivaji-maharaj-heres-the-truth",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Multiple X users shared the video alleging that Gandhi insulted Chhatrapati Shivaji Maharaj, and asserting that the “Hindus of Maharashtra will teach him a lesson.”</strong> The video is also being widely shared on Facebook and Instagram. ... Such posts can be seen here, here, here and here.",
+        "profile": {
+          "name": "Newschecker",
+          "url": "https://newschecker.in/fact-check/rahul-gandhi-insulted-chhatrapati-shivaji-maharaj-heres-the-truth",
+          "long_name": "newschecker.in",
+          "img": "https://imgs.search.brave.com/p_MHAjYPKMAb9_jV52zUzW5DylP8hUTu4RlQyfIoO88/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGE4MGEzZDE5/Nzc5OTk1OGVjOWY0/MjBhMzFjNGVkMDgw/NjcxMzc0NjNiMzM0/YmIyZjVmMzI5NzVm/Njk0NDVjMS9uZXdz/Y2hlY2tlci5pbi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "newschecker.in",
+          "hostname": "newschecker.in",
+          "favicon": "https://imgs.search.brave.com/p_MHAjYPKMAb9_jV52zUzW5DylP8hUTu4RlQyfIoO88/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGE4MGEzZDE5/Nzc5OTk1OGVjOWY0/MjBhMzFjNGVkMDgw/NjcxMzc0NjNiMzM0/YmIyZjVmMzI5NzVm/Njk0NDVjMS9uZXdz/Y2hlY2tlci5pbi8",
+          "path": "› fact-check  › rahul-gandhi-insulted-chhatrapati-shivaji-maharaj-heres-the-truth"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/D1vp5-xkdZE7qAAttiygmnOoAfRn4iKmR4ibW10CqGA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/Y2hlY2tlci5pbi93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNC8x/MS9SYXRpbmctMjAy/NC0xMS0wOFQxNTQw/MDEuMDQ3LmpwZw",
+          "original": "https://newschecker.in/wp-content/uploads/2024/11/Rating-2024-11-08T154001.047.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Rahul insulted Shivaji Maharaj with post offering ‘sraddhanjali’: Shinde | Mumbai News - The Indian Express",
+        "url": "https://indianexpress.com/article/cities/mumbai/rahul-insulted-shivaji-maharaj-with-post-offering-sraddhanjali-shinde-9845285/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Deputy Chief Minister Eknath Shinde on Wednesday accused Congress leader Rahul Gandhi of “insulting” Chhatrapati Shivaji Maharaj by <strong>using the word “sraddhanjali” (homage)</strong> in a social media post on the Maratha ruler’s birth anniversary.",
+        "page_age": "2025-02-19T19:30:30",
+        "profile": {
+          "name": "The Indian Express",
+          "url": "https://indianexpress.com/article/cities/mumbai/rahul-insulted-shivaji-maharaj-with-post-offering-sraddhanjali-shinde-9845285/",
+          "long_name": "indianexpress.com",
+          "img": "https://imgs.search.brave.com/4SjuU0Nl8aLEWO4BDayJHVXWCRSuG_vGZkIWx7VpdeA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2QwNGY1YWRi/MjNhNmY1YjgxYTJl/MzNjOWMyMDlkY2Iw/MmYxMGNiMmFmODcx/MDg3ZDgxMTFiZmMz/NjlkNDBkZi9pbmRp/YW5leHByZXNzLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "indianexpress.com",
+          "hostname": "indianexpress.com",
+          "favicon": "https://imgs.search.brave.com/4SjuU0Nl8aLEWO4BDayJHVXWCRSuG_vGZkIWx7VpdeA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2QwNGY1YWRi/MjNhNmY1YjgxYTJl/MzNjOWMyMDlkY2Iw/MmYxMGNiMmFmODcx/MDg3ZDgxMTFiZmMz/NjlkNDBkZi9pbmRp/YW5leHByZXNzLmNv/bS8",
+          "path": "  › news  › cities  › mumbai"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/hhUEvEG9sjIhWfEUmUQTUOaBW3Id0m0ZLe7vexE35Sk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaW5kaWFuZXhw/cmVzcy5jb20vMjAy/NS8wMi9Fa25hdGgt/U2hpbmRlLTFfYzVi/MTE0LmpwZw",
+          "original": "https://images.indianexpress.com/2025/02/Eknath-Shinde-1_c5b114.jpg",
+          "logo": false
+        },
+        "age": "February 19, 2025"
+      },
+      {
+        "title": "'Apologise not just to Shivaji Maharaj but also ... ': Rahul Gandhi to PM Modi | India News - Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/apologise-not-just-to-shivaji-maharaj-but-also-rahul-gandhi-to-pm-modi/articleshow/113092073.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Rahul Gandhi demanded that PM Modi apologise to Shivaji Maharaj and Maharashtrians for the statue&#x27;s collapse in Sindhudurg</strong>. Speaking at a Sangli event, he stressed respecting historical figures. The incident was caused by strong winds, and the sculptor has been arrested, Eknath Shinde had said.",
+        "page_age": "2024-09-05T11:16:00",
+        "profile": {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/apologise-not-just-to-shivaji-maharaj-but-also-rahul-gandhi-to-pm-modi/articleshow/113092073.cms",
+          "long_name": "timesofindia.indiatimes.com",
+          "img": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timesofindia.indiatimes.com",
+          "hostname": "timesofindia.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+          "path": "  › news  › india news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/22XGZYFU2_BHAFv-js3MsKQIDNpHsS0jfXyu04eo_KU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9yZXNp/emVtb2RlLTQsd2lk/dGgtMTI4MCxoZWln/aHQtNzIwLG1zaWQt/MTEzMDkzMjc2LzEx/MzA5MzI3Ni5qcGc",
+          "original": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-113093276/113093276.jpg",
+          "logo": false
+        },
+        "age": "September 5, 2024"
+      },
+      {
+        "title": "Insult to Shivaji Maharaj: Rahul Gandhi jabs PM Modi over statue collapse",
+        "url": "https://www.indiatoday.in/india/story/insult-to-shivaji-maharaj-rahul-gandhi-jabs-pm-over-maharashtra-statue-collapse-2594340-2024-09-05",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Shivaji Maharaj&#x27;s legacy is a sensitive ... the statue was unveiled by PM Modi just nine months ago. <strong>Taking a jibe at the Prime Minister for apologising over the incident, Rahul Gandhi said, &quot;One who does wrong, apologises.</strong>...",
+        "page_age": "2024-09-05T12:54:45",
+        "profile": {
+          "name": "India Today",
+          "url": "https://www.indiatoday.in/india/story/insult-to-shivaji-maharaj-rahul-gandhi-jabs-pm-over-maharashtra-statue-collapse-2594340-2024-09-05",
+          "long_name": "indiatoday.in",
+          "img": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "indiatoday.in",
+          "hostname": "www.indiatoday.in",
+          "favicon": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8",
+          "path": "  › news  › insult to shivaji maharaj: rahul gandhi jabs pm modi over statue collapse"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/6oE7YNwdrKO5PYZsTfGDEJF80lwHaEh5H0YOcvPMvO0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ha20t/aW1nLWEtaW4udG9z/c2h1Yi5jb20vaW5k/aWF0b2RheS9pbWFn/ZXMvc3RvcnkvMjAy/NDA5L3NoaXZhamkt/c3RhdHVlLTA1NTQz/NDcyNC0xNng5XzAu/anBnP1ZlcnNpb25J/ZD1LTlpxcTZFc3Ix/X0JiN3BGYWJQMFJH/dG4wN1ZuTDNrbj9z/aXplPTEyODA6NzIw",
+          "original": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202409/shivaji-statue-055434724-16x9_0.jpg?VersionId=KNZqq6Esr1_Bb7pFabP0RGtn07VnL3kn?size=1280:720",
+          "logo": false
+        },
+        "age": "September 5, 2024"
+      },
+      {
+        "title": "Rahul Gandhi questions PM Modi’s apology for Shivaji Maharaj statue collapse at Sangli Rally - The Hindu",
+        "url": "https://www.thehindu.com/news/national/at-sangli-rally-rahul-gandhi-questions-pm-modis-apology-for-shivaji-maharaj-statue-collapse/article68609523.ece",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Rahul</strong> <strong>Gandhi</strong> questions PM Modi&#x27;s apology for <strong>Shivaji</strong> <strong>Maharaj</strong> statue collapse, speculates on possible reasons, meets with Congress leaders.",
+        "page_age": "2024-09-05T15:05:29",
+        "profile": {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/at-sangli-rally-rahul-gandhi-questions-pm-modis-apology-for-shivaji-maharaj-statue-collapse/article68609523.ece",
+          "long_name": "thehindu.com",
+          "img": "https://imgs.search.brave.com/7nMEtreJNappZ3K0yP6ovEhbEphNWRh8gQdd737CcXU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZThkMTk4NWZl/YjBiYjYzYjQ5MjNm/YmNhNDM2ZDlkZTAz/Y2FiODM5ZjAwNWRi/MmUyY2RmMTIwNDk5/ZWE0YmQ2Yi93d3cu/dGhlaGluZHUuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "thehindu.com",
+          "hostname": "www.thehindu.com",
+          "favicon": "https://imgs.search.brave.com/7nMEtreJNappZ3K0yP6ovEhbEphNWRh8gQdd737CcXU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZThkMTk4NWZl/YjBiYjYzYjQ5MjNm/YmNhNDM2ZDlkZTAz/Y2FiODM5ZjAwNWRi/MmUyY2RmMTIwNDk5/ZWE0YmQ2Yi93d3cu/dGhlaGluZHUuY29t/Lw",
+          "path": "› news  › national  › at-sangli-rally-rahul-gandhi-questions-pm-modis-apology-for-shivaji-maharaj-statue-collapse  › article68609523.ece"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/DLShfkyzi-fJPcdkktBxMaRonAoGj2m6GfYdlLQZozw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aC1p/LnRoZ2ltLmNvbS9w/dWJsaWMvaW5jb21p/bmcvZXJudnplL2Fy/dGljbGU2ODYwOTQ5/OS5lY2UvYWx0ZXJu/YXRlcy9MQU5EU0NB/UEVfMTIwMC8xMTkw/OF81XzlfMjAyNF8x/Nl80Ml80Nl8xX0RT/Q183ODI4LkpQRUc",
+          "original": "https://th-i.thgim.com/public/incoming/ernvze/article68609499.ece/alternates/LANDSCAPE_1200/11908_5_9_2024_16_42_46_1_DSC_7828.JPEG",
+          "logo": false
+        },
+        "age": "September 5, 2024"
+      },
+      {
+        "title": "\"Rahul Gandhi's statement is very insulting\": Maharashtra Dy CM Eknath Shinde on disrespecting Chhatrapati Shivaji Maharaj",
+        "url": "https://www.aninews.in/news/national/general-news/rahul-gandhis-statement-is-very-insulting-maharashtra-dy-cm-eknath-shinde-on-disrespecting-chhatrapati-shivaji-maharaj20250219205603/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Mumbai (Maharashtra) [India], February ... of the opposition in the Lok Sabha, Rahul Gandhi and <strong>accused him of disrespecting Chhatrapati Shivaji Maharaj by using &#x27;shraddhanjali&#x27; instead of &#x27;Patanjali&#x27; in his tribute.</strong>...",
+        "page_age": "2025-02-19T15:26:03",
+        "profile": {
+          "name": "ANI News",
+          "url": "https://www.aninews.in/news/national/general-news/rahul-gandhis-statement-is-very-insulting-maharashtra-dy-cm-eknath-shinde-on-disrespecting-chhatrapati-shivaji-maharaj20250219205603/",
+          "long_name": "aninews.in",
+          "img": "https://imgs.search.brave.com/3cNjkHnZdQqRtNZ8P8L0OgKzghT_IjFxR85tF6iRqZs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjBhZjMyN2I0/OTNiZjkzNTEzODA4/OTI5N2ZkMzcwNmI3/NWFmZWRlNGIzMDcx/NjJiMDg4MDIyYzY2/YzA2YThkMC93d3cu/YW5pbmV3cy5pbi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "aninews.in",
+          "hostname": "www.aninews.in",
+          "favicon": "https://imgs.search.brave.com/3cNjkHnZdQqRtNZ8P8L0OgKzghT_IjFxR85tF6iRqZs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjBhZjMyN2I0/OTNiZjkzNTEzODA4/OTI5N2ZkMzcwNmI3/NWFmZWRlNGIzMDcx/NjJiMDg4MDIyYzY2/YzA2YThkMC93d3cu/YW5pbmV3cy5pbi8",
+          "path": "› news  › national  › general-news  › rahul-gandhis-statement-is-very-insulting-maharashtra-dy-cm-eknath-shinde-on-disrespecting-chhatrapati-shivaji-maharaj20250219205603"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/a_w2RfoOAn0Zkml7HCL931pVGNdGCKZRpVeF3Vn35wg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kM2x6/Y242bWJiYWRhZi5j/bG91ZGZyb250Lm5l/dC9tZWRpYS9kZXRh/aWxzL0FOSS0yMDI1/MDIxOTE1MjU0MC5q/cGc",
+          "original": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20250219152540.jpg",
+          "logo": false
+        },
+        "age": "February 19, 2025"
+      },
+      {
+        "title": "War of words between BJP, Congress over Rahul Gandhi's 'shraddhanjali' post for Shivaji Maharaj | India News - The Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/war-of-words-between-bjp-congress-over-rahul-gandhis-shraddhanjali-post-for-shivaji-maharaj/articleshow/118391486.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "NEW DELHI: A war of words between the BJP and Congress erupted on Wednesday after the ruling party accused Congress MP Rahul Gandhi of disrespecting Chhatrapati Shivaji Maharaj by <strong>using the term &quot;shraddhanjali&quot; (homage) instead of &quot;adaranjali&quot; (respectful tribute)</strong> in his tribute on the Maratha ...",
+        "page_age": "2025-02-19T14:14:00",
+        "profile": {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/war-of-words-between-bjp-congress-over-rahul-gandhis-shraddhanjali-post-for-shivaji-maharaj/articleshow/118391486.cms",
+          "long_name": "timesofindia.indiatimes.com",
+          "img": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timesofindia.indiatimes.com",
+          "hostname": "timesofindia.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+          "path": "  › news  › india news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/mUoWmIP08KDUGJQPFfdIUXpUPSBIfR_8QGgESZcm8fE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9yZXNp/emVtb2RlLTQsd2lk/dGgtMTI4MCxoZWln/aHQtNzIwLG1zaWQt/MTE4MzkxNTM4LzEx/ODM5MTUzOC5qcGc",
+          "original": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-118391538/118391538.jpg",
+          "logo": false
+        },
+        "age": "February 19, 2025"
+      },
+      {
+        "title": "Maharashtra Lok Sabha Elections 2024: Viral Video Shows Rahul Gandhi ‘Disrespecting’ Chhatrapati Shivaji Maharaj’s Statue In Pune Rally",
+        "url": "https://www.freepressjournal.in/mumbai/maharashtra-lok-sabha-elections-2024-viral-video-shows-rahul-gandhi-disrespecting-chhatrapati-shivaji-maharajs-statue-in-pune-rally",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "This action <strong>by</strong> <strong>Rahul</strong> seems to have angered right-wing individuals, especially BJP leaders and members, who took to social media to express their criticism.",
+        "page_age": "2024-05-04T11:41:56",
+        "profile": {
+          "name": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/mumbai/maharashtra-lok-sabha-elections-2024-viral-video-shows-rahul-gandhi-disrespecting-chhatrapati-shivaji-maharajs-statue-in-pune-rally",
+          "long_name": "freepressjournal.in",
+          "img": "https://imgs.search.brave.com/iKyLP-y39eJYV94yRFKch3Lz_AJ-xY-RtG_ejvlbx_E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzAwZTMzMTYz/ODJhYjlkNDcxZmM5/MmU1YzQzZmI5MWIz/NTY2YWY3NWY2N2I0/ZjQ1ZmNiNjhlODUz/YWNhZDBlMS93d3cu/ZnJlZXByZXNzam91/cm5hbC5pbi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "freepressjournal.in",
+          "hostname": "www.freepressjournal.in",
+          "favicon": "https://imgs.search.brave.com/iKyLP-y39eJYV94yRFKch3Lz_AJ-xY-RtG_ejvlbx_E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzAwZTMzMTYz/ODJhYjlkNDcxZmM5/MmU1YzQzZmI5MWIz/NTY2YWY3NWY2N2I0/ZjQ1ZmNiNjhlODUz/YWNhZDBlMS93d3cu/ZnJlZXByZXNzam91/cm5hbC5pbi8",
+          "path": "  › home  › maharashtra elections  › topnews  › mumbai news  › maharashtra lok sabha elections 2024: viral video shows rahul gandhi ‘disrespecting’ chhatrapati shivaji maharaj’s statue in pune rally"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/q2SvD6oly3u7Pdw07xtULGu1hBoysrs9U-tag2JAOMM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mZWEu/YXNzZXR0eXBlLmNv/bS9mcmVlcHJlc3Nq/b3VybmFsL2Fzc2V0/cy9sb2dvLTYwMHg2/MC5wbmc",
+          "original": "https://fea.assettype.com/freepressjournal/assets/logo-600x60.png",
+          "logo": true
+        },
+        "age": "May 4, 2024"
+      },
+      {
+        "title": "Rahul Gandhi Shivaji Maharaj Tweet: Congress MP Sparks New Controversy Over Tribute To Maratha King On Shiv Jayanti 2025 - www.lokmattimes.com",
+        "url": "https://www.lokmattimes.com/maharashtra/rahul-gandhi-shivaji-maharaj-tweet-congress-mp-sparks-new-controversy-over-tribute-to-maratha-king-on-shiv-jayanti-2025-a475/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "While many have appreciated the ... of <strong>Shivaji</strong> <strong>Maharaj</strong>. BJP MLA Atul Bhatkhalkar has demanded that <strong>Rahul</strong> <strong>Gandhi</strong> retract his post and replace &quot;Shraddhanjali&quot; with &quot;Adaranjali.&quot; He further warned that if the post is not amended, legal action could follow. Earlier, in the day, <strong>Maharashtra</strong> Chief Minister Devendra Fadnavis warned against those trying to <strong>insult</strong> the great maratha warrior. Those who try to <strong>insult</strong> <strong>Chhatrapati</strong> <strong>Shivaji</strong> <strong>Maharaj</strong> ...",
+        "page_age": "2025-02-19T15:53:58",
+        "profile": {
+          "name": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/maharashtra/rahul-gandhi-shivaji-maharaj-tweet-congress-mp-sparks-new-controversy-over-tribute-to-maratha-king-on-shiv-jayanti-2025-a475/",
+          "long_name": "lokmattimes.com",
+          "img": "https://imgs.search.brave.com/KArrquboglkM8w_s5k3Kvizxmeaf_H6bW6kl8T9vI7c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmJiNGExNTk5/Y2UyZjc3MzUxNzQ3/NGJkZmRmNWFmZGM4/OWNlNDMzZGVkNjgx/ZWY5ZDYxNDFlOTI5/NmU4NTdlYi93d3cu/bG9rbWF0dGltZXMu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "lokmattimes.com",
+          "hostname": "www.lokmattimes.com",
+          "favicon": "https://imgs.search.brave.com/KArrquboglkM8w_s5k3Kvizxmeaf_H6bW6kl8T9vI7c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmJiNGExNTk5/Y2UyZjc3MzUxNzQ3/NGJkZmRmNWFmZGM4/OWNlNDMzZGVkNjgx/ZWY5ZDYxNDFlOTI5/NmU4NTdlYi93d3cu/bG9rbWF0dGltZXMu/Y29tLw",
+          "path": "  › home  › maharashtra  › rahul gandhi shivaji maharaj tweet: congress mp sparks new controversy over tribute to maratha king on shiv jayanti 2025"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/n-LfYZZtgcy7G3KnRPe0hG52cFKMswfcDBiouxmf-LM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kM3Bj/MXh2cmN3MzV0bC5j/bG91ZGZyb250Lm5l/dC9sbi9pbWFnZXMv/MTIwMHg5MDAvcmFo/dWwtZ2FuZGhpLXNo/aXZhamktbWFoYXJh/ai10d2VldF8yMDI1/MDI4NzgzNjYuanBn",
+          "original": "https://d3pc1xvrcw35tl.cloudfront.net/ln/images/1200x900/rahul-gandhi-shivaji-maharaj-tweet_202502878366.jpg",
+          "logo": false
+        },
+        "age": "February 19, 2025"
+      },
+      {
+        "title": "PM Modi, Shah spreading lies that Rahul Gandhi is against reservation, alleges Priyanka - The Hindu",
+        "url": "https://www.thehindu.com/elections/maharashtra-assembly/pm-modi-shah-spreading-lies-that-rahul-gandhi-is-against-reservation-alleges-priyanka/article68875842.ece",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "&quot;<strong>The statue of Chhatrapati Shivaji Maharaj outside Parliament was removed</strong>. The statue installed in Sindhudurg, collapsed as corruption took place in its construction. What is the point of taking the name of the legendary king if you want to insult that person,&quot; she said.",
+        "page_age": "2024-11-16T13:26:42",
+        "profile": {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/elections/maharashtra-assembly/pm-modi-shah-spreading-lies-that-rahul-gandhi-is-against-reservation-alleges-priyanka/article68875842.ece",
+          "long_name": "thehindu.com",
+          "img": "https://imgs.search.brave.com/7nMEtreJNappZ3K0yP6ovEhbEphNWRh8gQdd737CcXU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZThkMTk4NWZl/YjBiYjYzYjQ5MjNm/YmNhNDM2ZDlkZTAz/Y2FiODM5ZjAwNWRi/MmUyY2RmMTIwNDk5/ZWE0YmQ2Yi93d3cu/dGhlaGluZHUuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "thehindu.com",
+          "hostname": "www.thehindu.com",
+          "favicon": "https://imgs.search.brave.com/7nMEtreJNappZ3K0yP6ovEhbEphNWRh8gQdd737CcXU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZThkMTk4NWZl/YjBiYjYzYjQ5MjNm/YmNhNDM2ZDlkZTAz/Y2FiODM5ZjAwNWRi/MmUyY2RmMTIwNDk5/ZWE0YmQ2Yi93d3cu/dGhlaGluZHUuY29t/Lw",
+          "path": "› elections  › maharashtra-assembly  › pm-modi-shah-spreading-lies-that-rahul-gandhi-is-against-reservation-alleges-priyanka  › article68875842.ece"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ddAJCS6OQgSMeIjC5nW1E22hLN4RJPUYxBA-BJUDKbg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aC1p/LnRoZ2ltLmNvbS9w/dWJsaWMvaW5jb21p/bmcvOHl4Nmk0L2Fy/dGljbGU2ODg3NTg1/NS5lY2UvYWx0ZXJu/YXRlcy9MQU5EU0NB/UEVfMTIwMC9QVEkx/MV8xNl8yMDI0XzAw/MDE5NEIuanBn",
+          "original": "https://th-i.thgim.com/public/incoming/8yx6i4/article68875855.ece/alternates/LANDSCAPE_1200/PTI11_16_2024_000194B.jpg",
+          "logo": false
+        },
+        "age": "November 16, 2024"
+      },
+      {
+        "title": "Priyanka Gandhi Hits Out At BJP In Maharashtra: ‘Shivaji Maharaj Insulted, Modi-Shah Spreading Lies About Rahul’",
+        "url": "https://news.abplive.com/elections/maharashtra-election-2024-priyanka-gandhi-hits-out-at-bjp-shivaji-maharaj-insulted-lies-spread-by-narendra-modi-against-rahul-gandhi-1731718",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "She claimed projects of Rs 10 lakh ... down of 6,000 businesses. <strong>The AICC general secretary accused Mahayuti leaders of insulting Shivaji Maharaj, raking up the collapse of his statue in Sindhudurg district in August, alleging corruption</strong>....",
+        "page_age": "2024-11-16T13:47:27",
+        "profile": {
+          "name": "ABPLive",
+          "url": "https://news.abplive.com/elections/maharashtra-election-2024-priyanka-gandhi-hits-out-at-bjp-shivaji-maharaj-insulted-lies-spread-by-narendra-modi-against-rahul-gandhi-1731718",
+          "long_name": "news.abplive.com",
+          "img": "https://imgs.search.brave.com/HdsHdb_1WRqWPpLpGsFE-97Q_QpiwumGsfyuhN686hk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjZkNjU5MGZm/OGQ1ZmUyNTMwY2Ey/MjdlMzAwOTc1MzEz/MzE5YmU2YTAzYWE3/NGI0NWMwYTM5ODIy/NGZiZTIwNy9uZXdz/LmFicGxpdmUuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "news.abplive.com",
+          "hostname": "news.abplive.com",
+          "favicon": "https://imgs.search.brave.com/HdsHdb_1WRqWPpLpGsFE-97Q_QpiwumGsfyuhN686hk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjZkNjU5MGZm/OGQ1ZmUyNTMwY2Ey/MjdlMzAwOTc1MzEz/MzE5YmU2YTAzYWE3/NGI0NWMwYTM5ODIy/NGZiZTIwNy9uZXdz/LmFicGxpdmUuY29t/Lw",
+          "path": "  › home  › election 2024"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/e53i0Z_jDMjYsHWJ2VrQedSl8J0GziiyU0h1SixgWOs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/LmFicGxpdmUuY29t/L2VsZWN0aW9ucy9t/YWhhcmFzaHRyYS1l/bGVjdGlvbi0yMDI0/LXByaXlhbmthLWdh/bmRoaS1oaXRzLW91/dC1hdC1ianAtc2hp/dmFqaS1tYWhhcmFq/LWluc3VsdGVkLWxp/ZXMtc3ByZWFkLWJ5/LW5hcmVuZHJhLW1v/ZGktYWdhaW5zdC1y/YWh1bC1nYW5kaGkt/MTczMTcxOA",
+          "original": "https://news.abplive.com/elections/maharashtra-election-2024-priyanka-gandhi-hits-out-at-bjp-shivaji-maharaj-insulted-lies-spread-by-narendra-modi-against-rahul-gandhi-1731718",
+          "logo": false
+        },
+        "age": "November 16, 2024"
+      },
+      {
+        "title": "Rahul Gandhi Slammed by BJP for Referring to Shivaji Maharaj as 'Aapki History' in Maharashtra - News18",
+        "url": "https://www.news18.com/news/india/rahul-gandhi-slammed-by-bjp-for-referring-to-shivaji-maharaj-as-aapki-history-in-maharashtra-6331921.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "News » News » India » <strong>Rahul Gandhi Slammed by BJP for Referring to Shivaji Maharaj as &#x27;Aapki History&#x27; in Maharashtra</strong> ... Senior Congress leader Rahul Gandhi. (PTI) ... Bound on the Bharat Jodo Yatra, Congress leader Rahul Gandhi has come under spotlight for making a statement on Chhatrapati ...",
+        "page_age": "2022-11-08T08:25:33",
+        "profile": {
+          "name": "News18",
+          "url": "https://www.news18.com/news/india/rahul-gandhi-slammed-by-bjp-for-referring-to-shivaji-maharaj-as-aapki-history-in-maharashtra-6331921.html",
+          "long_name": "news18.com",
+          "img": "https://imgs.search.brave.com/OpF5hqfJge-zw1DD3gwjuBVaI_mSpnmIrtj5YJBuHvw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGI3ZDEzZjM3/N2Y0YzBjMjUxNmNi/OTQ2ZWMzMzllZGYw/N2VhOTcwYjIzZjY1/YzZlODMxYmQ3YjFk/MmZjZTVkNC93d3cu/bmV3czE4LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "news18.com",
+          "hostname": "www.news18.com",
+          "favicon": "https://imgs.search.brave.com/OpF5hqfJge-zw1DD3gwjuBVaI_mSpnmIrtj5YJBuHvw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGI3ZDEzZjM3/N2Y0YzBjMjUxNmNi/OTQ2ZWMzMzllZGYw/N2VhOTcwYjIzZjY1/YzZlODMxYmQ3YjFk/MmZjZTVkNC93d3cu/bmV3czE4LmNvbS8",
+          "path": "  › india"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/SNp3zlgXc6ZTNx_W3QyipUzbRonHz1IcrsuXXs-IFs8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMubmV3czE4LmNv/bS9pYm5saXZlL3Vw/bG9hZHMvMjAyMi8x/MC9yYWh1bC1nYW5k/aGktcHRpLTE2NjYy/NTY4NjMxNng5Lmpw/Zz9pbXBvbGljeT13/ZWJzaXRlJmFtcDt3/aWR0aD0xMjAwJmFt/cDtoZWlnaHQ9Njc1",
+          "original": "https://images.news18.com/ibnlive/uploads/2022/10/rahul-gandhi-pti-166625686316x9.jpg?impolicy=website&amp;width=1200&amp;height=675",
+          "logo": false
+        },
+        "age": "November 8, 2022"
+      },
+      {
+        "title": "Political Aura | Just see how Rahul Gandhi insulted the statue ...",
+        "url": "https://www.instagram.com/political_aura/reel/C6jg-lKPW8z/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "We cannot provide a description for this page right now",
+        "profile": {
+          "name": "Instagram",
+          "url": "https://www.instagram.com/political_aura/reel/C6jg-lKPW8z/",
+          "long_name": "instagram.com",
+          "img": "https://imgs.search.brave.com/kgdtgqUZQdNYzMKhbVXC5vthlFLPMJ0IOJAdFjEIRuk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2RiYmJiZDA4/NTBkNWQ0ZmQ3NDE5/OGUxOGI4NzE5ZDI0/Zjk0M2ExMDkzZmJm/ODA0MmJiMzkwZjMy/ZDM4YWVkOS93d3cu/aW5zdGFncmFtLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "instagram.com",
+          "hostname": "www.instagram.com",
+          "favicon": "https://imgs.search.brave.com/kgdtgqUZQdNYzMKhbVXC5vthlFLPMJ0IOJAdFjEIRuk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2RiYmJiZDA4/NTBkNWQ0ZmQ3NDE5/OGUxOGI4NzE5ZDI0/Zjk0M2ExMDkzZmJm/ODA0MmJiMzkwZjMy/ZDM4YWVkOS93d3cu/aW5zdGFncmFtLmNv/bS8",
+          "path": "› political_aura  › reel  › C6jg-lKPW8z"
+        }
+      },
+      {
+        "title": "BJP Slams Rahul Gandhi Over Shivaji Maharaj \"Shradhanjali\" Post, Congress Hits Back",
+        "url": "https://www.ndtv.com/india-news/bjp-slams-rahul-gandhi-over-shivaji-maharaj-shradhanjali-post-congress-hits-back-7748500",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The BJP on Wednesday accused Congress MP <strong>Rahul</strong> <strong>Gandhi</strong> of disrespecting <strong>Chhatrapati</strong> <strong>Shivaji</strong> <strong>Maharaj</strong> <strong>by</strong> offering him &quot;shradhanjali&quot; (homage) on his birth anniversary instead of the customary &quot;adaranjali&quot; (respectful tribute).",
+        "profile": {
+          "name": "NDTV",
+          "url": "https://www.ndtv.com/india-news/bjp-slams-rahul-gandhi-over-shivaji-maharaj-shradhanjali-post-congress-hits-back-7748500",
+          "long_name": "ndtv.com",
+          "img": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ndtv.com",
+          "hostname": "www.ndtv.com",
+          "favicon": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v",
+          "path": "  › home  › india news  › bjp slams rahul gandhi over shivaji maharaj \"shradhanjali\" post, congress hits back"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/or7zzorWEBeionifVZWTtmI3shnqiHPf9YxEllgzLAI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjUtMDIvYWttZGN0/Y19yYWh1bC1nYW5k/aGktc2hpdmFqaS1t/YWhhcmFqXzYyNXgz/MDBfMTlfRmVicnVh/cnlfMjUuanBlZw",
+          "original": "https://c.ndtvimg.com/2025-02/akmdctc_rahul-gandhi-shivaji-maharaj_625x300_19_February_25.jpeg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Eknath Shinde slams Rahul Gandhi over 'Shraddhanjali' post on Shivaji Maharaj, demands apology",
+        "url": "https://english.varthabharati.in/india/eknath-shinde-slams-rahul-gandhi-over-shraddhanjali-post-on-shivaji-maharaj-demands-apology",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Mumbai: <strong>Maharashtra</strong> Deputy Chief Minister Eknath Shinde has criticized Congress leader <strong>Rahul</strong> <strong>Gandhi</strong> for allegedly disrespecting <strong>Chhatrapati</strong> <strong>Shivaji</strong> <strong>Maharaj</strong> <strong>in</strong> his tribute on the occasion of Shiv Jayanti. Shinde expressed displeasure over <strong>Gandhi</strong>’s choice of words, stating that using the term shraddhanjali (condolence tribute) instead of adaranjali (respectful tribute) was an <strong>insult</strong> ...",
+        "profile": {
+          "name": "Varthabharati",
+          "url": "https://english.varthabharati.in/india/eknath-shinde-slams-rahul-gandhi-over-shraddhanjali-post-on-shivaji-maharaj-demands-apology",
+          "long_name": "english.varthabharati.in",
+          "img": "https://imgs.search.brave.com/FscMQkKU-0nEFsCSbB3QL9Oz3W1ndvV9jcrcdaLcMGg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWRhNzVjZmNi/NWY4MWI3MzE0MDA1/ZjZiNTY4YTZhODc2/ZGI5MzM5ZWE1ODk2/NmNjNWJhMjYyMTJj/NGZlYjcxMi9lbmds/aXNoLnZhcnRoYWJo/YXJhdGkuaW4v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "english.varthabharati.in",
+          "hostname": "english.varthabharati.in",
+          "favicon": "https://imgs.search.brave.com/FscMQkKU-0nEFsCSbB3QL9Oz3W1ndvV9jcrcdaLcMGg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWRhNzVjZmNi/NWY4MWI3MzE0MDA1/ZjZiNTY4YTZhODc2/ZGI5MzM5ZWE1ODk2/NmNjNWJhMjYyMTJj/NGZlYjcxMi9lbmds/aXNoLnZhcnRoYWJo/YXJhdGkuaW4v",
+          "path": "› india  › eknath-shinde-slams-rahul-gandhi-over-shraddhanjali-post-on-shivaji-maharaj-demands-apology"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/k8yYmVv8QHrACYdtgnOo70bjgssJfex2oxCMKPtHMa4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9lbmds/aXNoLnZhcnRoYWJo/YXJhdGkuaW4vc3Rv/cmFnZS91cGxvYWRz/L2luZGlhL3NoaW5k/ZV92Yl82NC5qcGVn",
+          "original": "https://english.varthabharati.in/storage/uploads/india/shinde_vb_64.jpeg",
+          "logo": false
+        }
+      },
+      {
+        "title": "'Insulted Chhatrapati Shivaji Maharaj': Maha Dy CM Eknath Shinde On Rahul Gandhi's Shraddhanjali Post; Demands Apology (Video)",
+        "url": "https://www.freepressjournal.in/mumbai/chhatrapati-shivaji-maharaj-insulted-maha-dy-cm-eknath-shinde-on-rahul-gandhis-shraddhanjali-post-demands-apology-video",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Eknath Shinde Slams <strong>Rahul</strong> <strong>Gandhi</strong> Over Shradhanjali Post On <strong>Chhatrapati</strong> <strong>Shivaji</strong> <strong>Maharaj</strong>&#x27;s Birth Anniversary; Demands Apology (Video) | <strong>Maharashtra</strong> Deputy Chief Minister Eknath Shinde on Wednesday criticised Congress leader <strong>Rahul</strong> <strong>Gandhi</strong> for allegedly disrespecting <strong>Chhatrapati</strong> <strong>Shivaji</strong> <strong>Maharaj</strong> ...",
+        "page_age": "2025-02-20T02:41:57",
+        "profile": {
+          "name": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/mumbai/chhatrapati-shivaji-maharaj-insulted-maha-dy-cm-eknath-shinde-on-rahul-gandhis-shraddhanjali-post-demands-apology-video",
+          "long_name": "freepressjournal.in",
+          "img": "https://imgs.search.brave.com/iKyLP-y39eJYV94yRFKch3Lz_AJ-xY-RtG_ejvlbx_E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzAwZTMzMTYz/ODJhYjlkNDcxZmM5/MmU1YzQzZmI5MWIz/NTY2YWY3NWY2N2I0/ZjQ1ZmNiNjhlODUz/YWNhZDBlMS93d3cu/ZnJlZXByZXNzam91/cm5hbC5pbi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "freepressjournal.in",
+          "hostname": "www.freepressjournal.in",
+          "favicon": "https://imgs.search.brave.com/iKyLP-y39eJYV94yRFKch3Lz_AJ-xY-RtG_ejvlbx_E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzAwZTMzMTYz/ODJhYjlkNDcxZmM5/MmU1YzQzZmI5MWIz/NTY2YWY3NWY2N2I0/ZjQ1ZmNiNjhlODUz/YWNhZDBlMS93d3cu/ZnJlZXByZXNzam91/cm5hbC5pbi8",
+          "path": "  › home  › fpj shorts  › topnews  › mumbai news  › insulted chhatrapati shivaji maharaj: maha dy cm eknath shinde on rahul gandhis shraddhanjali post; demands apology (video)"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/q2SvD6oly3u7Pdw07xtULGu1hBoysrs9U-tag2JAOMM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mZWEu/YXNzZXR0eXBlLmNv/bS9mcmVlcHJlc3Nq/b3VybmFsL2Fzc2V0/cy9sb2dvLTYwMHg2/MC5wbmc",
+          "original": "https://fea.assettype.com/freepressjournal/assets/logo-600x60.png",
+          "logo": true
+        },
+        "age": "February 20, 2025"
+      },
+      {
+        "title": "Maharashtra: BJP Slams Rahul Gandhi Over 'Shradhanjali' Post On Shivaji's Birth Anniversary; Congress Hits Back",
+        "url": "https://www.outlookindia.com/national/maharashtra-bjp-slams-rahul-gandhi-over-shradhanjali-post-on-shivajis-birth-anniversary-congress-hits-back",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The controversy stemmed from Mr <strong>Gandhi</strong>&#x27;s post on X in Hindi which mentioned that he was offering &quot;sadar naman and vinamra shraddhanjali&quot; to <strong>Chhatrapati</strong> <strong>Shivaji</strong> <strong>Maharaj</strong> on his birth anniversary.",
+        "page_age": "2025-02-20T08:10:13",
+        "profile": {
+          "name": "Outlook India",
+          "url": "https://www.outlookindia.com/national/maharashtra-bjp-slams-rahul-gandhi-over-shradhanjali-post-on-shivajis-birth-anniversary-congress-hits-back",
+          "long_name": "outlookindia.com",
+          "img": "https://imgs.search.brave.com/TTyt_rPShmcAjC6bi-REjY2botR8fkPaWT2Z6qwnmDg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTAyNjczZTA5/NjZiODkxODlmZmU4/MGUzMThmN2E3NTAx/MjViMThmODNjYmMw/MzdmNzhkMGNjMjU0/ZmQzZGEzOC93d3cu/b3V0bG9va2luZGlh/LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "outlookindia.com",
+          "hostname": "www.outlookindia.com",
+          "favicon": "https://imgs.search.brave.com/TTyt_rPShmcAjC6bi-REjY2botR8fkPaWT2Z6qwnmDg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTAyNjczZTA5/NjZiODkxODlmZmU4/MGUzMThmN2E3NTAx/MjViMThmODNjYmMw/MzdmNzhkMGNjMjU0/ZmQzZGEzOC93d3cu/b3V0bG9va2luZGlh/LmNvbS8",
+          "path": "  › outlook india  › national  › maharashtra bjp slams rahul gandhi over shradhanjali post on shivajis birth anniversary congress hits back"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/WBWCrSgVtKwyusYID24XUIdkWzqcwOairuyE7NauDY4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL291dGxvb2tp/bmRpYS8yMDI1LTAy/LTIwL3UwdXRnMnBt/L3JhaHVsLWdhbmRo/aS0wMTA5NDY0Nzkt/MTZ4OTEuYXZpZj93/PTEyMDAmaD02NzUm/YXV0bz1mb3JtYXQl/MkNjb21wcmVzcyZm/aXQ9bWF4JmVubGFy/Z2U9dHJ1ZQ",
+          "original": "https://media.assettype.com/outlookindia/2025-02-20/u0utg2pm/rahul-gandhi-010946479-16x91.avif?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+          "logo": false
+        },
+        "age": "February 20, 2025"
+      },
+      {
+        "title": "BJP Slams Rahul Gandhi For His 'Shraddhanjali' Post On Shivaji Maharaj; Congress Hits Back",
+        "url": "https://www.freepressjournal.in/india/bjp-slams-rahul-gandhi-for-his-shraddhanjali-post-on-shivaji-maharaj-congress-hits-back",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The 395th birth anniversary of <strong>Chhatrapati</strong> <strong>Shivaji</strong> <strong>Maharaj</strong> <strong>was</strong> celebrated across the country on Wednesday with great enthusiasm. On this occasion, Leader of Opposition in the Lok Sabha <strong>Rahul</strong> <strong>Gandhi</strong> tweeted a tribute to the revered Maratha king. However, his choice of words sparked controversy.",
+        "page_age": "2025-02-20T04:14:21",
+        "profile": {
+          "name": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/india/bjp-slams-rahul-gandhi-for-his-shraddhanjali-post-on-shivaji-maharaj-congress-hits-back",
+          "long_name": "freepressjournal.in",
+          "img": "https://imgs.search.brave.com/iKyLP-y39eJYV94yRFKch3Lz_AJ-xY-RtG_ejvlbx_E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzAwZTMzMTYz/ODJhYjlkNDcxZmM5/MmU1YzQzZmI5MWIz/NTY2YWY3NWY2N2I0/ZjQ1ZmNiNjhlODUz/YWNhZDBlMS93d3cu/ZnJlZXByZXNzam91/cm5hbC5pbi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "freepressjournal.in",
+          "hostname": "www.freepressjournal.in",
+          "favicon": "https://imgs.search.brave.com/iKyLP-y39eJYV94yRFKch3Lz_AJ-xY-RtG_ejvlbx_E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzAwZTMzMTYz/ODJhYjlkNDcxZmM5/MmU1YzQzZmI5MWIz/NTY2YWY3NWY2N2I0/ZjQ1ZmNiNjhlODUz/YWNhZDBlMS93d3cu/ZnJlZXByZXNzam91/cm5hbC5pbi8",
+          "path": "  › home  › fpj shorts  › topnews  › india  › bjp slams rahul gandhi for his shraddhanjali post on shivaji maharaj; congress hits back"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/q2SvD6oly3u7Pdw07xtULGu1hBoysrs9U-tag2JAOMM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mZWEu/YXNzZXR0eXBlLmNv/bS9mcmVlcHJlc3Nq/b3VybmFsL2Fzc2V0/cy9sb2dvLTYwMHg2/MC5wbmc",
+          "original": "https://fea.assettype.com/freepressjournal/assets/logo-600x60.png",
+          "logo": true
+        },
+        "age": "February 20, 2025"
+      },
+      {
+        "title": "Rahul Gandhi Accuses BJP and RSS of Undermining Constitution Values in Gondia Rally | Nagpur News - Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/nagpur/rahul-gandhi-accuses-bjp-and-rss-of-undermining-constitution-values-in-gondia-rally/articleshow/115228782.cms",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "In a passionate rally in Gondia, Congress MP <strong>Rahul</strong> <strong>Gandhi</strong> condemns the BJP and RSS for allegedly undermining constitutional values, emphasizing the need for proportional representation for marginalized groups and advocating for a caste census. He calls the Constitution a &#x27;book of love&#x27; and ...",
+        "page_age": "2024-11-12T18:40:00",
+        "profile": {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/city/nagpur/rahul-gandhi-accuses-bjp-and-rss-of-undermining-constitution-values-in-gondia-rally/articleshow/115228782.cms",
+          "long_name": "timesofindia.indiatimes.com",
+          "img": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "timesofindia.indiatimes.com",
+          "hostname": "timesofindia.indiatimes.com",
+          "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+          "path": "  › news  › city news  › nagpur news"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/kaCChQr_FFZp9vIbhYzOLSNSdg4l2ZsSDh4ATF3Vsz8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9yZXNp/emVtb2RlLTcyLHdp/ZHRoLTEyODAsaGVp/Z2h0LTcyMCxtc2lk/LTExNTIyODc3Ny8x/MTUyMjg3NzcuanBn",
+          "original": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-115228777/115228777.jpg",
+          "logo": false
+        },
+        "age": "November 12, 2024"
+      },
+      {
+        "title": "Weekly Wrap: Misinformation On Maharashtra Polls, US Presidential Elections & More",
+        "url": "https://newschecker.in/fact-check/weekly-wrap-misinformation-on-maharashtra-polls-us-presidential-elections-more/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Several social media users, including verified handles, shared a video claiming that Congress leader <strong>Rahul</strong> <strong>Gandhi</strong> <strong>insulted</strong> <strong>Chhatrapati</strong> <strong>Shivaji</strong> <strong>Maharaj</strong> during a recent event <strong>in</strong> <strong>Maharashtra</strong>. Newschecker, however, found that the viral video from the recently held ‘<strong>Maharashtra</strong> Swabhiman Sabha’ ...",
+        "page_age": "2024-11-09T10:48:20",
+        "profile": {
+          "name": "Newschecker",
+          "url": "https://newschecker.in/fact-check/weekly-wrap-misinformation-on-maharashtra-polls-us-presidential-elections-more/",
+          "long_name": "newschecker.in",
+          "img": "https://imgs.search.brave.com/p_MHAjYPKMAb9_jV52zUzW5DylP8hUTu4RlQyfIoO88/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGE4MGEzZDE5/Nzc5OTk1OGVjOWY0/MjBhMzFjNGVkMDgw/NjcxMzc0NjNiMzM0/YmIyZjVmMzI5NzVm/Njk0NDVjMS9uZXdz/Y2hlY2tlci5pbi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "newschecker.in",
+          "hostname": "newschecker.in",
+          "favicon": "https://imgs.search.brave.com/p_MHAjYPKMAb9_jV52zUzW5DylP8hUTu4RlQyfIoO88/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGE4MGEzZDE5/Nzc5OTk1OGVjOWY0/MjBhMzFjNGVkMDgw/NjcxMzc0NjNiMzM0/YmIyZjVmMzI5NzVm/Njk0NDVjMS9uZXdz/Y2hlY2tlci5pbi8",
+          "path": "  › home  › fact check  › weekly wrap: misinformation on maharashtra polls, us presidential elections & more"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/AzD_20-tcfpPShYjI1fkjCkgxF9LVFpTeJjWaZDVeco/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/Y2hlY2tlci5pbi93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNC8x/MS9SYXRpbmctMjAy/NC0xMS0wOVQxNjAw/MzcuMDkxLmpwZw",
+          "original": "https://newschecker.in/wp-content/uploads/2024/11/Rating-2024-11-09T160037.091.jpg",
+          "logo": false
+        },
+        "age": "November 9, 2024"
+      }
+    ],
+    "family_friendly": true
+  }
+}

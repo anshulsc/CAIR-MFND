@@ -1,0 +1,755 @@
+{
+  "query": {
+    "original": "This is real Photo taken at Kailash Mansarovar, Tibet-China border from 18,600 feet height at 3.30 am in the morning !!! Zoom and See the mesmerizing beauty of nature ... Never seen before !!!",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_geolocal": true,
+    "local_decision": "mix",
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "This is real Photo taken at Kailaas, Maan-Sarovar, Tibet-China boarder from 18,600 feet height - YouTube",
+        "url": "https://www.youtube.com/watch?v=CeXTdFD8MjI",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "This <strong>is</strong> <strong>real</strong> <strong>Photo</strong> <strong>taken</strong> <strong>at</strong> Kailaas, Maan-Sarovar, <strong>Tibet</strong>-<strong>China</strong> boarder <strong>from</strong> <strong>18</strong>,<strong>600</strong> <strong>feet</strong> <strong>height</strong> <strong>at</strong> <strong>3</strong>.<strong>30</strong> <strong>am</strong> <strong>in</strong> <strong>the</strong> <strong>morning</strong> !!! <strong>This</strong> <strong>photo</strong> <strong>is</strong> not edited !!!<strong>See</strong> ...",
+        "page_age": "2018-06-22T16:21:32",
+        "profile": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/watch?v=CeXTdFD8MjI",
+          "long_name": "youtube.com",
+          "img": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "video",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "  › bapu ki duniya"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/wWOSKyMYfLTOi_G8VC5WY6WAV8mqPBRoKY_e4BxOONw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9D/ZVhUZEZEOE1qSS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/CeXTdFD8MjI/maxresdefault.jpg",
+          "logo": false
+        },
+        "age": "June 22, 2018"
+      },
+      {
+        "title": "Mount Kailash - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mount_Kailash",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Mount <strong>Kailash</strong> (also Kailasa; Kangrinboqê or Gang Rinpoche; Standard Tibetan: གངས་རིན་པོ་ཆེ; simplified Chinese: 冈仁波齐峰; traditional Chinese: 岡仁波齊峰; pinyin: Gāngrénbōqí Fēng; Sanskrit: कैलास, IAST: Kailāsa) is a mountain in Ngari ...",
+        "page_age": "2025-07-23T18:06:59",
+        "profile": {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mount_Kailash",
+          "long_name": "en.wikipedia.org",
+          "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "deep_results": {
+          "buttons": [
+            {
+              "type": "button_result",
+              "title": "Etymology",
+              "url": "https://en.wikipedia.org/wiki/Mount_Kailash#Etymology"
+            },
+            {
+              "type": "button_result",
+              "title": "Geography and topography",
+              "url": "https://en.wikipedia.org/wiki/Mount_Kailash#Geography_and_topography"
+            },
+            {
+              "type": "button_result",
+              "title": "Mountaineering",
+              "url": "https://en.wikipedia.org/wiki/Mount_Kailash#Mountaineering"
+            },
+            {
+              "type": "button_result",
+              "title": "Religious significance",
+              "url": "https://en.wikipedia.org/wiki/Mount_Kailash#Religious_significance"
+            },
+            {
+              "type": "button_result",
+              "title": "Pilgrimage",
+              "url": "https://en.wikipedia.org/wiki/Mount_Kailash#Pilgrimage"
+            },
+            {
+              "type": "button_result",
+              "title": "Bibliography",
+              "url": "https://en.wikipedia.org/wiki/Mount_Kailash#Bibliography"
+            }
+          ]
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "en.wikipedia.org",
+          "hostname": "en.wikipedia.org",
+          "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+          "path": "› wiki  › Mount_Kailash"
+        },
+        "age": "3 days ago"
+      },
+      {
+        "title": "This video is not of Mount Kailash near Manasarovar; here's the fact check – News Mobile Fact Checker",
+        "url": "https://factcheck.newsmobile.in/this-video-is-not-of-mount-kailash-near-manasarovar-heres-the-fact-check/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A video is doing rounds on social media in which various lakes, waterfalls and gardens can be <strong>seen</strong>. It is being claimed that the video has been shot at the mount <strong>Kailash</strong> located near the Manasarovar lake.The caption of the video read: &quot;This video is",
+        "page_age": "2020-04-23T13:44:00",
+        "profile": {
+          "name": "Newsmobile",
+          "url": "https://factcheck.newsmobile.in/this-video-is-not-of-mount-kailash-near-manasarovar-heres-the-fact-check/",
+          "long_name": "factcheck.newsmobile.in",
+          "img": "https://imgs.search.brave.com/K9pri75zhUE0c3ijnGQyKjO-lCnS3WgEKYtFWKlb_84/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDQ0ZWVlMjUz/YTc5N2Y5ZGRkZDhj/YTY3ZmNiMmIwMjk4/ZmEzNTIzZDFlOWJk/ZDk0MDBiMWNlYTUz/YmI2YTMyZi9mYWN0/Y2hlY2submV3c21v/YmlsZS5pbi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "factcheck.newsmobile.in",
+          "hostname": "factcheck.newsmobile.in",
+          "favicon": "https://imgs.search.brave.com/K9pri75zhUE0c3ijnGQyKjO-lCnS3WgEKYtFWKlb_84/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDQ0ZWVlMjUz/YTc5N2Y5ZGRkZDhj/YTY3ZmNiMmIwMjk4/ZmEzNTIzZDFlOWJk/ZDk0MDBiMWNlYTUz/YmI2YTMyZi9mYWN0/Y2hlY2submV3c21v/YmlsZS5pbi8",
+          "path": "  › english  › this video is not of mount kailash near manasarovar; here's the fact check"
+        },
+        "age": "April 23, 2020"
+      },
+      {
+        "title": "Mt. Kailash, Tibet | NASA Jet Propulsion Laboratory (JPL)",
+        "url": "https://www.jpl.nasa.gov/images/pia19013-mt-kailash-tibet/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "This image from NASA&#x27;s Terra spacecraft shows Mt. <strong>Kailash</strong>, a peak in the Kailas Range <strong>in</strong> <strong>Tibet</strong>. It lies near the source of some of the longest Asian rivers: the Brahmaputra, the Sutlej and the Karnali.",
+        "profile": {
+          "name": "NASA Jet Propulsion Laboratory",
+          "url": "https://www.jpl.nasa.gov/images/pia19013-mt-kailash-tibet/",
+          "long_name": "jpl.nasa.gov",
+          "img": "https://imgs.search.brave.com/0NK_M8b1UWU4KHIseeCi5MDwqe7c0aCz9JlR4ZoJIhc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzU4NjcyYzQ0/NDAwNGRhMjg0NmQ0/MTA0ZWY3ZDRiMmM5/YmMxNmE4YWUwOTY5/NTEwYzIwZDE1NTJm/YzQ0YTZkOC93d3cu/anBsLm5hc2EuZ292/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "jpl.nasa.gov",
+          "hostname": "www.jpl.nasa.gov",
+          "favicon": "https://imgs.search.brave.com/0NK_M8b1UWU4KHIseeCi5MDwqe7c0aCz9JlR4ZoJIhc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzU4NjcyYzQ0/NDAwNGRhMjg0NmQ0/MTA0ZWY3ZDRiMmM5/YmMxNmE4YWUwOTY5/NTEwYzIwZDE1NTJm/YzQ0YTZkOC93d3cu/anBsLm5hc2EuZ292/Lw",
+          "path": "› images  › pia19013-mt-kailash-tibet"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/wxKtdlbX8i_1rYKCcrrcbsIFhqIuEw0ilOk6MkXjDaQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/anBsLm5hc2EuZ292/L2ltZy9vZy5wbmc",
+          "original": "https://www.jpl.nasa.gov/img/og.png",
+          "logo": false
+        }
+      },
+      {
+        "title": "Mt. Kailash, Tibet - ASTER Image Gallery",
+        "url": "https://asterweb.jpl.nasa.gov/gallery-detail.asp?name=kailash",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Mt. <strong>Kailash</strong> <strong>is</strong> a peak in the Kailas Range <strong>in</strong> <strong>Tibet</strong>. It lies near the source of some of the longest Asian rivers: the Brahmaputra, the Sutlej and the Karnali. It is considered sacred in four religions: Bon, Buddhism, Hinduism, and Janism. Every year thousands of pilgrims make a pilgrimage to ...",
+        "profile": {
+          "name": "Nasa",
+          "url": "https://asterweb.jpl.nasa.gov/gallery-detail.asp?name=kailash",
+          "long_name": "asterweb.jpl.nasa.gov",
+          "img": "https://imgs.search.brave.com/xyBHVg1wdEMLoEVvv0F2zFHsgKpkhA0aGNNmJFOMVMQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjhmYzhjM2Jm/Y2FhN2I3OTI2YjVi/MWVlZjNhYmJjNjNj/MjY4NjFlMjgzNTNk/YTQ3NmFiNjJiODQz/ODQxZWI1NC9hc3Rl/cndlYi5qcGwubmFz/YS5nb3Yv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "asterweb.jpl.nasa.gov",
+          "hostname": "asterweb.jpl.nasa.gov",
+          "favicon": "https://imgs.search.brave.com/xyBHVg1wdEMLoEVvv0F2zFHsgKpkhA0aGNNmJFOMVMQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjhmYzhjM2Jm/Y2FhN2I3OTI2YjVi/MWVlZjNhYmJjNjNj/MjY4NjFlMjgzNTNk/YTQ3NmFiNjJiODQz/ODQxZWI1NC9hc3Rl/cndlYi5qcGwubmFz/YS5nb3Yv",
+          "path": "› gallery-detail.asp"
+        }
+      },
+      {
+        "title": "Secrets of ancient INDIA - This is real Photo taken at Kailaas, Maan-Sarovar, Tibet-China border from 18,600 feet height at 3.30 am in the morning !!! This photo is not edited !!! Zoom and See the mesmerising beauty of nature ... Never seen before !!! दर्शन का आनंद लें. हो सके तो शेयर भी कर दें, दूसरे भक्त भी दर्शन का आनंद ले पाएंगे. | Facebook",
+        "url": "https://www.facebook.com/HiddenSecretsOfAncientIndia/photos/this-is-real-photo-taken-at-kailaas-maan-sarovar-tibet-china-border-from-18600-f/837238489754465/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "This <strong>is</strong> <strong>real</strong> <strong>Photo</strong> <strong>taken</strong> <strong>at</strong> Kailaas, Maan-Sarovar, <strong>Tibet</strong>-<strong>China</strong> <strong>border</strong> <strong>from</strong> <strong>18</strong>,<strong>600</strong> <strong>feet</strong> <strong>height</strong> <strong>at</strong> <strong>3</strong>.<strong>30</strong> <strong>am</strong> <strong>in</strong> <strong>the</strong> <strong>morning</strong> !!! <strong>This</strong> <strong>photo</strong> <strong>is</strong> not edited !!! <strong>Zoom</strong> <strong>and</strong> <strong>See</strong> <strong>the</strong> mesmerising <strong>beauty</strong> <strong>of</strong>...",
+        "profile": {
+          "name": "Facebook",
+          "url": "https://www.facebook.com/HiddenSecretsOfAncientIndia/photos/this-is-real-photo-taken-at-kailaas-maan-sarovar-tibet-china-border-from-18600-f/837238489754465/",
+          "long_name": "facebook.com",
+          "img": "https://imgs.search.brave.com/UPSLokJBKWPdNzHbqH5o3CgD13zMvR3pUTn8bk7hmPM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWM3NjZkMmE4/MTU1MTk4ZDU5YzU3/NjUxY2ExZTdjNWQx/NjJlNTY1Y2VlODM4/MmRmMDgzZDBiMmI3/YzU4NmU4ZS93d3cu/ZmFjZWJvb2suY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "facebook.com",
+          "hostname": "www.facebook.com",
+          "favicon": "https://imgs.search.brave.com/UPSLokJBKWPdNzHbqH5o3CgD13zMvR3pUTn8bk7hmPM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWM3NjZkMmE4/MTU1MTk4ZDU5YzU3/NjUxY2ExZTdjNWQx/NjJlNTY1Y2VlODM4/MmRmMDgzZDBiMmI3/YzU4NmU4ZS93d3cu/ZmFjZWJvb2suY29t/Lw",
+          "path": "› HiddenSecretsOfAncientIndia  › photos  › this-is-real-photo-taken-at-kailaas-maan-sarovar-tibet-china-border-from-18600-f  › 837238489754465"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/v67eVdQLSm8kce0g81DyFkpAS9C3cC_HG_j2X-ojmKo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zY29u/dGVudC1pYWQzLTEu/eHguZmJjZG4ubmV0/L3YvdDEuMTgxNjkt/OS8xMzUxNjcyOV84/MzcyMzg0ODk3NTQ0/NjVfNzcyMzAxNzU4/MzA0MDA3MDIxOV9u/LmpwZz9zdHA9ZHN0/LWpwZ19wMTczeDE3/MiZhbXA7X25jX2Nh/dD0xMDQmYW1wO2Nj/Yj0xLTcmYW1wO19u/Y19zaWQ9MGNiMzg5/JmFtcDtfbmNfb2hj/PVhpd1ItWDZacWZR/QVhfZjdoS1ImYW1w/O19uY19odD1zY29u/dGVudC1pYWQzLTEu/eHgmYW1wO29oPTAw/X0FmRDB1SXJFS0hr/Mkk2aVdZWk41aHZ3/Q3ptWGxYcndDX3Vi/ZDVWUXlBWGs1Q3cm/YW1wO29lPTY0MjUz/MjE4",
+          "original": "https://scontent-iad3-1.xx.fbcdn.net/v/t1.18169-9/13516729_837238489754465_7723017583040070219_n.jpg?stp=dst-jpg_p173x172&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=0cb389&amp;_nc_ohc=XiwR-X6ZqfQAX_f7hKR&amp;_nc_ht=scontent-iad3-1.xx&amp;oh=00_AfD0uIrEKHk2I6iWYZN5hvwCzmXlXrwC_ubd5VQyAXk5Cw&amp;oe=64253218",
+          "logo": false
+        }
+      },
+      {
+        "title": "Pinterest",
+        "url": "https://in.pinterest.com/pin/313000242837472101/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Skip to content · Search for easy dinners, fashion, etc · When autocomplete results are available use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestures · Log in · Sign up",
+        "page_age": "2016-11-05T08:38:48",
+        "profile": {
+          "name": "Pinterest",
+          "url": "https://in.pinterest.com/pin/313000242837472101/",
+          "long_name": "in.pinterest.com",
+          "img": "https://imgs.search.brave.com/J6Q96bPqxb-Nk70wr6ftm9XGSV6OhJbO9UNoNV17zpI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDFmOGZhODdi/MWJhZGU3Y2QzOGMx/MGQ0N2MxOGY2NmI5/ODJlOWI1NWY3OGI5/NDY2ZGI0YjNhM2Qy/MzkyMjgxMi9pbi5w/aW50ZXJlc3QuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "in.pinterest.com",
+          "hostname": "in.pinterest.com",
+          "favicon": "https://imgs.search.brave.com/J6Q96bPqxb-Nk70wr6ftm9XGSV6OhJbO9UNoNV17zpI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDFmOGZhODdi/MWJhZGU3Y2QzOGMx/MGQ0N2MxOGY2NmI5/ODJlOWI1NWY3OGI5/NDY2ZGI0YjNhM2Qy/MzkyMjgxMi9pbi5w/aW50ZXJlc3QuY29t/Lw",
+          "path": "  › explore  › travel"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/0AIS4CvDlSGbSwbiACiER3obKaRLF0fT6joCnlnnEPI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2U3Lzgx/LzAzL2U3ODEwM2Mw/MTE0Njc0ZTY3ZGNk/NmJhMTU0YzAwZjcw/LmpwZw",
+          "original": "https://i.pinimg.com/originals/e7/81/03/e78103c0114674e67dcd6ba154c00f70.jpg",
+          "logo": false
+        },
+        "age": "November 5, 2016"
+      },
+      {
+        "title": "80 MT KAILASH & MANASAROVAR ideas",
+        "url": "https://in.pinterest.com/tarun020892/mt-kailash-manasarovar/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "When autocomplete results are available use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestures · Mount <strong>Kailash</strong>, western <strong>Tibet</strong>, <strong>seen</strong> <strong>from</strong> <strong>the</strong> circuit around it. The 22,028-foot Mount Kailas is Asia&#x27;s most sacred mountain, the axis mundi ...",
+        "profile": {
+          "name": "Pinterest",
+          "url": "https://in.pinterest.com/tarun020892/mt-kailash-manasarovar/",
+          "long_name": "in.pinterest.com",
+          "img": "https://imgs.search.brave.com/J6Q96bPqxb-Nk70wr6ftm9XGSV6OhJbO9UNoNV17zpI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDFmOGZhODdi/MWJhZGU3Y2QzOGMx/MGQ0N2MxOGY2NmI5/ODJlOWI1NWY3OGI5/NDY2ZGI0YjNhM2Qy/MzkyMjgxMi9pbi5w/aW50ZXJlc3QuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "in.pinterest.com",
+          "hostname": "in.pinterest.com",
+          "favicon": "https://imgs.search.brave.com/J6Q96bPqxb-Nk70wr6ftm9XGSV6OhJbO9UNoNV17zpI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDFmOGZhODdi/MWJhZGU3Y2QzOGMx/MGQ0N2MxOGY2NmI5/ODJlOWI1NWY3OGI5/NDY2ZGI0YjNhM2Qy/MzkyMjgxMi9pbi5w/aW50ZXJlc3QuY29t/Lw",
+          "path": "› tarun020892  › mt-kailash-manasarovar"
+        }
+      },
+      {
+        "title": "This video is not of Mount Kailash near Manasarovar; here’s the fact check | Newsmobile",
+        "url": "https://newsmobile.in/articles/2020/04/23/this-video-is-not-of-mount-kailash-near-manasarovar-heres-the-fact-check/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A video is doing rounds on social media in which various lakes, waterfalls and gardens can be <strong>seen</strong>. It is being claimed that the video has been shot at the mount <strong>Kailash</strong> located near the Manasarovar lake. The caption of the video read: &quot;This video <strong>is</strong> <strong>real</strong>, <strong>taken</strong> <strong>at</strong> Kailas, Maan Sarovar from ...",
+        "page_age": "2020-04-23T07:38:41",
+        "profile": {
+          "name": "Newsmobile",
+          "url": "https://newsmobile.in/articles/2020/04/23/this-video-is-not-of-mount-kailash-near-manasarovar-heres-the-fact-check/",
+          "long_name": "newsmobile.in",
+          "img": "https://imgs.search.brave.com/lBxXAFcwILglKKHebAsiy7ZZd2OdGwm_vtF9Vc4iUew/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjhkNmU4NTQw/MDhlYjkzNDAzMjEx/NzUzN2QwZDE2MWE0/ZjRhMTNjZGM1OWU1/NTJhMDliMzcxY2Ni/NGFhODYwZS9uZXdz/bW9iaWxlLmluLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "newsmobile.in",
+          "hostname": "newsmobile.in",
+          "favicon": "https://imgs.search.brave.com/lBxXAFcwILglKKHebAsiy7ZZd2OdGwm_vtF9Vc4iUew/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjhkNmU4NTQw/MDhlYjkzNDAzMjEx/NzUzN2QwZDE2MWE0/ZjRhMTNjZGM1OWU1/NTJhMDliMzcxY2Ni/NGFhODYwZS9uZXdz/bW9iaWxlLmluLw",
+          "path": "  › home  › 2020  › april  › 23  › this video is not of mount kailash near manasarovar; here's the fact check"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/IGVx4l5CeG0jpoBeiP7m2OHpRb4JVP0RlMPxqcagvHI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/bW9iaWxlLmluL2lt/YWdl",
+          "original": "https://newsmobile.in/image",
+          "logo": false
+        },
+        "age": "April 23, 2020"
+      },
+      {
+        "title": "Lake Manasarovar - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lake_Manasarovar",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Lake Manasarovar also called Mapam Yumtso (Tibetan: མ་ཕམ་གཡུ་མཚོ།, Wylie: ma pham g.yu mtsho, THL: ma pam yu tso; Chinese: 瑪旁雍錯; pinyin: Mǎ páng yōng cuò) locally, is a high altitude freshwater lake near Mount <strong>Kailash</strong> <strong>in</strong> Burang County, Ngari Prefecture, ...",
+        "page_age": "2025-07-26T05:43:15",
+        "profile": {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lake_Manasarovar",
+          "long_name": "en.wikipedia.org",
+          "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "deep_results": {
+          "buttons": [
+            {
+              "type": "button_result",
+              "title": "Etymology",
+              "url": "https://en.wikipedia.org/wiki/Lake_Manasarovar#Etymology"
+            },
+            {
+              "type": "button_result",
+              "title": "Geography",
+              "url": "https://en.wikipedia.org/wiki/Lake_Manasarovar#Geography"
+            },
+            {
+              "type": "button_result",
+              "title": "Climate",
+              "url": "https://en.wikipedia.org/wiki/Lake_Manasarovar#Climate"
+            },
+            {
+              "type": "button_result",
+              "title": "Religious significance",
+              "url": "https://en.wikipedia.org/wiki/Lake_Manasarovar#Religious_significance"
+            },
+            {
+              "type": "button_result",
+              "title": "Pilgrimage",
+              "url": "https://en.wikipedia.org/wiki/Lake_Manasarovar#Pilgrimage"
+            }
+          ]
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "en.wikipedia.org",
+          "hostname": "en.wikipedia.org",
+          "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+          "path": "› wiki  › Lake_Manasarovar"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/4pT1vG8Vk8Dp1m_0NRRxy1lFujuuAurYSKO8Yrzldc8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8w/LzA2L1lha3MtS2Fp/bGFzaC1NYW5hc2Fy/b3Zhci5qcGc",
+          "original": "https://upload.wikimedia.org/wikipedia/commons/0/06/Yaks-Kailash-Manasarovar.jpg",
+          "logo": false
+        },
+        "age": "8 hours ago"
+      },
+      {
+        "title": "15 Little-known Mount Kailash Facts & Mysteries",
+        "url": "https://www.greattibettour.com/tibet-travel-tips/mount-kailash-facts-mysteries-you-may-not-know.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Little-known mysteries and facts about Mount <strong>Kailash</strong> might amaze you. It&#x27;s a holy place of many sects including Buddhism, Bon, Hinduism, and Jainism.",
+        "profile": {
+          "name": "Great Tibet Tour",
+          "url": "https://www.greattibettour.com/tibet-travel-tips/mount-kailash-facts-mysteries-you-may-not-know.html",
+          "long_name": "greattibettour.com",
+          "img": "https://imgs.search.brave.com/Q8bDfhNAPtk0JsK0F79b2ZuT-WwdwaC54fjgNbTrow0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTNiYzBiNGFk/MGQ5ZjM2YWJiZGE3/OGYwMGEyZDdmMDI0/ZTZiZjkwMTkyOGU4/ZmE3ZTIwOTkyMmVk/MTliZTQzZC93d3cu/Z3JlYXR0aWJldHRv/dXIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "greattibettour.com",
+          "hostname": "www.greattibettour.com",
+          "favicon": "https://imgs.search.brave.com/Q8bDfhNAPtk0JsK0F79b2ZuT-WwdwaC54fjgNbTrow0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTNiYzBiNGFk/MGQ5ZjM2YWJiZGE3/OGYwMGEyZDdmMDI0/ZTZiZjkwMTkyOGU4/ZmE3ZTIwOTkyMmVk/MTliZTQzZC93d3cu/Z3JlYXR0aWJldHRv/dXIuY29tLw",
+          "path": "› tibet-travel-tips  › mount-kailash-facts-mysteries-you-may-not-know.html"
+        }
+      },
+      {
+        "title": "15 Mysteries and Secrets of Mount Kailash (More than a Sacred Mountain)",
+        "url": "https://www.tibettravel.org/kailash-tour/mount-kailash-mysteries-and-secrets.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>See</strong> 15 mysteries and secrest of Mount <strong>Kailash</strong> to learn why it is more than a sacred mountain <strong>in</strong> <strong>Tibet</strong>.",
+        "page_age": "2024-11-29T14:45:20",
+        "profile": {
+          "name": "Tibet Vista",
+          "url": "https://www.tibettravel.org/kailash-tour/mount-kailash-mysteries-and-secrets.html",
+          "long_name": "tibettravel.org",
+          "img": "https://imgs.search.brave.com/glRRwsbbWBqikDb6bRvPw_qMkQ7_RrQXD-8V41rqDEo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGY1MmZkODI1/MjQ2NjYyNjBlOTc5/MTIzZDkzYTgwNjU1/Y2Y3ZjAwZDJlZTk0/YTI1ZGVlYWVkNzEx/OWIzNTExNS93d3cu/dGliZXR0cmF2ZWwu/b3JnLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "tibettravel.org",
+          "hostname": "www.tibettravel.org",
+          "favicon": "https://imgs.search.brave.com/glRRwsbbWBqikDb6bRvPw_qMkQ7_RrQXD-8V41rqDEo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGY1MmZkODI1/MjQ2NjYyNjBlOTc5/MTIzZDkzYTgwNjU1/Y2Y3ZjAwZDJlZTk0/YTI1ZGVlYWVkNzEx/OWIzNTExNS93d3cu/dGliZXR0cmF2ZWwu/b3JnLw",
+          "path": "› kailash-tour  › mount-kailash-mysteries-and-secrets.html"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/O-SCmqbC2Lj1MqIf1YfTi4x5KN-z7hW6v7xvXH1G6PU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kYXRh/LnRpYmV0dHJhdmVs/Lm9yZw",
+          "original": "https://data.tibettravel.org",
+          "logo": false
+        },
+        "age": "November 29, 2024"
+      },
+      {
+        "title": "Milky way over Mt. Kailash in Tibet.",
+        "url": "https://www.pinterest.com/pin/milky-way-over-mt-kailash-in-tibet--725431452483475589/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "When autocomplete results are available use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestures · Download authentic Milky Way royalty-free stock <strong>photos</strong> &amp; images. Getty Images offers global use rights &amp; simple pricing with volume discounts",
+        "page_age": "2021-07-10T01:23:38",
+        "profile": {
+          "name": "Pinterest",
+          "url": "https://www.pinterest.com/pin/milky-way-over-mt-kailash-in-tibet--725431452483475589/",
+          "long_name": "pinterest.com",
+          "img": "https://imgs.search.brave.com/-h42ysf4Z1TVzWXJ_OIFNE0ITzUbcR1EHzme8pM24s0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2Y1ZmYzYzAx/ZTdjNDk1MTMwODVj/OWRlNTBlZTBmZWU5/Y2U1YzA2MGMwZmVj/ZWE5NmJjZjk2OGZi/MWZhNTY0Mi93d3cu/cGludGVyZXN0LmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pinterest.com",
+          "hostname": "www.pinterest.com",
+          "favicon": "https://imgs.search.brave.com/-h42ysf4Z1TVzWXJ_OIFNE0ITzUbcR1EHzme8pM24s0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2Y1ZmYzYzAx/ZTdjNDk1MTMwODVj/OWRlNTBlZTBmZWU5/Y2U1YzA2MGMwZmVj/ZWE5NmJjZjk2OGZi/MWZhNTY0Mi93d3cu/cGludGVyZXN0LmNv/bS8",
+          "path": "  › explore"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/1vHZSWSVDok-Is_yOGtv3_Hcp55jb9jEMBlj3EoUrKw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2Y0LzZm/LzBlL2Y0NmYwZWRl/OGE5NDY3NWExMjJm/ZTc5ZmJhYWM3YTkx/LmpwZw",
+          "original": "https://i.pinimg.com/originals/f4/6f/0e/f46f0ede8a94675a122fe79fbaac7a91.jpg",
+          "logo": false
+        },
+        "age": "July 10, 2021"
+      },
+      {
+        "title": "763 Mt Kailash Stock Photos, High-Res Pictures, and Images - Getty Images",
+        "url": "https://www.gettyimages.in/photos/mt-kailash",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Explore Authentic, Mt <strong>Kailash</strong> Stock <strong>Photos</strong> &amp; Images For Your Project Or Campaign. Less Searching, More Finding With Getty Images.",
+        "profile": {
+          "name": "Getty Images",
+          "url": "https://www.gettyimages.in/photos/mt-kailash",
+          "long_name": "gettyimages.in",
+          "img": "https://imgs.search.brave.com/PNfpuI4Zkv18a4aDMoVMu6e_cZnKlZ-MbrBNldR4jZY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTIyMTkyMDBi/YmYxMWRjMThiNjQ3/MWEyNDJiZmYzODcy/ZjZiYjI0ZjhiODIw/NDJjOWVhNTQ4ODlj/MDQ2ZWYxZi93d3cu/Z2V0dHlpbWFnZXMu/aW4v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "gettyimages.in",
+          "hostname": "www.gettyimages.in",
+          "favicon": "https://imgs.search.brave.com/PNfpuI4Zkv18a4aDMoVMu6e_cZnKlZ-MbrBNldR4jZY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTIyMTkyMDBi/YmYxMWRjMThiNjQ3/MWEyNDJiZmYzODcy/ZjZiYjI0ZjhiODIw/NDJjOWVhNTQ4ODlj/MDQ2ZWYxZi93d3cu/Z2V0dHlpbWFnZXMu/aW4v",
+          "path": "› photos  › mt-kailash"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/wNC2FrRKcestMKWiwp9OJWTV-YYJZbc7ATwxeyOey8M/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Z2V0dHlpbWFnZXMu/aW4vcGhvdG9zL210/LWthaWxhc2g",
+          "original": "https://www.gettyimages.in/photos/mt-kailash",
+          "logo": false
+        }
+      },
+      {
+        "title": "Montage of scenic locations across China viral as 'Kailash Mansarovar' - Alt News",
+        "url": "https://www.altnews.in/old-footage-from-chinas-tourist-places-shared-as-kailash-mansarovar/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Social media users have recently been sharing a video across Twitter and Facebook, claiming that it shows the Indo-Tibetan <strong>border</strong>. <strong>The</strong> original Hindi caption alongside the viral clip reads, “This...",
+        "page_age": "2020-11-11T18:07:11",
+        "profile": {
+          "name": "Alt News",
+          "url": "https://www.altnews.in/old-footage-from-chinas-tourist-places-shared-as-kailash-mansarovar/",
+          "long_name": "altnews.in",
+          "img": "https://imgs.search.brave.com/N1HFYAQbPIM71wV5xFews3ahVZ_2withLKHna1DzXEI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDQyZDFhOTE1/YThlYjhmZmM2Zjc0/NDdkNDcxYWQ3ODAw/ZjU0NDExNjRjZjU3/ZGY3MjkzNjhlZmQx/YTI2ODBiZC93d3cu/YWx0bmV3cy5pbi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "altnews.in",
+          "hostname": "www.altnews.in",
+          "favicon": "https://imgs.search.brave.com/N1HFYAQbPIM71wV5xFews3ahVZ_2withLKHna1DzXEI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDQyZDFhOTE1/YThlYjhmZmM2Zjc0/NDdkNDcxYWQ3ODAw/ZjU0NDExNjRjZjU3/ZGY3MjkzNjhlZmQx/YTI2ODBiZC93d3cu/YWx0bmV3cy5pbi8",
+          "path": "  › home  › religion  › montage of scenic locations across china viral as ‘kailash mansarovar’"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/G6gRjEC6rYSUTiNYhXptgLMVDY3fQinTz_wj5kLlzfg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vd3d3LmFs/dG5ld3MuaW4vd3At/Y29udGVudC91cGxv/YWRzLzIwMjAvMTEv/bW91bnRhaW5zLUZJ/LTIuanBnP3Jlc2l6/ZT0xMjAwJTJDNjI4/JnNzbD0x",
+          "original": "https://i0.wp.com/www.altnews.in/wp-content/uploads/2020/11/mountains-FI-2.jpg?resize=1200%2C628&ssl=1",
+          "logo": false
+        },
+        "age": "November 11, 2020"
+      },
+      {
+        "title": "Arpin Gajjar - This is real Photo taken at Kailaas, Maan-Sarovar,...",
+        "url": "https://arpingajjar.tumblr.com/post/139914743066/this-is-real-photo-taken-at-kailaas-maan-sarovar#_=_",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "This <strong>is</strong> <strong>real</strong> <strong>Photo</strong> <strong>taken</strong> <strong>at</strong> Kailaas, Maan-Sarovar, <strong>Tibet</strong>-<strong>China</strong> <strong>border</strong> <strong>from</strong> <strong>18</strong>,<strong>600</strong> <strong>feet</strong> <strong>height</strong> <strong>at</strong> <strong>3</strong>.<strong>30</strong> <strong>am</strong> <strong>in</strong> <strong>the</strong> <strong>morning</strong> !!! <strong>This</strong> <strong>photo</strong> <strong>is</strong> not edited !!! <strong>Zoom</strong> <strong>and</strong> <strong>See</strong> <strong>the</strong> mesmerising <strong>beauty</strong> <strong>of</strong> <strong>nature</strong> …...",
+        "page_age": "2016-02-24T21:23:21",
+        "profile": {
+          "name": "Arpin Gajjar",
+          "url": "https://arpingajjar.tumblr.com/post/139914743066/this-is-real-photo-taken-at-kailaas-maan-sarovar#_=_",
+          "long_name": "arpingajjar.tumblr.com",
+          "img": "https://imgs.search.brave.com/KFvFaGZlxoxGgccJ4uLqaTIRjL9Bk8meLRK6OwdqAOQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGJlMjQyNDRi/OGFiZWE0ZWY4N2Y4/NTlhZDZjYjFiYzIy/YTQxYmJhMGM4ZWZk/Y2UyOGZjOTY3MmE0/ZGFhM2JmYS9hcnBp/bmdhamphci50dW1i/bHIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "arpingajjar.tumblr.com",
+          "hostname": "arpingajjar.tumblr.com",
+          "favicon": "https://imgs.search.brave.com/KFvFaGZlxoxGgccJ4uLqaTIRjL9Bk8meLRK6OwdqAOQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGJlMjQyNDRi/OGFiZWE0ZWY4N2Y4/NTlhZDZjYjFiYzIy/YTQxYmJhMGM4ZWZk/Y2UyOGZjOTY3MmE0/ZGFhM2JmYS9hcnBp/bmdhamphci50dW1i/bHIuY29tLw",
+          "path": "› post  › 139914743066  › this-is-real-photo-taken-at-kailaas-maan-sarovar"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/InU2D0xhf0GF2Ca4aTbLVslJNbxTeKMNEfhxbsczam4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly82Ni5t/ZWRpYS50dW1ibHIu/Y29tLzAwZDI4MmI5/NzFhODA1YjcxZTk2/ZmY0MGM4OTcwYzcz/L3R1bWJscl9vMzI4/NnhvdURKMXUwbG5j/ZG8xXzUwMC5qcGc",
+          "original": "https://66.media.tumblr.com/00d282b971a805b71e96ff40c8970c73/tumblr_o3286xouDJ1u0lncdo1_500.jpg",
+          "logo": false
+        },
+        "age": "February 24, 2016"
+      },
+      {
+        "title": "Viral Video Does Not Show Rare Visuals From Kailash Mansarovar Yatra",
+        "url": "https://newschecker.in/fact-check/kailash-mansarovar-yatra-rare-video-false/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A video claiming to show rare visuals <strong>from</strong> <strong>Kailash</strong> <strong>Mansarovar</strong> Yatra is going viral on social media platforms. Newschecker found the claim to be untrue. The v...",
+        "page_age": "2023-01-17T16:49:32",
+        "profile": {
+          "name": "Newschecker",
+          "url": "https://newschecker.in/fact-check/kailash-mansarovar-yatra-rare-video-false/",
+          "long_name": "newschecker.in",
+          "img": "https://imgs.search.brave.com/p_MHAjYPKMAb9_jV52zUzW5DylP8hUTu4RlQyfIoO88/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGE4MGEzZDE5/Nzc5OTk1OGVjOWY0/MjBhMzFjNGVkMDgw/NjcxMzc0NjNiMzM0/YmIyZjVmMzI5NzVm/Njk0NDVjMS9uZXdz/Y2hlY2tlci5pbi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "newschecker.in",
+          "hostname": "newschecker.in",
+          "favicon": "https://imgs.search.brave.com/p_MHAjYPKMAb9_jV52zUzW5DylP8hUTu4RlQyfIoO88/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGE4MGEzZDE5/Nzc5OTk1OGVjOWY0/MjBhMzFjNGVkMDgw/NjcxMzc0NjNiMzM0/YmIyZjVmMzI5NzVm/Njk0NDVjMS9uZXdz/Y2hlY2tlci5pbi8",
+          "path": "  › home  › fact check  › no, viral video does not show rare visuals from kailash mansarovar yatra"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/5ThuqCoX1G9l6J6fbTkvaDatXLfh7ZmntX_Vp0omY-c/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/Y2hlY2tlci5pbi93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMy8w/MS9WQVNVREhBLVRI/VU1CTkFJTC0yMDIz/LTAxLTE3VDIyMTc0/MC42NTkuanBn",
+          "original": "https://newschecker.in/wp-content/uploads/2023/01/VASUDHA-THUMBNAIL-2023-01-17T221740.659.jpg",
+          "logo": false
+        },
+        "age": "January 17, 2023"
+      },
+      {
+        "title": "Kailash Mansarovar Yatra - Bookings Open for 2025",
+        "url": "https://trekthehimalayas.com/kailash-mansarovar-yatra",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Kailash</strong> <strong>Mansarovar</strong> Yatra, is a place of deep spiritual significance. Visit Lake <strong>Mansarovar</strong> <strong>and</strong> experience Charan Sparsh for divine blessings.",
+        "profile": {
+          "name": "Trek The Himalayas",
+          "url": "https://trekthehimalayas.com/kailash-mansarovar-yatra",
+          "long_name": "trekthehimalayas.com",
+          "img": "https://imgs.search.brave.com/YkRwjX7kpi4i1dS1NaWoxl688UDOBJsPnDTffjmmCYw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODA1NzI0OGQz/MWI0NTM4YTdhMjUz/OGIxMzdhM2UzYzYy/OTg3MjdmZWIzNGE0/MjkwNjg0ZDUwMTA5/OWI3ZGNiMS90cmVr/dGhlaGltYWxheWFz/LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "product",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "trekthehimalayas.com",
+          "hostname": "trekthehimalayas.com",
+          "favicon": "https://imgs.search.brave.com/YkRwjX7kpi4i1dS1NaWoxl688UDOBJsPnDTffjmmCYw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODA1NzI0OGQz/MWI0NTM4YTdhMjUz/OGIxMzdhM2UzYzYy/OTg3MjdmZWIzNGE0/MjkwNjg0ZDUwMTA5/OWI3ZGNiMS90cmVr/dGhlaGltYWxheWFz/LmNvbS8",
+          "path": "› kailash-mansarovar-yatra"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/P4j6gv0hV7GzsFA_IUCyQv8SVc1sS1Ib5AiXtPZ5NxM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90cmVr/dGhlaGltYWxheWFz/LmNvbS9pbWFnZXMv/S2FpbGFzaE1hbnNh/cm92YXJZYXRyYS9P/Zy82MTljOGM4OC1l/YTBiLTRkN2EtOTY4/NS04ZmEwNDE5YTc0/NjFfa2FpbGFzaC1t/YW5zc3JvdmVyLndl/YnA",
+          "original": "https://trekthehimalayas.com/images/KailashMansarovarYatra/Og/619c8c88-ea0b-4d7a-9685-8fa0419a7461_kailash-manssrover.webp",
+          "logo": false
+        }
+      },
+      {
+        "title": "Fact Check: This viral video is NOT of Kailash Mansarovar, but a montage of different locations in China – News Mobile Fact Checker",
+        "url": "https://factcheck.newsmobile.in/fact-check-this-viral-video-is-not-of-kailash-mansarovar-but-a-montage-of-different-locations-in-china/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A video containing different clips of an outdoor location is being shared on social media with a claim that it is the video <strong>of</strong> <strong>Kailash</strong> <strong>Mansarovar</strong> along <strong>the</strong> <strong>Tibet</strong>-<strong>China</strong> <strong>border</strong>.&quot;कैलाश मानसरोवर (तिब्बत-चीन) बॉर्डर पर सुबह ...",
+        "page_age": "2020-11-20T13:44:00",
+        "profile": {
+          "name": "Newsmobile",
+          "url": "https://factcheck.newsmobile.in/fact-check-this-viral-video-is-not-of-kailash-mansarovar-but-a-montage-of-different-locations-in-china/",
+          "long_name": "factcheck.newsmobile.in",
+          "img": "https://imgs.search.brave.com/K9pri75zhUE0c3ijnGQyKjO-lCnS3WgEKYtFWKlb_84/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDQ0ZWVlMjUz/YTc5N2Y5ZGRkZDhj/YTY3ZmNiMmIwMjk4/ZmEzNTIzZDFlOWJk/ZDk0MDBiMWNlYTUz/YmI2YTMyZi9mYWN0/Y2hlY2submV3c21v/YmlsZS5pbi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "factcheck.newsmobile.in",
+          "hostname": "factcheck.newsmobile.in",
+          "favicon": "https://imgs.search.brave.com/K9pri75zhUE0c3ijnGQyKjO-lCnS3WgEKYtFWKlb_84/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDQ0ZWVlMjUz/YTc5N2Y5ZGRkZDhj/YTY3ZmNiMmIwMjk4/ZmEzNTIzZDFlOWJk/ZDk0MDBiMWNlYTUz/YmI2YTMyZi9mYWN0/Y2hlY2submV3c21v/YmlsZS5pbi8",
+          "path": "  › english  › fact check: this viral video is not of kailash mansarovar, but a montage of different locations in china"
+        },
+        "age": "November 20, 2020"
+      }
+    ],
+    "family_friendly": true
+  }
+}

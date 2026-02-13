@@ -1,0 +1,716 @@
+{
+  "query": {
+    "original": "This is literally terrorism.It's a long term game.Spreading the parasites into our own country & then devour us from inside.",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "type": "search",
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Global Terrorism: Threats to the Homeland | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/news/testimony/global-terrorism-threats-to-the-homeland-103019",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Statement by Director Christopher Wray before the House Homeland Security Committee",
+        "page_age": "2022-07-21T15:48:25",
+        "profile": {
+          "name": "FBI",
+          "url": "https://www.fbi.gov/news/testimony/global-terrorism-threats-to-the-homeland-103019",
+          "long_name": "fbi.gov",
+          "img": "https://imgs.search.brave.com/VdZiwjn2qnY0nY_N61CXDeHoj6E46PrEnoyHpNTEpwo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjUwNTFmOWU3/MGJiNGQ3NTM0ZTBl/YWM3MjAwMjg3MGI5/ODJhNzQxNjMwOTBk/NzIxNGQyZGU5ODg1/Y2E0ODliZi93d3cu/ZmJpLmdvdi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "fbi.gov",
+          "hostname": "www.fbi.gov",
+          "favicon": "https://imgs.search.brave.com/VdZiwjn2qnY0nY_N61CXDeHoj6E46PrEnoyHpNTEpwo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjUwNTFmOWU3/MGJiNGQ3NTM0ZTBl/YWM3MjAwMjg3MGI5/ODJhNzQxNjMwOTBk/NzIxNGQyZGU5ODg1/Y2E0ODliZi93d3cu/ZmJpLmdvdi8",
+          "path": "› news  › testimony  › global-terrorism-threats-to-the-homeland-103019"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/N0f4P1I_bG5TDd7lwJGHJXgYD25RFwgUPrMqvViEoH0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/ZmJpLmdvdi9uZXdz/L3Rlc3RpbW9ueS9n/bG9iYWwtdGVycm9y/aXNtLXRocmVhdHMt/dG8tdGhlLWhvbWVs/YW5kLTEwMzAxOS9A/QGltYWdlcy9pbWFn/ZQ",
+          "original": "https://www.fbi.gov/news/testimony/global-terrorism-threats-to-the-homeland-103019/@@images/image",
+          "logo": false
+        },
+        "age": "July 21, 2022"
+      },
+      {
+        "title": "GLOBAL TERRORISM: THREATS TO THE HOMELAND, PART I | Congress.gov | Library of Congress",
+        "url": "https://www.congress.gov/event/116th-congress/house-event/LC65095/text",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Examples: &quot;Trade Relations&quot;, &quot;Export Controls&quot; · Examples: hr5, h.r.5, sjres8, sa2, pl116-21, 86Stat1326",
+        "profile": {
+          "name": "Congress.gov",
+          "url": "https://www.congress.gov/event/116th-congress/house-event/LC65095/text",
+          "long_name": "congress.gov",
+          "img": "https://imgs.search.brave.com/mS7dnCOPeGLzMCoM-XU1iV5JNkPmH1pBHj03NwiH39w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTdkYjBjOGVl/YjQ5M2Y0MDA5ZWU5/YzgyZjdlM2YzMGM4/MjJlNTg0YTRiNzdj/YjIwYjJlNjVjYzJm/YjQyZjVkZi93d3cu/Y29uZ3Jlc3MuZ292/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "congress.gov",
+          "hostname": "www.congress.gov",
+          "favicon": "https://imgs.search.brave.com/mS7dnCOPeGLzMCoM-XU1iV5JNkPmH1pBHj03NwiH39w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTdkYjBjOGVl/YjQ5M2Y0MDA5ZWU5/YzgyZjdlM2YzMGM4/MjJlNTg0YTRiNzdj/YjIwYjJlNjVjYzJm/YjQyZjVkZi93d3cu/Y29uZ3Jlc3MuZ292/Lw",
+          "path": "› event  › 116th-congress  › house-event  › LC65095  › text"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/o1bp7Vq3sjd9XxsBTpdn7m97rt8vPbBO2Oc9VIG51ng/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y29uZ3Jlc3MuZ292/L2ltZy9vcGVuZ3Jh/cGgxMjAwYnk2MzAu/anBn",
+          "original": "https://www.congress.gov/img/opengraph1200by630.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Terrorism",
+        "url": "https://www.fema.gov/pdf/areyouready/terrorism.pdf",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "How Can FEMA Help? Check Your Disaster Application",
+        "profile": {
+          "name": "FEMA",
+          "url": "https://www.fema.gov/pdf/areyouready/terrorism.pdf",
+          "long_name": "fema.gov",
+          "img": "https://imgs.search.brave.com/kLVa5Tm_4ZHXgX-VSm3CZZuaWx7yXHWbt0h-jMSGbHw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmZmODc5ODIz/YjVlYzUzYWE3NWYz/MjE2ZWU1ODc0NDQy/MWQ0MWEzYzViNDVk/ZTk0MjUzODAzZDFl/NTJkODNlYS93d3cu/ZmVtYS5nb3Yv"
+        },
+        "language": "unk",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "fema.gov",
+          "hostname": "www.fema.gov",
+          "favicon": "https://imgs.search.brave.com/kLVa5Tm_4ZHXgX-VSm3CZZuaWx7yXHWbt0h-jMSGbHw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmZmODc5ODIz/YjVlYzUzYWE3NWYz/MjE2ZWU1ODc0NDQy/MWQ0MWEzYzViNDVk/ZTk0MjUzODAzZDFl/NTJkODNlYS93d3cu/ZmVtYS5nb3Yv",
+          "path": "› pdf  › areyouready  › terrorism.pdf"
+        },
+        "content_type": "pdf"
+      },
+      {
+        "title": "The Escalating Terrorism Problem in the United States | CSIS",
+        "url": "https://www.csis.org/analysis/escalating-terrorism-problem-united-states",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The United States faces a growing <strong>terrorism</strong> problem that will likely worsen in the next year, particularly around the 2020 presidential election. The most significant threat likely comes from white supremacists, though anarchists and religious extremists could also pose a threat.",
+        "page_age": "2025-03-21T19:31:31",
+        "profile": {
+          "name": "Center for Strategic and International Studies",
+          "url": "https://www.csis.org/analysis/escalating-terrorism-problem-united-states",
+          "long_name": "csis.org",
+          "img": "https://imgs.search.brave.com/0fNT0DnQNE-g0WUpFRpRp6krms9wxt5yiel9zl9uW8g/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGVjYWQ4MjZk/MzNiMjhkNjE0MTBi/NDkzNzNlYWU1YmRl/NDFlMWMwNWI0OWMz/MGQ0NjkxN2IzZWVj/ZDgxMDQ1ZS93d3cu/Y3Npcy5vcmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "csis.org",
+          "hostname": "www.csis.org",
+          "favicon": "https://imgs.search.brave.com/0fNT0DnQNE-g0WUpFRpRp6krms9wxt5yiel9zl9uW8g/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGVjYWQ4MjZk/MzNiMjhkNjE0MTBi/NDkzNzNlYWU1YmRl/NDFlMWMwNWI0OWMz/MGQ0NjkxN2IzZWVj/ZDgxMDQ1ZS93d3cu/Y3Npcy5vcmcv",
+          "path": "› analysis  › escalating-terrorism-problem-united-states"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Txeoxu2I6TOys-0h6PDdStaMVv_Lo0hqCNNKgnWOkXI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jc2lz/LXdlYnNpdGUtcHJv/ZC5zMy5hbWF6b25h/d3MuY29tL3MzZnMt/cHVibGljL3B1Ymxp/Y2F0aW9uLzIwMDQx/N19UTlQyLmpwZw",
+          "original": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/200417_TNT2.jpg",
+          "logo": false
+        },
+        "age": "March 21, 2025"
+      },
+      {
+        "title": "Introduction to International Terrorism",
+        "url": "https://www.unodc.org/documents/e4j/18-04932_CT_Mod_01_ebook_FINALpdf.pdf",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "united nations office on drugs and crime",
+        "profile": {
+          "name": "UNODC",
+          "url": "https://www.unodc.org/documents/e4j/18-04932_CT_Mod_01_ebook_FINALpdf.pdf",
+          "long_name": "unodc.org",
+          "img": "https://imgs.search.brave.com/4oBwhpnsxaUMA-y8m9Ccyrn9rHsUHThQhDDjnH6W_iU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2RjZDY0NzE4/YzI5ZWRkZDhiYzE5/NDBlOWE3MWM0ZjQ2/NGU1YjM5NWZmZDk2/ZmUxODRiN2E4OGZk/Nzc4OTJlZS93d3cu/dW5vZGMub3JnLw"
+        },
+        "language": "unk",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "unodc.org",
+          "hostname": "www.unodc.org",
+          "favicon": "https://imgs.search.brave.com/4oBwhpnsxaUMA-y8m9Ccyrn9rHsUHThQhDDjnH6W_iU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2RjZDY0NzE4/YzI5ZWRkZDhiYzE5/NDBlOWE3MWM0ZjQ2/NGU1YjM5NWZmZDk2/ZmUxODRiN2E4OGZk/Nzc4OTJlZS93d3cu/dW5vZGMub3JnLw",
+          "path": "› documents  › e4j  › 18-04932_CT_Mod_01_ebook_FINALpdf.pdf"
+        },
+        "content_type": "pdf"
+      },
+      {
+        "title": "“State Sponsors of Terrorism: An Examination of Iran’s Global Terrorism Network.” | Congress.gov | Library of Congress",
+        "url": "https://www.congress.gov/event/115th-congress/house-event/108155/text",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "“State Sponsors of <strong>Terrorism</strong>: An Examination of Iran’<strong>s</strong> Global <strong>Terrorism</strong> Network.”",
+        "profile": {
+          "name": "Congress.gov",
+          "url": "https://www.congress.gov/event/115th-congress/house-event/108155/text",
+          "long_name": "congress.gov",
+          "img": "https://imgs.search.brave.com/mS7dnCOPeGLzMCoM-XU1iV5JNkPmH1pBHj03NwiH39w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTdkYjBjOGVl/YjQ5M2Y0MDA5ZWU5/YzgyZjdlM2YzMGM4/MjJlNTg0YTRiNzdj/YjIwYjJlNjVjYzJm/YjQyZjVkZi93d3cu/Y29uZ3Jlc3MuZ292/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "congress.gov",
+          "hostname": "www.congress.gov",
+          "favicon": "https://imgs.search.brave.com/mS7dnCOPeGLzMCoM-XU1iV5JNkPmH1pBHj03NwiH39w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTdkYjBjOGVl/YjQ5M2Y0MDA5ZWU5/YzgyZjdlM2YzMGM4/MjJlNTg0YTRiNzdj/YjIwYjJlNjVjYzJm/YjQyZjVkZi93d3cu/Y29uZ3Jlc3MuZ292/Lw",
+          "path": "› event  › 115th-congress  › house-event  › 108155  › text"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/o1bp7Vq3sjd9XxsBTpdn7m97rt8vPbBO2Oc9VIG51ng/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y29uZ3Jlc3MuZ292/L2ltZy9vcGVuZ3Jh/cGgxMjAwYnk2MzAu/anBn",
+          "original": "https://www.congress.gov/img/opengraph1200by630.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Terrorism | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/investigate/terrorism",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "To counter <strong>terrorism</strong>, <strong>the</strong> FBI&#x27;<strong>s</strong> top investigative priority, we use our investigative and intelligence capabilities to neutralize domestic extremists and help dismantle terrorist networks worldwide.",
+        "page_age": "2016-05-03T12:54:00",
+        "profile": {
+          "name": "FBI",
+          "url": "https://www.fbi.gov/investigate/terrorism",
+          "long_name": "fbi.gov",
+          "img": "https://imgs.search.brave.com/VdZiwjn2qnY0nY_N61CXDeHoj6E46PrEnoyHpNTEpwo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjUwNTFmOWU3/MGJiNGQ3NTM0ZTBl/YWM3MjAwMjg3MGI5/ODJhNzQxNjMwOTBk/NzIxNGQyZGU5ODg1/Y2E0ODliZi93d3cu/ZmJpLmdvdi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "fbi.gov",
+          "hostname": "www.fbi.gov",
+          "favicon": "https://imgs.search.brave.com/VdZiwjn2qnY0nY_N61CXDeHoj6E46PrEnoyHpNTEpwo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjUwNTFmOWU3/MGJiNGQ3NTM0ZTBl/YWM3MjAwMjg3MGI5/ODJhNzQxNjMwOTBk/NzIxNGQyZGU5ODg1/Y2E0ODliZi93d3cu/ZmJpLmdvdi8",
+          "path": "› investigate  › terrorism"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/BfOzG0WrFA2E_IiSsVgdV2ICs8WH86ja7gDzqA-PUd8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/ZmJpLmdvdi9pbnZl/c3RpZ2F0ZS90ZXJy/b3Jpc20vQEBpbWFn/ZXMvaW1hZ2U",
+          "original": "https://www.fbi.gov/investigate/terrorism/@@images/image",
+          "logo": false
+        },
+        "age": "May 3, 2016"
+      },
+      {
+        "title": "- THE THREAT OF BIOTERRORISM AND THE SPREAD OF INFECTIOUS DISEASES",
+        "url": "https://www.govinfo.gov/content/pkg/CHRG-107shrg75040/html/CHRG-107shrg75040.htm",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Definition, historical note, and assessment of scope of the BW threat I will define <strong>biological warfare</strong> as the use of agents of disease for hostile purposes. This embraces attacks on human health and survival, but extends also to plant and animal crops. Far from vague speculation, BW was the ...",
+        "profile": {
+          "name": "GovInfo",
+          "url": "https://www.govinfo.gov/content/pkg/CHRG-107shrg75040/html/CHRG-107shrg75040.htm",
+          "long_name": "govinfo.gov",
+          "img": "https://imgs.search.brave.com/Iphd9KmsTFiL4JOZtnifUBDHzdp2RMOwtQ3Ew_x_exk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjQyNTRlMDYx/MWRjMDc1MWNmZDBl/NjEwMzBlZDEwYTdj/Y2FjNGE0YTMwNjc3/MzI5MGUyOGFmM2Zh/OWEyMzdlNC93d3cu/Z292aW5mby5nb3Yv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "govinfo.gov",
+          "hostname": "www.govinfo.gov",
+          "favicon": "https://imgs.search.brave.com/Iphd9KmsTFiL4JOZtnifUBDHzdp2RMOwtQ3Ew_x_exk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjQyNTRlMDYx/MWRjMDc1MWNmZDBl/NjEwMzBlZDEwYTdj/Y2FjNGE0YTMwNjc3/MzI5MGUyOGFmM2Zh/OWEyMzdlNC93d3cu/Z292aW5mby5nb3Yv",
+          "path": "› content  › pkg  › CHRG-107shrg75040  › html  › CHRG-107shrg75040.htm"
+        }
+      },
+      {
+        "title": "Human Rights, Terrorism and Counter-terrorism",
+        "url": "https://www.ohchr.org/Documents/Publications/Factsheet32EN.pdf",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Ongoing Maintenance · <strong>This</strong> site <strong>is</strong> currently unavailable due to <strong>a</strong> scheduled maintenance. We understand <strong>this</strong> may cause some inconvenience and appreciate your patience while we implement improvements · facebook · twitter · youtube · instagram",
+        "profile": {
+          "name": "OHCHR",
+          "url": "https://www.ohchr.org/Documents/Publications/Factsheet32EN.pdf",
+          "long_name": "ohchr.org",
+          "img": "https://imgs.search.brave.com/G799SbSgpEp1VjWgN37OHDtc2_RngMvYtjt0hje_GXg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTUwMDJmMDg1/NjJjNzQ5MzdiZDMz/MTNjZjA2NDkwMjc5/ZjBjMjcxODcyNTFm/N2Q2MDZmODUwMmJh/NmRjMjc4Yy93d3cu/b2hjaHIub3JnLw"
+        },
+        "language": "unk",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ohchr.org",
+          "hostname": "www.ohchr.org",
+          "favicon": "https://imgs.search.brave.com/G799SbSgpEp1VjWgN37OHDtc2_RngMvYtjt0hje_GXg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTUwMDJmMDg1/NjJjNzQ5MzdiZDMz/MTNjZjA2NDkwMjc5/ZjBjMjcxODcyNTFm/N2Q2MDZmODUwMmJh/NmRjMjc4Yy93d3cu/b2hjaHIub3JnLw",
+          "path": "› Documents  › Publications  › Factsheet32EN.pdf"
+        },
+        "content_type": "pdf"
+      },
+      {
+        "title": "NATO - Topic: Countering terrorism",
+        "url": "https://www.nato.int/cps/en/natohq/topics_77646.htm",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Beauty and the Beasts: Why terrorists target history</strong> 20 Dec. 2017 Taking in interviews ranging from the head of UNESCO through to an Afghan smuggler, this documentary looks at the trail of destruction left by terrorist groups in our cultural heritage.",
+        "profile": {
+          "name": "NATO",
+          "url": "https://www.nato.int/cps/en/natohq/topics_77646.htm",
+          "long_name": "nato.int",
+          "img": "https://imgs.search.brave.com/CLowEtDVLj_y1kkzLOoskLz-PhjlkSS-uNtdfX4jU4g/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjk4ZTM2NTk5/MzNlMTRkOWVjY2Q2/ZWEwZDE1YzQ5OGVl/ZDlhOGVlNGRjZmFj/YjQxZTJkY2Q5Yjgy/YWI1MTIyYS93d3cu/bmF0by5pbnQv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "nato.int",
+          "hostname": "www.nato.int",
+          "favicon": "https://imgs.search.brave.com/CLowEtDVLj_y1kkzLOoskLz-PhjlkSS-uNtdfX4jU4g/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjk4ZTM2NTk5/MzNlMTRkOWVjY2Q2/ZWEwZDE1YzQ5OGVl/ZDlhOGVlNGRjZmFj/YjQxZTJkY2Q5Yjgy/YWI1MTIyYS93d3cu/bmF0by5pbnQv",
+          "path": "› cps  › en  › natohq  › topics_77646.htm"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ncoL3XfGMuj-exBzeof2eW7GgrcDqG6RLZg6nQlFSnM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bmF0by5pbnQvbmF0/b19zdGF0aWNfZmwy/MDE0L2Fzc2V0cy9w/aWN0dXJlcy9pbWFn/ZXNfbWZ1LzIwMjIv/OC9zdG9jay8xNzEw/MDljLTAxMHNfcmRh/eF83NzV4NDQwcy5q/cGc",
+          "original": "https://www.nato.int/nato_static_fl2014/assets/pictures/images_mfu/2022/8/stock/171009c-010s_rdax_775x440s.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Media and terrorism",
+        "url": "https://pace.coe.int/files/10914/html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Committee on Culture, Science and Education · Rapporteur: Mr Josef Jařab, Czech Republic, Liberal, Democratic and Reformers’ Group",
+        "profile": {
+          "name": "Parliamentary Assembly of the Council of Europe",
+          "url": "https://pace.coe.int/files/10914/html",
+          "long_name": "pace.coe.int",
+          "img": "https://imgs.search.brave.com/kEfMB7za887wyliQcuVQO5T4AxZB48SMa-O_kJWYc48/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2ZiYTk3M2M4/MzA1NDdmZDhmY2Rl/M2I1NDE3ZjZhZTM2/YmQzOTQwNGQ1OWI0/OGIzOTkyYzA1MGJk/M2Y4YTYyNS9wYWNl/LmNvZS5pbnQv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pace.coe.int",
+          "hostname": "pace.coe.int",
+          "favicon": "https://imgs.search.brave.com/kEfMB7za887wyliQcuVQO5T4AxZB48SMa-O_kJWYc48/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2ZiYTk3M2M4/MzA1NDdmZDhmY2Rl/M2I1NDE3ZjZhZTM2/YmQzOTQwNGQ1OWI0/OGIzOTkyYzA1MGJk/M2Y4YTYyNS9wYWNl/LmNvZS5pbnQv",
+          "path": "› files  › 10914  › html"
+        }
+      },
+      {
+        "title": "Terrorism - Our World in Data",
+        "url": "https://ourworldindata.org/terrorism",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "How common <strong>is</strong> <strong>terrorism</strong>? How does this differ across <strong>countries</strong>? And how is it changing over time? Explore research and data on <strong>terrorism</strong>.",
+        "page_age": "2023-08-30T13:46:12",
+        "profile": {
+          "name": "Our World in Data",
+          "url": "https://ourworldindata.org/terrorism",
+          "long_name": "ourworldindata.org",
+          "img": "https://imgs.search.brave.com/adu2F205n9FiEKa_GBKu_S-2Vybx2lUOQiVzoANW6AQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTY3ODc5OWMx/ODhmYzBhM2QwNWFl/NWJjMzY5OWY3MDhj/OTg1ZDJiZTJhYTBi/Nzg5YjI4ZDVmNjUy/MmMwYWQ5ZC9vdXJ3/b3JsZGluZGF0YS5v/cmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ourworldindata.org",
+          "hostname": "ourworldindata.org",
+          "favicon": "https://imgs.search.brave.com/adu2F205n9FiEKa_GBKu_S-2Vybx2lUOQiVzoANW6AQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTY3ODc5OWMx/ODhmYzBhM2QwNWFl/NWJjMzY5OWY3MDhj/OTg1ZDJiZTJhYTBi/Nzg5YjI4ZDVmNjUy/MmMwYWQ5ZC9vdXJ3/b3JsZGluZGF0YS5v/cmcv",
+          "path": "› terrorism"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Oe6mUMt4300kPVK8jCRqwwR1vRoS1JkgvqCBs0knB0U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vdXJ3/b3JsZGluZGF0YS5v/cmcvY2RuLWNnaS9p/bWFnZWRlbGl2ZXJ5/L3FMcS04QlRnWFU4/eUcwTjZIbk95OGcv/MjU1Y2ZiMjgtZGM5/ZC00YzU1LTk5YTAt/OTQyNmQ1NjliZjAw/L3B1YmxpYw",
+          "original": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/255cfb28-dc9d-4c55-99a0-9426d569bf00/public",
+          "logo": false
+        },
+        "age": "August 30, 2023"
+      },
+      {
+        "title": "Press Conference by the President After Meeting with National Security Officials | whitehouse.gov",
+        "url": "https://obamawhitehouse.archives.gov/the-press-office/2016/08/04/press-conference-president-after-meeting-national-security-officials",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The Pentagon Washington, D.C",
+        "page_age": "2016-08-17T22:10:17",
+        "profile": {
+          "name": "The White House",
+          "url": "https://obamawhitehouse.archives.gov/the-press-office/2016/08/04/press-conference-president-after-meeting-national-security-officials",
+          "long_name": "obamawhitehouse.archives.gov",
+          "img": "https://imgs.search.brave.com/xwvn4xvCChV2M1dZ2ghgcvMcvDdp0NgQatIP1fPXFsU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUwN2I4MDVj/N2ZiYmZjOWQyNTdh/NTU0Mzk2OTY4NGE3/YzFiYzJiNDM1MzY2/NmI3ZjYwNWRiZTZm/Zjk2MWRlNi9vYmFt/YXdoaXRlaG91c2Uu/YXJjaGl2ZXMuZ292/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "obamawhitehouse.archives.gov",
+          "hostname": "obamawhitehouse.archives.gov",
+          "favicon": "https://imgs.search.brave.com/xwvn4xvCChV2M1dZ2ghgcvMcvDdp0NgQatIP1fPXFsU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUwN2I4MDVj/N2ZiYmZjOWQyNTdh/NTU0Mzk2OTY4NGE3/YzFiYzJiNDM1MzY2/NmI3ZjYwNWRiZTZm/Zjk2MWRlNi9vYmFt/YXdoaXRlaG91c2Uu/YXJjaGl2ZXMuZ292/Lw",
+          "path": "› the-press-office  › 2016  › 08  › 04  › press-conference-president-after-meeting-national-security-officials"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/oKaGENoEs2-xFwMWUcr0GRzgvrqsKBv6qEVPoWra_MU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vYmFt/YXdoaXRlaG91c2Uu/YXJjaGl2ZXMuZ292/L3NpdGVzL3doaXRl/aG91c2UuZ292L2Zp/bGVzL2ltYWdlcy90/d2l0dGVyX2NhcmRz/X2RlZmF1bHQuanBn",
+          "original": "https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/images/twitter_cards_default.jpg",
+          "logo": false
+        },
+        "age": "August 17, 2016"
+      },
+      {
+        "title": "The Gaslighting of Parasite - Marginal REVOLUTION",
+        "url": "https://marginalrevolution.com/marginalrevolution/2020/06/the-gaslighting-of-parasite.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "I am late to this but <strong>Parasite</strong>, now available on streaming services, is the most willfully misinterpreted movie that I have ever seen. The conventional interpretation is so obviously wrong that I cannot but think that it is anything but a collective gaslighting.",
+        "page_age": "2020-06-25T17:46:14",
+        "profile": {
+          "name": "Marginal REVOLUTION",
+          "url": "https://marginalrevolution.com/marginalrevolution/2020/06/the-gaslighting-of-parasite.html",
+          "long_name": "marginalrevolution.com",
+          "img": "https://imgs.search.brave.com/meQvRRw3Oq4OLvFaWGmugiHPWk0bDs2lO-cLBiKXRVY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2FiMmFhNzZh/ZjVkNWUxMDBlMGUw/MjVhM2E0MjJkMWI5/NjI0NTNkNGJjMDY5/MzQ1ODJiZWJjYWY5/ZWUzOGU2MC9tYXJn/aW5hbHJldm9sdXRp/b24uY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "marginalrevolution.com",
+          "hostname": "marginalrevolution.com",
+          "favicon": "https://imgs.search.brave.com/meQvRRw3Oq4OLvFaWGmugiHPWk0bDs2lO-cLBiKXRVY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2FiMmFhNzZh/ZjVkNWUxMDBlMGUw/MjVhM2E0MjJkMWI5/NjI0NTNkNGJjMDY5/MzQ1ODJiZWJjYWY5/ZWUzOGU2MC9tYXJn/aW5hbHJldm9sdXRp/b24uY29tLw",
+          "path": "  › home  › the gaslighting of parasite"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ZRMu3rb7oapsZZl2KwQdkjbolXo6BnjNo7TzYNcX7yk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzgxaVFMWnVqcmxM/Ll9TTDE1MDBfLmpw/Zw",
+          "original": "https://images-na.ssl-images-amazon.com/images/I/81iQLZujrlL._SL1500_.jpg",
+          "logo": false
+        },
+        "age": "June 25, 2020"
+      },
+      {
+        "title": "EXAMINING THE DOMESTIC TERRORISM THREAT IN THE WAKE OF THE ATTACK ON THE U.S. CAPITOL | Congress.gov | Library of Congress",
+        "url": "https://www.congress.gov/event/117th-congress/house-event/LC65965/text?q=%7B%22search%22:%5B%22capitol+attack%22%5D%7D&s=1&r=7",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "EXAMINING THE DOMESTIC <strong>TERRORISM</strong> THREAT IN THE WAKE OF THE ATTACK ON THE U.<strong>S</strong>. CAPITOL",
+        "profile": {
+          "name": "Congress.gov",
+          "url": "https://www.congress.gov/event/117th-congress/house-event/LC65965/text?q=%7B%22search%22:%5B%22capitol+attack%22%5D%7D&s=1&r=7",
+          "long_name": "congress.gov",
+          "img": "https://imgs.search.brave.com/mS7dnCOPeGLzMCoM-XU1iV5JNkPmH1pBHj03NwiH39w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTdkYjBjOGVl/YjQ5M2Y0MDA5ZWU5/YzgyZjdlM2YzMGM4/MjJlNTg0YTRiNzdj/YjIwYjJlNjVjYzJm/YjQyZjVkZi93d3cu/Y29uZ3Jlc3MuZ292/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "congress.gov",
+          "hostname": "www.congress.gov",
+          "favicon": "https://imgs.search.brave.com/mS7dnCOPeGLzMCoM-XU1iV5JNkPmH1pBHj03NwiH39w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTdkYjBjOGVl/YjQ5M2Y0MDA5ZWU5/YzgyZjdlM2YzMGM4/MjJlNTg0YTRiNzdj/YjIwYjJlNjVjYzJm/YjQyZjVkZi93d3cu/Y29uZ3Jlc3MuZ292/Lw",
+          "path": "› event  › 117th-congress  › house-event  › LC65965  › text"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/DogelX_OmtOLxE-Xhzvv4_HpqzEzwfXzMJBrcoxoJIs/rs:fit:200:200:1:0/g:ce/aHR0cDovL3d3dy5j/b25ncmVzcy5nb3Yv/ZXZlbnQvMTE3dGgt/Y29uZ3Jlc3MvaG91/c2UtZXZlbnQvTEM2/NTk2NS9pbWcvb3Bl/bmdyYXBoMTIwMGJ5/NjMwLmpwZw",
+          "original": "http://www.congress.gov/event/117th-congress/house-event/LC65965/img/opengraph1200by630.jpg",
+          "logo": false
+        }
+      },
+      {
+        "title": "Country Reports on Terrorism 2019 - United States Department of State",
+        "url": "https://www.state.gov/reports/country-reports-on-terrorism-2019",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Official websites use .gov · Secure .gov websites use HTTPS",
+        "page_age": "2025-03-05T21:31:50",
+        "profile": {
+          "name": "U.S. Department of State",
+          "url": "https://www.state.gov/reports/country-reports-on-terrorism-2019",
+          "long_name": "state.gov",
+          "img": "https://imgs.search.brave.com/mzPqP3uG0zABCenp47PHr6dm38DD1-cAiA05CTC1AJE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzZhYTMxZjZk/ZDY1ZTU2YWQ2NDMw/NjZlNzQ5MTdiMjEx/MjU4MjdhZjczYzcy/YTU0NmI1YTI3ZGJl/YWVkYWM2MS93d3cu/c3RhdGUuZ292Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "state.gov",
+          "hostname": "www.state.gov",
+          "favicon": "https://imgs.search.brave.com/mzPqP3uG0zABCenp47PHr6dm38DD1-cAiA05CTC1AJE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzZhYTMxZjZk/ZDY1ZTU2YWQ2NDMw/NjZlNzQ5MTdiMjEx/MjU4MjdhZjczYzcy/YTU0NmI1YTI3ZGJl/YWVkYWM2MS93d3cu/c3RhdGUuZ292Lw",
+          "path": "› reports  › country-reports-on-terrorism-2019"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/nlV9H-R5h9uiSafKOv92VDKO2taZEULcN8JDiC2vi0k/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/c3RhdGUuZ292L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzA2/LzZfMjJfQ291bnRy/eV9SZXBvcnRzX09u/X1RlcnJvcmlzbV8y/MDE5X1RXXzEuanBn",
+          "original": "https://www.state.gov/wp-content/uploads/2020/06/6_22_Country_Reports_On_Terrorism_2019_TW_1.jpg",
+          "logo": false
+        },
+        "age": "March 5, 2025"
+      },
+      {
+        "title": "Full article: Terrorism in time of the pandemic: exploiting mayhem",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/23779497.2020.1832903",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Despite the overriding media attention to the COVID-19 pandemic and its near-total eclipse of security issues, <strong>the</strong> <strong>terrorism</strong> milieu has hardly taken a pause from its deadly pursuits or suspended th...",
+        "profile": {
+          "name": "Taylor & Francis Online",
+          "url": "https://www.tandfonline.com/doi/full/10.1080/23779497.2020.1832903",
+          "long_name": "tandfonline.com",
+          "img": "https://imgs.search.brave.com/c7W_Kupq5D7KZH6hkMKLLW3AJryuSf2xG5VktcGGNK4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjkyY2E0YjNi/NWQyZmRlZmM0NTFm/MDg1ODliOWQ4NTEw/MWVjYWVmMjdlMWE0/ODc3NzhjYmQ0YWIy/NmY3ODFkMS93d3cu/dGFuZGZvbmxpbmUu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "tandfonline.com",
+          "hostname": "www.tandfonline.com",
+          "favicon": "https://imgs.search.brave.com/c7W_Kupq5D7KZH6hkMKLLW3AJryuSf2xG5VktcGGNK4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjkyY2E0YjNi/NWQyZmRlZmM0NTFm/MDg1ODliOWQ4NTEw/MWVjYWVmMjdlMWE0/ODc3NzhjYmQ0YWIy/NmY3ODFkMS93d3cu/dGFuZGZvbmxpbmUu/Y29tLw",
+          "path": "  › home  › all journals  › politics & international relations  › global security: health, science and policy  › list of issues  › volume 5, issue 1  › terrorism in time of the pandemic: explo ...."
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/n7CECStLg4ybnXPVW1-Re5qeow1tfTGAC8j_2ppWlHY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jb3Zl/cnMudGFuZGYuY28u/dWsvb2cvUkdTSC5w/bmc",
+          "original": "https://covers.tandf.co.uk/og/RGSH.png",
+          "logo": false
+        }
+      },
+      {
+        "title": "Biological Terrorism - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7126662/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A biological <strong>terrorism</strong> event could have a large impact on the general population and health care system. The impact of an infectious disaster will most likely be great to emergency departments, and the collaboration between emergency and infectious ...",
+        "profile": {
+          "name": "PubMed Central",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7126662/",
+          "long_name": "pmc.ncbi.nlm.nih.gov",
+          "img": "https://imgs.search.brave.com/ijTTilvQEc3Szfx0cXONsFmJ4lXSgpFslJywgJ4L93Q/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWE2NGUwNWIy/YjA3YTM4MjEwOWU5/MWUxNzY2NjVjOTdk/YWQ2YTFiNTgxYTcz/YTIxMTVjNzQzMWNi/ZWE2NmZhNC9wbWMu/bmNiaS5ubG0ubmlo/Lmdvdi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pmc.ncbi.nlm.nih.gov",
+          "hostname": "pmc.ncbi.nlm.nih.gov",
+          "favicon": "https://imgs.search.brave.com/ijTTilvQEc3Szfx0cXONsFmJ4lXSgpFslJywgJ4L93Q/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWE2NGUwNWIy/YjA3YTM4MjEwOWU5/MWUxNzY2NjVjOTdk/YWQ2YTFiNTgxYTcz/YTIxMTVjNzQzMWNi/ZWE2NmZhNC9wbWMu/bmNiaS5ubG0ubmlo/Lmdvdi8",
+          "path": "› articles  › PMC7126662"
+        }
+      },
+      {
+        "title": "Going Viral: Implications of COVID-19 for Bioterrorism - Combating Terrorism Center at West Point",
+        "url": "https://ctc.westpoint.edu/going-viral-implications-of-covid-19-for-bioterrorism/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Abstract: COVID-19 has drawn greater attention to the prospect of biological weapons use. But when it comes to bioterrorism, the pandemic probably has not moved the needle much. Although COVID-19 might encourage apocalyptic cults, some radical environmentalists, some extreme right-wing groups, ...",
+        "page_age": "2022-05-26T12:42:47",
+        "profile": {
+          "name": "West Point",
+          "url": "https://ctc.westpoint.edu/going-viral-implications-of-covid-19-for-bioterrorism/",
+          "long_name": "ctc.westpoint.edu",
+          "img": "https://imgs.search.brave.com/0_doLu2Q0jsEIzkdtuD599aYSkjgU5okdplFVgYkA64/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODU1YTU1ODU5/MTMzNDAyMGEyYmRj/YmYwNjU1MTBmYjk1/ZmJmZjJkODZkZjBl/MzMyYTg2OWFiNzM4/NzE0YmViZi9jdGMu/d2VzdHBvaW50LmVk/dS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ctc.westpoint.edu",
+          "hostname": "ctc.westpoint.edu",
+          "favicon": "https://imgs.search.brave.com/0_doLu2Q0jsEIzkdtuD599aYSkjgU5okdplFVgYkA64/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODU1YTU1ODU5/MTMzNDAyMGEyYmRj/YmYwNjU1MTBmYjk1/ZmJmZjJkODZkZjBl/MzMyYTg2OWFiNzM4/NzE0YmViZi9jdGMu/d2VzdHBvaW50LmVk/dS8",
+          "path": "  › home  › going viral: implications of covid-19 for bioterrorism"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/68OT1XPnBLAYA40hve3yCKX_TXYhmw4YkwXI2LaQnqg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jdGMu/d2VzdHBvaW50LmVk/dS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Mi8wNS9DVEMtU0VO/VElORUwtMDUyMDIy/X2NvdmVyLXNjYWxl/ZC5qcGc",
+          "original": "https://ctc.westpoint.edu/wp-content/uploads/2022/05/CTC-SENTINEL-052022_cover-scaled.jpg",
+          "logo": false
+        },
+        "age": "May 26, 2022"
+      },
+      {
+        "title": "Psychology of Terrorism",
+        "url": "https://www.ojp.gov/pdffiles1/nij/grants/208552.pdf",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "OJP is the federal government’<strong>s</strong> leading source of funding and research to strengthen the justice system, support law enforcement, and enhance victim services.",
+        "profile": {
+          "name": "Office of Justice Programs",
+          "url": "https://www.ojp.gov/pdffiles1/nij/grants/208552.pdf",
+          "long_name": "ojp.gov",
+          "img": "https://imgs.search.brave.com/BuGtDYQxfuqf_ADNWTweq1INI7q0Gzj4ihTwm52PJmc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjJjOTFlMDYz/NGE5ZGU1MTUyNGVh/ZDcwZDA4NjZhMjNm/MjIwNmVkOWQ1NDM1/NTljZTFlYTA0ZTA0/MzI5YjY3ZS93d3cu/b2pwLmdvdi8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ojp.gov",
+          "hostname": "www.ojp.gov",
+          "favicon": "https://imgs.search.brave.com/BuGtDYQxfuqf_ADNWTweq1INI7q0Gzj4ihTwm52PJmc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjJjOTFlMDYz/NGE5ZGU1MTUyNGVh/ZDcwZDA4NjZhMjNm/MjIwNmVkOWQ1NDM1/NTljZTFlYTA0ZTA0/MzI5YjY3ZS93d3cu/b2pwLmdvdi8",
+          "path": "› pdffiles1  › nij  › grants  › 208552.pdf"
+        },
+        "content_type": "pdf"
+      }
+    ],
+    "family_friendly": true
+  }
+}
