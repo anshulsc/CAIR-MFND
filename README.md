@@ -1,8 +1,7 @@
-# 🛡️ FND Mini — Agentic Fake News Detection Framework
+# 🛡️ FND— Agentic Fake News Detection Framework
 
-> A fully automated, multi-modal agentic system for detecting fake news using LLMs, custom neural networks, and a robust evidence-gathering pipeline.
 
-**Author**: [Anshul Singh](https://anshulsc.live)
+**Author**: [Anshul Singh](https://anshulsc.github.io)
 
 ---
 
